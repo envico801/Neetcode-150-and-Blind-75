@@ -18,7 +18,7 @@ The order is based on the [roadmap created by neetcode](https://neetcode.io/road
 
 #### Arrays and Hashing
 
-1. [Contains Duplicate (Blind)](https://github.com/envico801/Neetcode-150-and-Blind-75/blob/main/Arrays%20and%20Hashing/Easy/README.md)
+1. [Contains Duplicate (Blind)](./Arrays-and-Hashing/Easy/README.md)
 2. Valid Anagram (Blind)
 3. Two Sum (Blind)
 4. Group Anagrams (Blind)
