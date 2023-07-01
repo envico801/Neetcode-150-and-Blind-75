@@ -2,6 +2,17 @@
 
 📘 Collection of 225 leetcode problems. Includes solutions and quizzes/questions/tests in flashcards format (Anki) to learn patterns/techniques.
 
+## Resources
+
+- [🎁 New Year Gift - Curated List of Top 75 LeetCode Questions to Save Your Time](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
+- [🚀 NeetCode](https://neetcode.io/)
+  - [Practice](https://neetcode.io/practice)
+  - [Roadmap](https://neetcode.io/roadmap)
+  - [Algorithms and Data Structures for Beginners](https://neetcode.io/courses/dsa-for-beginners/13)
+  - [Advanced Algorithms](https://neetcode.io/courses/advanced-algorithms/0)
+- [🥇 Top interview 150 (leetcode)](https://leetcode.com/studyplan/top-interview-150/)
+- [🧩 Leetcode patterns](https://seanprashad.com/leetcode-patterns/)
+
 ## Problems
 
 > Table of problems
