@@ -16,5 +16,5 @@ The questions in this section are designed to help you remember the patterns or 
 
 The order is based on the [roadmap created by neetcode](https://neetcode.io/roadmap)
 
-1. Arrays & Hashing  
-   a. [Contains Duplicate (Blind)](./Arrays-and-Hashing/Easy/README.md)
+1. Arrays and Hashing  
+   a. [Contains Duplicate (Blind)](https://github.com/envico801/Neetcode-150-and-Blind-75/blob/main/Arrays%20and%20Hashing/Easy/README.md)
