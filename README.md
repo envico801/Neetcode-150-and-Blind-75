@@ -17,7 +17,9 @@
 
 ## Problems
 
-> Table of problems
+| #   | Title                                                                   | Solution                                                                             | Time   | Space  | Difficulty |
+| --- | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ------ | ------ | ---------- |
+| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Typescript](./Arrays-and-Hashing/Easy/Contains-Duplicate/Contains-Duplicate-Sol.ts) | _O(n)_ | _O(n)_ | Easy       |
 
 ## Practice questions
 
