@@ -10,7 +10,9 @@
   - [Roadmap](https://neetcode.io/roadmap)
   - [Algorithms and Data Structures for Beginners](https://neetcode.io/courses/dsa-for-beginners/13)
   - [Advanced Algorithms](https://neetcode.io/courses/advanced-algorithms/0)
-- [🥇 Top interview 150 (leetcode)](https://leetcode.com/studyplan/top-interview-150/)
+- [🥇 Leetcode](https://leetcode.com)
+  - [Blind 75 list](https://leetcode.com/list/xi4ci4ig/)
+  - [Top interview 150](https://leetcode.com/studyplan/top-interview-150/)
 - [🧩 Leetcode patterns](https://seanprashad.com/leetcode-patterns/)
 
 ## Problems
