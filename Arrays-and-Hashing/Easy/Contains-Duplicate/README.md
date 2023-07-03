@@ -1,3 +1,7 @@
+# MNAB - Neetcode 150 and blind 75 - multi-author
+
+## Questions
+
 ### Contains Duplicate
 
 Q: How many possible pairs of elements are there in an array of size n?  
@@ -43,3 +47,20 @@ Space complexity: O(1)
 A: **Time complexity: O(n)  
 Space complexity: O(n)**  
 The hashmap solution has a time complexity of O(n) because you need to iterate through the array once. Also, the key lookup operation with hashmaps runs in O(1) time. The space complexity is also O(n) because, in the worst case, you might need to store all n elements in the hashmap.
+
+---
+
+TARGET DECK: Leetcode::Neetcode 150::Arrays and Hashing::Easy::Contains Duplicate
+
+FILE TAGS: Leetcode Array Hash Easy
+
+Tags:
+
+Reference:
+
+Related:
+
+```dataview
+LIST
+where file.name = this.file.name
+```
