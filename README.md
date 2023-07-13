@@ -17,9 +17,10 @@
 
 ## Problems
 
-| #   | Title                                                                   | Solution                                                                             | Time   | Space  | Difficulty |
-| --- | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ------ | ------ | ---------- |
-| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Typescript](./Arrays-and-Hashing/Easy/Contains-Duplicate/Contains-Duplicate-Sol.ts) | _O(n)_ | _O(n)_ | Easy       |
+| #   | Title                                                                     | Solution                                                                             | Time   | Space  | Difficulty |
+| --- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ------ | ------ | ---------- |
+| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)   | [Typescript](./Arrays-and-Hashing/Easy/Contains-Duplicate/Contains-Duplicate-Sol.ts) | _O(n)_ | _O(n)_ | Easy       |
+| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | [Typescript](./Arrays-and-Hashing/Easy/Valid-Anagram/Valid-Anagram-Sol.ts)           | _O(n)_ | _O(n)_ | Easy       |
 
 ## Practice questions
 
