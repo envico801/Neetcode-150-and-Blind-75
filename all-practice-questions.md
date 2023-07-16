@@ -94,6 +94,62 @@
    The time complexity of this solution is O(n) because we iterate over the input strings once. The space complexity is also O(n) because in the worst-case scenario (where each letter is unique), we would need to store each letter in the hashmap.
 
 3. Two Sum (Blind)
+   Q: Roughly how many pairs of integers are there within the array? Assume the size of the array is `n`.  
+   A) log n  
+   B) n  
+   C) n^2  
+   D) 2^n  
+   A: **C) n^2**  
+   There are exactly n \* (n - 1) / 2 distinct pairs of integers in the array. This is equivalent to (n^2 - n) / 2 and we normally care about the largest term, which in this case is n^2.
+
+   Q: How can you find all pairs of elements `x1, x2` within an array, which have a different index?  
+   A) Sorting the array and using binary search to find a pair  
+   B) Using two nested loops to iterate over all pairs of elements  
+   C) Using divide and conquer to recursively find pairs  
+   A: **B) Using two nested loops to iterate over all pairs of elements**  
+   To find all pairs of elements with different indices in the array, you can use two nested loops. The first loop iterates over each element, while the second loop only iterates over the elements to the right of the current element. This allows you to compare all possible pairs without duplicates.
+
+   Q: After finding each pair of elements, we can then easily determine the indices of the elements that sum to the target. What is the time complexity of this brute-force solution?  
+   A) O(n)  
+   B) O(n \* log n)  
+   C) O(n^2)  
+   D) O(2^n)  
+   A: **C) O(n^2)**  
+   The brute-force solution using two nested loops has a time complexity of O(n^2) because for each element in the array, you need to iterate over up to n other elements.
+
+   Q: For any given element `x` within the array, how many possible unique `y-values` would satisfy `target = x + y`?  
+   A) 1  
+   B) 2  
+   C) n - 1  
+   D) n  
+   A: **A) 1**  
+   We can solve this equation for y: y = target - x. For example, if target=9, and x=2, then y = 9 - 2 = 7. In mathematics, this value is known as the complement.
+
+   Q: Can you reduce the time complexity of the algorithm to find the indices of two numbers that add up to the target using a data structure?  
+   A) No, the time complexity cannot be reduced  
+   B) Yes, using a priority queue  
+   C) Yes, using a hashmap  
+   D) Yes, using a balanced binary search tree  
+   A: **C) Yes, using a hashmap**  
+   Yes, you can reduce the time complexity using a hashmap. A hashmap allows you to store and retrieve values in O(1) - constant time, which can help you find the required indices more efficiently than a brute-force solution.
+
+   Q: How can a hashmap be used to efficiently find the indices of two numbers that add up to the target in an array?  
+   A) Key = Index of each element, Value = Difference between the target and the corresponding element;  
+   then for each element check if the difference between the target and the element exists as a value in the hashmap.  
+   B) Key = Each element in the array, Value = The index of the corresponding element;  
+   then for each element check if the difference exists in the hashmap as a key, and that it has a different index from the current element.  
+   A: **B) Key = Each element in the array, Value = The index of the corresponding element;  
+   then for each element check if the difference exists in the hashmap as a key, and that it has a different index from the current element.**  
+   By storing each element in the array as a key and its index as the corresponding value in the hashmap, you can efficiently find the required pair. For each element, you can efficiently calculate the difference and check if it’s a key within the hashmap. If it does, we can get the index from the hashmap. If the index of the difference is different from the index of the current element (remember we are not allowed reuse the same element twice), then you've found the solution.
+
+   Q: What is the time and space complexity of the optimal solution using a hashmap?  
+   A) Time complexity: O(n), Space complexity: O(n)  
+   B) Time complexity: O(n \* log n), Space complexity: O(n)  
+   C) Time complexity: O(n^2), Space complexity: O(1)  
+   D) Time complexity: O(n), Space complexity: O(1)  
+   A: **A) Time complexity: O(n), Space complexity: O(n)**  
+   The hashmap solution has a time complexity of O(n) because you need to iterate through the array once. Also, the key lookup operation with hashmaps runs in O(1) time. The space complexity is also O(n) because, in the worst case, you might need to store all n elements in the hashmap.
+
 4. Group Anagrams (Blind)
 5. Top K Frequent Elements (Blind)
 6. Product of Array Except Self (Blind)
