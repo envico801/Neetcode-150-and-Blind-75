@@ -11,6 +11,13 @@
 | [3](#id3) | [Given an integer array nums return tru](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20and%20Hashing/Chapter%201%20-%20Contains%20Duplicate%20Blind/3%20-%20Given%20an%20integer%20array%20nums%20return%20tru.md) | 1 | 1 |
 | [4](#id4) | [Given an integer array nums return tru](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20and%20Hashing/Chapter%201%20-%20Contains%20Duplicate%20Blind/4%20-%20Given%20an%20integer%20array%20nums%20return%20tru.md) | 1 | 1 |
 | [5](#id5) | [Given an integer array nums return tru](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20and%20Hashing/Chapter%201%20-%20Contains%20Duplicate%20Blind/5%20-%20Given%20an%20integer%20array%20nums%20return%20tru.md) | 1 | 1 |
+| **-** | **Arrays and Hashing > Valid Anagram Blind** | **1** | **2** |
+| [6](#id6) | [Given two strings s and t return tru](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20and%20Hashing/Chapter%202%20-%20Valid%20Anagram%20Blind/6%20-%20Given%20two%20strings%20s%20and%20t%20return%20tru.md) | 1 | 2 |
+| [7](#id7) | [Given two strings s and t return tru](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20and%20Hashing/Chapter%202%20-%20Valid%20Anagram%20Blind/7%20-%20Given%20two%20strings%20s%20and%20t%20return%20tru.md) | 1 | 2 |
+| [8](#id8) | [Given two strings s and t return tru](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20and%20Hashing/Chapter%202%20-%20Valid%20Anagram%20Blind/8%20-%20Given%20two%20strings%20s%20and%20t%20return%20tru.md) | 1 | 2 |
+| [9](#id9) | [Given two strings s and t return tru](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20and%20Hashing/Chapter%202%20-%20Valid%20Anagram%20Blind/9%20-%20Given%20two%20strings%20s%20and%20t%20return%20tru.md) | 1 | 2 |
+| [10](#id10) | [Given two strings s and t return tru](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20and%20Hashing/Chapter%202%20-%20Valid%20Anagram%20Blind/10%20-%20Given%20two%20strings%20s%20and%20t%20return%20tru.md) | 1 | 2 |
+| [11](#id11) | [Given two strings s and t return tru](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20and%20Hashing/Chapter%202%20-%20Valid%20Anagram%20Blind/11%20-%20Given%20two%20strings%20s%20and%20t%20return%20tru.md) | 1 | 2 |
 
 ### Part I - Arrays and Hashing
 
@@ -229,6 +236,264 @@ A:: =============================================
 The hashmap solution has a time complexity of O(n) because you need to iterate through the array once. Also, the key lookup operation with hashmaps runs in O(1) time. The space complexity is also O(n) because, in the worst case, you might need to store all n elements in the hashmap.
 
 #### Chapter 2 - Valid Anagram (Blind)
+
+Q:: =============================================  
+
+##### Given two strings `s` and `t`, return `true` _if `t` is an anagram of `s`, and `false` otherwise_.
+
+An **Anagram** is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once.
+
+**Example 1:**
+
+```
+Input: s = "anagram", t = "nagaram"
+Output: true
+```
+
+**Example 2:**
+
+```
+Input: s = "rat", t = "car"
+Output: false
+```
+
+**Constraints:**
+
+-   `1 <= s.length, t.length <= 5 * 10^4`
+-   `s` and `t` consist of lowercase English letters.
+
+___
+
+What is the primary characteristic of an anagram?
+
+A) Both words have the same length.
+
+B) Both words have the same letters, in the same quantities.
+
+C) Both words have the same first letter.
+
+D) Both words have the same last letter.
+
+###### ID6
+
+A:: =============================================  
+**Answer**: B
+
+An anagram is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once. This means both words have the same letters, in the same quantities. For example, 'Heart' is an anagram of 'Earth'.
+
+Q:: =============================================  
+
+##### Given two strings `s` and `t`, return `true` _if `t` is an anagram of `s`, and `false` otherwise_.
+
+An **Anagram** is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once.
+
+**Example 1:**
+
+```
+Input: s = "anagram", t = "nagaram"
+Output: true
+```
+
+**Example 2:**
+
+```
+Input: s = "rat", t = "car"
+Output: false
+```
+
+**Constraints:**
+
+-   `1 <= s.length, t.length <= 5 * 10^4`
+-   `s` and `t` consist of lowercase English letters.
+
+___
+
+Given the nature of anagrams, which of the following methods can be used to check if two words are anagrams?
+
+A) Compare the lengths of two words. If they are equal, the words are anagrams.
+
+B) Convert each word to an array, sort the arrays, and then compare them.
+
+C) Check if the first letter of the first word is present in the second word.
+
+###### ID7
+
+A:: =============================================  
+**Answer**: B
+
+By converting each word to an array, sorting the arrays, and then comparing them, we can confirm if two words are anagrams. This is because anagrams have the same letters in the same quantities. For example, after sorting either 'heart' and 'earth', the result is 'aehrt'.
+
+Q:: =============================================  
+
+##### Given two strings `s` and `t`, return `true` _if `t` is an anagram of `s`, and `false` otherwise_.
+
+An **Anagram** is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once.
+
+**Example 1:**
+
+```
+Input: s = "anagram", t = "nagaram"
+Output: true
+```
+
+**Example 2:**
+
+```
+Input: s = "rat", t = "car"
+Output: false
+```
+
+**Constraints:**
+
+-   `1 <= s.length, t.length <= 5 * 10^4`
+-   `s` and `t` consist of lowercase English letters.
+
+___
+
+What is the time complexity of the solution that sorts and then compares the arrays? Note: We are using an efficient sorting algorithm where we can't make any assumptions about the character set.
+
+A) O(n)
+
+B) O(n log n)
+
+C) O(n^2)
+
+D) O(2^n)
+
+###### ID8
+
+A:: =============================================  
+**Answer**: B
+
+The time complexity of sorting an array of n elements is O(n log n), and the time complexity of comparing two arrays is O(n). When considering the largest term, the time complexity of the solution becomes O(n log n).
+
+Q:: =============================================  
+
+##### Given two strings `s` and `t`, return `true` _if `t` is an anagram of `s`, and `false` otherwise_.
+
+An **Anagram** is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once.
+
+**Example 1:**
+
+```
+Input: s = "anagram", t = "nagaram"
+Output: true
+```
+
+**Example 2:**
+
+```
+Input: s = "rat", t = "car"
+Output: false
+```
+
+**Constraints:**
+
+-   `1 <= s.length, t.length <= 5 * 10^4`
+-   `s` and `t` consist of lowercase English letters.
+
+___
+
+Given the nature of anagrams and the constraints of the problem, can you improve upon the overall time complexity of the sorting solution?
+
+A) No, sorting and comparing is the most optimal solution.
+
+B) Yes, by using a hashmap to store the count of letters.
+
+C) Yes, by checking if the first and last letter of both words are the same.
+
+###### ID9
+
+A:: =============================================  
+**Answer**: B
+
+Given the constraints of the problem and the nature of anagrams, we can use a hashmap to store the count of letters for each string. This would allow us to compare the frequency of each letter in both strings in a more time-efficient way. The downside is we may need extra memory, compared to an in-place sorting algorithm.
+
+Q:: =============================================  
+
+##### Given two strings `s` and `t`, return `true` _if `t` is an anagram of `s`, and `false` otherwise_.
+
+An **Anagram** is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once.
+
+**Example 1:**
+
+```
+Input: s = "anagram", t = "nagaram"
+Output: true
+```
+
+**Example 2:**
+
+```
+Input: s = "rat", t = "car"
+Output: false
+```
+
+**Constraints:**
+
+-   `1 <= s.length, t.length <= 5 * 10^4`
+-   `s` and `t` consist of lowercase English letters.
+
+___
+
+If using a hashmap to check if two words are anagrams, what would be the keys and the values in the hashmap?
+
+A) Keys = Words, Values = Count of each word
+
+B) Keys = Letters, Values = Count of each letter
+
+C) Keys = Length of words, Values = Words of that length
+
+###### ID10
+
+A:: =============================================  
+**Answer**: B
+
+In this case, the keys would be the letters, and the values would be the count of each letter. This way, we can track the frequency of each letter in the strings and compare them.
+
+Q:: =============================================  
+
+##### Given two strings `s` and `t`, return `true` _if `t` is an anagram of `s`, and `false` otherwise_.
+
+An **Anagram** is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once.
+
+**Example 1:**
+
+```
+Input: s = "anagram", t = "nagaram"
+Output: true
+```
+
+**Example 2:**
+
+```
+Input: s = "rat", t = "car"
+Output: false
+```
+
+**Constraints:**
+
+-   `1 <= s.length, t.length <= 5 * 10^4`
+-   `s` and `t` consist of lowercase English letters.
+
+___
+
+What is the time and space complexity of the solution using a hashmap to count and compare the frequency of each letter?
+
+A) Time complexity: O(n), Space complexity: O(n)
+
+B) Time complexity: O(n log n), Space complexity: O(n)
+
+C) Time complexity: O(n^2), Space complexity: O(1)
+
+D) Time complexity: O(n), Space complexity: O(1)
+
+###### ID11
+
+A:: =============================================  
+**Answer**: A
+
+The time complexity of this solution is O(n) because we iterate over the input strings once. The space complexity is also O(n) because in the worst-case scenario (where each letter is unique), we would need to store each letter in the hashmap.
 
 #### Chapter 3 - Two Sum (Blind)
 
