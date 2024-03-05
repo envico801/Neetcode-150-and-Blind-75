@@ -26,6 +26,11 @@
 | [16](#id16) | [Given an array of integers nums and an i](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20and%20Hashing/Chapter%203%20-%20Two%20Sum%20Blind/16%20-%20Given%20an%20array%20of%20integers%20nums%20and%20an%20i.md) | 1 | 3 |
 | [17](#id17) | [Given an array of integers nums and an i](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20and%20Hashing/Chapter%203%20-%20Two%20Sum%20Blind/17%20-%20Given%20an%20array%20of%20integers%20nums%20and%20an%20i.md) | 1 | 3 |
 | [18](#id18) | [Given an array of integers nums and an i](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20and%20Hashing/Chapter%203%20-%20Two%20Sum%20Blind/18%20-%20Given%20an%20array%20of%20integers%20nums%20and%20an%20i.md) | 1 | 3 |
+| **-** | **Arrays and Hashing > Encode and Decode Strings Blind** | **1** | **8** |
+| [19](#id19) | [Design an algorithm to encode a list of](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20and%20Hashing/Chapter%208%20-%20Encode%20and%20Decode%20Strings%20Blind/19%20-%20Design%20an%20algorithm%20to%20encode%20a%20list%20of.md) | 1 | 8 |
+| [20](#id20) | [Design an algorithm to encode a list of](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20and%20Hashing/Chapter%208%20-%20Encode%20and%20Decode%20Strings%20Blind/20%20-%20Design%20an%20algorithm%20to%20encode%20a%20list%20of.md) | 1 | 8 |
+| [21](#id21) | [Design an algorithm to encode a list of](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20and%20Hashing/Chapter%208%20-%20Encode%20and%20Decode%20Strings%20Blind/21%20-%20Design%20an%20algorithm%20to%20encode%20a%20list%20of.md) | 1 | 8 |
+| [22](#id22) | [Design an algorithm to encode a list of](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20and%20Hashing/Chapter%208%20-%20Encode%20and%20Decode%20Strings%20Blind/22%20-%20Design%20an%20algorithm%20to%20encode%20a%20list%20of.md) | 1 | 8 |
 
 ### Part I - Arrays and Hashing
 
@@ -755,6 +760,236 @@ The hashmap solution has a time complexity of O(n) because you need to iterate t
 #### Chapter 7 - Valid Sudoku
 
 #### Chapter 8 - Encode and Decode Strings (Blind)
+
+
+Q:: =============================================  
+
+##### Design an algorithm to encode **a list of strings** to **a string**. The encoded string is then sent over the network and is decoded back to the original list of strings.
+
+Please implement `encode` and `decode`
+
+**Example1**
+
+```
+Input: dummy_input = ["Hello", "World"]
+Output: ["Hello", "World"]
+Explanation:
+Machine 1:
+Codec encoder = new Codec();
+String msg = encoder.encode(strs);
+Machine 1 ---msg---&gt; Machine 2
+
+Machine 2:
+Codec decoder = new Codec();
+String[] strs = decoder.decode(msg);
+```
+
+**Example2**
+
+```
+Input: dummy_input = [""]
+Output: [""]
+```
+
+**Constraints:**
+
+-   `1 <= strs.length <= 200`
+-   `0 <= strs[i].length <= 200`
+-   `strs[i] contains any possible characters out of 256 valid ASCII characters`
+
+___
+
+Given the constraint that `strs[i]` can contain any valid ASCII characters, including special ones, which encoding strategy should we use to ensure that our encoded message can be correctly decoded?
+
+A) Separate strings in strs using a special character, such as a comma or a space.
+
+B) Use a length-prefix followed by a special character for each string in strs.
+
+C) Concatenate all the strings in strs directly.
+
+###### ID19
+
+A:: =============================================  
+**Answer**: B
+
+If we use a special character to separate the strings, it could be a problem if the string itself contains this special character. If we concatenate the strings directly, we can't distinguish where one string ends and another begins. Therefore, prefixing each string with its length followed by a special character allows us to correctly separate the strings during decoding, even if they contain special characters.
+
+Q:: =============================================  
+
+##### Design an algorithm to encode **a list of strings** to **a string**. The encoded string is then sent over the network and is decoded back to the original list of strings.
+
+Please implement `encode` and `decode`
+
+**Example1**
+
+```
+Input: dummy_input = ["Hello", "World"]
+Output: ["Hello", "World"]
+Explanation:
+Machine 1:
+Codec encoder = new Codec();
+String msg = encoder.encode(strs);
+Machine 1 ---msg---&gt; Machine 2
+
+Machine 2:
+Codec decoder = new Codec();
+String[] strs = decoder.decode(msg);
+```
+
+**Example2**
+
+```
+Input: dummy_input = [""]
+Output: [""]
+```
+
+**Constraints:**
+
+-   `1 <= strs.length <= 200`
+-   `0 <= strs[i].length <= 200`
+-   `strs[i] contains any possible characters out of 256 valid ASCII characters`
+
+___
+
+What should the prefix look like to make the encoding efficient?
+
+A) Prefix each string with the length of the entire list strs.
+
+B) Prefix each string with its individual length followed by a delimiter.
+
+C) Prefix each string with the sum of the lengths of all previous strings.
+
+###### ID20
+
+A:: =============================================  
+**Answer**: B
+
+Prefixing each string with its own length allows us to know exactly where each string starts and ends in the encoded string, which simplifies the decoding process.
+
+Q:: =============================================  
+
+##### Design an algorithm to encode **a list of strings** to **a string**. The encoded string is then sent over the network and is decoded back to the original list of strings.
+
+Please implement `encode` and `decode`
+
+**Example1**
+
+```
+Input: dummy_input = ["Hello", "World"]
+Output: ["Hello", "World"]
+Explanation:
+Machine 1:
+Codec encoder = new Codec();
+String msg = encoder.encode(strs);
+Machine 1 ---msg---&gt; Machine 2
+
+Machine 2:
+Codec decoder = new Codec();
+String[] strs = decoder.decode(msg);
+```
+
+**Example2**
+
+```
+Input: dummy_input = [""]
+Output: [""]
+```
+
+**Constraints:**
+
+-   `1 <= strs.length <= 200`
+-   `0 <= strs[i].length <= 200`
+-   `strs[i] contains any possible characters out of 256 valid ASCII characters`
+
+___
+
+What should be the delimiter between the length prefix and the actual string content?
+
+A) The delimiter can be any character, as it is not important for decoding.
+
+B) The delimiter should be a character that is not allowed in the strings.
+
+C) The delimiter should be a non-integer character.
+
+###### ID21
+
+A:: =============================================  
+**Answer**: C
+
+If the delimiter is a number, it could lead to confusion during decoding. Hence, we need to choose a delimiter that cannot be part of the prefix.
+
+Q:: =============================================  
+
+##### Design an algorithm to encode **a list of strings** to **a string**. The encoded string is then sent over the network and is decoded back to the original list of strings.
+
+Please implement `encode` and `decode`
+
+**Example1**
+
+```
+Input: dummy_input = ["Hello", "World"]
+Output: ["Hello", "World"]
+Explanation:
+Machine 1:
+Codec encoder = new Codec();
+String msg = encoder.encode(strs);
+Machine 1 ---msg---&gt; Machine 2
+
+Machine 2:
+Codec decoder = new Codec();
+String[] strs = decoder.decode(msg);
+```
+
+**Example2**
+
+```
+Input: dummy_input = [""]
+Output: [""]
+```
+
+**Constraints:**
+
+-   `1 <= strs.length <= 200`
+-   `0 <= strs[i].length <= 200`
+-   `strs[i] contains any possible characters out of 256 valid ASCII characters`
+
+___
+
+We can implement the encode and decode methods using `#` as the delimiter, as follow. What is the time and space complexity of the encode and decode methods? Assume `n` is the total length of the string.
+
+
+```python
+class Codec:
+    def encode(self, strs: List[str]) -> str:
+        res = ""
+        for s in strs:
+            res += str(len(s)) + "#" + s
+        return res
+
+    def decode(self, s: str) -> List[str]:
+        res, i = [], 0
+        while i < len(s):
+            j = i
+            while s[j] != "#":
+                j += 1
+            length = int(s[i:j])
+            res.append(s[j + 1: j + 1 + length])
+            i = j + 1 + length
+        return res
+```
+
+A) Time complexity: O(n), Space complexity: O(n)
+
+B) Time complexity: O(n^2), Space complexity: O(n)
+
+C) Time complexity: O(n log n), Space complexity: O(n)
+
+###### ID22
+
+A:: =============================================  
+**Answer**: A
+
+The overall time complexity of the solution is determined by the number of characters in the strings list (strs). We iterate over all characters twice: once when encoding and once when decoding. Therefore, the time complexity is linear. The space complexity is also linear because the encoded string has the same number of characters as the original strings list plus the length of each string and a colon for each string.
 
 #### Chapter 9 - Longest Consecutive Sequence (Blind)
 
