@@ -18,6 +18,14 @@
 | [9](#id9) | [Given two strings s and t return tru](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20and%20Hashing/Chapter%202%20-%20Valid%20Anagram%20Blind/9%20-%20Given%20two%20strings%20s%20and%20t%20return%20tru.md) | 1 | 2 |
 | [10](#id10) | [Given two strings s and t return tru](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20and%20Hashing/Chapter%202%20-%20Valid%20Anagram%20Blind/10%20-%20Given%20two%20strings%20s%20and%20t%20return%20tru.md) | 1 | 2 |
 | [11](#id11) | [Given two strings s and t return tru](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20and%20Hashing/Chapter%202%20-%20Valid%20Anagram%20Blind/11%20-%20Given%20two%20strings%20s%20and%20t%20return%20tru.md) | 1 | 2 |
+| **-** | **Arrays and Hashing > Two Sum Blind** | **1** | **3** |
+| [12](#id12) | [Given an array of integers nums and an i](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20and%20Hashing/Chapter%203%20-%20Two%20Sum%20Blind/12%20-%20Given%20an%20array%20of%20integers%20nums%20and%20an%20i.md) | 1 | 3 |
+| [13](#id13) | [Given an array of integers nums and an i](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20and%20Hashing/Chapter%203%20-%20Two%20Sum%20Blind/13%20-%20Given%20an%20array%20of%20integers%20nums%20and%20an%20i.md) | 1 | 3 |
+| [14](#id14) | [Given an array of integers nums and an i](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20and%20Hashing/Chapter%203%20-%20Two%20Sum%20Blind/14%20-%20Given%20an%20array%20of%20integers%20nums%20and%20an%20i.md) | 1 | 3 |
+| [15](#id15) | [Given an array of integers nums and an i](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20and%20Hashing/Chapter%203%20-%20Two%20Sum%20Blind/15%20-%20Given%20an%20array%20of%20integers%20nums%20and%20an%20i.md) | 1 | 3 |
+| [16](#id16) | [Given an array of integers nums and an i](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20and%20Hashing/Chapter%203%20-%20Two%20Sum%20Blind/16%20-%20Given%20an%20array%20of%20integers%20nums%20and%20an%20i.md) | 1 | 3 |
+| [17](#id17) | [Given an array of integers nums and an i](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20and%20Hashing/Chapter%203%20-%20Two%20Sum%20Blind/17%20-%20Given%20an%20array%20of%20integers%20nums%20and%20an%20i.md) | 1 | 3 |
+| [18](#id18) | [Given an array of integers nums and an i](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20and%20Hashing/Chapter%203%20-%20Two%20Sum%20Blind/18%20-%20Given%20an%20array%20of%20integers%20nums%20and%20an%20i.md) | 1 | 3 |
 
 ### Part I - Arrays and Hashing
 
@@ -496,6 +504,247 @@ A:: =============================================
 The time complexity of this solution is O(n) because we iterate over the input strings once. The space complexity is also O(n) because in the worst-case scenario (where each letter is unique), we would need to store each letter in the hashmap.
 
 #### Chapter 3 - Two Sum (Blind)
+
+Q:: =============================================  
+
+##### Given an array of integers `nums` and an integer `target`, _return indices of the two numbers such that they add up to `target`_.
+
+You may assume that each input would have **exactly one solution**, and you may not use the same element twice.
+
+You can return the answer in any order.
+
+Example 1:
+
+```
+Input: nums = [2,7,11,15], target = 9
+Output: [0,1]
+Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
+```
+
+___
+
+Roughly how many pairs of integers are there within the array? Assume the size of the array is `n`.
+
+A) log n
+
+B) n
+
+C) n^2
+
+D) 2^n
+
+###### ID12
+
+A:: =============================================  
+**Answer**: C
+
+There are exactly n \* (n - 1) / 2 distinct pairs of integers in the array. This is equivalent to (n^2 - n) / 2 and we normally care about the largest term, which in this case is n^2.
+
+Q:: =============================================  
+
+##### Given an array of integers `nums` and an integer `target`, _return indices of the two numbers such that they add up to `target`_.
+
+You may assume that each input would have **exactly one solution**, and you may not use the same element twice.
+
+You can return the answer in any order.
+
+Example 1:
+
+```
+Input: nums = [2,7,11,15], target = 9
+Output: [0,1]
+Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
+```
+
+___
+
+How can you find all pairs of elements `x1, x2` within an array, which have a different index?
+
+A) Sorting the array and using binary search to find a pair
+
+B) Using two nested loops to iterate over all pairs of elements
+
+C) Using divide and conquer to recursively find pairs
+
+###### ID13
+
+A:: =============================================  
+**Answer**: B
+
+To find all pairs of elements with different indices in the array, you can use two nested loops. The first loop iterates over each element, while the second loop only iterates over the elements to the right of the current element. This allows you to compare all possible pairs without duplicates.
+
+Q:: =============================================  
+
+##### Given an array of integers `nums` and an integer `target`, _return indices of the two numbers such that they add up to `target`_.
+
+You may assume that each input would have **exactly one solution**, and you may not use the same element twice.
+
+You can return the answer in any order.
+
+Example 1:
+
+```
+Input: nums = [2,7,11,15], target = 9
+Output: [0,1]
+Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
+```
+
+___
+
+After finding each pair of elements, we can then easily determine the indices of the elements that sum to the target. What is the time complexity of this brute-force solution?
+
+A) O(n)
+
+B) O(n \* log n)
+
+C) O(n^2)
+
+D) O(2^n)
+
+###### ID14
+
+A:: =============================================  
+**Answer**: C
+
+The brute-force solution using two nested loops has a time complexity of O(n^2) because for each element in the array, you need to iterate over up to n other elements.
+
+Q:: =============================================  
+
+##### Given an array of integers `nums` and an integer `target`, _return indices of the two numbers such that they add up to `target`_.
+
+You may assume that each input would have **exactly one solution**, and you may not use the same element twice.
+
+You can return the answer in any order.
+
+Example 1:
+
+```
+Input: nums = [2,7,11,15], target = 9
+Output: [0,1]
+Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
+```
+
+___
+
+For any given element `x` within the array, how many possible unique `y-values` would satisfy `target = x + y`?
+
+A) 1
+
+B) 2
+
+C) n - 1
+
+D) n
+
+###### ID15
+
+A:: =============================================  
+**Answer**: A
+
+We can solve this equation for y: y = target - x. For example, if target=9, and x=2, then y = 9 - 2 = 7. In mathematics, this value is known as the complement.
+
+Q:: =============================================  
+
+##### Given an array of integers `nums` and an integer `target`, _return indices of the two numbers such that they add up to `target`_.
+
+You may assume that each input would have **exactly one solution**, and you may not use the same element twice.
+
+You can return the answer in any order.
+
+Example 1:
+
+```
+Input: nums = [2,7,11,15], target = 9
+Output: [0,1]
+Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
+```
+
+___
+
+Can you reduce the time complexity of the algorithm to find the indices of two numbers that add up to the target using a data structure?
+
+A) No, the time complexity cannot be reduced
+
+B) Yes, using a priority queue
+
+C) Yes, using a hashmap
+
+D) Yes, using a balanced binary search tree
+
+###### ID16
+
+A:: =============================================  
+**Answer**: C
+
+Yes, you can reduce the time complexity using a hashmap. A hashmap allows you to store and retrieve values in O(1) - constant time, which can help you find the required indices more efficiently than a brute-force solution.
+
+Q:: =============================================  
+
+##### Given an array of integers `nums` and an integer `target`, _return indices of the two numbers such that they add up to `target`_.
+
+You may assume that each input would have **exactly one solution**, and you may not use the same element twice.
+
+You can return the answer in any order.
+
+Example 1:
+
+```
+Input: nums = [2,7,11,15], target = 9
+Output: [0,1]
+Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
+```
+
+___
+
+How can a hashmap be used to efficiently find the indices of two numbers that add up to the target in an array?
+
+A) Key = Index of each element, Value = Difference between the target and the corresponding element;  
+then for each element check if the difference between the target and the element exists as a value in the hashmap.
+
+B) Key = Each element in the array, Value = The index of the corresponding element;  
+then for each element check if the difference exists in the hashmap as a key, and that it has a different index from the current element.
+
+###### ID17
+
+A:: =============================================  
+**Answer**: B
+
+By storing each element in the array as a key and its index as the corresponding value in the hashmap, you can efficiently find the required pair. For each element, you can efficiently calculate the difference and check if it’s a key within the hashmap. If it does, we can get the index from the hashmap. If the index of the difference is different from the index of the current element (remember we are not allowed reuse the same element twice), then you've found the solution.
+
+Q:: =============================================  
+
+##### Given an array of integers `nums` and an integer `target`, _return indices of the two numbers such that they add up to `target`_.
+
+You may assume that each input would have **exactly one solution**, and you may not use the same element twice.
+
+You can return the answer in any order.
+
+Example 1:
+
+```
+Input: nums = [2,7,11,15], target = 9
+Output: [0,1]
+Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
+```
+
+___
+
+What is the time and space complexity of the optimal solution using a hashmap?
+
+A) Time complexity: O(n), Space complexity: O(n)
+
+B) Time complexity: O(n \* log n), Space complexity: O(n)
+
+C) Time complexity: O(n^2), Space complexity: O(1)
+
+D) Time complexity: O(n), Space complexity: O(1)
+
+###### ID18
+
+A:: =============================================  
+**Answer**: A
+
+The hashmap solution has a time complexity of O(n) because you need to iterate through the array once. Also, the key lookup operation with hashmaps runs in O(1) time. The space complexity is also O(n) because, in the worst case, you might need to store all n elements in the hashmap.
 
 #### Chapter 4 - Group Anagrams (Blind)
 
