@@ -31,6 +31,13 @@
 | [20](#id20) | [Design an algorithm to encode a list of](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20and%20Hashing/Chapter%208%20-%20Encode%20and%20Decode%20Strings%20Blind/20%20-%20Design%20an%20algorithm%20to%20encode%20a%20list%20of.md) | 1 | 8 |
 | [21](#id21) | [Design an algorithm to encode a list of](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20and%20Hashing/Chapter%208%20-%20Encode%20and%20Decode%20Strings%20Blind/21%20-%20Design%20an%20algorithm%20to%20encode%20a%20list%20of.md) | 1 | 8 |
 | [22](#id22) | [Design an algorithm to encode a list of](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20and%20Hashing/Chapter%208%20-%20Encode%20and%20Decode%20Strings%20Blind/22%20-%20Design%20an%20algorithm%20to%20encode%20a%20list%20of.md) | 1 | 8 |
+| **-** | **Arrays and Hashing > Longest Consecutive Sequence Blind** | **1** | **9** |
+| [23](#id23) | [Given an unsorted array of integers nums](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20and%20Hashing/Chapter%209%20-%20Longest%20Consecutive%20Sequence%20Blind/23%20-%20Given%20an%20unsorted%20array%20of%20integers%20nums.md) | 1 | 9 |
+| [24](#id24) | [Given an unsorted array of integers nums](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20and%20Hashing/Chapter%209%20-%20Longest%20Consecutive%20Sequence%20Blind/24%20-%20Given%20an%20unsorted%20array%20of%20integers%20nums.md) | 1 | 9 |
+| [25](#id25) | [Given an unsorted array of integers nums](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20and%20Hashing/Chapter%209%20-%20Longest%20Consecutive%20Sequence%20Blind/25%20-%20Given%20an%20unsorted%20array%20of%20integers%20nums.md) | 1 | 9 |
+| [26](#id26) | [Given an unsorted array of integers nums](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20and%20Hashing/Chapter%209%20-%20Longest%20Consecutive%20Sequence%20Blind/26%20-%20Given%20an%20unsorted%20array%20of%20integers%20nums.md) | 1 | 9 |
+| [27](#id27) | [Given an unsorted array of integers nums](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20and%20Hashing/Chapter%209%20-%20Longest%20Consecutive%20Sequence%20Blind/27%20-%20Given%20an%20unsorted%20array%20of%20integers%20nums.md) | 1 | 9 |
+| [28](#id28) | [Given an unsorted array of integers nums](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20and%20Hashing/Chapter%209%20-%20Longest%20Consecutive%20Sequence%20Blind/28%20-%20Given%20an%20unsorted%20array%20of%20integers%20nums.md) | 1 | 9 |
 
 ### Part I - Arrays and Hashing
 
@@ -992,6 +999,230 @@ A:: =============================================
 The overall time complexity of the solution is determined by the number of characters in the strings list (strs). We iterate over all characters twice: once when encoding and once when decoding. Therefore, the time complexity is linear. The space complexity is also linear because the encoded string has the same number of characters as the original strings list plus the length of each string and a colon for each string.
 
 #### Chapter 9 - Longest Consecutive Sequence (Blind)
+
+Q:: =============================================  
+
+##### Given an unsorted array of integers `nums`, return the _length of the longest consecutive elements sequence_.
+
+You must write an algorithm that runs in `O(n)` time.
+
+**Example 1:**
+
+```
+Input: nums = [100,4,200,1,3,2]
+Output: 4
+Explanation: The longest consecutive elements sequence is [1, 2, 3, 4]. Therefore its length is 4.
+```
+
+**Constraints:**
+
+-   `0 <= nums.length <= 10^5`
+-   `-10^9 <= nums[i] <= 10^9`
+
+___
+
+For a given array of integers, what is the time complexity of finding the length of the longest consecutive sequence using sorting?
+
+A) O(n)
+
+B) O(n log n)
+
+C) O(n^2)
+
+D) O(2^n)
+
+###### ID23
+
+A:: =============================================  
+**Answer**: B
+
+Sorting an array generally takes O(n log n) time. Once the array is sorted, you could iterate through the array once to find the longest consecutive sequence, which would take O(n) time. However, the dominating factor is the sorting time complexity, thus the overall time complexity is O(n log n).
+
+Q:: =============================================  
+
+##### Given an unsorted array of integers `nums`, return the _length of the longest consecutive elements sequence_.
+
+You must write an algorithm that runs in `O(n)` time.
+
+**Example 1:**
+
+```
+Input: nums = [100,4,200,1,3,2]
+Output: 4
+Explanation: The longest consecutive elements sequence is [1, 2, 3, 4]. Therefore its length is 4.
+```
+
+**Constraints:**
+
+-   `0 <= nums.length <= 10^5`
+-   `-10^9 <= nums[i] <= 10^9`
+
+___
+
+Suppose we are counting the length of a sequence starting at an arbitrary value, say `n = 1.` To extend this sequence, we need to efficiently check for the existence of the next integer `(n + 1)`, regardless of its index in the original array. Which data structure would best serve this purpose?
+
+A) Priority Queue
+
+B) HashSet
+
+C) Binary Search Tree
+
+D) Array
+
+###### ID24
+
+A:: =============================================  
+**Answer**: B
+
+A HashSet can be used to efficiently check the existence of elements in O(1) average time complexity. When extending a sequence, this property is essential, allowing us to determine if the next integer (n + 1) exists in the original array, regardless of its position.
+
+Q:: =============================================  
+
+##### Given an unsorted array of integers `nums`, return the _length of the longest consecutive elements sequence_.
+
+You must write an algorithm that runs in `O(n)` time.
+
+**Example 1:**
+
+```
+Input: nums = [100,4,200,1,3,2]
+Output: 4
+Explanation: The longest consecutive elements sequence is [1, 2, 3, 4]. Therefore its length is 4.
+```
+
+**Constraints:**
+
+-   `0 <= nums.length <= 10^5`
+-   `-10^9 <= nums[i] <= 10^9`
+
+___
+
+Consider the array `[1, 2, 3, 4, 5, 6]`. If we naively iterate through this array, treating each element `n` as the potential start of a sequence, we would check for the existence of each subsequent number `n + 1`. What would be the time complexity of such an approach?
+
+A) O(n)
+
+B) O(n log n)
+
+C) O(n^2)
+
+D) O(2^n)
+
+###### ID25
+
+A:: =============================================  
+**Answer**: C
+
+For every element in the array, except for 6, the follow-up element n + 1 does exist. So for each element, in the worst case, we would iterate n - 1 times to build each sequence, resulting in a time complexity of O(n^2).
+
+Q:: =============================================  
+
+##### Given an unsorted array of integers `nums`, return the _length of the longest consecutive elements sequence_.
+
+You must write an algorithm that runs in `O(n)` time.
+
+**Example 1:**
+
+```
+Input: nums = [100,4,200,1,3,2]
+Output: 4
+Explanation: The longest consecutive elements sequence is [1, 2, 3, 4]. Therefore its length is 4.
+```
+
+**Constraints:**
+
+-   `0 <= nums.length <= 10^5`
+-   `-10^9 <= nums[i] <= 10^9`
+
+___
+
+Consider the array `[100, 4, 200, 1, 3, 2]`. This array contains two sequences: `[1, 2, 3, 4]` and `[100, 200]`. What common trait do the starting elements `1` and `100` share, which suggests they are the beginning of these sequences?
+
+A) They are the smallest numbers in their respective sequences.
+
+B) The element (n - 1) does not exist in the array.
+
+C) The element (n + 1) does exist in the array.
+
+D) They are the largest numbers in their respective sequences.
+
+###### ID26
+
+A:: =============================================  
+**Answer**: B
+
+The key observation is that for any number 'n' to be the start of a sequence, the number (n - 1) must not exist in the array. This is because if (n-1) exists, 'n' would be part of a sequence starting at least from (n-1). In this case, for '1' and '100', neither '0' nor '99' exist in the array, indicating that '1' and '100' can indeed be the starting points of their sequences.
+
+Q:: =============================================  
+
+##### Given an unsorted array of integers `nums`, return the _length of the longest consecutive elements sequence_.
+
+You must write an algorithm that runs in `O(n)` time.
+
+**Example 1:**
+
+```
+Input: nums = [100,4,200,1,3,2]
+Output: 4
+Explanation: The longest consecutive elements sequence is [1, 2, 3, 4]. Therefore its length is 4.
+```
+
+**Constraints:**
+
+-   `0 <= nums.length <= 10^5`
+-   `-10^9 <= nums[i] <= 10^9`
+
+___
+
+Knowing that an element 'n' is the start of a sequence if (n - 1) does not exist in the array, how could we efficiently solve this problem using a hashset?
+
+A) Add all elements to the hashset. Then, for each element 'n', if (n - 1) is not in the hashset, check and count the longest sequence starting from 'n'.
+
+B) Add all elements to the hashset. Then, for each element 'n', if (n + 1) is in the hashset, check and count the longest sequence starting from 'n'.
+
+###### ID27
+
+A:: =============================================  
+**Answer**: A
+
+We then iterate through each element 'n' and if (n - 1) is not in the hashset, we check for the longest sequence starting from 'n'. This is because if (n-1) does not exist, 'n' must be the starting point of a sequence. We then check for the existence of (n + 1), (n + 2), and so on in the hashset, and count the length of the sequence. This approach ensures that we don't repeatedly check the same sequence and keeps the time complexity to O(n).
+
+Q:: =============================================  
+
+##### Given an unsorted array of integers `nums`, return the _length of the longest consecutive elements sequence_.
+
+You must write an algorithm that runs in `O(n)` time.
+
+**Example 1:**
+
+```
+Input: nums = [100,4,200,1,3,2]
+Output: 4
+Explanation: The longest consecutive elements sequence is [1, 2, 3, 4]. Therefore its length is 4.
+```
+
+**Constraints:**
+
+-   `0 <= nums.length <= 10^5`
+-   `-10^9 <= nums[i] <= 10^9`
+
+___
+
+What is the time and space complexity of the optimal solution using a HashSet and avoiding unnecessary checks?
+
+A) Time complexity: O(n), Space complexity: O(n)
+
+B) Time complexity: O(n log n), Space complexity: O(n)
+
+C) Time complexity: O(n^2), Space complexity: O(1)
+
+D) Time complexity: O(n), Space complexity: O(1)
+
+###### ID28
+
+A:: =============================================  
+**Answer**: A
+
+The HashSet solution has a time complexity of O(n) because you need to iterate through the array twice (once for building the HashSet and once for checking the sequences). The space complexity is also O(n) because, in the worst case, you might need to store all n elements in the HashSet.
 
 ### Part II - Two Pointers
 
