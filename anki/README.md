@@ -38,6 +38,14 @@
 | [26](#id26) | [Given an unsorted array of integers nums](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20and%20Hashing/Chapter%209%20-%20Longest%20Consecutive%20Sequence%20Blind/26%20-%20Given%20an%20unsorted%20array%20of%20integers%20nums.md) | 1 | 9 |
 | [27](#id27) | [Given an unsorted array of integers nums](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20and%20Hashing/Chapter%209%20-%20Longest%20Consecutive%20Sequence%20Blind/27%20-%20Given%20an%20unsorted%20array%20of%20integers%20nums.md) | 1 | 9 |
 | [28](#id28) | [Given an unsorted array of integers nums](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20and%20Hashing/Chapter%209%20-%20Longest%20Consecutive%20Sequence%20Blind/28%20-%20Given%20an%20unsorted%20array%20of%20integers%20nums.md) | 1 | 9 |
+| **-** | **Two Pointers** | **2** | **-** |
+| **-** | **Two Pointers > Valid Palindrome Blind** | **2** | **1** |
+| [29](#id29) | [A phrase is a palindrome if after con](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%201%20-%20Valid%20Palindrome%20Blind/29%20-%20A%20phrase%20is%20a%20palindrome%20if%20after%20con.md) | 2 | 1 |
+| [30](#id30) | [A phrase is a palindrome if after con](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%201%20-%20Valid%20Palindrome%20Blind/30%20-%20A%20phrase%20is%20a%20palindrome%20if%20after%20con.md) | 2 | 1 |
+| [31](#id31) | [A phrase is a palindrome if after con](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%201%20-%20Valid%20Palindrome%20Blind/31%20-%20A%20phrase%20is%20a%20palindrome%20if%20after%20con.md) | 2 | 1 |
+| [32](#id32) | [A phrase is a palindrome if after con](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%201%20-%20Valid%20Palindrome%20Blind/32%20-%20A%20phrase%20is%20a%20palindrome%20if%20after%20con.md) | 2 | 1 |
+| [33](#id33) | [A phrase is a palindrome if after con](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%201%20-%20Valid%20Palindrome%20Blind/33%20-%20A%20phrase%20is%20a%20palindrome%20if%20after%20con.md) | 2 | 1 |
+| [34](#id34) | [A phrase is a palindrome if after con](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%201%20-%20Valid%20Palindrome%20Blind/34%20-%20A%20phrase%20is%20a%20palindrome%20if%20after%20con.md) | 2 | 1 |
 
 ### Part I - Arrays and Hashing
 
@@ -1227,6 +1235,336 @@ The HashSet solution has a time complexity of O(n) because you need to iterate t
 ### Part II - Two Pointers
 
 #### Chapter 1 - Valid Palindrome (Blind)
+
+Q:: =============================================  
+
+##### A phrase is a **palindrome** if, after converting all uppercase letters into lowercase letters and removing all non-alphanumeric characters, it reads the same forward and backward. Alphanumeric characters include letters and numbers.
+
+Given a string `s`, return `true` if it is a **palindrome,** or `false` otherwise.
+
+**Example 1:**
+
+```
+Input: s = "A man, a plan, a canal: Panama"
+Output: true
+Explanation: "amanaplanacanalpanama" is a palindrome.
+```
+
+**Example 2:**
+
+```
+Input: s = "race a car"
+Output: false
+Explanation: "raceacar" is not a palindrome.
+```
+
+**Example 3:**
+
+```
+Input: s = " "
+Output: true
+Explanation: s is an empty string "" after removing non-alphanumeric characters.
+Since an empty string reads the same forward and backward, it is a palindrome.
+```
+
+**Constraints:**
+
+`1 <= s.length <= 2 * 10^5`  
+`s consists only of printable ASCII characters.`
+
+___
+
+Given a string, what is a crucial step in the initial preprocessing to determine whether it is a palindrome?
+
+A) Reverse the string.
+
+B) Convert the string to lowercase.
+
+C) Check if the string is empty.
+
+D) Split the string into words.
+
+###### ID29
+
+A:: =============================================  
+**Answer**: B
+
+A crucial step to check if a string is a palindrome is to convert it to lowercase. This is because palindromes are case-insensitive. However, it's important to note that removing non-alphanumeric characters is another critical preprocessing step not mentioned in this particular question.
+
+Q:: =============================================  
+
+##### A phrase is a **palindrome** if, after converting all uppercase letters into lowercase letters and removing all non-alphanumeric characters, it reads the same forward and backward. Alphanumeric characters include letters and numbers.
+
+Given a string `s`, return `true` if it is a **palindrome,** or `false` otherwise.
+
+**Example 1:**
+
+```
+Input: s = "A man, a plan, a canal: Panama"
+Output: true
+Explanation: "amanaplanacanalpanama" is a palindrome.
+```
+
+**Example 2:**
+
+```
+Input: s = "race a car"
+Output: false
+Explanation: "raceacar" is not a palindrome.
+```
+
+**Example 3:**
+
+```
+Input: s = " "
+Output: true
+Explanation: s is an empty string "" after removing non-alphanumeric characters.
+Since an empty string reads the same forward and backward, it is a palindrome.
+```
+
+**Constraints:**
+
+`1 <= s.length <= 2 * 10^5`  
+`s consists only of printable ASCII characters.`
+
+___
+
+After converting the string to lowercase, what should be the next step?
+
+A) Reverse the string.
+
+B) Check if the string is empty.
+
+C) Remove all non-alphanumeric characters.
+
+D) Convert the string to uppercase.
+
+###### ID30
+
+A:: =============================================  
+**Answer**: C
+
+The next step is to remove all non-alphanumeric characters. This is because palindromes only consider alphanumeric characters.
+
+Q:: =============================================  
+
+##### A phrase is a **palindrome** if, after converting all uppercase letters into lowercase letters and removing all non-alphanumeric characters, it reads the same forward and backward. Alphanumeric characters include letters and numbers.
+
+Given a string `s`, return `true` if it is a **palindrome,** or `false` otherwise.
+
+**Example 1:**
+
+```
+Input: s = "A man, a plan, a canal: Panama"
+Output: true
+Explanation: "amanaplanacanalpanama" is a palindrome.
+```
+
+**Example 2:**
+
+```
+Input: s = "race a car"
+Output: false
+Explanation: "raceacar" is not a palindrome.
+```
+
+**Example 3:**
+
+```
+Input: s = " "
+Output: true
+Explanation: s is an empty string "" after removing non-alphanumeric characters.
+Since an empty string reads the same forward and backward, it is a palindrome.
+```
+
+**Constraints:**
+
+`1 <= s.length <= 2 * 10^5`  
+`s consists only of printable ASCII characters.`
+
+___
+
+Once the string has been converted to lowercase and all non-alphanumeric characters have been removed, what is the final step to determine if it's a palindrome?
+
+A) Convert the string to uppercase.
+
+B) Check if the string is equal to its reverse.
+
+C) Check if the string is empty.
+
+D) Split the string into words.
+
+###### ID31
+
+A:: =============================================  
+**Answer**: B
+
+The final step to check if a string is a palindrome is to compare it to its reversed version. If they are the same, then the string is a palindrome.
+
+Q:: =============================================  
+
+##### A phrase is a **palindrome** if, after converting all uppercase letters into lowercase letters and removing all non-alphanumeric characters, it reads the same forward and backward. Alphanumeric characters include letters and numbers.
+
+Given a string `s`, return `true` if it is a **palindrome,** or `false` otherwise.
+
+**Example 1:**
+
+```
+Input: s = "A man, a plan, a canal: Panama"
+Output: true
+Explanation: "amanaplanacanalpanama" is a palindrome.
+```
+
+**Example 2:**
+
+```
+Input: s = "race a car"
+Output: false
+Explanation: "raceacar" is not a palindrome.
+```
+
+**Example 3:**
+
+```
+Input: s = " "
+Output: true
+Explanation: s is an empty string "" after removing non-alphanumeric characters.
+Since an empty string reads the same forward and backward, it is a palindrome.
+```
+
+**Constraints:**
+
+`1 <= s.length <= 2 * 10^5`  
+`s consists only of printable ASCII characters.`
+
+___
+
+What is the time and space complexity of the approach where we create a new reversed string to compare?
+
+A) Time complexity: O(n), Space complexity: O(n)
+
+B) Time complexity: O(n log n), Space complexity: O(n)
+
+C) Time complexity: O(n^2), Space complexity: O(1)
+
+D) Time complexity: O(n), Space complexity: O(1)
+
+###### ID32
+
+A:: =============================================  
+**Answer**: A
+
+The time complexity is O(n) because all operations (lowercase conversion, removing non-alphanumeric characters, and reversing the string) take linear time. The 'n' here is the length of the string. The space complexity is also O(n) because we are creating a new string for the reversed version, which can be as long as the input string.
+
+Q:: =============================================  
+
+##### A phrase is a **palindrome** if, after converting all uppercase letters into lowercase letters and removing all non-alphanumeric characters, it reads the same forward and backward. Alphanumeric characters include letters and numbers.
+
+Given a string `s`, return `true` if it is a **palindrome,** or `false` otherwise.
+
+**Example 1:**
+
+```
+Input: s = "A man, a plan, a canal: Panama"
+Output: true
+Explanation: "amanaplanacanalpanama" is a palindrome.
+```
+
+**Example 2:**
+
+```
+Input: s = "race a car"
+Output: false
+Explanation: "raceacar" is not a palindrome.
+```
+
+**Example 3:**
+
+```
+Input: s = " "
+Output: true
+Explanation: s is an empty string "" after removing non-alphanumeric characters.
+Since an empty string reads the same forward and backward, it is a palindrome.
+```
+
+**Constraints:**
+
+`1 <= s.length <= 2 * 10^5`  
+`s consists only of printable ASCII characters.`
+
+___
+
+Is there a way to check if a string is a palindrome without creating a new string for the reversed version?
+
+A) No, it's not possible.
+
+B) Yes, by using two pointers.
+
+C) Yes, by sorting the string.
+
+D) Yes, by using a stack.
+
+###### ID33
+
+A:: =============================================  
+**Answer**: B
+
+Yes, it is possible. You can use two pointers: one starting from the beginning of the string and the other from the end. If the characters at both pointers are equal, we increment the left pointer and decrement the right pointer. If they are not equal, then the string is not a palindrome. This approach avoids creating a new string for the reversed version, thus saving space.
+
+Q:: =============================================  
+
+##### A phrase is a **palindrome** if, after converting all uppercase letters into lowercase letters and removing all non-alphanumeric characters, it reads the same forward and backward. Alphanumeric characters include letters and numbers.
+
+Given a string `s`, return `true` if it is a **palindrome,** or `false` otherwise.
+
+**Example 1:**
+
+```
+Input: s = "A man, a plan, a canal: Panama"
+Output: true
+Explanation: "amanaplanacanalpanama" is a palindrome.
+```
+
+**Example 2:**
+
+```
+Input: s = "race a car"
+Output: false
+Explanation: "raceacar" is not a palindrome.
+```
+
+**Example 3:**
+
+```
+Input: s = " "
+Output: true
+Explanation: s is an empty string "" after removing non-alphanumeric characters.
+Since an empty string reads the same forward and backward, it is a palindrome.
+```
+
+**Constraints:**
+
+`1 <= s.length <= 2 * 10^5`  
+`s consists only of printable ASCII characters.`
+
+___
+
+What are the time and space complexities of the two-pointer approach to check if a string is a palindrome?
+
+A) Time complexity: O(n), Space complexity: O(n)
+
+B) Time complexity: O(n log n), Space complexity: O(n)
+
+C) Time complexity: O(n^2), Space complexity: O(1)
+
+D) Time complexity: O(n), Space complexity: O(1)
+
+###### ID34
+
+A:: =============================================  
+**Answer**: D
+
+The time complexity is O(n) because in the worst case, we would have to compare every character in the string with its counterpart from the end. Here, 'n' is the length of the string. This is still linear time complexity. The space complexity is O(1) because no extra space proportional to the size of the input is used. The two pointers used do not scale with the input size.
 
 #### Chapter 2 - Two Sum II
 
