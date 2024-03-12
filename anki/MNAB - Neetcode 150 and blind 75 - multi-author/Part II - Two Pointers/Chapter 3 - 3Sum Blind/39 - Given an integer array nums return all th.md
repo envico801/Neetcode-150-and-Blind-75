@@ -74,8 +74,6 @@ class Solution:
          return res
 ```
 
-Copy
-
 A) Time complexity: O(n^2), Space complexity: O(1)
 
 B) Time complexity: O(n^2), Space complexity: O(n)

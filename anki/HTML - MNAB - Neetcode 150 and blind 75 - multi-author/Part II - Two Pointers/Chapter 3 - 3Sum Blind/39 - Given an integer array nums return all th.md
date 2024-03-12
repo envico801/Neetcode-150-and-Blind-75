@@ -77,8 +77,6 @@ Given the optimized solution using sorting and a two-pointer approach, what is t
 </code></pre>
 <!-- codeblock-end -->
 
-Copy
-
 A) Time complexity: O(n^2), Space complexity: O(1)
 
 B) Time complexity: O(n^2), Space complexity: O(n)

@@ -52,6 +52,13 @@
 | [37](#id37) | [Given an integer array nums return all th](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%203%20-%203Sum%20Blind/37%20-%20Given%20an%20integer%20array%20nums%20return%20all%20th.md) | 2 | 3 |
 | [38](#id38) | [Given an integer array nums return all th](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%203%20-%203Sum%20Blind/38%20-%20Given%20an%20integer%20array%20nums%20return%20all%20th.md) | 2 | 3 |
 | [39](#id39) | [Given an integer array nums return all th](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%203%20-%203Sum%20Blind/39%20-%20Given%20an%20integer%20array%20nums%20return%20all%20th.md) | 2 | 3 |
+| **-** | **Two Pointers > Container With Most Water Blind** | **2** | **4** |
+| [40](#id40) | [You are given an integer array height of](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%204%20-%20Container%20With%20Most%20Water%20Blind/40%20-%20You%20are%20given%20an%20integer%20array%20height%20of.md) | 2 | 4 |
+| [41](#id41) | [You are given an integer array height of](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%204%20-%20Container%20With%20Most%20Water%20Blind/41%20-%20You%20are%20given%20an%20integer%20array%20height%20of.md) | 2 | 4 |
+| [42](#id42) | [You are given an integer array height of](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%204%20-%20Container%20With%20Most%20Water%20Blind/42%20-%20You%20are%20given%20an%20integer%20array%20height%20of.md) | 2 | 4 |
+| [43](#id43) | [You are given an integer array height of](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%204%20-%20Container%20With%20Most%20Water%20Blind/43%20-%20You%20are%20given%20an%20integer%20array%20height%20of.md) | 2 | 4 |
+| [44](#id44) | [You are given an integer array height of](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%204%20-%20Container%20With%20Most%20Water%20Blind/44%20-%20You%20are%20given%20an%20integer%20array%20height%20of.md) | 2 | 4 |
+| [45](#id45) | [You are given an integer array height of](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%204%20-%20Container%20With%20Most%20Water%20Blind/45%20-%20You%20are%20given%20an%20integer%20array%20height%20of.md) | 2 | 4 |
 
 ### Part I - Arrays and Hashing
 
@@ -1894,6 +1901,316 @@ A:: =============================================
 The time complexity is O(n^2) because we iterate through the array once (which is O(n)), and for each iteration, we potentially go through the rest of the array using the two-pointer approach (which is also O(n)), thus resulting in O(n^2). The space complexity is O(1) since we aren't using additional space, other than the output.
 
 #### Chapter 4 - Container With Most Water (Blind)
+
+Q:: =============================================  
+
+##### You are given an integer array `height` of length `n`. There are `n` vertical lines drawn such that the two endpoints of the `ith` line are `(i, 0)` and `(i, height[i])`.
+
+Find two lines that together with the x-axis form a container, such that the container contains the most water.
+
+Return _the maximum amount of water a container can store_.
+
+**Notice** that you may not slant the container.
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/abc2d8fd-6012-4f88-7674-f6302aaf4200/public)
+
+**Example 1:**
+
+```
+Input: height = [1,8,6,2,5,4,8,3,7]
+Output: 49
+Explanation: The above vertical lines are represented by array [1,8,6,2,5,4,8,3,7]. In this case, the max area of water (blue section) the container can contain is 49.
+```
+
+**Example 2:**
+
+```
+Input: height = [1,1]
+Output: 1
+```
+
+**Constraints:**
+
+-   `n == height.length`
+-   `2 <= n <= 10^5`
+-   `0 <= height[i] <= 10^4`
+
+___
+
+The problem is about finding two lines that together with the x-axis form a container such that the container contains the most water. Which of the following is the key factor that determines the amount of water a container can hold?
+
+A) The height of the shortest line
+
+B) The height of the tallest line
+
+C) The distance between the two lines
+
+D) Both A and C
+
+###### ID40
+
+A:: =============================================  
+**Answer**: D
+
+The amount of water a container can hold is determined by the height of the shortest line (since water will overflow from the shorter line) and the distance between the two lines (since a wider container can hold more water).
+
+Q:: =============================================  
+
+##### You are given an integer array `height` of length `n`. There are `n` vertical lines drawn such that the two endpoints of the `ith` line are `(i, 0)` and `(i, height[i])`.
+
+Find two lines that together with the x-axis form a container, such that the container contains the most water.
+
+Return _the maximum amount of water a container can store_.
+
+**Notice** that you may not slant the container.
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/abc2d8fd-6012-4f88-7674-f6302aaf4200/public)
+
+**Example 1:**
+
+```
+Input: height = [1,8,6,2,5,4,8,3,7]
+Output: 49
+Explanation: The above vertical lines are represented by array [1,8,6,2,5,4,8,3,7]. In this case, the max area of water (blue section) the container can contain is 49.
+```
+
+**Example 2:**
+
+```
+Input: height = [1,1]
+Output: 1
+```
+
+**Constraints:**
+
+-   `n == height.length`
+-   `2 <= n <= 10^5`
+-   `0 <= height[i] <= 10^4`
+
+___
+
+Consider a brute-force solution where you calculate the area for all possible pairs of lines. What would be the time complexity of such an approach?
+
+A) O(n)
+
+B) O(n log n)
+
+C) O(n^2)
+
+D) O(2^n)
+
+###### ID41
+
+A:: =============================================  
+**Answer**: C
+
+In a brute-force solution, you would have two nested loops to calculate the area for all pairs of lines. There are n\*(n-1)/2 unique pairs, so the time complexity is O(n^2).
+
+Q:: =============================================  
+
+##### You are given an integer array `height` of length `n`. There are `n` vertical lines drawn such that the two endpoints of the `ith` line are `(i, 0)` and `(i, height[i])`.
+
+Find two lines that together with the x-axis form a container, such that the container contains the most water.
+
+Return _the maximum amount of water a container can store_.
+
+**Notice** that you may not slant the container.
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/abc2d8fd-6012-4f88-7674-f6302aaf4200/public)
+
+**Example 1:**
+
+```
+Input: height = [1,8,6,2,5,4,8,3,7]
+Output: 49
+Explanation: The above vertical lines are represented by array [1,8,6,2,5,4,8,3,7]. In this case, the max area of water (blue section) the container can contain is 49.
+```
+
+**Example 2:**
+
+```
+Input: height = [1,1]
+Output: 1
+```
+
+**Constraints:**
+
+-   `n == height.length`
+-   `2 <= n <= 10^5`
+-   `0 <= height[i] <= 10^4`
+
+___
+
+When considering the parameters that affect the amount of water a container can hold, we know that the distance between the two lines is important. Given this, where should we initially place the two pointers in order to maximize the chance of finding the largest possible area?
+
+A) In the middle of the array
+
+B) At the shortest and tallest lines
+
+C) At the two ends of the array
+
+D) At random positions in the array
+
+###### ID42
+
+A:: =============================================  
+**Answer**: C
+
+To maximize the initial area, we should start with the widest possible container, by placing the two pointers at the two ends of the array. This allows us to be greedy and maximize the distance between the two lines. From there, we can move the pointers inward to explore other possible containers.
+
+Q:: =============================================  
+
+##### You are given an integer array `height` of length `n`. There are `n` vertical lines drawn such that the two endpoints of the `ith` line are `(i, 0)` and `(i, height[i])`.
+
+Find two lines that together with the x-axis form a container, such that the container contains the most water.
+
+Return _the maximum amount of water a container can store_.
+
+**Notice** that you may not slant the container.
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/abc2d8fd-6012-4f88-7674-f6302aaf4200/public)
+
+**Example 1:**
+
+```
+Input: height = [1,8,6,2,5,4,8,3,7]
+Output: 49
+Explanation: The above vertical lines are represented by array [1,8,6,2,5,4,8,3,7]. In this case, the max area of water (blue section) the container can contain is 49.
+```
+
+**Example 2:**
+
+```
+Input: height = [1,1]
+Output: 1
+```
+
+**Constraints:**
+
+-   `n == height.length`
+-   `2 <= n <= 10^5`
+-   `0 <= height[i] <= 10^4`
+
+___
+
+Given the array height = \[1,8,6,2,5,4,8,3,7\], we start with the widest container, i.e., the first and the last line. Why is it impossible for us to find a new maximum area by leaving the left pointer at index = 0, and shifting the right pointer inwards?
+
+A) Because the new container would be narrower but not taller.
+
+B) Because the new container would be both narrower and taller.
+
+C) Because the new container would be wider and not shorter.
+
+###### ID43
+
+A:: =============================================  
+**Answer**: A
+
+The amount of water a container can hold is determined by the height of the shorter line. If we move the pointer at the taller line, the new container will be narrower (since the distance between the lines decreases), and it can't be taller (since the height is still limited by the shorter line). Therefore, there’s no need to consider anymore containers where the left pointer is at index = 0, since they will always be smaller than the current maximum.
+
+Q:: =============================================  
+
+##### You are given an integer array `height` of length `n`. There are `n` vertical lines drawn such that the two endpoints of the `ith` line are `(i, 0)` and `(i, height[i])`.
+
+Find two lines that together with the x-axis form a container, such that the container contains the most water.
+
+Return _the maximum amount of water a container can store_.
+
+**Notice** that you may not slant the container.
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/abc2d8fd-6012-4f88-7674-f6302aaf4200/public)
+
+**Example 1:**
+
+```
+Input: height = [1,8,6,2,5,4,8,3,7]
+Output: 49
+Explanation: The above vertical lines are represented by array [1,8,6,2,5,4,8,3,7]. In this case, the max area of water (blue section) the container can contain is 49.
+```
+
+**Example 2:**
+
+```
+Input: height = [1,1]
+Output: 1
+```
+
+**Constraints:**
+
+-   `n == height.length`
+-   `2 <= n <= 10^5`
+-   `0 <= height[i] <= 10^4`
+
+___
+
+The two-pointer technique ensures that we don't need to enumerate all n^2 combinations of pointers to find the maximal solution. How does the technique achieve this?
+
+A) By ensuring that every element in the array is guaranteed to have a pointer land on it at some point.
+
+B) By skipping combinations that will never lead to a more maximal solution.
+
+C) Both A and B.
+
+D) None of the above.
+
+###### ID44
+
+A:: =============================================  
+**Answer**: C
+
+The two-pointer technique starts with the widest possible container and moves the pointers inward, always choosing the pointer at the shorter line to move. This ensures that every element in the array is guaranteed to have a pointer land on it at some point. It also avoids unnecessary combinations by skipping those that won't lead to a larger area (i.e., those where the container would be narrower but not taller). This solution is based on a ‘proof by contradiction’. Since we are being greedy and only skipping combinations that won’t lead to a new maximum, we are guaranteed to find the solution.
+
+Q:: =============================================  
+
+##### You are given an integer array `height` of length `n`. There are `n` vertical lines drawn such that the two endpoints of the `ith` line are `(i, 0)` and `(i, height[i])`.
+
+Find two lines that together with the x-axis form a container, such that the container contains the most water.
+
+Return _the maximum amount of water a container can store_.
+
+**Notice** that you may not slant the container.
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/abc2d8fd-6012-4f88-7674-f6302aaf4200/public)
+
+**Example 1:**
+
+```
+Input: height = [1,8,6,2,5,4,8,3,7]
+Output: 49
+Explanation: The above vertical lines are represented by array [1,8,6,2,5,4,8,3,7]. In this case, the max area of water (blue section) the container can contain is 49.
+```
+
+**Example 2:**
+
+```
+Input: height = [1,1]
+Output: 1
+```
+
+**Constraints:**
+
+-   `n == height.length`
+-   `2 <= n <= 10^5`
+-   `0 <= height[i] <= 10^4`
+
+___
+
+What is the time and space complexity of the solution using the two-pointer technique?
+
+A) Time complexity: O(n), Space complexity: O(n)
+
+B) Time complexity: O(n log n), Space complexity: O(n)
+
+C) Time complexity: O(n^2), Space complexity: O(1)
+
+D) Time complexity: O(n), Space complexity: O(1)
+
+###### ID45
+
+A:: =============================================  
+**Answer**: D
+
+The two-pointer solution has a time complexity of O(n) because you need to iterate through the array once. The space complexity is O(1) as we only use two pointers and a few variables to keep track of the maximum area, regardless of the size of the input array.
 
 #### Chapter 5 - Trapping Rain Water
 
