@@ -46,6 +46,12 @@
 | [32](#id32) | [A phrase is a palindrome if after con](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%201%20-%20Valid%20Palindrome%20Blind/32%20-%20A%20phrase%20is%20a%20palindrome%20if%20after%20con.md) | 2 | 1 |
 | [33](#id33) | [A phrase is a palindrome if after con](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%201%20-%20Valid%20Palindrome%20Blind/33%20-%20A%20phrase%20is%20a%20palindrome%20if%20after%20con.md) | 2 | 1 |
 | [34](#id34) | [A phrase is a palindrome if after con](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%201%20-%20Valid%20Palindrome%20Blind/34%20-%20A%20phrase%20is%20a%20palindrome%20if%20after%20con.md) | 2 | 1 |
+| **-** | **Two Pointers > 3Sum Blind** | **2** | **3** |
+| [35](#id35) | [Given an integer array nums return all th](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%203%20-%203Sum%20Blind/35%20-%20Given%20an%20integer%20array%20nums%20return%20all%20th.md) | 2 | 3 |
+| [36](#id36) | [Given an integer array nums return all th](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%203%20-%203Sum%20Blind/36%20-%20Given%20an%20integer%20array%20nums%20return%20all%20th.md) | 2 | 3 |
+| [37](#id37) | [Given an integer array nums return all th](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%203%20-%203Sum%20Blind/37%20-%20Given%20an%20integer%20array%20nums%20return%20all%20th.md) | 2 | 3 |
+| [38](#id38) | [Given an integer array nums return all th](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%203%20-%203Sum%20Blind/38%20-%20Given%20an%20integer%20array%20nums%20return%20all%20th.md) | 2 | 3 |
+| [39](#id39) | [Given an integer array nums return all th](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%203%20-%203Sum%20Blind/39%20-%20Given%20an%20integer%20array%20nums%20return%20all%20th.md) | 2 | 3 |
 
 ### Part I - Arrays and Hashing
 
@@ -1569,6 +1575,323 @@ The time complexity is O(n) because in the worst case, we would have to compare 
 #### Chapter 2 - Two Sum II
 
 #### Chapter 3 - 3Sum (Blind)
+
+Q:: =============================================  
+
+##### Given an integer array nums, return all the triplets `[nums[i], nums[j], nums[k]]` such that `i != j`, `i != k`, and `j != k`, and `nums[i] + nums[j] + nums[k] == 0`.
+
+Notice that the solution set must not contain duplicate triplets.
+
+**Example 1:**
+
+```
+Input: nums = [-1,0,1,2,-1,-4]
+Output: [[-1,-1,2],[-1,0,1]]
+Explanation:
+nums[0] + nums[1] + nums[2] = (-1) + 0 + 1 = 0.
+nums[1] + nums[2] + nums[4] = 0 + 1 + (-1) = 0.
+nums[0] + nums[3] + nums[4] = (-1) + 2 + (-1) = 0.
+The distinct triplets are [-1,0,1] and [-1,-1,2].
+Notice that the order of the output and the order of the triplets does not matter.
+```
+
+**Example 2:**
+
+```
+Input: nums = [0,1,1]
+Output: []
+Explanation: The only possible triplet does not sum up to 0.
+```
+
+**Example 3:**
+
+```
+Input: nums = [0,0,0]
+Output: [[0,0,0]]
+Explanation: The only possible triplet sums up to 0.
+```
+
+**Constraints:**
+
+-   `3 <= nums.length <= 3000`
+-   `10^5 <= nums[i] <= 10^5`
+
+___
+
+What is a brute-force approach to solving this problem and what is the time complexity of this approach?
+
+A) Iterate through all possible combinations of three elements, O(n^3) time complexity
+
+B) Iterate through all elements, creating pair sums in a hash table, O(n^2) time complexity
+
+C) Sort the array and apply binary search for each element, O(n^2 log n) time complexity
+
+###### ID35
+
+A:: =============================================  
+**Answer**: A
+
+The brute force approach would be to iterate through all possible triplets in the list and check if their sum is equal to zero. This would involve three nested loops and thus would have a time complexity of O(n^3).
+
+Q:: =============================================  
+
+##### Given an integer array nums, return all the triplets `[nums[i], nums[j], nums[k]]` such that `i != j`, `i != k`, and `j != k`, and `nums[i] + nums[j] + nums[k] == 0`.
+
+Notice that the solution set must not contain duplicate triplets.
+
+**Example 1:**
+
+```
+Input: nums = [-1,0,1,2,-1,-4]
+Output: [[-1,-1,2],[-1,0,1]]
+Explanation:
+nums[0] + nums[1] + nums[2] = (-1) + 0 + 1 = 0.
+nums[1] + nums[2] + nums[4] = 0 + 1 + (-1) = 0.
+nums[0] + nums[3] + nums[4] = (-1) + 2 + (-1) = 0.
+The distinct triplets are [-1,0,1] and [-1,-1,2].
+Notice that the order of the output and the order of the triplets does not matter.
+```
+
+**Example 2:**
+
+```
+Input: nums = [0,1,1]
+Output: []
+Explanation: The only possible triplet does not sum up to 0.
+```
+
+**Example 3:**
+
+```
+Input: nums = [0,0,0]
+Output: [[0,0,0]]
+Explanation: The only possible triplet sums up to 0.
+```
+
+**Constraints:**
+
+-   `3 <= nums.length <= 3000`
+-   `10^5 <= nums[i] <= 10^5`
+
+___
+
+How can we find the optimal solution by using sorting?
+
+A) Sort the array and use two pointers, decreasing the time complexity to O(n^2)
+
+B) Sort the array and use binary search, decreasing the time complexity to O(n^2 log n)
+
+C) Sorting cannot help in optimizing this problem
+
+###### ID36
+
+A:: =============================================  
+**Answer**: A
+
+By sorting the array, we can iterate through the array once and then use a two-pointer approach for each iteration. The two pointers can move towards each other until they meet, checking if the sum of the elements at the pointers equals the negative of the current element. This reduces the time complexity to O(n^2). A binary search approach will also work, but is less efficient.
+
+Q:: =============================================  
+
+##### Given an integer array nums, return all the triplets `[nums[i], nums[j], nums[k]]` such that `i != j`, `i != k`, and `j != k`, and `nums[i] + nums[j] + nums[k] == 0`.
+
+Notice that the solution set must not contain duplicate triplets.
+
+**Example 1:**
+
+```
+Input: nums = [-1,0,1,2,-1,-4]
+Output: [[-1,-1,2],[-1,0,1]]
+Explanation:
+nums[0] + nums[1] + nums[2] = (-1) + 0 + 1 = 0.
+nums[1] + nums[2] + nums[4] = 0 + 1 + (-1) = 0.
+nums[0] + nums[3] + nums[4] = (-1) + 2 + (-1) = 0.
+The distinct triplets are [-1,0,1] and [-1,-1,2].
+Notice that the order of the output and the order of the triplets does not matter.
+```
+
+**Example 2:**
+
+```
+Input: nums = [0,1,1]
+Output: []
+Explanation: The only possible triplet does not sum up to 0.
+```
+
+**Example 3:**
+
+```
+Input: nums = [0,0,0]
+Output: [[0,0,0]]
+Explanation: The only possible triplet sums up to 0.
+```
+
+**Constraints:**
+
+-   `3 <= nums.length <= 3000`
+-   `10^5 <= nums[i] <= 10^5`
+
+___
+
+How can we ensure that our solution does not contain duplicate triplets?
+
+A) By checking if a triplet has already been added to a hash set
+
+B) By skipping over duplicate elements in the sorted array
+
+C) Both A and B
+
+###### ID37
+
+A:: =============================================  
+**Answer**: C
+
+Both methods can be used to avoid duplicate triplets. We can check if a triplet is already in our solution before adding it, or we can skip over duplicate elements in our sorted array, since any triplet containing these duplicates would have already been found.
+
+Q:: =============================================  
+
+##### Given an integer array nums, return all the triplets `[nums[i], nums[j], nums[k]]` such that `i != j`, `i != k`, and `j != k`, and `nums[i] + nums[j] + nums[k] == 0`.
+
+Notice that the solution set must not contain duplicate triplets.
+
+**Example 1:**
+
+```
+Input: nums = [-1,0,1,2,-1,-4]
+Output: [[-1,-1,2],[-1,0,1]]
+Explanation:
+nums[0] + nums[1] + nums[2] = (-1) + 0 + 1 = 0.
+nums[1] + nums[2] + nums[4] = 0 + 1 + (-1) = 0.
+nums[0] + nums[3] + nums[4] = (-1) + 2 + (-1) = 0.
+The distinct triplets are [-1,0,1] and [-1,-1,2].
+Notice that the order of the output and the order of the triplets does not matter.
+```
+
+**Example 2:**
+
+```
+Input: nums = [0,1,1]
+Output: []
+Explanation: The only possible triplet does not sum up to 0.
+```
+
+**Example 3:**
+
+```
+Input: nums = [0,0,0]
+Output: [[0,0,0]]
+Explanation: The only possible triplet sums up to 0.
+```
+
+**Constraints:**
+
+-   `3 <= nums.length <= 3000`
+-   `10^5 <= nums[i] <= 10^5`
+
+___
+
+How does the two-pointer approach help in eliminating duplicates in the output?
+
+A) It doesn't, duplicates must be handled separately
+
+B) By skipping over duplicate elements in the sorted array after finding a valid triplet, and also when choosing the first number in the triplet
+
+C) By checking if the current triplet is already in the output before adding it
+
+###### ID38
+
+A:: =============================================  
+**Answer**: B
+
+When we find a valid triplet, we increment the left pointer until we find a new value. This ensures that we do not add the same triplet multiple times when the array contains duplicates. Additionally, when choosing the first number for our triplet, if this number is the same as the previous number, we can skip it. This is because any valid triplets including this number would have already been found in the previous iteration. These steps effectively eliminate duplicate solutions in the final result set.
+
+Q:: =============================================  
+
+##### Given an integer array nums, return all the triplets `[nums[i], nums[j], nums[k]]` such that `i != j`, `i != k`, and `j != k`, and `nums[i] + nums[j] + nums[k] == 0`.
+
+Notice that the solution set must not contain duplicate triplets.
+
+**Example 1:**
+
+```
+Input: nums = [-1,0,1,2,-1,-4]
+Output: [[-1,-1,2],[-1,0,1]]
+Explanation:
+nums[0] + nums[1] + nums[2] = (-1) + 0 + 1 = 0.
+nums[1] + nums[2] + nums[4] = 0 + 1 + (-1) = 0.
+nums[0] + nums[3] + nums[4] = (-1) + 2 + (-1) = 0.
+The distinct triplets are [-1,0,1] and [-1,-1,2].
+Notice that the order of the output and the order of the triplets does not matter.
+```
+
+**Example 2:**
+
+```
+Input: nums = [0,1,1]
+Output: []
+Explanation: The only possible triplet does not sum up to 0.
+```
+
+**Example 3:**
+
+```
+Input: nums = [0,0,0]
+Output: [[0,0,0]]
+Explanation: The only possible triplet sums up to 0.
+```
+
+**Constraints:**
+
+-   `3 <= nums.length <= 3000`
+-   `10^5 <= nums[i] <= 10^5`
+
+___
+
+Given the optimized solution using sorting and a two-pointer approach, what is the overall time and space complexity?
+
+```python
+class Solution:
+    def threeSum(self, nums: List[int]) -> List[List[int]]:
+        res = []
+        nums.sort()
+        
+        for i, a in enumerate(nums):
+            if i > 0 and a == nums[i - 1]:
+                # We already used nums[i] as the 
+                # first element, so skip it
+                continue
+
+            # Use two pointers on the remaining
+            # sorted subarray to solve a + b + c = 0
+            l, r = i + 1, len(nums) - 1
+            while l < r:
+                threeSum = a + nums[l] + nums[r]
+                if threeSum > 0:
+                    r -= 1
+                elif threeSum < 0:
+                    l += 1
+                else:
+                    # Solution found
+                    res.append([a, nums[l], nums[r]])
+                    l += 1
+                    while nums[l] == nums[l - 1] and l < r:
+                        # Eliminate duplicates by incrementing 
+                        # left ptr until new nums[l] is found
+                        l += 1
+        return res
+```
+
+A) Time complexity: O(n^2), Space complexity: O(1)
+
+B) Time complexity: O(n^2), Space complexity: O(n)
+
+C) Time complexity: O(n log n), Space complexity: O(n)
+
+###### ID39
+
+A:: =============================================  
+**Answer**: A
+
+The time complexity is O(n^2) because we iterate through the array once (which is O(n)), and for each iteration, we potentially go through the rest of the array using the two-pointer approach (which is also O(n)), thus resulting in O(n^2). The space complexity is O(1) since we aren't using additional space, other than the output.
 
 #### Chapter 4 - Container With Most Water (Blind)
 
