@@ -66,6 +66,13 @@
 | [48](#id48) | [You are given an array prices where pri](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Sliding%20Window/Chapter%201%20-%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20Blind/48%20-%20You%20are%20given%20an%20array%20prices%20where%20pri.md) | 3 | 1 |
 | [49](#id49) | [You are given an array prices where pri](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Sliding%20Window/Chapter%201%20-%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20Blind/49%20-%20You%20are%20given%20an%20array%20prices%20where%20pri.md) | 3 | 1 |
 | [50](#id50) | [You are given an array prices where pri](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Sliding%20Window/Chapter%201%20-%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20Blind/50%20-%20You%20are%20given%20an%20array%20prices%20where%20pri.md) | 3 | 1 |
+| **-** | **Sliding Window > Longest Substring Without Repeating Characters Blind** | **3** | **2** |
+| [51](#id51) | [Given a string s find the length of the](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Sliding%20Window/Chapter%202%20-%20Longest%20Substring%20Without%20Repeating%20Characters%20Blind/51%20-%20Given%20a%20string%20s%20find%20the%20length%20of%20the.md) | 3 | 2 |
+| [52](#id52) | [Given a string s find the length of the](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Sliding%20Window/Chapter%202%20-%20Longest%20Substring%20Without%20Repeating%20Characters%20Blind/52%20-%20Given%20a%20string%20s%20find%20the%20length%20of%20the.md) | 3 | 2 |
+| [53](#id53) | [Given a string s find the length of the](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Sliding%20Window/Chapter%202%20-%20Longest%20Substring%20Without%20Repeating%20Characters%20Blind/53%20-%20Given%20a%20string%20s%20find%20the%20length%20of%20the.md) | 3 | 2 |
+| [54](#id54) | [Given a string s find the length of the](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Sliding%20Window/Chapter%202%20-%20Longest%20Substring%20Without%20Repeating%20Characters%20Blind/54%20-%20Given%20a%20string%20s%20find%20the%20length%20of%20the.md) | 3 | 2 |
+| [55](#id55) | [Given a string s find the length of the](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Sliding%20Window/Chapter%202%20-%20Longest%20Substring%20Without%20Repeating%20Characters%20Blind/55%20-%20Given%20a%20string%20s%20find%20the%20length%20of%20the.md) | 3 | 2 |
+| [56](#id56) | [Given a string s find the length of the](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Sliding%20Window/Chapter%202%20-%20Longest%20Substring%20Without%20Repeating%20Characters%20Blind/56%20-%20Given%20a%20string%20s%20find%20the%20length%20of%20the.md) | 3 | 2 |
 
 ### Part I - Arrays and Hashing
 
@@ -2404,6 +2411,328 @@ A:: =============================================
 The optimal solution has a constant space complexity, O(1), as we are only keeping track of two variables (minimum price and maximum profit), regardless of the size of the input array.
 
 #### Chapter 2 - Longest Substring Without Repeating Characters (Blind)
+
+Q:: =============================================  
+
+##### Given a string `s`, find the length of the **longest** **substring** without repeating characters.
+
+**Example 1:**
+
+```
+Input: s = "abcabcbb"
+Output: 3
+Explanation: The answer is "abc", with the length of 3.
+```
+
+**Example 2:**
+
+```
+Input: s = "bbbbb"
+Output: 1
+Explanation: The answer is "b", with the length of 1.
+```
+
+**Example 3:**
+
+```
+Input: s = "pwwkew"
+Output: 3
+Explanation: The answer is "wke", with the length of 3.
+Notice that the answer must be a substring, "pwke" is a subsequence and not a substring.
+```
+
+**Constraints:**
+
+-   `0 <= s.length <= 5 * 104`
+-   `s` consists of English letters, digits, symbols and spaces.
+
+___
+
+What is a brute force solution to this problem?
+
+A) Check each character and its subsequent characters for equality.
+
+B) Generate all possible substrings and check each for repeated characters.
+
+###### ID51
+
+A:: =============================================  
+**Answer**: B
+
+The brute force solution for this problem would be to generate all possible substrings of the given string and check each of them for repeated characters. We would then keep track of the length of the longest substring without repeated characters.
+
+Q:: =============================================  
+
+##### Given a string `s`, find the length of the **longest** **substring** without repeating characters.
+
+**Example 1:**
+
+```
+Input: s = "abcabcbb"
+Output: 3
+Explanation: The answer is "abc", with the length of 3.
+```
+
+**Example 2:**
+
+```
+Input: s = "bbbbb"
+Output: 1
+Explanation: The answer is "b", with the length of 1.
+```
+
+**Example 3:**
+
+```
+Input: s = "pwwkew"
+Output: 3
+Explanation: The answer is "wke", with the length of 3.
+Notice that the answer must be a substring, "pwke" is a subsequence and not a substring.
+```
+
+**Constraints:**
+
+-   `0 <= s.length <= 5 * 104`
+-   `s` consists of English letters, digits, symbols and spaces.
+
+___
+
+As we build a substring, what kind of data structure can we use to keep track of the characters we have already seen?
+
+A) Stack
+
+B) Queue
+
+C) Hash Set
+
+D) Heap
+
+###### ID52
+
+A:: =============================================  
+**Answer**: C
+
+A Set is a data structure that maintains a collection of unique elements. It provides constant-time complexity for search, insertion, and deletion, making it a suitable choice for tracking unique characters in a string.
+
+Q:: =============================================  
+
+##### Given a string `s`, find the length of the **longest** **substring** without repeating characters.
+
+**Example 1:**
+
+```
+Input: s = "abcabcbb"
+Output: 3
+Explanation: The answer is "abc", with the length of 3.
+```
+
+**Example 2:**
+
+```
+Input: s = "bbbbb"
+Output: 1
+Explanation: The answer is "b", with the length of 1.
+```
+
+**Example 3:**
+
+```
+Input: s = "pwwkew"
+Output: 3
+Explanation: The answer is "wke", with the length of 3.
+Notice that the answer must be a substring, "pwke" is a subsequence and not a substring.
+```
+
+**Constraints:**
+
+-   `0 <= s.length <= 5 * 104`
+-   `s` consists of English letters, digits, symbols and spaces.
+
+___
+
+What approach can we use to solve this problem efficiently?
+
+A) Divide and Conquer
+
+B) Sliding Window
+
+C) Recursion
+
+###### ID53
+
+A:: =============================================  
+**Answer**: B
+
+The sliding window approach allows us to scan through the string once (linear time complexity) while keeping track of the longest substring without repeating characters. It's an optimal strategy for this problem as it avoids unnecessary repeated computations.
+
+Q:: =============================================  
+
+##### Given a string `s`, find the length of the **longest** **substring** without repeating characters.
+
+**Example 1:**
+
+```
+Input: s = "abcabcbb"
+Output: 3
+Explanation: The answer is "abc", with the length of 3.
+```
+
+**Example 2:**
+
+```
+Input: s = "bbbbb"
+Output: 1
+Explanation: The answer is "b", with the length of 1.
+```
+
+**Example 3:**
+
+```
+Input: s = "pwwkew"
+Output: 3
+Explanation: The answer is "wke", with the length of 3.
+Notice that the answer must be a substring, "pwke" is a subsequence and not a substring.
+```
+
+**Constraints:**
+
+-   `0 <= s.length <= 5 * 104`
+-   `s` consists of English letters, digits, symbols and spaces.
+
+___
+
+What can we do when we encounter a repeating character while expanding our window?
+
+A) Remove the repeating character from our data structure and continue expanding.
+
+B) Shrink the window from the left until the repeating character is no longer in the window.
+
+C) Discard the current window and start a new window from the next character.
+
+###### ID54
+
+A:: =============================================  
+**Answer**: B
+
+When we encounter a repeating character, it means we need to shrink the window from the left until the repeating character is no longer in the window, as we are searching for substrings without repeating characters.
+
+Q:: =============================================  
+
+##### Given a string `s`, find the length of the **longest** **substring** without repeating characters.
+
+**Example 1:**
+
+```
+Input: s = "abcabcbb"
+Output: 3
+Explanation: The answer is "abc", with the length of 3.
+```
+
+**Example 2:**
+
+```
+Input: s = "bbbbb"
+Output: 1
+Explanation: The answer is "b", with the length of 1.
+```
+
+**Example 3:**
+
+```
+Input: s = "pwwkew"
+Output: 3
+Explanation: The answer is "wke", with the length of 3.
+Notice that the answer must be a substring, "pwke" is a subsequence and not a substring.
+```
+
+**Constraints:**
+
+-   `0 <= s.length <= 5 * 104`
+-   `s` consists of English letters, digits, symbols and spaces.
+
+___
+
+Considering the constraint that `s` consists of English letters, digits, symbols, and spaces, what is the maximum possible size of our window?
+
+A) 26
+
+B) 52
+
+C) 95
+
+###### ID55
+
+A:: =============================================  
+**Answer**: C
+
+In ASCII, there are 95 printable characters: 26 lowercase English letters, 26 uppercase English letters, 10 digits (0-9), 32 special characters and symbols, and the space character. This makes a total of 95 unique characters. Even if you don’t know there are exactly 95, it reasonable that there would be more than 52 (26 uppercase, 26 lowercase).
+
+Q:: =============================================  
+
+##### Given a string `s`, find the length of the **longest** **substring** without repeating characters.
+
+**Example 1:**
+
+```
+Input: s = "abcabcbb"
+Output: 3
+Explanation: The answer is "abc", with the length of 3.
+```
+
+**Example 2:**
+
+```
+Input: s = "bbbbb"
+Output: 1
+Explanation: The answer is "b", with the length of 1.
+```
+
+**Example 3:**
+
+```
+Input: s = "pwwkew"
+Output: 3
+Explanation: The answer is "wke", with the length of 3.
+Notice that the answer must be a substring, "pwke" is a subsequence and not a substring.
+```
+
+**Constraints:**
+
+-   `0 <= s.length <= 5 * 104`
+-   `s` consists of English letters, digits, symbols and spaces.
+
+___
+
+What is the time and space complexity of the sliding window approach for this problem? Assume `n` is the length of the string, and `m` is the number of distinct characters in the string.
+
+```python
+class Solution:
+    def lengthOfLongestSubstring(self, s: str) -> int:
+        char_set = set()
+        l, max_len = 0, 0
+        
+        for r in range(len(s)):
+            while s[r] in char_set:
+                # Repeating char detected, shrink window
+                char_set.remove(s[l])
+                l += 1
+            char_set.add(s[r])
+            max_len = max(max_len, r - l + 1)
+        return max_len
+```
+
+A) Time complexity: O(n), Space complexity: O(1)
+
+B) Time complexity: O(n), Space complexity: O(m)
+
+C) Time complexity: O(n^2), Space complexity: O(m)
+
+###### ID56
+
+A:: =============================================  
+**Answer**: B
+
+Using the sliding window approach, we essentially scan through the string once with two pointers, making the time complexity O(n). The space complexity is O(m) because, in the worst-case scenario, the set used to check for repeating characters can contain all the distinct characters in the string, where m is the number of distinct characters.
 
 #### Chapter 3 - Longest Repeating Character Replacement (Blind)
 
