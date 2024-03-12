@@ -73,6 +73,13 @@
 | [54](#id54) | [Given a string s find the length of the](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Sliding%20Window/Chapter%202%20-%20Longest%20Substring%20Without%20Repeating%20Characters%20Blind/54%20-%20Given%20a%20string%20s%20find%20the%20length%20of%20the.md) | 3 | 2 |
 | [55](#id55) | [Given a string s find the length of the](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Sliding%20Window/Chapter%202%20-%20Longest%20Substring%20Without%20Repeating%20Characters%20Blind/55%20-%20Given%20a%20string%20s%20find%20the%20length%20of%20the.md) | 3 | 2 |
 | [56](#id56) | [Given a string s find the length of the](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Sliding%20Window/Chapter%202%20-%20Longest%20Substring%20Without%20Repeating%20Characters%20Blind/56%20-%20Given%20a%20string%20s%20find%20the%20length%20of%20the.md) | 3 | 2 |
+| **-** | **Sliding Window > Longest Repeating Character Replacement Blind** | **3** | **3** |
+| [57](#id57) | [You are given a string s and an integer](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Sliding%20Window/Chapter%203%20-%20Longest%20Repeating%20Character%20Replacement%20Blind/57%20-%20You%20are%20given%20a%20string%20s%20and%20an%20integer.md) | 3 | 3 |
+| [58](#id58) | [You are given a string s and an integer](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Sliding%20Window/Chapter%203%20-%20Longest%20Repeating%20Character%20Replacement%20Blind/58%20-%20You%20are%20given%20a%20string%20s%20and%20an%20integer.md) | 3 | 3 |
+| [59](#id59) | [You are given a string s and an integer](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Sliding%20Window/Chapter%203%20-%20Longest%20Repeating%20Character%20Replacement%20Blind/59%20-%20You%20are%20given%20a%20string%20s%20and%20an%20integer.md) | 3 | 3 |
+| [60](#id60) | [You are given a string s and an integer](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Sliding%20Window/Chapter%203%20-%20Longest%20Repeating%20Character%20Replacement%20Blind/60%20-%20You%20are%20given%20a%20string%20s%20and%20an%20integer.md) | 3 | 3 |
+| [61](#id61) | [You are given a string s and an integer](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Sliding%20Window/Chapter%203%20-%20Longest%20Repeating%20Character%20Replacement%20Blind/61%20-%20You%20are%20given%20a%20string%20s%20and%20an%20integer.md) | 3 | 3 |
+| [62](#id62) | [You are given a string s and an integer](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Sliding%20Window/Chapter%203%20-%20Longest%20Repeating%20Character%20Replacement%20Blind/62%20-%20You%20are%20given%20a%20string%20s%20and%20an%20integer.md) | 3 | 3 |
 
 ### Part I - Arrays and Hashing
 
@@ -2735,6 +2742,305 @@ A:: =============================================
 Using the sliding window approach, we essentially scan through the string once with two pointers, making the time complexity O(n). The space complexity is O(m) because, in the worst-case scenario, the set used to check for repeating characters can contain all the distinct characters in the string, where m is the number of distinct characters.
 
 #### Chapter 3 - Longest Repeating Character Replacement (Blind)
+
+Q:: =============================================  
+
+##### You are given a string `s` and an integer `k`. You can choose any character of the string and change it to any other uppercase English character. You can perform this operation at most `k` times.
+
+Return _the length of the longest substring containing the same letter you can get after performing the above operations_.
+
+**Example 1:**
+
+```
+Input: s = "ABAB", k = 2
+Output: 4
+Explanation: Replace the two 'A's with two 'B's or vice versa.
+```
+
+**Example 2:**
+
+```
+Input: s = "AABABBA", k = 1
+Output: 4
+Explanation: Replace the one 'A' in the middle with 'B' and form "AABBBBA".
+The substring "BBBB" has the longest repeating letters, which is 4.
+There may exists other ways to achive this answer too.
+```
+
+**Constraints:**
+
+-   `1 <= s.length <= 105`
+-   `s` consists of only uppercase English letters.
+-   `0 <= k <= s.length`
+
+___
+
+What is a brute force solution to this problem?
+
+A) Iterate from the end of the string to the beginning, checking for duplicate characters.
+
+B) For each substring, find the frequency of the most common character (maxf) and check if the length of the substring minus maxf is less than or equal to k.
+
+###### ID57
+
+A:: =============================================  
+**Answer**: B
+
+The brute force solution would be to generate all possible substrings and for each substring, find the frequency of the most common character. If the length of the substring minus the frequency of the most common character is less than or equal to k, then the substring is valid (since we can change at most k characters to make all characters in the substring the same). We would then keep track of the maximum length of such valid substrings.
+
+Q:: =============================================  
+
+##### You are given a string `s` and an integer `k`. You can choose any character of the string and change it to any other uppercase English character. You can perform this operation at most `k` times.
+
+Return _the length of the longest substring containing the same letter you can get after performing the above operations_.
+
+**Example 1:**
+
+```
+Input: s = "ABAB", k = 2
+Output: 4
+Explanation: Replace the two 'A's with two 'B's or vice versa.
+```
+
+**Example 2:**
+
+```
+Input: s = "AABABBA", k = 1
+Output: 4
+Explanation: Replace the one 'A' in the middle with 'B' and form "AABBBBA".
+The substring "BBBB" has the longest repeating letters, which is 4.
+There may exists other ways to achive this answer too.
+```
+
+**Constraints:**
+
+-   `1 <= s.length <= 105`
+-   `s` consists of only uppercase English letters.
+-   `0 <= k <= s.length`
+
+___
+
+What kind of data structure could help us track the frequency of each character in the current window of our string?
+
+A) Queue
+
+B) Array
+
+C) Hash Map
+
+D) Either B or C
+
+###### ID58
+
+A:: =============================================  
+**Answer**: D
+
+Both an Array and a Hash Map can be used to efficiently count the frequency of elements. By keeping a frequency count of characters in our current window, we can determine the most frequent character. In the case of an Array, we could use each index to represent a unique character from the string (i.e., 'A' to 'Z' mapped to 0 to 25). In the case of a Hash Map, we would use the character itself as the key and the frequency as the value. Both methods allow us to update and access the frequency of each character in constant time.
+
+Q:: =============================================  
+
+##### You are given a string `s` and an integer `k`. You can choose any character of the string and change it to any other uppercase English character. You can perform this operation at most `k` times.
+
+Return _the length of the longest substring containing the same letter you can get after performing the above operations_.
+
+**Example 1:**
+
+```
+Input: s = "ABAB", k = 2
+Output: 4
+Explanation: Replace the two 'A's with two 'B's or vice versa.
+```
+
+**Example 2:**
+
+```
+Input: s = "AABABBA", k = 1
+Output: 4
+Explanation: Replace the one 'A' in the middle with 'B' and form "AABBBBA".
+The substring "BBBB" has the longest repeating letters, which is 4.
+There may exists other ways to achive this answer too.
+```
+
+**Constraints:**
+
+-   `1 <= s.length <= 105`
+-   `s` consists of only uppercase English letters.
+-   `0 <= k <= s.length`
+
+___
+
+Considering an efficient approach, what strategy could we use to solve this problem efficiently?
+
+A) Divide and Conquer
+
+B) Two pointers with sliding window
+
+C) Recursion
+
+###### ID59
+
+A:: =============================================  
+**Answer**: B
+
+The two pointers with sliding window strategy allows us to scan through the string in linear time complexity while keeping track of the longest substring with the same letters. The sliding window size changes based on the character frequency and the number of operations allowed.
+
+Q:: =============================================  
+
+##### You are given a string `s` and an integer `k`. You can choose any character of the string and change it to any other uppercase English character. You can perform this operation at most `k` times.
+
+Return _the length of the longest substring containing the same letter you can get after performing the above operations_.
+
+**Example 1:**
+
+```
+Input: s = "ABAB", k = 2
+Output: 4
+Explanation: Replace the two 'A's with two 'B's or vice versa.
+```
+
+**Example 2:**
+
+```
+Input: s = "AABABBA", k = 1
+Output: 4
+Explanation: Replace the one 'A' in the middle with 'B' and form "AABBBBA".
+The substring "BBBB" has the longest repeating letters, which is 4.
+There may exists other ways to achive this answer too.
+```
+
+**Constraints:**
+
+-   `1 <= s.length <= 105`
+-   `s` consists of only uppercase English letters.
+-   `0 <= k <= s.length`
+
+___
+
+If our current window size minus the frequency of the most common character is greater than k, what should we do?
+
+A) Expand the window from the right
+
+B) Shrink the window from the left
+
+C) Increase k
+
+D) Change the character at the left of the window
+
+###### ID60
+
+A:: =============================================  
+**Answer**: B
+
+If the window size minus the frequency of the most common character is greater than k, it means we cannot make all characters the same in this window by changing k characters. Therefore, we need to shrink the window from the left.
+
+Q:: =============================================  
+
+##### You are given a string `s` and an integer `k`. You can choose any character of the string and change it to any other uppercase English character. You can perform this operation at most `k` times.
+
+Return _the length of the longest substring containing the same letter you can get after performing the above operations_.
+
+**Example 1:**
+
+```
+Input: s = "ABAB", k = 2
+Output: 4
+Explanation: Replace the two 'A's with two 'B's or vice versa.
+```
+
+**Example 2:**
+
+```
+Input: s = "AABABBA", k = 1
+Output: 4
+Explanation: Replace the one 'A' in the middle with 'B' and form "AABBBBA".
+The substring "BBBB" has the longest repeating letters, which is 4.
+There may exists other ways to achive this answer too.
+```
+
+**Constraints:**
+
+-   `1 <= s.length <= 105`
+-   `s` consists of only uppercase English letters.
+-   `0 <= k <= s.length`
+
+___
+
+Considering that the given string only contains uppercase English letters (from A to Z), what would be the time complexity of finding the most frequent character in the window?
+
+A) O(1)
+
+B) O(n)
+
+C) O(logn)
+
+###### ID61
+
+A:: =============================================  
+**Answer**: A
+
+Since we know that the string only contains uppercase English letters, there can be at most 26 unique characters. Thus, if we were to iterate through each unique character in our frequency dictionary or array to find the most frequent one, the time complexity would be O(26), which is essentially constant time, O(1).
+
+Q:: =============================================  
+
+##### You are given a string `s` and an integer `k`. You can choose any character of the string and change it to any other uppercase English character. You can perform this operation at most `k` times.
+
+Return _the length of the longest substring containing the same letter you can get after performing the above operations_.
+
+**Example 1:**
+
+```
+Input: s = "ABAB", k = 2
+Output: 4
+Explanation: Replace the two 'A's with two 'B's or vice versa.
+```
+
+**Example 2:**
+
+```
+Input: s = "AABABBA", k = 1
+Output: 4
+Explanation: Replace the one 'A' in the middle with 'B' and form "AABBBBA".
+The substring "BBBB" has the longest repeating letters, which is 4.
+There may exists other ways to achive this answer too.
+```
+
+**Constraints:**
+
+-   `1 <= s.length <= 105`
+-   `s` consists of only uppercase English letters.
+-   `0 <= k <= s.length`
+
+___
+
+What is the time and space complexity of the sliding window approach for this problem? Assume `n` is the length of the string.
+
+```python
+class Solution:
+    def characterReplacement(self, s: str, k: int) -> int:
+        res = 0
+        l = 0
+        count = [0] * 26
+        for r in range(len(s)):
+            count[ord(s[r]) - ord('A')] += 1
+            while (r - l + 1) - max(count) > k:
+                count[ord(s[l]) - ord('A')] -= 1
+                l += 1
+            res = max(res, r - l + 1)
+        return res
+```
+
+A) Time complexity: O(n), Space complexity: O(1)
+
+B) Time complexity: O(n), Space complexity: O(n)
+
+C) Time complexity: O(n^2), Space complexity: O(1)
+
+###### ID62
+
+A:: =============================================  
+**Answer**: A
+
+The sliding window approach only scans the string once, and the time complexity is therefore O(n). The space complexity is O(1) because the count array always has a fixed size of 26, corresponding to the number of uppercase English letters. Even though we're dealing with a string of n characters, we're only ever tracking a maximum of 26 different ones.
 
 #### Chapter 4 - Permutation in String
 
