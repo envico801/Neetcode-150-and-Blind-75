@@ -80,6 +80,14 @@
 | [60](#id60) | [You are given a string s and an integer](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Sliding%20Window/Chapter%203%20-%20Longest%20Repeating%20Character%20Replacement%20Blind/60%20-%20You%20are%20given%20a%20string%20s%20and%20an%20integer.md) | 3 | 3 |
 | [61](#id61) | [You are given a string s and an integer](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Sliding%20Window/Chapter%203%20-%20Longest%20Repeating%20Character%20Replacement%20Blind/61%20-%20You%20are%20given%20a%20string%20s%20and%20an%20integer.md) | 3 | 3 |
 | [62](#id62) | [You are given a string s and an integer](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Sliding%20Window/Chapter%203%20-%20Longest%20Repeating%20Character%20Replacement%20Blind/62%20-%20You%20are%20given%20a%20string%20s%20and%20an%20integer.md) | 3 | 3 |
+| **-** | **Sliding Window > Minimum Window Substring Blind** | **3** | **5** |
+| [63](#id63) | [Given two strings s and t of lengths](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Sliding%20Window/Chapter%205%20-%20Minimum%20Window%20Substring%20Blind/63%20-%20Given%20two%20strings%20s%20and%20t%20of%20lengths.md) | 3 | 5 |
+| [64](#id64) | [Given two strings s and t of lengths](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Sliding%20Window/Chapter%205%20-%20Minimum%20Window%20Substring%20Blind/64%20-%20Given%20two%20strings%20s%20and%20t%20of%20lengths.md) | 3 | 5 |
+| [65](#id65) | [Given two strings s and t of lengths](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Sliding%20Window/Chapter%205%20-%20Minimum%20Window%20Substring%20Blind/65%20-%20Given%20two%20strings%20s%20and%20t%20of%20lengths.md) | 3 | 5 |
+| [66](#id66) | [Given two strings s and t of lengths](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Sliding%20Window/Chapter%205%20-%20Minimum%20Window%20Substring%20Blind/66%20-%20Given%20two%20strings%20s%20and%20t%20of%20lengths.md) | 3 | 5 |
+| [67](#id67) | [Given two strings s and t of lengths](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Sliding%20Window/Chapter%205%20-%20Minimum%20Window%20Substring%20Blind/67%20-%20Given%20two%20strings%20s%20and%20t%20of%20lengths.md) | 3 | 5 |
+| [68](#id68) | [Given two strings s and t of lengths](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Sliding%20Window/Chapter%205%20-%20Minimum%20Window%20Substring%20Blind/68%20-%20Given%20two%20strings%20s%20and%20t%20of%20lengths.md) | 3 | 5 |
+| [69](#id69) | [Given two strings s and t of lengths](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Sliding%20Window/Chapter%205%20-%20Minimum%20Window%20Substring%20Blind/69%20-%20Given%20two%20strings%20s%20and%20t%20of%20lengths.md) | 3 | 5 |
 
 ### Part I - Arrays and Hashing
 
@@ -3045,6 +3053,422 @@ The sliding window approach only scans the string once, and the time complexity 
 #### Chapter 4 - Permutation in String
 
 #### Chapter 5 - Minimum Window Substring (Blind)
+
+Q:: =============================================  
+
+##### Given two strings `s` and `t` of lengths `m` and `n` respectively, return the _**minimum window substring**_ of `s` such that every character in `t` (_**including duplicates**_) is included in the window. If there is no such substring, return the empty string `""`.
+
+The testcases will be generated such that the answer is **unique**.
+
+**Example 1:**
+
+```
+Input: s = "ADOBECODEBANC", t = "ABC"
+Output: "BANC"
+Explanation: The minimum window substring "BANC" includes 'A', 'B', and 'C' from string t.
+```
+
+**Example 2:**
+
+```
+Input: s = "a", t = "a"
+Output: "a"
+Explanation: The entire string s is the minimum window.
+```
+
+**Example 3:**
+
+```
+Input: s <span class="token operator">=</span> <span class="token string">"a"</span><span class="token punctuation">,</span> t <span class="token operator">=</span> <span class="token string">"aa"</span>
+Output: <span class="token string">""</span>
+Explanation: Both <span class="token string">'a'</span>s <span class="token keyword">from</span> t must be included <span class="token operator">in</span> the window<span class="token punctuation">.</span>
+Since the largest window <span class="token keyword">of</span> s only has one <span class="token string">'a'</span><span class="token punctuation">,</span> <span class="token keyword">return</span> empty string<span class="token punctuation">.</span>
+```
+
+**Constraints:**
+
+-   `m == s.length`
+-   `n == t.length`
+-   `1 <= m, n <= 10^5`
+-   `s` and `t` consist of uppercase and lowercase English letters.
+
+___
+
+What is a brute force solution for this problem?
+
+A) Check all substrings of s to find if they contain all characters of t
+
+B) Remove each character of s one by one and check if the remaining string contains t
+
+C) Sort both s and t and check if t is a substring of s
+
+###### ID63
+
+A:: =============================================  
+**Answer**: A
+
+The brute force solution would be to generate all possible substrings of s and for each substring, check if it contains all characters of t including duplicates. Then we keep the shortest such valid substring.
+
+Q:: =============================================  
+
+##### Given two strings `s` and `t` of lengths `m` and `n` respectively, return the _**minimum window substring**_ of `s` such that every character in `t` (_**including duplicates**_) is included in the window. If there is no such substring, return the empty string `""`.
+
+The testcases will be generated such that the answer is **unique**.
+
+**Example 1:**
+
+```
+Input: s = "ADOBECODEBANC", t = "ABC"
+Output: "BANC"
+Explanation: The minimum window substring "BANC" includes 'A', 'B', and 'C' from string t.
+```
+
+**Example 2:**
+
+```
+Input: s = "a", t = "a"
+Output: "a"
+Explanation: The entire string s is the minimum window.
+```
+
+**Example 3:**
+
+```
+Input: s <span class="token operator">=</span> <span class="token string">"a"</span><span class="token punctuation">,</span> t <span class="token operator">=</span> <span class="token string">"aa"</span>
+Output: <span class="token string">""</span>
+Explanation: Both <span class="token string">'a'</span>s <span class="token keyword">from</span> t must be included <span class="token operator">in</span> the window<span class="token punctuation">.</span>
+Since the largest window <span class="token keyword">of</span> s only has one <span class="token string">'a'</span><span class="token punctuation">,</span> <span class="token keyword">return</span> empty string<span class="token punctuation">.</span>
+```
+
+**Constraints:**
+
+-   `m == s.length`
+-   `n == t.length`
+-   `1 <= m, n <= 10^5`
+-   `s` and `t` consist of uppercase and lowercase English letters.
+
+___
+
+What kind of data structure could help us track the frequency of each character in the current window of our string?
+
+A) Linked List
+
+B) Hash Map
+
+C) Stack
+
+###### ID64
+
+A:: =============================================  
+**Answer**: B
+
+A Hash Map is a good data structure to efficiently track the frequency of each character in the current window. By using the character itself as the key and the frequency as the value, we can access and update the frequency of each character in constant time.
+
+Q:: =============================================  
+
+##### Given two strings `s` and `t` of lengths `m` and `n` respectively, return the _**minimum window substring**_ of `s` such that every character in `t` (_**including duplicates**_) is included in the window. If there is no such substring, return the empty string `""`.
+
+The testcases will be generated such that the answer is **unique**.
+
+**Example 1:**
+
+```
+Input: s = "ADOBECODEBANC", t = "ABC"
+Output: "BANC"
+Explanation: The minimum window substring "BANC" includes 'A', 'B', and 'C' from string t.
+```
+
+**Example 2:**
+
+```
+Input: s = "a", t = "a"
+Output: "a"
+Explanation: The entire string s is the minimum window.
+```
+
+**Example 3:**
+
+```
+Input: s <span class="token operator">=</span> <span class="token string">"a"</span><span class="token punctuation">,</span> t <span class="token operator">=</span> <span class="token string">"aa"</span>
+Output: <span class="token string">""</span>
+Explanation: Both <span class="token string">'a'</span>s <span class="token keyword">from</span> t must be included <span class="token operator">in</span> the window<span class="token punctuation">.</span>
+Since the largest window <span class="token keyword">of</span> s only has one <span class="token string">'a'</span><span class="token punctuation">,</span> <span class="token keyword">return</span> empty string<span class="token punctuation">.</span>
+```
+
+**Constraints:**
+
+-   `m == s.length`
+-   `n == t.length`
+-   `1 <= m, n <= 10^5`
+-   `s` and `t` consist of uppercase and lowercase English letters.
+
+___
+
+Considering an efficient approach, what strategy could we use to solve this problem?
+
+A) Divide and Conquer
+
+B) Two Pointers with Sliding Window
+
+C) Binary Search
+
+###### ID65
+
+A:: =============================================  
+**Answer**: B
+
+The Two Pointers with Sliding Window strategy allows us to scan through the string in linear time complexity while keeping track of the smallest valid substring. We maintain a sliding window that always satisfies the condition of containing all characters of \`t\`.
+
+Q:: =============================================  
+
+##### Given two strings `s` and `t` of lengths `m` and `n` respectively, return the _**minimum window substring**_ of `s` such that every character in `t` (_**including duplicates**_) is included in the window. If there is no such substring, return the empty string `""`.
+
+The testcases will be generated such that the answer is **unique**.
+
+**Example 1:**
+
+```
+Input: s = "ADOBECODEBANC", t = "ABC"
+Output: "BANC"
+Explanation: The minimum window substring "BANC" includes 'A', 'B', and 'C' from string t.
+```
+
+**Example 2:**
+
+```
+Input: s = "a", t = "a"
+Output: "a"
+Explanation: The entire string s is the minimum window.
+```
+
+**Example 3:**
+
+```
+Input: s <span class="token operator">=</span> <span class="token string">"a"</span><span class="token punctuation">,</span> t <span class="token operator">=</span> <span class="token string">"aa"</span>
+Output: <span class="token string">""</span>
+Explanation: Both <span class="token string">'a'</span>s <span class="token keyword">from</span> t must be included <span class="token operator">in</span> the window<span class="token punctuation">.</span>
+Since the largest window <span class="token keyword">of</span> s only has one <span class="token string">'a'</span><span class="token punctuation">,</span> <span class="token keyword">return</span> empty string<span class="token punctuation">.</span>
+```
+
+**Constraints:**
+
+-   `m == s.length`
+-   `n == t.length`
+-   `1 <= m, n <= 10^5`
+-   `s` and `t` consist of uppercase and lowercase English letters.
+
+___
+
+What should we do if our current window doesn't contain all characters of `t`?
+
+A) Expand the window from the right
+
+B) Shrink the window from the left
+
+C) Remove the window and create a new one
+
+###### ID66
+
+A:: =============================================  
+**Answer**: A
+
+If our current window does not contain all characters of \`t\`, it means we need to expand the window from the right in hope of including the missing characters.
+
+Q:: =============================================  
+
+##### Given two strings `s` and `t` of lengths `m` and `n` respectively, return the _**minimum window substring**_ of `s` such that every character in `t` (_**including duplicates**_) is included in the window. If there is no such substring, return the empty string `""`.
+
+The testcases will be generated such that the answer is **unique**.
+
+**Example 1:**
+
+```
+Input: s = "ADOBECODEBANC", t = "ABC"
+Output: "BANC"
+Explanation: The minimum window substring "BANC" includes 'A', 'B', and 'C' from string t.
+```
+
+**Example 2:**
+
+```
+Input: s = "a", t = "a"
+Output: "a"
+Explanation: The entire string s is the minimum window.
+```
+
+**Example 3:**
+
+```
+Input: s <span class="token operator">=</span> <span class="token string">"a"</span><span class="token punctuation">,</span> t <span class="token operator">=</span> <span class="token string">"aa"</span>
+Output: <span class="token string">""</span>
+Explanation: Both <span class="token string">'a'</span>s <span class="token keyword">from</span> t must be included <span class="token operator">in</span> the window<span class="token punctuation">.</span>
+Since the largest window <span class="token keyword">of</span> s only has one <span class="token string">'a'</span><span class="token punctuation">,</span> <span class="token keyword">return</span> empty string<span class="token punctuation">.</span>
+```
+
+**Constraints:**
+
+-   `m == s.length`
+-   `n == t.length`
+-   `1 <= m, n <= 10^5`
+-   `s` and `t` consist of uppercase and lowercase English letters.
+
+___
+
+If our current window contains all characters of `t`, what should we do to find the smallest valid window?
+
+A) Expand the window from the right
+
+B) Shrink the window from the left
+
+C) Expand the window from the left
+
+###### ID67
+
+A:: =============================================  
+**Answer**: B
+
+If our current window already contains all characters of \`t\`, we try to shrink the window from the left to find the smallest window that still satisfies the condition. If we can't shrink it without losing a necessary character, we move on to expanding it from the right again.
+
+Q:: =============================================  
+
+##### Given two strings `s` and `t` of lengths `m` and `n` respectively, return the _**minimum window substring**_ of `s` such that every character in `t` (_**including duplicates**_) is included in the window. If there is no such substring, return the empty string `""`.
+
+The testcases will be generated such that the answer is **unique**.
+
+**Example 1:**
+
+```
+Input: s = "ADOBECODEBANC", t = "ABC"
+Output: "BANC"
+Explanation: The minimum window substring "BANC" includes 'A', 'B', and 'C' from string t.
+```
+
+**Example 2:**
+
+```
+Input: s = "a", t = "a"
+Output: "a"
+Explanation: The entire string s is the minimum window.
+```
+
+**Example 3:**
+
+```
+Input: s <span class="token operator">=</span> <span class="token string">"a"</span><span class="token punctuation">,</span> t <span class="token operator">=</span> <span class="token string">"aa"</span>
+Output: <span class="token string">""</span>
+Explanation: Both <span class="token string">'a'</span>s <span class="token keyword">from</span> t must be included <span class="token operator">in</span> the window<span class="token punctuation">.</span>
+Since the largest window <span class="token keyword">of</span> s only has one <span class="token string">'a'</span><span class="token punctuation">,</span> <span class="token keyword">return</span> empty string<span class="token punctuation">.</span>
+```
+
+**Constraints:**
+
+-   `m == s.length`
+-   `n == t.length`
+-   `1 <= m, n <= 10^5`
+-   `s` and `t` consist of uppercase and lowercase English letters.
+
+___
+
+How can we determine if our current window contains all characters of `t` without iterating through the entire hashmap?
+
+A) By checking if the length of the window is greater than or equal to the length of \`t\`
+
+B) By keeping track of two variables: the number of unique characters we have from \`t\` in our current window and the total unique characters needed from \`t\`
+
+C) By sorting the hashmap and comparing it with \`t\`
+
+###### ID68
+
+A:: =============================================  
+**Answer**: B
+
+By maintaining two variables, \`have\` and \`need\`, we can efficiently check if our window contains all characters of \`t\`. \`need\` is the number of unique characters in \`t\`, and \`have\` is the number of unique characters in \`t\` that our window currently contains. Each time we add a character to our window that makes the count of that character match what's needed in \`t\`, we increment \`have\`. We know our window contains all characters of \`t\` when \`have\` equals \`need\`.
+
+Q:: =============================================  
+
+##### Given two strings `s` and `t` of lengths `m` and `n` respectively, return the _**minimum window substring**_ of `s` such that every character in `t` (_**including duplicates**_) is included in the window. If there is no such substring, return the empty string `""`.
+
+The testcases will be generated such that the answer is **unique**.
+
+**Example 1:**
+
+```
+Input: s = "ADOBECODEBANC", t = "ABC"
+Output: "BANC"
+Explanation: The minimum window substring "BANC" includes 'A', 'B', and 'C' from string t.
+```
+
+**Example 2:**
+
+```
+Input: s = "a", t = "a"
+Output: "a"
+Explanation: The entire string s is the minimum window.
+```
+
+**Example 3:**
+
+```
+Input: s <span class="token operator">=</span> <span class="token string">"a"</span><span class="token punctuation">,</span> t <span class="token operator">=</span> <span class="token string">"aa"</span>
+Output: <span class="token string">""</span>
+Explanation: Both <span class="token string">'a'</span>s <span class="token keyword">from</span> t must be included <span class="token operator">in</span> the window<span class="token punctuation">.</span>
+Since the largest window <span class="token keyword">of</span> s only has one <span class="token string">'a'</span><span class="token punctuation">,</span> <span class="token keyword">return</span> empty string<span class="token punctuation">.</span>
+```
+
+**Constraints:**
+
+-   `m == s.length`
+-   `n == t.length`
+-   `1 <= m, n <= 10^5`
+-   `s` and `t` consist of uppercase and lowercase English letters.
+
+___
+
+Given that the input strings only consist of lowercase or uppercase English characters, what is the time and space complexity of the sliding window approach below? Assume `n` is the length of `s` and `m` is the length of `t`.
+
+```python
+class Solution:
+    def minWindow(self, s: str, t: str) -> str:
+        if t == '': return ''
+
+        countT, window = {}, {}
+        for c in t:
+            countT[c] = 1 + countT.get(c, 0)
+
+        have, need = 0, len(countT)
+        res, resLen = [-1, -1], float('infinity')
+        l = 0
+        for r in range(len(s)):
+            c = s[r]
+            window[c] = 1 + window.get(c, 0)
+
+            if c in countT and window[c] == countT[c]:
+                have += 1
+
+            while have == need:
+                if (r - l + 1) < resLen:
+                    res = [l, r]
+                    resLen = (r - l + 1)
+                window[s[l]] -= 1
+                if s[l] in countT and window[s[l]] < countT[s[l]]:
+                    have -= 1
+                l += 1
+        l, r = res
+        return s[l:r+1] if resLen != float('infinity') else ''
+```
+
+A) Time complexity: O(n+m), Space complexity: O(1)
+
+B) Time complexity: O(n), Space complexity: O(n)
+
+C) Time complexity: O(n^2), Space complexity: O(m)
+
+###### ID69
+
+A:: =============================================  
+**Answer**: A
+
+The time complexity is O(n+m) as we go through both s and t once. The space complexity is O(1) because the countT and window dictionaries will at most contain 52 unique keys, corresponding to the 26 lowercase and 26 uppercase English letters, which is a constant number and does not grow with n or m.
 
 #### Chapter 6 - Sliding Window Maximum
 
