@@ -59,6 +59,13 @@
 | [43](#id43) | [You are given an integer array height of](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%204%20-%20Container%20With%20Most%20Water%20Blind/43%20-%20You%20are%20given%20an%20integer%20array%20height%20of.md) | 2 | 4 |
 | [44](#id44) | [You are given an integer array height of](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%204%20-%20Container%20With%20Most%20Water%20Blind/44%20-%20You%20are%20given%20an%20integer%20array%20height%20of.md) | 2 | 4 |
 | [45](#id45) | [You are given an integer array height of](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%204%20-%20Container%20With%20Most%20Water%20Blind/45%20-%20You%20are%20given%20an%20integer%20array%20height%20of.md) | 2 | 4 |
+| **-** | **Sliding Window** | **3** | **-** |
+| **-** | **Sliding Window > Best Time to Buy and Sell Stock Blind** | **3** | **1** |
+| [46](#id46) | [You are given an array prices where pri](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Sliding%20Window/Chapter%201%20-%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20Blind/46%20-%20You%20are%20given%20an%20array%20prices%20where%20pri.md) | 3 | 1 |
+| [47](#id47) | [You are given an array prices where pri](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Sliding%20Window/Chapter%201%20-%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20Blind/47%20-%20You%20are%20given%20an%20array%20prices%20where%20pri.md) | 3 | 1 |
+| [48](#id48) | [You are given an array prices where pri](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Sliding%20Window/Chapter%201%20-%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20Blind/48%20-%20You%20are%20given%20an%20array%20prices%20where%20pri.md) | 3 | 1 |
+| [49](#id49) | [You are given an array prices where pri](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Sliding%20Window/Chapter%201%20-%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20Blind/49%20-%20You%20are%20given%20an%20array%20prices%20where%20pri.md) | 3 | 1 |
+| [50](#id50) | [You are given an array prices where pri](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Sliding%20Window/Chapter%201%20-%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20Blind/50%20-%20You%20are%20given%20an%20array%20prices%20where%20pri.md) | 3 | 1 |
 
 ### Part I - Arrays and Hashing
 
@@ -2217,6 +2224,184 @@ The two-pointer solution has a time complexity of O(n) because you need to itera
 ### Part III - Sliding Window
 
 #### Chapter 1 - Best Time to Buy and Sell Stock (Blind)
+
+Q:: =============================================  
+
+##### You are given an array `prices` where `prices[i]` is the price of a given stock on the `ith` day.
+
+You want to maximize your profit by choosing a **single day** to buy one stock and choosing a **different day in the future** to sell that stock.
+
+_Return the maximum profit you can achieve from this transaction. If you cannot achieve any profit, return `0`._
+
+Example 1:
+
+```
+Input: prices = [7,1,5,3,6,4]
+Output: 5
+Explanation: Buy on day 2 (price = 1) and sell on day 5 (price = 6), profit = 6-1 = 5.
+Note that buying on day 2 and selling on day 1 is not allowed because you must buy before you sell.
+```
+
+___
+
+What is the brute-force approach to solving this problem?
+
+A) Sorting the array and running binary search to find the difference between the minimum and maximum prices.
+
+B) Calculating the profit for each valid pair of buying and selling days, and finding the maximum profit.
+
+C) Sorting the array and finding the difference between the minimum and maximum prices.
+
+D) Creating a new array with the differences between consecutive prices and finding the maximum difference.
+
+###### ID46
+
+A:: =============================================  
+**Answer**: B
+
+The correct brute-force approach is to calculate the profit for each valid pair of buying and selling days, and then find the maximum profit. For each day, we calculate the profit for every other day in the future. We keep track of the maximum profit seen.
+
+Q:: =============================================  
+
+##### You are given an array `prices` where `prices[i]` is the price of a given stock on the `ith` day.
+
+You want to maximize your profit by choosing a **single day** to buy one stock and choosing a **different day in the future** to sell that stock.
+
+_Return the maximum profit you can achieve from this transaction. If you cannot achieve any profit, return `0`._
+
+Example 1:
+
+```
+Input: prices = [7,1,5,3,6,4]
+Output: 5
+Explanation: Buy on day 2 (price = 1) and sell on day 5 (price = 6), profit = 6-1 = 5.
+Note that buying on day 2 and selling on day 1 is not allowed because you must buy before you sell.
+```
+
+___
+
+We can also solve this by iterating through the array once, while keeping track of just two values. What two values should we keep track of to maximize the profit?
+
+A) The maximum and minimum prices in the array.
+
+B) The minimum price found so far and the maximum profit found so far.
+
+C) The difference between each pair of prices and the maximum price found so far.
+
+D) The maximum profit found so far and the index of the minimum price found so far.
+
+###### ID47
+
+A:: =============================================  
+**Answer**: B
+
+We should keep track of the minimum price found so far and the maximum profit found so far. By keeping track of these two values, we can calculate the maximum potential profit at each step while iterating through the array.
+
+Q:: =============================================  
+
+##### You are given an array `prices` where `prices[i]` is the price of a given stock on the `ith` day.
+
+You want to maximize your profit by choosing a **single day** to buy one stock and choosing a **different day in the future** to sell that stock.
+
+_Return the maximum profit you can achieve from this transaction. If you cannot achieve any profit, return `0`._
+
+Example 1:
+
+```
+Input: prices = [7,1,5,3,6,4]
+Output: 5
+Explanation: Buy on day 2 (price = 1) and sell on day 5 (price = 6), profit = 6-1 = 5.
+Note that buying on day 2 and selling on day 1 is not allowed because you must buy before you sell.
+```
+
+___
+
+How will we use the minimum price found so far and the maximum profit found so far to efficiently solve this problem?
+
+A) Using Kadane’s greedy algorithm.
+
+B) Find the minimum price in the array, and for every other price compute the profit, until we find the maximum profit.
+
+C) Iterate through the prices, if we find a new minimum price then update it. Compute the profit between the current price and the minimum price, if it exceeds the maximum profit, then update it.
+
+###### ID48
+
+A:: =============================================  
+**Answer**: C
+
+We iterate through the prices, and for each price, if it is lower than the current minimum price, we update the minimum price. Then, we compute the profit by subtracting the current minimum from the current price. If this profit is greater than the current maximum profit, we update the maximum profit.
+
+Q:: =============================================  
+
+##### You are given an array `prices` where `prices[i]` is the price of a given stock on the `ith` day.
+
+You want to maximize your profit by choosing a **single day** to buy one stock and choosing a **different day in the future** to sell that stock.
+
+_Return the maximum profit you can achieve from this transaction. If you cannot achieve any profit, return `0`._
+
+Example 1:
+
+```
+Input: prices = [7,1,5,3,6,4]
+Output: 5
+Explanation: Buy on day 2 (price = 1) and sell on day 5 (price = 6), profit = 6-1 = 5.
+Note that buying on day 2 and selling on day 1 is not allowed because you must buy before you sell.
+```
+
+___
+
+What is the time complexity of the optimal solution?
+
+A) O(1)
+
+B) O(n)
+
+C) O(n^2)
+
+D) O(2^n)
+
+###### ID49
+
+A:: =============================================  
+**Answer**: B
+
+The optimal solution has a time complexity of O(n), where n is the number of days (or the length of the input array). This is because we're iterating through the array just once.
+
+Q:: =============================================  
+
+##### You are given an array `prices` where `prices[i]` is the price of a given stock on the `ith` day.
+
+You want to maximize your profit by choosing a **single day** to buy one stock and choosing a **different day in the future** to sell that stock.
+
+_Return the maximum profit you can achieve from this transaction. If you cannot achieve any profit, return `0`._
+
+Example 1:
+
+```
+Input: prices = [7,1,5,3,6,4]
+Output: 5
+Explanation: Buy on day 2 (price = 1) and sell on day 5 (price = 6), profit = 6-1 = 5.
+Note that buying on day 2 and selling on day 1 is not allowed because you must buy before you sell.
+```
+
+___
+
+What is the space complexity of the optimal solution?
+
+A) O(1)
+
+B) O(n)
+
+C) O(n^2)
+
+D) O(2^n)
+
+###### ID50
+
+A:: =============================================  
+**Answer**: A
+
+The optimal solution has a constant space complexity, O(1), as we are only keeping track of two variables (minimum price and maximum profit), regardless of the size of the input array.
 
 #### Chapter 2 - Longest Substring Without Repeating Characters (Blind)
 
