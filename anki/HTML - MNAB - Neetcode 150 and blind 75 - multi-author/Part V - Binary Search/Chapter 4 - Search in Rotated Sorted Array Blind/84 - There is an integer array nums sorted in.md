@@ -64,8 +64,6 @@ To summarize, the below code will solve this problem using an augmented binary s
 </code></pre>
 <!-- codeblock-end -->
 
-Copy
-
 A) Time complexity: O(n), Space complexity: O(1)
 
 B) Time complexity: O(log n), Space complexity: O(1)

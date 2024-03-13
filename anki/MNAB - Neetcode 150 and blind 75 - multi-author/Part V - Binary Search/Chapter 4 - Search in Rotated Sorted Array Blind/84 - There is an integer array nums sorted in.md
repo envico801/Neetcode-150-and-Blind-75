@@ -67,8 +67,6 @@ def search(self, nums: List[int], target: int) -> int:
          return -1
 ```
 
-Copy
-
 A) Time complexity: O(n), Space complexity: O(1)
 
 B) Time complexity: O(log n), Space complexity: O(1)

@@ -107,6 +107,15 @@
 | [82](#id82) | [There is an integer array nums sorted in](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Binary%20Search/Chapter%204%20-%20Search%20in%20Rotated%20Sorted%20Array%20Blind/82%20-%20There%20is%20an%20integer%20array%20nums%20sorted%20in.md) | 5 | 4 |
 | [83](#id83) | [There is an integer array nums sorted in](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Binary%20Search/Chapter%204%20-%20Search%20in%20Rotated%20Sorted%20Array%20Blind/83%20-%20There%20is%20an%20integer%20array%20nums%20sorted%20in.md) | 5 | 4 |
 | [84](#id84) | [There is an integer array nums sorted in](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Binary%20Search/Chapter%204%20-%20Search%20in%20Rotated%20Sorted%20Array%20Blind/84%20-%20There%20is%20an%20integer%20array%20nums%20sorted%20in.md) | 5 | 4 |
+| **-** | **Binary Search > Find Minimum in Rotated Sorted Array Blind** | **5** | **5** |
+| [85](#id85) | [Suppose an array of length n sorted in a](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Binary%20Search/Chapter%205%20-%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20Blind/85%20-%20Suppose%20an%20array%20of%20length%20n%20sorted%20in%20a.md) | 5 | 5 |
+| [86](#id86) | [Suppose an array of length n sorted in a](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Binary%20Search/Chapter%205%20-%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20Blind/86%20-%20Suppose%20an%20array%20of%20length%20n%20sorted%20in%20a.md) | 5 | 5 |
+| [87](#id87) | [Suppose an array of length n sorted in a](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Binary%20Search/Chapter%205%20-%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20Blind/87%20-%20Suppose%20an%20array%20of%20length%20n%20sorted%20in%20a.md) | 5 | 5 |
+| [88](#id88) | [Suppose an array of length n sorted in a](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Binary%20Search/Chapter%205%20-%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20Blind/88%20-%20Suppose%20an%20array%20of%20length%20n%20sorted%20in%20a.md) | 5 | 5 |
+| [89](#id89) | [Suppose an array of length n sorted in a](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Binary%20Search/Chapter%205%20-%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20Blind/89%20-%20Suppose%20an%20array%20of%20length%20n%20sorted%20in%20a.md) | 5 | 5 |
+| [90](#id90) | [Suppose an array of length n sorted in a](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Binary%20Search/Chapter%205%20-%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20Blind/90%20-%20Suppose%20an%20array%20of%20length%20n%20sorted%20in%20a.md) | 5 | 5 |
+| [91](#id91) | [Suppose an array of length n sorted in a](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Binary%20Search/Chapter%205%20-%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20Blind/91%20-%20Suppose%20an%20array%20of%20length%20n%20sorted%20in%20a.md) | 5 | 5 |
+| [92](#id92) | [Suppose an array of length n sorted in a](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Binary%20Search/Chapter%205%20-%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20Blind/92%20-%20Suppose%20an%20array%20of%20length%20n%20sorted%20in%20a.md) | 5 | 5 |
 
 ### Part I - Arrays and Hashing
 
@@ -4269,8 +4278,6 @@ def search(self, nums: List[int], target: int) -> int:
         return -1
 ```
 
-Copy
-
 A) Time complexity: O(n), Space complexity: O(1)
 
 B) Time complexity: O(log n), Space complexity: O(1)
@@ -4287,6 +4294,528 @@ A:: =============================================
 The binary search approach has a time complexity of O(log n) because in each step, you reduce the problem size by half. The space complexity is O(1) because you are not using any additional space that scales with the input size. You only need a constant amount of space to store the variables left, right, and mid.
 
 #### Chapter 5 - Find Minimum in Rotated Sorted Array (Blind)
+
+Q:: =============================================  
+
+##### Suppose an array of length `n` sorted in ascending order is **rotated** between `1` and `n` times. For example, the array `nums = [0, 1, 2, 4, 5, 6, 7]` might become:
+
+-   `[4, 5, 6, 7, 0, 1, 2]` if it was rotated `4` times.
+-   `[0, 1, 2, 4, 5, 6, 7]` if it was rotated `7` times.  
+    Notice that **rotating** an array `[a[0], a[1], a[2], ..., a[n-1]]` 1 time results in the array `[a[n-1], a[0], a[1], a[2], ..., a[n-2]]`.
+
+Given the sorted rotated array `nums` of **unique** elements, return _the minimum element of this array_.
+
+You must write an algorithm that runs in `O(log n)` time.
+
+**Example 1:**
+
+```
+Input: nums = [3,4,5,1,2]
+Output: 1
+Explanation: The original array was [1,2,3,4,5] rotated 3 times.
+```
+
+**Example 2:**
+
+```
+Input: nums = [4,5,6,7,0,1,2]
+Output: 0
+Explanation: The original array was [0,1,2,4,5,6,7] and it was rotated 4 times.
+```
+
+**Example 3:**
+
+```
+Input: nums = [11,13,15,17]
+Output: 11
+Explanation: The original array was [11,13,15,17] and it was rotated 4 times. 
+```
+
+**Constraints:**
+
+-   `n == nums.length`
+-   `1 <= n <= 5000`
+-   `-5000 <= nums[i] <= 5000`
+-   All the integers of `nums` are unique.
+-   `nums` is sorted and rotated between `1` and `n` times.
+
+___
+
+Suppose we have a _normal_ sorted integer array. What is the time complexity to find the minimum element in this array?
+
+A) O(n)
+
+B) O(log n)
+
+C) O(n^2)
+
+D) O(1)
+
+###### ID85
+
+A:: =============================================  
+**Answer**: D
+
+In a sorted array, the minimum element is always at the beginning, which can be found in constant time, O(1).
+
+Q:: =============================================  
+
+##### Suppose an array of length `n` sorted in ascending order is **rotated** between `1` and `n` times. For example, the array `nums = [0, 1, 2, 4, 5, 6, 7]` might become:
+
+-   `[4, 5, 6, 7, 0, 1, 2]` if it was rotated `4` times.
+-   `[0, 1, 2, 4, 5, 6, 7]` if it was rotated `7` times.  
+    Notice that **rotating** an array `[a[0], a[1], a[2], ..., a[n-1]]` 1 time results in the array `[a[n-1], a[0], a[1], a[2], ..., a[n-2]]`.
+
+Given the sorted rotated array `nums` of **unique** elements, return _the minimum element of this array_.
+
+You must write an algorithm that runs in `O(log n)` time.
+
+**Example 1:**
+
+```
+Input: nums = [3,4,5,1,2]
+Output: 1
+Explanation: The original array was [1,2,3,4,5] rotated 3 times.
+```
+
+**Example 2:**
+
+```
+Input: nums = [4,5,6,7,0,1,2]
+Output: 0
+Explanation: The original array was [0,1,2,4,5,6,7] and it was rotated 4 times.
+```
+
+**Example 3:**
+
+```
+Input: nums = [11,13,15,17]
+Output: 11
+Explanation: The original array was [11,13,15,17] and it was rotated 4 times. 
+```
+
+**Constraints:**
+
+-   `n == nums.length`
+-   `1 <= n <= 5000`
+-   `-5000 <= nums[i] <= 5000`
+-   All the integers of `nums` are unique.
+-   `nums` is sorted and rotated between `1` and `n` times.
+
+___
+
+Now consider a sorted array that has been rotated at an unknown index. What is the time complexity of the _simplest_ (but non-optimal) solution to find the minimum element in this array?
+
+A) O(n)
+
+B) O(log n)
+
+C) O(n^2)
+
+D) O(1)
+
+###### ID86
+
+A:: =============================================  
+**Answer**: A
+
+The simplest solution would be to perform a linear search, which has a time complexity of O(n).
+
+Q:: =============================================  
+
+##### Suppose an array of length `n` sorted in ascending order is **rotated** between `1` and `n` times. For example, the array `nums = [0, 1, 2, 4, 5, 6, 7]` might become:
+
+-   `[4, 5, 6, 7, 0, 1, 2]` if it was rotated `4` times.
+-   `[0, 1, 2, 4, 5, 6, 7]` if it was rotated `7` times.  
+    Notice that **rotating** an array `[a[0], a[1], a[2], ..., a[n-1]]` 1 time results in the array `[a[n-1], a[0], a[1], a[2], ..., a[n-2]]`.
+
+Given the sorted rotated array `nums` of **unique** elements, return _the minimum element of this array_.
+
+You must write an algorithm that runs in `O(log n)` time.
+
+**Example 1:**
+
+```
+Input: nums = [3,4,5,1,2]
+Output: 1
+Explanation: The original array was [1,2,3,4,5] rotated 3 times.
+```
+
+**Example 2:**
+
+```
+Input: nums = [4,5,6,7,0,1,2]
+Output: 0
+Explanation: The original array was [0,1,2,4,5,6,7] and it was rotated 4 times.
+```
+
+**Example 3:**
+
+```
+Input: nums = [11,13,15,17]
+Output: 11
+Explanation: The original array was [11,13,15,17] and it was rotated 4 times. 
+```
+
+**Constraints:**
+
+-   `n == nums.length`
+-   `1 <= n <= 5000`
+-   `-5000 <= nums[i] <= 5000`
+-   All the integers of `nums` are unique.
+-   `nums` is sorted and rotated between `1` and `n` times.
+
+___
+
+In a typical binary search, what is the first element we check to see if it's the target?
+
+A) The first element in the array
+
+B) The last element in the array
+
+C) The middle element in the array
+
+D) The element at a random position in the array
+
+###### ID87
+
+A:: =============================================  
+**Answer**: C
+
+In a binary search, we first check the middle element of the array. Depending on the condition, we decide whether to proceed to the left half or the right half.
+
+Q:: =============================================  
+
+##### Suppose an array of length `n` sorted in ascending order is **rotated** between `1` and `n` times. For example, the array `nums = [0, 1, 2, 4, 5, 6, 7]` might become:
+
+-   `[4, 5, 6, 7, 0, 1, 2]` if it was rotated `4` times.
+-   `[0, 1, 2, 4, 5, 6, 7]` if it was rotated `7` times.  
+    Notice that **rotating** an array `[a[0], a[1], a[2], ..., a[n-1]]` 1 time results in the array `[a[n-1], a[0], a[1], a[2], ..., a[n-2]]`.
+
+Given the sorted rotated array `nums` of **unique** elements, return _the minimum element of this array_.
+
+You must write an algorithm that runs in `O(log n)` time.
+
+**Example 1:**
+
+```
+Input: nums = [3,4,5,1,2]
+Output: 1
+Explanation: The original array was [1,2,3,4,5] rotated 3 times.
+```
+
+**Example 2:**
+
+```
+Input: nums = [4,5,6,7,0,1,2]
+Output: 0
+Explanation: The original array was [0,1,2,4,5,6,7] and it was rotated 4 times.
+```
+
+**Example 3:**
+
+```
+Input: nums = [11,13,15,17]
+Output: 11
+Explanation: The original array was [11,13,15,17] and it was rotated 4 times. 
+```
+
+**Constraints:**
+
+-   `n == nums.length`
+-   `1 <= n <= 5000`
+-   `-5000 <= nums[i] <= 5000`
+-   All the integers of `nums` are unique.
+-   `nums` is sorted and rotated between `1` and `n` times.
+
+___
+
+In this case, our target is the minimum element. Which portion of the array will it be found?  
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/02eaac7f-445e-4d1c-d51b-48c7c6aa2d00/public)
+
+A) The left sorted portion
+
+B) The right sorted portion
+
+###### ID88
+
+A:: =============================================  
+**Answer**: B
+
+The minimum element will be found in the right sorted portion since every element in that portion will be less than every element in the left sorted portion. The minimum element will be the leftmost value in the right sorted portion.
+
+Q:: =============================================  
+
+##### Suppose an array of length `n` sorted in ascending order is **rotated** between `1` and `n` times. For example, the array `nums = [0, 1, 2, 4, 5, 6, 7]` might become:
+
+-   `[4, 5, 6, 7, 0, 1, 2]` if it was rotated `4` times.
+-   `[0, 1, 2, 4, 5, 6, 7]` if it was rotated `7` times.  
+    Notice that **rotating** an array `[a[0], a[1], a[2], ..., a[n-1]]` 1 time results in the array `[a[n-1], a[0], a[1], a[2], ..., a[n-2]]`.
+
+Given the sorted rotated array `nums` of **unique** elements, return _the minimum element of this array_.
+
+You must write an algorithm that runs in `O(log n)` time.
+
+**Example 1:**
+
+```
+Input: nums = [3,4,5,1,2]
+Output: 1
+Explanation: The original array was [1,2,3,4,5] rotated 3 times.
+```
+
+**Example 2:**
+
+```
+Input: nums = [4,5,6,7,0,1,2]
+Output: 0
+Explanation: The original array was [0,1,2,4,5,6,7] and it was rotated 4 times.
+```
+
+**Example 3:**
+
+```
+Input: nums = [11,13,15,17]
+Output: 11
+Explanation: The original array was [11,13,15,17] and it was rotated 4 times. 
+```
+
+**Constraints:**
+
+-   `n == nums.length`
+-   `1 <= n <= 5000`
+-   `-5000 <= nums[i] <= 5000`
+-   All the integers of `nums` are unique.
+-   `nums` is sorted and rotated between `1` and `n` times.
+
+___
+
+If the current portion of our search range from left to right is already sorted, e.g. `nums[l] < nums[r]`, then which element is the minimum of the current search range?  
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/958a3861-e7b7-4da8-8561-544714ca8400/public)
+
+A) nums\[m\]
+
+B) nums\[l\]
+
+C) nums\[r\]
+
+D) None of the above.
+
+###### ID89
+
+A:: =============================================  
+**Answer**: B
+
+In a normal sorted array, the leftmost element is the minimum. In our case, if the original array is rotated n times, the minimum will be nums\[0\]. Alternatively, as we run binary search, if the current subarray of our search is a normal sorted array, we can end the binary search.
+
+Q:: =============================================  
+
+##### Suppose an array of length `n` sorted in ascending order is **rotated** between `1` and `n` times. For example, the array `nums = [0, 1, 2, 4, 5, 6, 7]` might become:
+
+-   `[4, 5, 6, 7, 0, 1, 2]` if it was rotated `4` times.
+-   `[0, 1, 2, 4, 5, 6, 7]` if it was rotated `7` times.  
+    Notice that **rotating** an array `[a[0], a[1], a[2], ..., a[n-1]]` 1 time results in the array `[a[n-1], a[0], a[1], a[2], ..., a[n-2]]`.
+
+Given the sorted rotated array `nums` of **unique** elements, return _the minimum element of this array_.
+
+You must write an algorithm that runs in `O(log n)` time.
+
+**Example 1:**
+
+```
+Input: nums = [3,4,5,1,2]
+Output: 1
+Explanation: The original array was [1,2,3,4,5] rotated 3 times.
+```
+
+**Example 2:**
+
+```
+Input: nums = [4,5,6,7,0,1,2]
+Output: 0
+Explanation: The original array was [0,1,2,4,5,6,7] and it was rotated 4 times.
+```
+
+**Example 3:**
+
+```
+Input: nums = [11,13,15,17]
+Output: 11
+Explanation: The original array was [11,13,15,17] and it was rotated 4 times. 
+```
+
+**Constraints:**
+
+-   `n == nums.length`
+-   `1 <= n <= 5000`
+-   `-5000 <= nums[i] <= 5000`
+-   All the integers of `nums` are unique.
+-   `nums` is sorted and rotated between `1` and `n` times.
+
+___
+
+If the middle element is less than the first element of the array, where is the minimum element?  
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/33828cf2-4d4e-42d0-e429-b03e49111500/public)
+
+A) At the mid point.
+
+B) At the mid point or to the left of mid.
+
+C) To the right of mid.
+
+###### ID90
+
+A:: =============================================  
+**Answer**: B
+
+If the middle element is less than the first element, it means the middle element is in the right sorted portion. The smallest element will always be found in the right sorted portion, so either the middle element is the minimum or the minimum is to the left of mid.
+
+Q:: =============================================  
+
+##### Suppose an array of length `n` sorted in ascending order is **rotated** between `1` and `n` times. For example, the array `nums = [0, 1, 2, 4, 5, 6, 7]` might become:
+
+-   `[4, 5, 6, 7, 0, 1, 2]` if it was rotated `4` times.
+-   `[0, 1, 2, 4, 5, 6, 7]` if it was rotated `7` times.  
+    Notice that **rotating** an array `[a[0], a[1], a[2], ..., a[n-1]]` 1 time results in the array `[a[n-1], a[0], a[1], a[2], ..., a[n-2]]`.
+
+Given the sorted rotated array `nums` of **unique** elements, return _the minimum element of this array_.
+
+You must write an algorithm that runs in `O(log n)` time.
+
+**Example 1:**
+
+```
+Input: nums = [3,4,5,1,2]
+Output: 1
+Explanation: The original array was [1,2,3,4,5] rotated 3 times.
+```
+
+**Example 2:**
+
+```
+Input: nums = [4,5,6,7,0,1,2]
+Output: 0
+Explanation: The original array was [0,1,2,4,5,6,7] and it was rotated 4 times.
+```
+
+**Example 3:**
+
+```
+Input: nums = [11,13,15,17]
+Output: 11
+Explanation: The original array was [11,13,15,17] and it was rotated 4 times. 
+```
+
+**Constraints:**
+
+-   `n == nums.length`
+-   `1 <= n <= 5000`
+-   `-5000 <= nums[i] <= 5000`
+-   All the integers of `nums` are unique.
+-   `nums` is sorted and rotated between `1` and `n` times.
+
+___
+
+If the middle element is greater than or equal to the first element of the array, where is the minimum element?  
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/c5da4e6e-997d-4ccc-952d-9dd0360f9200/public)
+
+A) To the left of mid.
+
+B) To the right of mid.
+
+C) At the mid point.
+
+D) This scenario is not possible.
+
+###### ID91
+
+A:: =============================================  
+**Answer**: B
+
+If the middle element is greater than the first element, it means the middle element is in the left sorted portion, but the minimum must be found in the right sorted portion.
+
+Q:: =============================================  
+
+##### Suppose an array of length `n` sorted in ascending order is **rotated** between `1` and `n` times. For example, the array `nums = [0, 1, 2, 4, 5, 6, 7]` might become:
+
+-   `[4, 5, 6, 7, 0, 1, 2]` if it was rotated `4` times.
+-   `[0, 1, 2, 4, 5, 6, 7]` if it was rotated `7` times.  
+    Notice that **rotating** an array `[a[0], a[1], a[2], ..., a[n-1]]` 1 time results in the array `[a[n-1], a[0], a[1], a[2], ..., a[n-2]]`.
+
+Given the sorted rotated array `nums` of **unique** elements, return _the minimum element of this array_.
+
+You must write an algorithm that runs in `O(log n)` time.
+
+**Example 1:**
+
+```
+Input: nums = [3,4,5,1,2]
+Output: 1
+Explanation: The original array was [1,2,3,4,5] rotated 3 times.
+```
+
+**Example 2:**
+
+```
+Input: nums = [4,5,6,7,0,1,2]
+Output: 0
+Explanation: The original array was [0,1,2,4,5,6,7] and it was rotated 4 times.
+```
+
+**Example 3:**
+
+```
+Input: nums = [11,13,15,17]
+Output: 11
+Explanation: The original array was [11,13,15,17] and it was rotated 4 times. 
+```
+
+**Constraints:**
+
+-   `n == nums.length`
+-   `1 <= n <= 5000`
+-   `-5000 <= nums[i] <= 5000`
+-   All the integers of `nums` are unique.
+-   `nums` is sorted and rotated between `1` and `n` times.
+
+___
+
+To summarize, the below code will solve this problem using an augmented binary search solution. What is the time and space complexity?
+
+```python
+def findMin(self, nums: List[int]) -> int:
+    res = nums[0]
+    l, r = 0, len(nums) - 1
+
+    while l <= r:
+        if nums[l] < nums[r]:
+            return min(res, nums[l])
+
+        m = (l + r) // 2
+        res = min(res, nums[m])
+        if nums[m] >= nums[l]:
+            # We are in the left sorted portion, move right
+            l = m + 1
+        else:
+            # We are in the right sorted portion, move left
+            r = m - 1
+    return res
+```
+
+A) Time complexity: O(n), Space complexity: O(1)
+
+B) Time complexity: O(log n), Space complexity: O(1)
+
+C) Time complexity: O(n log n), Space complexity: O(n)
+
+D) Time complexity: O(n^2), Space complexity: O(n)
+
+###### ID92
+
+A:: =============================================  
+**Answer**: B
+
+The binary search approach has a time complexity of O(log n) because in each step, you reduce the problem size by half. The space complexity is O(1) because you are not using any additional space that scales with the input size. You only need a constant amount of space to store the variables left, right, and mid.
 
 #### Chapter 6 - Time Based Key-Value Store
 
