@@ -88,6 +88,14 @@
 | [67](#id67) | [Given two strings s and t of lengths](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Sliding%20Window/Chapter%205%20-%20Minimum%20Window%20Substring%20Blind/67%20-%20Given%20two%20strings%20s%20and%20t%20of%20lengths.md) | 3 | 5 |
 | [68](#id68) | [Given two strings s and t of lengths](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Sliding%20Window/Chapter%205%20-%20Minimum%20Window%20Substring%20Blind/68%20-%20Given%20two%20strings%20s%20and%20t%20of%20lengths.md) | 3 | 5 |
 | [69](#id69) | [Given two strings s and t of lengths](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Sliding%20Window/Chapter%205%20-%20Minimum%20Window%20Substring%20Blind/69%20-%20Given%20two%20strings%20s%20and%20t%20of%20lengths.md) | 3 | 5 |
+| **-** | **Stack** | **4** | **-** |
+| **-** | **Stack > Valid Parentheses Blind** | **4** | **1** |
+| [70](#id70) | [Given a string s containing just the chara](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Stack/Chapter%201%20-%20Valid%20Parentheses%20Blind/70%20-%20Given%20a%20string%20s%20containing%20just%20the%20chara.md) | 4 | 1 |
+| [71](#id71) | [Given a string s containing just the chara](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Stack/Chapter%201%20-%20Valid%20Parentheses%20Blind/71%20-%20Given%20a%20string%20s%20containing%20just%20the%20chara.md) | 4 | 1 |
+| [72](#id72) | [Given a string s containing just the chara](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Stack/Chapter%201%20-%20Valid%20Parentheses%20Blind/72%20-%20Given%20a%20string%20s%20containing%20just%20the%20chara.md) | 4 | 1 |
+| [73](#id73) | [Given a string s containing just the chara](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Stack/Chapter%201%20-%20Valid%20Parentheses%20Blind/73%20-%20Given%20a%20string%20s%20containing%20just%20the%20chara.md) | 4 | 1 |
+| [74](#id74) | [Given a string s containing just the chara](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Stack/Chapter%201%20-%20Valid%20Parentheses%20Blind/74%20-%20Given%20a%20string%20s%20containing%20just%20the%20chara.md) | 4 | 1 |
+| [75](#id75) | [Given a string s containing just the chara](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Stack/Chapter%201%20-%20Valid%20Parentheses%20Blind/75%20-%20Given%20a%20string%20s%20containing%20just%20the%20chara.md) | 4 | 1 |
 
 ### Part I - Arrays and Hashing
 
@@ -3475,6 +3483,290 @@ The time complexity is O(n+m) as we go through both s and t once. The space comp
 ### Part IV - Stack
 
 #### Chapter 1 - Valid Parentheses (Blind)
+
+Q:: =============================================  
+
+##### Given a string s containing just the characters `'('`, `')'`, `'{'`, `'}'`, `'['` and `']'`, determine if the input string is valid.
+
+An input string is valid if:
+
+Open brackets must be closed by the same type of brackets.  
+Open brackets must be closed in the correct order.  
+Every close bracket has a corresponding open bracket of the same type.
+
+**Example 1:**
+
+```
+Input: s = "()[]{}"
+Output: true
+```
+
+**Example 2:**
+
+```
+Input: s = "(]"
+Output: false
+```
+
+**Constraints:**
+
+-   `1 <= s.length <= 10^4`
+-   `s` consists of parentheses only `'()[]{}'`
+
+___
+
+Consider the string s = "( \[ ) \]" . Is this string valid?
+
+A) Yes
+
+B) No
+
+###### ID70
+
+A:: =============================================  
+**Answer**: B
+
+Although every opening bracket has a matching closing bracket of the same type, they are not closed in the correct order. The first opening bracket is '(', but the first closing bracket after that is '\]', which is not the correct matching closing bracket.
+
+Q:: =============================================  
+
+##### Given a string s containing just the characters `'('`, `')'`, `'{'`, `'}'`, `'['` and `']'`, determine if the input string is valid.
+
+An input string is valid if:
+
+Open brackets must be closed by the same type of brackets.  
+Open brackets must be closed in the correct order.  
+Every close bracket has a corresponding open bracket of the same type.
+
+**Example 1:**
+
+```
+Input: s = "()[]{}"
+Output: true
+```
+
+**Example 2:**
+
+```
+Input: s = "(]"
+Output: false
+```
+
+**Constraints:**
+
+-   `1 <= s.length <= 10^4`
+-   `s` consists of parentheses only `'()[]{}'`
+
+___
+
+At any point in the string, we can only close the most recent open bracket, and after we close a bracket we then want to close the next most recent open bracket. Which data structure would be most useful here?
+
+A) Hashmap
+
+B) Stack
+
+C) Queue
+
+D) Binary Tree
+
+###### ID71
+
+A:: =============================================  
+**Answer**: B
+
+A Stack is a LIFO (Last In First Out) data structure, which aligns well with this problem's requirements. When dealing with nested structures, like brackets, the most recently opened bracket must be the first one to be closed. This 'last opened, first closed' pattern is a characteristic behavior of a Stack, making it a suitable data structure to handle such scenarios.
+
+Q:: =============================================  
+
+##### Given a string s containing just the characters `'('`, `')'`, `'{'`, `'}'`, `'['` and `']'`, determine if the input string is valid.
+
+An input string is valid if:
+
+Open brackets must be closed by the same type of brackets.  
+Open brackets must be closed in the correct order.  
+Every close bracket has a corresponding open bracket of the same type.
+
+**Example 1:**
+
+```
+Input: s = "()[]{}"
+Output: true
+```
+
+**Example 2:**
+
+```
+Input: s = "(]"
+Output: false
+```
+
+**Constraints:**
+
+-   `1 <= s.length <= 10^4`
+-   `s` consists of parentheses only `'()[]{}'`
+
+___
+
+Assume we iterate through the string s and we maintain a stack. What should we do when we encounter an open bracket?
+
+A) Ignore it.
+
+B) Check if it matches with the top element of the stack.
+
+C) Push it onto the stack.
+
+D) Pop the top element from the stack.
+
+###### ID72
+
+A:: =============================================  
+**Answer**: C
+
+When we encounter an open bracket, we should push it onto the stack. The stack is used to keep track of the open brackets that we have encountered but not yet closed.
+
+Q:: =============================================  
+
+##### Given a string s containing just the characters `'('`, `')'`, `'{'`, `'}'`, `'['` and `']'`, determine if the input string is valid.
+
+An input string is valid if:
+
+Open brackets must be closed by the same type of brackets.  
+Open brackets must be closed in the correct order.  
+Every close bracket has a corresponding open bracket of the same type.
+
+**Example 1:**
+
+```
+Input: s = "()[]{}"
+Output: true
+```
+
+**Example 2:**
+
+```
+Input: s = "(]"
+Output: false
+```
+
+**Constraints:**
+
+-   `1 <= s.length <= 10^4`
+-   `s` consists of parentheses only `'()[]{}'`
+
+___
+
+Assume we iterate through the string s and we maintain a stack. What should we do when we encounter a closing bracket?
+
+A) Ignore it.
+
+B) Push it onto the stack.
+
+C) Pop the top element from the stack and check if it matches with the current closing bracket.
+
+D) Check if it matches with the bottom element of the stack.
+
+###### ID73
+
+A:: =============================================  
+**Answer**: C
+
+When we encounter a closing bracket, we should pop the top element from the stack and check if it is the matching opening bracket for the current closing bracket. If it is, we can continue; if it's not, or if the stack is empty, then the string is not valid.
+
+Q:: =============================================  
+
+##### Given a string s containing just the characters `'('`, `')'`, `'{'`, `'}'`, `'['` and `']'`, determine if the input string is valid.
+
+An input string is valid if:
+
+Open brackets must be closed by the same type of brackets.  
+Open brackets must be closed in the correct order.  
+Every close bracket has a corresponding open bracket of the same type.
+
+**Example 1:**
+
+```
+Input: s = "()[]{}"
+Output: true
+```
+
+**Example 2:**
+
+```
+Input: s = "(]"
+Output: false
+```
+
+**Constraints:**
+
+-   `1 <= s.length <= 10^4`
+-   `s` consists of parentheses only `'()[]{}'`
+
+___
+
+After reaching the end of s, how do we know if the string is valid?
+
+A) If the stack is empty.
+
+B) If the stack is not empty.
+
+C) If the last element in the stack is an open bracket.
+
+D) If the last element in the stack is a closing bracket.
+
+###### ID74
+
+A:: =============================================  
+**Answer**: A
+
+If we have managed to close all open brackets while iterating through the string, the stack should be empty at the end. If the stack is not empty, it means there are some open brackets that were not closed, so the string is not valid.
+
+Q:: =============================================  
+
+##### Given a string s containing just the characters `'('`, `')'`, `'{'`, `'}'`, `'['` and `']'`, determine if the input string is valid.
+
+An input string is valid if:
+
+Open brackets must be closed by the same type of brackets.  
+Open brackets must be closed in the correct order.  
+Every close bracket has a corresponding open bracket of the same type.
+
+**Example 1:**
+
+```
+Input: s = "()[]{}"
+Output: true
+```
+
+**Example 2:**
+
+```
+Input: s = "(]"
+Output: false
+```
+
+**Constraints:**
+
+-   `1 <= s.length <= 10^4`
+-   `s` consists of parentheses only `'()[]{}'`
+
+___
+
+What is the time and space complexity of the solution using a stack? Assume the length of the input string is n.
+
+A) Time: O(n), Space: O(1)
+
+B) Time: O(n), Space: O(n)
+
+C) Time: O(n), Space: O(n^2)
+
+D) Time: O(n^2), Space: O(n)
+
+###### ID75
+
+A:: =============================================  
+**Answer**: B
+
+We are iterating through the string only once, where n is the length of the string. For each character, we are performing a constant amount of work (either pushing onto the stack or popping from it). Hence, the time complexity is O(n). In the worst-case scenario, all characters in the string are opening brackets, and we push all of them onto the stack. Hence, the space complexity is O(n), where n is the length of the string.
 
 #### Chapter 2 - Min Stack
 
