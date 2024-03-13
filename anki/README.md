@@ -96,6 +96,17 @@
 | [73](#id73) | [Given a string s containing just the chara](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Stack/Chapter%201%20-%20Valid%20Parentheses%20Blind/73%20-%20Given%20a%20string%20s%20containing%20just%20the%20chara.md) | 4 | 1 |
 | [74](#id74) | [Given a string s containing just the chara](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Stack/Chapter%201%20-%20Valid%20Parentheses%20Blind/74%20-%20Given%20a%20string%20s%20containing%20just%20the%20chara.md) | 4 | 1 |
 | [75](#id75) | [Given a string s containing just the chara](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Stack/Chapter%201%20-%20Valid%20Parentheses%20Blind/75%20-%20Given%20a%20string%20s%20containing%20just%20the%20chara.md) | 4 | 1 |
+| **-** | **Binary Search** | **5** | **-** |
+| **-** | **Binary Search > Search in Rotated Sorted Array Blind** | **5** | **4** |
+| [76](#id76) | [There is an integer array nums sorted in](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Binary%20Search/Chapter%204%20-%20Search%20in%20Rotated%20Sorted%20Array%20Blind/76%20-%20There%20is%20an%20integer%20array%20nums%20sorted%20in.md) | 5 | 4 |
+| [77](#id77) | [There is an integer array nums sorted in](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Binary%20Search/Chapter%204%20-%20Search%20in%20Rotated%20Sorted%20Array%20Blind/77%20-%20There%20is%20an%20integer%20array%20nums%20sorted%20in.md) | 5 | 4 |
+| [78](#id78) | [There is an integer array nums sorted in](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Binary%20Search/Chapter%204%20-%20Search%20in%20Rotated%20Sorted%20Array%20Blind/78%20-%20There%20is%20an%20integer%20array%20nums%20sorted%20in.md) | 5 | 4 |
+| [79](#id79) | [There is an integer array nums sorted in](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Binary%20Search/Chapter%204%20-%20Search%20in%20Rotated%20Sorted%20Array%20Blind/79%20-%20There%20is%20an%20integer%20array%20nums%20sorted%20in.md) | 5 | 4 |
+| [80](#id80) | [There is an integer array nums sorted in](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Binary%20Search/Chapter%204%20-%20Search%20in%20Rotated%20Sorted%20Array%20Blind/80%20-%20There%20is%20an%20integer%20array%20nums%20sorted%20in.md) | 5 | 4 |
+| [81](#id81) | [There is an integer array nums sorted in](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Binary%20Search/Chapter%204%20-%20Search%20in%20Rotated%20Sorted%20Array%20Blind/81%20-%20There%20is%20an%20integer%20array%20nums%20sorted%20in.md) | 5 | 4 |
+| [82](#id82) | [There is an integer array nums sorted in](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Binary%20Search/Chapter%204%20-%20Search%20in%20Rotated%20Sorted%20Array%20Blind/82%20-%20There%20is%20an%20integer%20array%20nums%20sorted%20in.md) | 5 | 4 |
+| [83](#id83) | [There is an integer array nums sorted in](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Binary%20Search/Chapter%204%20-%20Search%20in%20Rotated%20Sorted%20Array%20Blind/83%20-%20There%20is%20an%20integer%20array%20nums%20sorted%20in.md) | 5 | 4 |
+| [84](#id84) | [There is an integer array nums sorted in](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Binary%20Search/Chapter%204%20-%20Search%20in%20Rotated%20Sorted%20Array%20Blind/84%20-%20There%20is%20an%20integer%20array%20nums%20sorted%20in.md) | 5 | 4 |
 
 ### Part I - Arrays and Hashing
 
@@ -3789,6 +3800,491 @@ We are iterating through the string only once, where n is the length of the stri
 #### Chapter 3 - Koko Eating Bananas
 
 #### Chapter 4 - Search in Rotated Sorted Array (Blind)
+
+Q:: =============================================  
+
+##### There is an integer array `nums` sorted in ascending order (with **distinct** values).
+
+Prior to being passed to your function, `nums` is **possibly rotated** at an unknown pivot index `k` (`1 <= k < nums.length`) such that the resulting array is `[nums[k], nums[k+1], ..., nums[n-1], nums[0], nums[1], ..., nums[k-1]]` (**0-indexed**). For example, `[0,1,2,4,5,6,7]` might be rotated at pivot index `3` and become `[4,5,6,7,0,1,2]`.
+
+Given the array `nums` after the possible rotation and an integer `target`, return the index of `target` if it is in `nums`, or `-1` if it is not in `nums`.
+
+You must write an algorithm with `O(log n)` runtime complexity.
+
+**Example 1:**
+
+```
+Input: nums = [4,5,6,7,0,1,2], target = 0
+Output: 4
+```
+
+**Example 2:**
+
+```
+Input: nums = [4,5,6,7,0,1,2], target = 3
+Output: -1
+```
+
+**Constraints:**
+
+-   `1 <= nums.length <= 5000`
+-   `-10^4 <= nums[i] <= 10^4`
+-   `All values of nums are unique.`
+-   `nums is an ascending array that is possibly rotated.`
+-   `-10^4 <= target <= 10^4`
+
+___
+
+Suppose we have a normal sorted integer array. What is normally the optimal time complexity to find an element in it?
+
+A) O(n)
+
+B) O(log n)
+
+C) O(n^2)
+
+D) O(1)
+
+###### ID76
+
+A:: =============================================  
+**Answer**: B
+
+For a sorted array, binary search can be applied to find an element. The time complexity of binary search is O(log n).
+
+Q:: =============================================  
+
+##### There is an integer array `nums` sorted in ascending order (with **distinct** values).
+
+Prior to being passed to your function, `nums` is **possibly rotated** at an unknown pivot index `k` (`1 <= k < nums.length`) such that the resulting array is `[nums[k], nums[k+1], ..., nums[n-1], nums[0], nums[1], ..., nums[k-1]]` (**0-indexed**). For example, `[0,1,2,4,5,6,7]` might be rotated at pivot index `3` and become `[4,5,6,7,0,1,2]`.
+
+Given the array `nums` after the possible rotation and an integer `target`, return the index of `target` if it is in `nums`, or `-1` if it is not in `nums`.
+
+You must write an algorithm with `O(log n)` runtime complexity.
+
+**Example 1:**
+
+```
+Input: nums = [4,5,6,7,0,1,2], target = 0
+Output: 4
+```
+
+**Example 2:**
+
+```
+Input: nums = [4,5,6,7,0,1,2], target = 3
+Output: -1
+```
+
+**Constraints:**
+
+-   `1 <= nums.length <= 5000`
+-   `-10^4 <= nums[i] <= 10^4`
+-   `All values of nums are unique.`
+-   `nums is an ascending array that is possibly rotated.`
+-   `-10^4 <= target <= 10^4`
+
+___
+
+Now consider a sorted array that has been rotated at an unknown index. What is the time complexity of the _simplest_ (but non-optimal) solution to find an element in this array?
+
+A) O(n)
+
+B) O(log n)
+
+C) O(n^2)
+
+D) O(1)
+
+###### ID77
+
+A:: =============================================  
+**Answer**: A
+
+The simplest solution would be to perform a linear search, which has a time complexity of O(n).
+
+Q:: =============================================  
+
+##### There is an integer array `nums` sorted in ascending order (with **distinct** values).
+
+Prior to being passed to your function, `nums` is **possibly rotated** at an unknown pivot index `k` (`1 <= k < nums.length`) such that the resulting array is `[nums[k], nums[k+1], ..., nums[n-1], nums[0], nums[1], ..., nums[k-1]]` (**0-indexed**). For example, `[0,1,2,4,5,6,7]` might be rotated at pivot index `3` and become `[4,5,6,7,0,1,2]`.
+
+Given the array `nums` after the possible rotation and an integer `target`, return the index of `target` if it is in `nums`, or `-1` if it is not in `nums`.
+
+You must write an algorithm with `O(log n)` runtime complexity.
+
+**Example 1:**
+
+```
+Input: nums = [4,5,6,7,0,1,2], target = 0
+Output: 4
+```
+
+**Example 2:**
+
+```
+Input: nums = [4,5,6,7,0,1,2], target = 3
+Output: -1
+```
+
+**Constraints:**
+
+-   `1 <= nums.length <= 5000`
+-   `-10^4 <= nums[i] <= 10^4`
+-   `All values of nums are unique.`
+-   `nums is an ascending array that is possibly rotated.`
+-   `-10^4 <= target <= 10^4`
+
+___
+
+In a typical binary search, what is the first element we check to see if it's equal to the target?
+
+A) The first element in the array
+
+B) The last element in the array
+
+C) The middle element in the array
+
+D) The element at a random position in the array
+
+###### ID78
+
+A:: =============================================  
+**Answer**: C
+
+In a binary search, we first check the middle element of the array. If the target is equal to it, we're done. If the target is greater, we know our target must be in the right portion of the array, and if it's less, the target must be in the left portion.
+
+Q:: =============================================  
+
+##### There is an integer array `nums` sorted in ascending order (with **distinct** values).
+
+Prior to being passed to your function, `nums` is **possibly rotated** at an unknown pivot index `k` (`1 <= k < nums.length`) such that the resulting array is `[nums[k], nums[k+1], ..., nums[n-1], nums[0], nums[1], ..., nums[k-1]]` (**0-indexed**). For example, `[0,1,2,4,5,6,7]` might be rotated at pivot index `3` and become `[4,5,6,7,0,1,2]`.
+
+Given the array `nums` after the possible rotation and an integer `target`, return the index of `target` if it is in `nums`, or `-1` if it is not in `nums`.
+
+You must write an algorithm with `O(log n)` runtime complexity.
+
+**Example 1:**
+
+```
+Input: nums = [4,5,6,7,0,1,2], target = 0
+Output: 4
+```
+
+**Example 2:**
+
+```
+Input: nums = [4,5,6,7,0,1,2], target = 3
+Output: -1
+```
+
+**Constraints:**
+
+-   `1 <= nums.length <= 5000`
+-   `-10^4 <= nums[i] <= 10^4`
+-   `All values of nums are unique.`
+-   `nums is an ascending array that is possibly rotated.`
+-   `-10^4 <= target <= 10^4`
+
+___
+
+As we search the rotated sorted array, how can we use the current middle element to determine which half of the array we are currently inside?
+
+A) Compare the middle element with nums\[0\].
+
+B) Compare the middle element with nums\[length - 1\].
+
+C) Compare the middle element with nums\[mid - 1\].
+
+D) Either A or B.
+
+###### ID79
+
+A:: =============================================  
+**Answer**: D
+
+We can determine which half of the array we are currently inside by comparing the middle element with the first element (nums\[0\]) or the last element (nums\[length - 1\]). If the middle element is greater than or equal to nums\[0\], we are in the left portion of the array; otherwise, we are in the right sorted portion. Alternatively, if the middle element is less than or equal to nums\[length - 1\] we are in the right sorted portion, otherwise we are in the left portion.
+
+Q:: =============================================  
+
+##### There is an integer array `nums` sorted in ascending order (with **distinct** values).
+
+Prior to being passed to your function, `nums` is **possibly rotated** at an unknown pivot index `k` (`1 <= k < nums.length`) such that the resulting array is `[nums[k], nums[k+1], ..., nums[n-1], nums[0], nums[1], ..., nums[k-1]]` (**0-indexed**). For example, `[0,1,2,4,5,6,7]` might be rotated at pivot index `3` and become `[4,5,6,7,0,1,2]`.
+
+Given the array `nums` after the possible rotation and an integer `target`, return the index of `target` if it is in `nums`, or `-1` if it is not in `nums`.
+
+You must write an algorithm with `O(log n)` runtime complexity.
+
+**Example 1:**
+
+```
+Input: nums = [4,5,6,7,0,1,2], target = 0
+Output: 4
+```
+
+**Example 2:**
+
+```
+Input: nums = [4,5,6,7,0,1,2], target = 3
+Output: -1
+```
+
+**Constraints:**
+
+-   `1 <= nums.length <= 5000`
+-   `-10^4 <= nums[i] <= 10^4`
+-   `All values of nums are unique.`
+-   `nums is an ascending array that is possibly rotated.`
+-   `-10^4 <= target <= 10^4`
+
+___
+
+How can we determine if the target element belongs to the left or right portion of the array?
+
+A) Compare the target with nums\[mid\].
+
+B) Compare the target with nums\[0\] or nums\[length - 1\].
+
+C) Compare the target with nums\[mid - 1\] and nums\[mid + 1\].
+
+D) None of the above.
+
+###### ID80
+
+A:: =============================================  
+**Answer**: B
+
+We can determine if the target element belongs to the left or right portion of the array by comparing the target with the first element (nums\[0\]) or the last element (nums\[length - 1\]). If the target is greater than or equal to the first element, it belongs to the left portion of the array. If the target is less than the first element, it belongs to the right portion of the array.
+
+Q:: =============================================  
+
+##### There is an integer array `nums` sorted in ascending order (with **distinct** values).
+
+Prior to being passed to your function, `nums` is **possibly rotated** at an unknown pivot index `k` (`1 <= k < nums.length`) such that the resulting array is `[nums[k], nums[k+1], ..., nums[n-1], nums[0], nums[1], ..., nums[k-1]]` (**0-indexed**). For example, `[0,1,2,4,5,6,7]` might be rotated at pivot index `3` and become `[4,5,6,7,0,1,2]`.
+
+Given the array `nums` after the possible rotation and an integer `target`, return the index of `target` if it is in `nums`, or `-1` if it is not in `nums`.
+
+You must write an algorithm with `O(log n)` runtime complexity.
+
+**Example 1:**
+
+```
+Input: nums = [4,5,6,7,0,1,2], target = 0
+Output: 4
+```
+
+**Example 2:**
+
+```
+Input: nums = [4,5,6,7,0,1,2], target = 3
+Output: -1
+```
+
+**Constraints:**
+
+-   `1 <= nums.length <= 5000`
+-   `-10^4 <= nums[i] <= 10^4`
+-   `All values of nums are unique.`
+-   `nums is an ascending array that is possibly rotated.`
+-   `-10^4 <= target <= 10^4`
+
+___
+
+If we are in the left sorted half of the array, but the target element belongs in the right sorted half, where should we search relative to the mid pointer?  
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/90bcf494-c8c6-4c8e-5119-349868839200/public)
+
+A) To the left of mid.
+
+B) To the right of mid.
+
+C) At the mid point.
+
+D) This scenario is not possible.
+
+###### ID81
+
+A:: =============================================  
+**Answer**: B
+
+If we are in the left sorted half of the array, but the target element belongs to the right sorted half, we should continue our search to the right of the mid pointer.
+
+Q:: =============================================  
+
+##### There is an integer array `nums` sorted in ascending order (with **distinct** values).
+
+Prior to being passed to your function, `nums` is **possibly rotated** at an unknown pivot index `k` (`1 <= k < nums.length`) such that the resulting array is `[nums[k], nums[k+1], ..., nums[n-1], nums[0], nums[1], ..., nums[k-1]]` (**0-indexed**). For example, `[0,1,2,4,5,6,7]` might be rotated at pivot index `3` and become `[4,5,6,7,0,1,2]`.
+
+Given the array `nums` after the possible rotation and an integer `target`, return the index of `target` if it is in `nums`, or `-1` if it is not in `nums`.
+
+You must write an algorithm with `O(log n)` runtime complexity.
+
+**Example 1:**
+
+```
+Input: nums = [4,5,6,7,0,1,2], target = 0
+Output: 4
+```
+
+**Example 2:**
+
+```
+Input: nums = [4,5,6,7,0,1,2], target = 3
+Output: -1
+```
+
+**Constraints:**
+
+-   `1 <= nums.length <= 5000`
+-   `-10^4 <= nums[i] <= 10^4`
+-   `All values of nums are unique.`
+-   `nums is an ascending array that is possibly rotated.`
+-   `-10^4 <= target <= 10^4`
+
+___
+
+If we are in the right sorted half of the array, but the target element belongs in the left sorted half, where should we search relative to the mid pointer?  
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/37e384cf-75a6-4148-d389-0beb27f7ee00/public)
+
+A) To the left of mid.
+
+B) To the right of mid.
+
+C) At the mid point.
+
+D) This scenario is not possible.
+
+###### ID82
+
+A:: =============================================  
+**Answer**: A
+
+If we are in the right sorted half of the array, but the target element belongs to the left sorted half, we should continue our search to the left of the mid pointer.
+
+Q:: =============================================  
+
+##### There is an integer array `nums` sorted in ascending order (with **distinct** values).
+
+Prior to being passed to your function, `nums` is **possibly rotated** at an unknown pivot index `k` (`1 <= k < nums.length`) such that the resulting array is `[nums[k], nums[k+1], ..., nums[n-1], nums[0], nums[1], ..., nums[k-1]]` (**0-indexed**). For example, `[0,1,2,4,5,6,7]` might be rotated at pivot index `3` and become `[4,5,6,7,0,1,2]`.
+
+Given the array `nums` after the possible rotation and an integer `target`, return the index of `target` if it is in `nums`, or `-1` if it is not in `nums`.
+
+You must write an algorithm with `O(log n)` runtime complexity.
+
+**Example 1:**
+
+```
+Input: nums = [4,5,6,7,0,1,2], target = 0
+Output: 4
+```
+
+**Example 2:**
+
+```
+Input: nums = [4,5,6,7,0,1,2], target = 3
+Output: -1
+```
+
+**Constraints:**
+
+-   `1 <= nums.length <= 5000`
+-   `-10^4 <= nums[i] <= 10^4`
+-   `All values of nums are unique.`
+-   `nums is an ascending array that is possibly rotated.`
+-   `-10^4 <= target <= 10^4`
+
+___
+
+If we are in the appropriate half of the array, can we simply perform a normal binary search?
+
+A) Yes
+
+B) No
+
+###### ID83
+
+A:: =============================================  
+**Answer**: A
+
+Yes, if we are in the appropriate half of the array, we can simply perform a normal binary search. The normal binary search process involves comparing the target with the middle element and then deciding whether to continue the search in the left portion or the right portion of the array, depending on whether the target is less or greater than the middle element.
+
+Q:: =============================================  
+
+##### There is an integer array `nums` sorted in ascending order (with **distinct** values).
+
+Prior to being passed to your function, `nums` is **possibly rotated** at an unknown pivot index `k` (`1 <= k < nums.length`) such that the resulting array is `[nums[k], nums[k+1], ..., nums[n-1], nums[0], nums[1], ..., nums[k-1]]` (**0-indexed**). For example, `[0,1,2,4,5,6,7]` might be rotated at pivot index `3` and become `[4,5,6,7,0,1,2]`.
+
+Given the array `nums` after the possible rotation and an integer `target`, return the index of `target` if it is in `nums`, or `-1` if it is not in `nums`.
+
+You must write an algorithm with `O(log n)` runtime complexity.
+
+**Example 1:**
+
+```
+Input: nums = [4,5,6,7,0,1,2], target = 0
+Output: 4
+```
+
+**Example 2:**
+
+```
+Input: nums = [4,5,6,7,0,1,2], target = 3
+Output: -1
+```
+
+**Constraints:**
+
+-   `1 <= nums.length <= 5000`
+-   `-10^4 <= nums[i] <= 10^4`
+-   `All values of nums are unique.`
+-   `nums is an ascending array that is possibly rotated.`
+-   `-10^4 <= target <= 10^4`
+
+___
+
+To summarize, the below code will solve this problem using an augmented binary search solution. What is the time and space complexity?
+
+```python
+def search(self, nums: List[int], target: int) -> int:
+    left, right = 0, len(nums) - 1
+    
+    while left <= right:
+        mid = (left + right) // 2
+        
+        if nums[mid] >= nums[0] and target < nums[0]:
+            # We're in left sorted array
+            # But target is in right sorted array 
+            left = mid + 1
+        elif nums[mid] < nums[0] and target >= nums[0]:
+            # We're in right sorted array
+            # But target is in left sorted array 
+            right = mid - 1
+        # Otherwise: Normal binary search
+        elif target > nums[mid]:
+            left = mid + 1
+        elif target < nums[mid]:
+            right = mid - 1
+        else:
+            return mid
+        
+        return -1
+```
+
+Copy
+
+A) Time complexity: O(n), Space complexity: O(1)
+
+B) Time complexity: O(log n), Space complexity: O(1)
+
+C) Time complexity: O(n log n), Space complexity: O(n)
+
+D) Time complexity: O(n^2), Space complexity: O(n)
+
+###### ID84
+
+A:: =============================================  
+**Answer**: B
+
+The binary search approach has a time complexity of O(log n) because in each step, you reduce the problem size by half. The space complexity is O(1) because you are not using any additional space that scales with the input size. You only need a constant amount of space to store the variables left, right, and mid.
 
 #### Chapter 5 - Find Minimum in Rotated Sorted Array (Blind)
 
