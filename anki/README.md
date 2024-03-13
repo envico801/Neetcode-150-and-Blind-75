@@ -134,6 +134,12 @@
 | [104](#id104) | [You are given the head of a singly linked-](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%203%20-%20Reorder%20List%20Blind/104%20-%20You%20are%20given%20the%20head%20of%20a%20singly%20linked-.md) | 6 | 3 |
 | [105](#id105) | [You are given the head of a singly linked-](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%203%20-%20Reorder%20List%20Blind/105%20-%20You%20are%20given%20the%20head%20of%20a%20singly%20linked-.md) | 6 | 3 |
 | [106](#id106) | [You are given the head of a singly linked-](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%203%20-%20Reorder%20List%20Blind/106%20-%20You%20are%20given%20the%20head%20of%20a%20singly%20linked-.md) | 6 | 3 |
+| **-** | **Linked List > Remove Nth Node From End of List Blind** | **6** | **4** |
+| [107](#id107) | [Given the head of a linked list remove](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%204%20-%20Remove%20Nth%20Node%20From%20End%20of%20List%20Blind/107%20-%20Given%20the%20head%20of%20a%20linked%20list%20remove.md) | 6 | 4 |
+| [108](#id108) | [Given the head of a linked list remove](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%204%20-%20Remove%20Nth%20Node%20From%20End%20of%20List%20Blind/108%20-%20Given%20the%20head%20of%20a%20linked%20list%20remove.md) | 6 | 4 |
+| [109](#id109) | [Given the head of a linked list remove](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%204%20-%20Remove%20Nth%20Node%20From%20End%20of%20List%20Blind/109%20-%20Given%20the%20head%20of%20a%20linked%20list%20remove.md) | 6 | 4 |
+| [110](#id110) | [Given the head of a linked list remove](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%204%20-%20Remove%20Nth%20Node%20From%20End%20of%20List%20Blind/110%20-%20Given%20the%20head%20of%20a%20linked%20list%20remove.md) | 6 | 4 |
+| [111](#id111) | [Given the head of a linked list remove](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%204%20-%20Remove%20Nth%20Node%20From%20End%20of%20List%20Blind/111%20-%20Given%20the%20head%20of%20a%20linked%20list%20remove.md) | 6 | 4 |
 
 ### Part I - Arrays and Hashing
 
@@ -5667,6 +5673,289 @@ A:: =============================================
 This approach has a linear time complexity O(n) because we are making a single pass to find the middle, a single pass to reverse the second half, and a single pass to merge the two halves. The space complexity is O(1) because we are rearranging the nodes in-place without using additional storage proportional to the input size.
 
 #### Chapter 4 - Remove Nth Node From End of List (Blind)
+
+Q:: =============================================  
+
+##### Given the `head` of a linked list, remove the `nth` node from the end of the list and return its head.
+
+**Example 1:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/23a28313-7f20-49b4-9781-fcf45a598100/public)
+
+```
+Input: head = [1,2,3,4,5], n = 2
+Output: [1,2,3,5]
+```
+
+**Example 2:**
+
+```
+Input: head = [1], n = 1
+Output: []
+```
+
+**Example 3:**
+
+```
+Input: head = [1,2], n = 1
+Output: [1]
+```
+
+**Constraints:**
+
+-   The number of nodes in the list is `sz`.
+-   `1 <= sz <= 30`
+-   `0 <= Node.val <= 100`
+-   `1 <= n <= sz`
+
+**Follow up:** Could you do this in one pass?
+
+___
+
+In order to remove a node `x` from a singly linked list, which node do we need access to?
+
+A) Node x
+
+B) Node before x
+
+C) Node after x
+
+###### ID107
+
+A:: =============================================  
+**Answer**: B
+
+To remove a node x from a singly linked list, we need access to the node before x. This is because in a singly linked list, we can only navigate in one direction and there's no reference to the previous node from a given node. By having access to the node before x, we can adjust its next reference to bypass x, effectively removing x from the list.
+
+Q:: =============================================  
+
+##### Given the `head` of a linked list, remove the `nth` node from the end of the list and return its head.
+
+**Example 1:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/23a28313-7f20-49b4-9781-fcf45a598100/public)
+
+```
+Input: head = [1,2,3,4,5], n = 2
+Output: [1,2,3,5]
+```
+
+**Example 2:**
+
+```
+Input: head = [1], n = 1
+Output: []
+```
+
+**Example 3:**
+
+```
+Input: head = [1,2], n = 1
+Output: [1]
+```
+
+**Constraints:**
+
+-   The number of nodes in the list is `sz`.
+-   `1 <= sz <= 30`
+-   `0 <= Node.val <= 100`
+-   `1 <= n <= sz`
+
+**Follow up:** Could you do this in one pass?
+
+___
+
+An edge case is where we must remove the first node in the list. What is a simple way to eliminate this edge case?
+
+A) Add a dummy node at the end of the list.
+
+B) Add a dummy node at the beginning of the list.
+
+C) There is no way to eliminate this edge case.
+
+###### ID108
+
+A:: =============================================  
+**Answer**: B
+
+To eliminate the edge case of removing the first node in the list, we can add a dummy node at the beginning of the list. This dummy node won't affect the other operations, but allows us to handle the head of the list in a consistent way with other nodes.
+
+Q:: =============================================  
+
+##### Given the `head` of a linked list, remove the `nth` node from the end of the list and return its head.
+
+**Example 1:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/23a28313-7f20-49b4-9781-fcf45a598100/public)
+
+```
+Input: head = [1,2,3,4,5], n = 2
+Output: [1,2,3,5]
+```
+
+**Example 2:**
+
+```
+Input: head = [1], n = 1
+Output: []
+```
+
+**Example 3:**
+
+```
+Input: head = [1,2], n = 1
+Output: [1]
+```
+
+**Constraints:**
+
+-   The number of nodes in the list is `sz`.
+-   `1 <= sz <= 30`
+-   `0 <= Node.val <= 100`
+-   `1 <= n <= sz`
+
+**Follow up:** Could you do this in one pass?
+
+___
+
+If we were to solve this problem without precomputing the length of the list, but instead using two pointers, what should the _offset_ between the two pointers be? Assume we will iterate until the second pointer reaches null.  
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/c6af2817-4885-47c2-9f04-8e9603192500/public)
+
+A) n
+
+B) n + 1
+
+C) n - 1
+
+###### ID109
+
+A:: =============================================  
+**Answer**: B
+
+If we are to solve this problem using two pointers without precomputing the length of the list, the offset between the two pointers should be n + 1. This ensures that the second pointer reaches null right when the first pointer gets to the node before the target node, which is the nth node from the end of the list.
+
+Q:: =============================================  
+
+##### Given the `head` of a linked list, remove the `nth` node from the end of the list and return its head.
+
+**Example 1:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/23a28313-7f20-49b4-9781-fcf45a598100/public)
+
+```
+Input: head = [1,2,3,4,5], n = 2
+Output: [1,2,3,5]
+```
+
+**Example 2:**
+
+```
+Input: head = [1], n = 1
+Output: []
+```
+
+**Example 3:**
+
+```
+Input: head = [1,2], n = 1
+Output: [1]
+```
+
+**Constraints:**
+
+-   The number of nodes in the list is `sz`.
+-   `1 <= sz <= 30`
+-   `0 <= Node.val <= 100`
+-   `1 <= n <= sz`
+
+**Follow up:** Could you do this in one pass?
+
+___
+
+After we have created the offset, by how much should we shift each pointer on each iteration of the loop?
+
+A) First pointer by 1, Second pointer by 2
+
+B) First pointer by 1, Second pointer by 1
+
+###### ID110
+
+A:: =============================================  
+**Answer**: B
+
+After we have created the offset, we should shift each pointer by 1 on each iteration of the loop. This ensures that the offset (the gap between the two pointers) remains constant while traversing the list, allowing us to find the node to be removed.
+
+Q:: =============================================  
+
+##### Given the `head` of a linked list, remove the `nth` node from the end of the list and return its head.
+
+**Example 1:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/23a28313-7f20-49b4-9781-fcf45a598100/public)
+
+```
+Input: head = [1,2,3,4,5], n = 2
+Output: [1,2,3,5]
+```
+
+**Example 2:**
+
+```
+Input: head = [1], n = 1
+Output: []
+```
+
+**Example 3:**
+
+```
+Input: head = [1,2], n = 1
+Output: [1]
+```
+
+**Constraints:**
+
+-   The number of nodes in the list is `sz`.
+-   `1 <= sz <= 30`
+-   `0 <= Node.val <= 100`
+-   `1 <= n <= sz`
+
+**Follow up:** Could you do this in one pass?
+
+___
+
+What is the time and space complexity of the two-pointer approach for this problem? Assume `n` is the length of the list.
+
+```python
+class Solution:
+    def removeNthFromEnd(self, head: ListNode, n: int) -> ListNode:
+        dummy = ListNode(0, head)
+        left = dummy
+        right = head
+
+        while n > 0: // Create offset
+            right = right.next
+            n -= 1
+
+        while right:
+            left = left.next
+            right = right.next
+
+        left.next = left.next.next // delete
+        return dummy.next
+```
+
+A) Time complexity: O(n), Space complexity: O(1)
+
+B) Time complexity: O(n), Space complexity: O(n)
+
+C) Time complexity: O(n^2), Space complexity: O(1)
+
+###### ID111
+
+A:: =============================================  
+**Answer**: A
+
+The two-pointer approach has a linear time complexity of O(n). We perform a constant amount of work for each node (moving the pointers and eventually deleting a node). The space complexity is O(1) as we are not using any extra space that scales with the input size, we're simply using two pointers to navigate the existing list.
 
 #### Chapter 5 - Copy List with Random Pointer
 
