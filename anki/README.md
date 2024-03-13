@@ -122,6 +122,12 @@
 | [94](#id94) | [Given the head of a singly linked list](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%201%20-%20Reverse%20Linked%20List%20Blind/94%20-%20Given%20the%20head%20of%20a%20singly%20linked%20list.md) | 6 | 1 |
 | [95](#id95) | [Given the head of a singly linked list](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%201%20-%20Reverse%20Linked%20List%20Blind/95%20-%20Given%20the%20head%20of%20a%20singly%20linked%20list.md) | 6 | 1 |
 | [96](#id96) | [Given the head of a singly linked list](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%201%20-%20Reverse%20Linked%20List%20Blind/96%20-%20Given%20the%20head%20of%20a%20singly%20linked%20list.md) | 6 | 1 |
+| **-** | **Linked List > Merge Two Sorted Lists Blind** | **6** | **2** |
+| [97](#id97) | [You are given the heads of two sorted link](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%202%20-%20Merge%20Two%20Sorted%20Lists%20Blind/97%20-%20You%20are%20given%20the%20heads%20of%20two%20sorted%20link.md) | 6 | 2 |
+| [98](#id98) | [You are given the heads of two sorted link](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%202%20-%20Merge%20Two%20Sorted%20Lists%20Blind/98%20-%20You%20are%20given%20the%20heads%20of%20two%20sorted%20link.md) | 6 | 2 |
+| [99](#id99) | [You are given the heads of two sorted link](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%202%20-%20Merge%20Two%20Sorted%20Lists%20Blind/99%20-%20You%20are%20given%20the%20heads%20of%20two%20sorted%20link.md) | 6 | 2 |
+| [100](#id100) | [You are given the heads of two sorted link](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%202%20-%20Merge%20Two%20Sorted%20Lists%20Blind/100%20-%20You%20are%20given%20the%20heads%20of%20two%20sorted%20link.md) | 6 | 2 |
+| [101](#id101) | [You are given the heads of two sorted link](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%202%20-%20Merge%20Two%20Sorted%20Lists%20Blind/101%20-%20You%20are%20given%20the%20heads%20of%20two%20sorted%20link.md) | 6 | 2 |
 
 ### Part I - Arrays and Hashing
 
@@ -5051,6 +5057,295 @@ A:: =============================================
 The time complexity is O(n) because we need to traverse the list once, where n is the number of nodes in the list. The space complexity is O(1) because we are not using any additional space that scales with the size of the input. We only use a few variables to keep track of the previous and current nodes during the process.
 
 #### Chapter 2 - Merge Two Sorted Lists (Blind)
+
+Q:: =============================================  
+
+##### You are given the heads of two sorted linked lists `list1` and `list2`.
+
+Merge the two lists in a one **sorted** list. The list should be made by splicing together the nodes of the first two lists.
+
+Return _the head of the merged linked list_.
+
+**Example 1:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/6bafdf72-dfb3-4085-9372-f34e7361d700/public)
+
+```
+Input: list1 = [1,2,4], list2 = [1,3,4]
+Output: [1,1,2,3,4,4]
+```
+
+**Example 2:**
+
+```
+Input: list1 = [], list2 = []
+Output: []
+```
+
+**Example 3:**
+
+```
+Input: list1 = [], list2 = [0]
+Output: [0]
+```
+
+**Constraints:**
+
+-   The number of nodes in both lists is in the range `[0, 50]`.
+-   `100 <= Node.val <= 100`
+-   Both `list1` and `list2` are sorted in **non-decreasing** order.
+
+___
+
+If we have two sorted linked lists, where should we start comparing elements to begin merging them into a single sorted list?
+
+A) From the middle of each list.
+
+B) From the last element of each list.
+
+C) From the first element of each list.
+
+###### ID97
+
+A:: =============================================  
+**Answer**: C
+
+As both lists are sorted in non-decreasing order, the smallest elements are at the heads of the lists. Hence, we should start comparing from the first elements of each list to create the new sorted list.
+
+Q:: =============================================  
+
+##### You are given the heads of two sorted linked lists `list1` and `list2`.
+
+Merge the two lists in a one **sorted** list. The list should be made by splicing together the nodes of the first two lists.
+
+Return _the head of the merged linked list_.
+
+**Example 1:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/6bafdf72-dfb3-4085-9372-f34e7361d700/public)
+
+```
+Input: list1 = [1,2,4], list2 = [1,3,4]
+Output: [1,1,2,3,4,4]
+```
+
+**Example 2:**
+
+```
+Input: list1 = [], list2 = []
+Output: []
+```
+
+**Example 3:**
+
+```
+Input: list1 = [], list2 = [0]
+Output: [0]
+```
+
+**Constraints:**
+
+-   The number of nodes in both lists is in the range `[0, 50]`.
+-   `100 <= Node.val <= 100`
+-   Both `list1` and `list2` are sorted in **non-decreasing** order.
+
+___
+
+When comparing the first nodes of each list, which node should we insert into the output list?
+
+A) The node with the larger value.
+
+B) The node with the smaller value.
+
+C) Any node, the choice doesn't matter.
+
+###### ID98
+
+A:: =============================================  
+**Answer**: B
+
+To maintain the sorted order in the output list, we should always insert the node with the smaller value first. If there’s a tie, we can insert either node. This ensures that we are always adding the smallest remaining element to the merged list.
+
+Q:: =============================================  
+
+##### You are given the heads of two sorted linked lists `list1` and `list2`.
+
+Merge the two lists in a one **sorted** list. The list should be made by splicing together the nodes of the first two lists.
+
+Return _the head of the merged linked list_.
+
+**Example 1:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/6bafdf72-dfb3-4085-9372-f34e7361d700/public)
+
+```
+Input: list1 = [1,2,4], list2 = [1,3,4]
+Output: [1,1,2,3,4,4]
+```
+
+**Example 2:**
+
+```
+Input: list1 = [], list2 = []
+Output: []
+```
+
+**Example 3:**
+
+```
+Input: list1 = [], list2 = [0]
+Output: [0]
+```
+
+**Constraints:**
+
+-   The number of nodes in both lists is in the range `[0, 50]`.
+-   `100 <= Node.val <= 100`
+-   Both `list1` and `list2` are sorted in **non-decreasing** order.
+
+___
+
+How should we proceed after inserting a node from one of the lists into the output list?
+
+A) Insert the node from the other list into the output list.
+
+B) Shift to the next node in both lists and repeat the comparison.
+
+C) Shift to the next node in the list from which we inserted the node and repeat the comparison.
+
+###### ID99
+
+A:: =============================================  
+**Answer**: C
+
+After inserting a node from one of the lists into the output list, we should shift to the next node in the same list. We've already considered the inserted node in the sorting process. Now, it's time to compare the next node from this list with the current node from the other list.
+
+Q:: =============================================  
+
+##### You are given the heads of two sorted linked lists `list1` and `list2`.
+
+Merge the two lists in a one **sorted** list. The list should be made by splicing together the nodes of the first two lists.
+
+Return _the head of the merged linked list_.
+
+**Example 1:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/6bafdf72-dfb3-4085-9372-f34e7361d700/public)
+
+```
+Input: list1 = [1,2,4], list2 = [1,3,4]
+Output: [1,1,2,3,4,4]
+```
+
+**Example 2:**
+
+```
+Input: list1 = [], list2 = []
+Output: []
+```
+
+**Example 3:**
+
+```
+Input: list1 = [], list2 = [0]
+Output: [0]
+```
+
+**Constraints:**
+
+-   The number of nodes in both lists is in the range `[0, 50]`.
+-   `100 <= Node.val <= 100`
+-   Both `list1` and `list2` are sorted in **non-decreasing** order.
+
+___
+
+What if one list becomes empty (all of its nodes are used up) before the other during the merging process?
+
+A) Discard the remaining nodes in the other list.
+
+B) Append the remaining nodes in the other list to the merged list.
+
+C) Pick nodes from the exhausted list randomly to fill up the merged list.
+
+###### ID100
+
+A:: =============================================  
+**Answer**: B
+
+If one list becomes empty before the other, we can safely append the remaining nodes from the other list to the merged list. As both lists are sorted, the remaining nodes will also be in sorted order.
+
+Q:: =============================================  
+
+##### You are given the heads of two sorted linked lists `list1` and `list2`.
+
+Merge the two lists in a one **sorted** list. The list should be made by splicing together the nodes of the first two lists.
+
+Return _the head of the merged linked list_.
+
+**Example 1:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/6bafdf72-dfb3-4085-9372-f34e7361d700/public)
+
+```
+Input: list1 = [1,2,4], list2 = [1,3,4]
+Output: [1,1,2,3,4,4]
+```
+
+**Example 2:**
+
+```
+Input: list1 = [], list2 = []
+Output: []
+```
+
+**Example 3:**
+
+```
+Input: list1 = [], list2 = [0]
+Output: [0]
+```
+
+**Constraints:**
+
+-   The number of nodes in both lists is in the range `[0, 50]`.
+-   `100 <= Node.val <= 100`
+-   Both `list1` and `list2` are sorted in **non-decreasing** order.
+
+___
+
+What is the time complexity and space complexity of this approach? Assume `m` and `n` are the lengths of list1 and list2 respectively.
+
+```python
+class Solution:
+    def mergeTwoLists(self, l1: ListNode, l2: ListNode) -> ListNode:
+        dummy = ListNode(0)
+        current = dummy
+
+        while l1 and l2:
+            if l1.val <= l2.val:
+                current.next = l1
+                l1 = l1.next
+            else:
+                current.next = l2
+                l2 = l2.next
+            current = current.next
+
+        current.next = l1 if l1 is not None else l2
+        return dummy.next
+```
+
+A) Time complexity: O(m+n), Space complexity: O(1)
+
+B) Time complexity: O(m\*n), Space complexity: O(m+n)
+
+C) Time complexity: O(m+n), Space complexity: O(m+n)
+
+###### ID101
+
+A:: =============================================  
+**Answer**: A
+
+The time complexity is O(m+n) because in the worst case, we'll have to traverse all nodes of both lists once. The space complexity is O(1) because we're not using any additional space that scales with the input size. We are simply rearranging the existing nodes.
 
 #### Chapter 3 - Reorder List (Blind)
 
