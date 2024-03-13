@@ -128,6 +128,12 @@
 | [99](#id99) | [You are given the heads of two sorted link](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%202%20-%20Merge%20Two%20Sorted%20Lists%20Blind/99%20-%20You%20are%20given%20the%20heads%20of%20two%20sorted%20link.md) | 6 | 2 |
 | [100](#id100) | [You are given the heads of two sorted link](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%202%20-%20Merge%20Two%20Sorted%20Lists%20Blind/100%20-%20You%20are%20given%20the%20heads%20of%20two%20sorted%20link.md) | 6 | 2 |
 | [101](#id101) | [You are given the heads of two sorted link](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%202%20-%20Merge%20Two%20Sorted%20Lists%20Blind/101%20-%20You%20are%20given%20the%20heads%20of%20two%20sorted%20link.md) | 6 | 2 |
+| **-** | **Linked List > Reorder List Blind** | **6** | **3** |
+| [102](#id102) | [You are given the head of a singly linked-](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%203%20-%20Reorder%20List%20Blind/102%20-%20You%20are%20given%20the%20head%20of%20a%20singly%20linked-.md) | 6 | 3 |
+| [103](#id103) | [You are given the head of a singly linked-](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%203%20-%20Reorder%20List%20Blind/103%20-%20You%20are%20given%20the%20head%20of%20a%20singly%20linked-.md) | 6 | 3 |
+| [104](#id104) | [You are given the head of a singly linked-](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%203%20-%20Reorder%20List%20Blind/104%20-%20You%20are%20given%20the%20head%20of%20a%20singly%20linked-.md) | 6 | 3 |
+| [105](#id105) | [You are given the head of a singly linked-](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%203%20-%20Reorder%20List%20Blind/105%20-%20You%20are%20given%20the%20head%20of%20a%20singly%20linked-.md) | 6 | 3 |
+| [106](#id106) | [You are given the head of a singly linked-](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%203%20-%20Reorder%20List%20Blind/106%20-%20You%20are%20given%20the%20head%20of%20a%20singly%20linked-.md) | 6 | 3 |
 
 ### Part I - Arrays and Hashing
 
@@ -5348,6 +5354,317 @@ A:: =============================================
 The time complexity is O(m+n) because in the worst case, we'll have to traverse all nodes of both lists once. The space complexity is O(1) because we're not using any additional space that scales with the input size. We are simply rearranging the existing nodes.
 
 #### Chapter 3 - Reorder List (Blind)
+
+Q:: =============================================  
+
+##### You are given the head of a singly linked-list. The list can be represented as:
+
+```
+L0 → L1 → … → Ln - 1 → Ln
+```
+
+_Reorder the list to be on the following form:_
+
+```
+L0 → Ln → L1 → Ln - 1 → L2 → Ln - 2 → …
+```
+
+You may not modify the values in the list's nodes. Only nodes themselves may be changed.
+
+**Example 1:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/034d3a04-1ca6-4c81-8a7a-648658944600/public)
+
+```
+Input: head = [1,2,3,4]
+Output: [1,4,2,3]
+```
+
+**Example 2:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/80f9be46-c7d9-43bb-b072-3bbfd7942500/public)
+
+```
+Input: head = [1,2,3,4,5]
+Output: [1,5,2,4,3]
+```
+
+**Constraints:**
+
+-   The number of nodes in the list is in the range `[1, 5 * 10^4]`.
+-   `1 <= Node.val <= 1000`
+
+___
+
+Given the list L0 → L1 → … → Ln - 1 → Ln, what is the first step to reorder the list to the following form: L0 → Ln → L1 → Ln - 1 → L2 → Ln - 2 → …?
+
+A) Reversing the entire list.
+
+B) Reversing the second half of the list.
+
+C) Swapping the first and the last node.
+
+###### ID102
+
+A:: =============================================  
+**Answer**: B
+
+To get to the required order, we first need to reverse the second half of the list. This is because the second half of the list is to be interweaved with the first half, but in the reverse order.
+
+Q:: =============================================  
+
+##### You are given the head of a singly linked-list. The list can be represented as:
+
+```
+L0 → L1 → … → Ln - 1 → Ln
+```
+
+_Reorder the list to be on the following form:_
+
+```
+L0 → Ln → L1 → Ln - 1 → L2 → Ln - 2 → …
+```
+
+You may not modify the values in the list's nodes. Only nodes themselves may be changed.
+
+**Example 1:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/034d3a04-1ca6-4c81-8a7a-648658944600/public)
+
+```
+Input: head = [1,2,3,4]
+Output: [1,4,2,3]
+```
+
+**Example 2:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/80f9be46-c7d9-43bb-b072-3bbfd7942500/public)
+
+```
+Input: head = [1,2,3,4,5]
+Output: [1,5,2,4,3]
+```
+
+**Constraints:**
+
+-   The number of nodes in the list is in the range `[1, 5 * 10^4]`.
+-   `1 <= Node.val <= 1000`
+
+___
+
+How can you find the middle node of a singly linked list?
+
+A) Starting from the head, move to the next node until you find the middle node.
+
+B) Use two pointers: a slow pointer moving one step at a time, and a fast pointer moving two steps at a time.
+
+###### ID103
+
+A:: =============================================  
+**Answer**: B
+
+We use a technique known as the 'tortoise and the hare' to find the middle of a singly linked list. The slow pointer moves one step at a time while the fast pointer moves two steps at a time. By the time the fast pointer reaches the end of the list, the slow pointer will be at the middle.
+
+Q:: =============================================  
+
+##### You are given the head of a singly linked-list. The list can be represented as:
+
+```
+L0 → L1 → … → Ln - 1 → Ln
+```
+
+_Reorder the list to be on the following form:_
+
+```
+L0 → Ln → L1 → Ln - 1 → L2 → Ln - 2 → …
+```
+
+You may not modify the values in the list's nodes. Only nodes themselves may be changed.
+
+**Example 1:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/034d3a04-1ca6-4c81-8a7a-648658944600/public)
+
+```
+Input: head = [1,2,3,4]
+Output: [1,4,2,3]
+```
+
+**Example 2:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/80f9be46-c7d9-43bb-b072-3bbfd7942500/public)
+
+```
+Input: head = [1,2,3,4,5]
+Output: [1,5,2,4,3]
+```
+
+**Constraints:**
+
+-   The number of nodes in the list is in the range `[1, 5 * 10^4]`.
+-   `1 <= Node.val <= 1000`
+
+___
+
+After reversing the second half of the list, how do you reorder the list to the required form?
+
+A) By appending the second half of the list to the first half.
+
+B) By alternating nodes from the first and second half of the list.
+
+C) By concatenating the first half of the list to the second half.
+
+###### ID104
+
+A:: =============================================  
+**Answer**: B
+
+After reversing the second half of the list, we reorder the list by alternating nodes from the first and second half of the list.
+
+Q:: =============================================  
+
+##### You are given the head of a singly linked-list. The list can be represented as:
+
+```
+L0 → L1 → … → Ln - 1 → Ln
+```
+
+_Reorder the list to be on the following form:_
+
+```
+L0 → Ln → L1 → Ln - 1 → L2 → Ln - 2 → …
+```
+
+You may not modify the values in the list's nodes. Only nodes themselves may be changed.
+
+**Example 1:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/034d3a04-1ca6-4c81-8a7a-648658944600/public)
+
+```
+Input: head = [1,2,3,4]
+Output: [1,4,2,3]
+```
+
+**Example 2:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/80f9be46-c7d9-43bb-b072-3bbfd7942500/public)
+
+```
+Input: head = [1,2,3,4,5]
+Output: [1,5,2,4,3]
+```
+
+**Constraints:**
+
+-   The number of nodes in the list is in the range `[1, 5 * 10^4]`.
+-   `1 <= Node.val <= 1000`
+
+___
+
+In the code, what approach is used to merge the two halves of the list into the required form?
+
+A) A new list is created and nodes from both halves are added alternately.
+
+B) Corresponding nodes from the first and second half of the list are swapped.
+
+C) At each step, a node is unlinked from the second half and linked into the first half.
+
+###### ID105
+
+A:: =============================================  
+**Answer**: C
+
+The provided code merges the two halves by iterating through the first half of the list. At each step, it unlinks a node from the second half and links it into the first half. This results in the desired ordering of nodes.
+
+Q:: =============================================  
+
+##### You are given the head of a singly linked-list. The list can be represented as:
+
+```
+L0 → L1 → … → Ln - 1 → Ln
+```
+
+_Reorder the list to be on the following form:_
+
+```
+L0 → Ln → L1 → Ln - 1 → L2 → Ln - 2 → …
+```
+
+You may not modify the values in the list's nodes. Only nodes themselves may be changed.
+
+**Example 1:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/034d3a04-1ca6-4c81-8a7a-648658944600/public)
+
+```
+Input: head = [1,2,3,4]
+Output: [1,4,2,3]
+```
+
+**Example 2:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/80f9be46-c7d9-43bb-b072-3bbfd7942500/public)
+
+```
+Input: head = [1,2,3,4,5]
+Output: [1,5,2,4,3]
+```
+
+**Constraints:**
+
+-   The number of nodes in the list is in the range `[1, 5 * 10^4]`.
+-   `1 <= Node.val <= 1000`
+
+___
+
+Consider the following code for reordering a linked list. What is its time complexity and space complexity?
+
+```python
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, x):
+#         self.val = x
+#         self.next = None
+
+class Solution:
+    def reorderList(self, head: ListNode) -> None:
+        # find middle
+        slow, fast = head, head.next
+        while fast and fast.next:
+            slow = slow.next
+            fast = fast.next.next
+
+        # reverse second half
+        second = slow.next
+        prev = slow.next = None
+        while second:
+            tmp = second.next
+            second.next = prev
+            prev = second
+            second = tmp
+
+        # merge two halves
+        first, second = head, prev
+        while second:
+            tmp1, tmp2 = first.next, second.next
+            first.next = second
+            second.next = tmp1
+            first, second = tmp1, tmp2
+```
+
+A) Time complexity: O(n), Space complexity: O(1)
+
+B) Time complexity: O(n), Space complexity: O(n)
+
+C) Time complexity: O(n^2), Space complexity: O(1)
+
+###### ID106
+
+A:: =============================================  
+**Answer**: A
+
+This approach has a linear time complexity O(n) because we are making a single pass to find the middle, a single pass to reverse the second half, and a single pass to merge the two halves. The space complexity is O(1) because we are rearranging the nodes in-place without using additional storage proportional to the input size.
 
 #### Chapter 4 - Remove Nth Node From End of List (Blind)
 
