@@ -154,6 +154,12 @@
 | [120](#id120) | [You are given an array of k linked-lists](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%201%20-%20Invert%20Binary%20Tree%20Blind/120%20-%20You%20are%20given%20an%20array%20of%20k%20linked-lists.md) | 7 | 1 |
 | [121](#id121) | [You are given an array of k linked-lists](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%201%20-%20Invert%20Binary%20Tree%20Blind/121%20-%20You%20are%20given%20an%20array%20of%20k%20linked-lists.md) | 7 | 1 |
 | [122](#id122) | [You are given an array of k linked-lists](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%201%20-%20Invert%20Binary%20Tree%20Blind/122%20-%20You%20are%20given%20an%20array%20of%20k%20linked-lists.md) | 7 | 1 |
+| **-** | **Trees > Maximum Depth of Binary Tree Blind** | **7** | **2** |
+| [123](#id123) | [Given the root of a binary tree return](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%202%20-%20Maximum%20Depth%20of%20Binary%20Tree%20Blind/123%20-%20Given%20the%20root%20of%20a%20binary%20tree%20return.md) | 7 | 2 |
+| [124](#id124) | [You are given an array of k linked-lists](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%202%20-%20Maximum%20Depth%20of%20Binary%20Tree%20Blind/124%20-%20You%20are%20given%20an%20array%20of%20k%20linked-lists.md) | 7 | 2 |
+| [125](#id125) | [You are given an array of k linked-lists](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%202%20-%20Maximum%20Depth%20of%20Binary%20Tree%20Blind/125%20-%20You%20are%20given%20an%20array%20of%20k%20linked-lists.md) | 7 | 2 |
+| [126](#id126) | [You are given an array of k linked-lists](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%202%20-%20Maximum%20Depth%20of%20Binary%20Tree%20Blind/126%20-%20You%20are%20given%20an%20array%20of%20k%20linked-lists.md) | 7 | 2 |
+| [127](#id127) | [You are given an array of k linked-lists](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%202%20-%20Maximum%20Depth%20of%20Binary%20Tree%20Blind/127%20-%20You%20are%20given%20an%20array%20of%20k%20linked-lists.md) | 7 | 2 |
 
 ### Part I - Arrays and Hashing
 
@@ -6653,6 +6659,310 @@ A:: =============================================
 The time complexity of the recursive solution is O(n), where n is the number of nodes in the tree. This is because we have to visit every node in the tree once in order to swap its left and right children. The space complexity is O(log n) in the average case, because the maximum amount of space we'll need corresponds to the depth of the tree, which in a balanced binary tree is log(n). In the worst case scenario (a completely unbalanced tree), it could be O(n), but generally, we consider the average case for space complexity in recursive solutions.
 
 #### Chapter 2 - Maximum Depth of Binary Tree (Blind)
+
+Q:: =============================================  
+
+##### Given the `root` of a binary tree, return _its maximum depth_.
+
+A binary tree's **maximum depth** is the number of nodes along the longest path from the root node down to the farthest leaf node.
+
+**Example 1:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/4601cb74-8473-4e92-bf42-b0406178d900/public)
+
+```
+Input: root = [3,9,20,null,null,15,7]
+Output: 3
+```
+
+**Example 2:**
+
+```
+Input: root = [1,null,2]
+Output: 2
+```
+
+**Constraints:**
+
+-   The number of nodes in the tree is in the range `[0, 10^4]`.
+-   `100 <= Node.val <= 100`
+
+___
+
+What is the maximum depth of a binary tree with a single node?
+
+A) 0
+
+B) 1
+
+C) 2
+
+D) The depth is undefined for a single node tree.
+
+###### ID123
+
+A:: =============================================  
+**Answer**: B
+
+A tree with a single node (which is also the root) has a maximum depth of 1. The depth of a tree is the number of nodes along the longest path from the root node down to the farthest leaf node. Here, that path consists only of the root node itself.
+
+Q:: =============================================  
+
+##### You are given an array of `k` linked-lists `lists`, each linked-list is sorted in ascending order.
+
+_Merge all the linked-lists into one sorted linked-list and return it._
+
+**Example 1:**
+
+```
+Input: lists = [[1,4,5],[1,3,4],[2,6]]
+Output: [1,1,2,3,4,4,5,6]
+Explanation: The linked-lists are:
+[
+  1-&gt;4-&gt;5,
+  1-&gt;3-&gt;4,
+  2-&gt;6
+]
+merging them into one sorted list:
+1-&gt;1-&gt;2-&gt;3-&gt;4-&gt;4-&gt;5-&gt;6
+```
+
+**Example 2:**
+
+```
+Input: lists = []
+Output: []
+```
+
+**Example 3:**
+
+```
+Input: lists = [[]]
+Output: []
+```
+
+**Constraints:**
+
+-   `k == lists.length`
+-   `0 <= k <= 10^4`
+-   `0 <= lists[i].length <= 500`
+-   `10^4 <= lists[i][j] <= 10^4`
+-   `lists[i]` is sorted in **ascending order**.
+-   The sum of `lists[i].length` will not exceed `10^4`.
+
+___
+
+Which tree traversal technique could be utilized to find the maximum depth of a binary tree?
+
+A) Depth-First Search (DFS)
+
+B) Breadth-First Search (BFS)
+
+C) Both DFS and BFS
+
+D) Neither DFS nor BFS
+
+###### ID124
+
+A:: =============================================  
+**Answer**: C
+
+Both DFS and BFS can be used to solve this problem. Both methods would work because they both can explore the full depth of the tree. There is no inherent efficiency gain in this particular problem for DFS over BFS or vice versa, as we would need to traverse all nodes to ensure we've found the maximum depth.
+
+Q:: =============================================  
+
+##### You are given an array of `k` linked-lists `lists`, each linked-list is sorted in ascending order.
+
+_Merge all the linked-lists into one sorted linked-list and return it._
+
+**Example 1:**
+
+```
+Input: lists = [[1,4,5],[1,3,4],[2,6]]
+Output: [1,1,2,3,4,4,5,6]
+Explanation: The linked-lists are:
+[
+  1-&gt;4-&gt;5,
+  1-&gt;3-&gt;4,
+  2-&gt;6
+]
+merging them into one sorted list:
+1-&gt;1-&gt;2-&gt;3-&gt;4-&gt;4-&gt;5-&gt;6
+```
+
+**Example 2:**
+
+```
+Input: lists = []
+Output: []
+```
+
+**Example 3:**
+
+```
+Input: lists = [[]]
+Output: []
+```
+
+**Constraints:**
+
+-   `k == lists.length`
+-   `0 <= k <= 10^4`
+-   `0 <= lists[i].length <= 500`
+-   `10^4 <= lists[i][j] <= 10^4`
+-   `lists[i]` is sorted in **ascending order**.
+-   The sum of `lists[i].length` will not exceed `10^4`.
+
+___
+
+If we use a recursive DFS approach to solve this problem, what would be a sensible base case?
+
+A) When we encounter a null node
+
+B) When we encounter a node with only one child
+
+C) There is no need for a base case
+
+###### ID125
+
+A:: =============================================  
+**Answer**: A
+
+A good base case for this problem could be when we encounter a null node. When we reach a null node, it indicates we've traversed all the way down one path of the tree and we've hit a leaf node in the previous step.
+
+Q:: =============================================  
+
+##### You are given an array of `k` linked-lists `lists`, each linked-list is sorted in ascending order.
+
+_Merge all the linked-lists into one sorted linked-list and return it._
+
+**Example 1:**
+
+```
+Input: lists = [[1,4,5],[1,3,4],[2,6]]
+Output: [1,1,2,3,4,4,5,6]
+Explanation: The linked-lists are:
+[
+  1-&gt;4-&gt;5,
+  1-&gt;3-&gt;4,
+  2-&gt;6
+]
+merging them into one sorted list:
+1-&gt;1-&gt;2-&gt;3-&gt;4-&gt;4-&gt;5-&gt;6
+```
+
+**Example 2:**
+
+```
+Input: lists = []
+Output: []
+```
+
+**Example 3:**
+
+```
+Input: lists = [[]]
+Output: []
+```
+
+**Constraints:**
+
+-   `k == lists.length`
+-   `0 <= k <= 10^4`
+-   `0 <= lists[i].length <= 500`
+-   `10^4 <= lists[i][j] <= 10^4`
+-   `lists[i]` is sorted in **ascending order**.
+-   The sum of `lists[i].length` will not exceed `10^4`.
+
+___
+
+Considering the recursive approach, how would we compute the maximum depth of a binary tree?
+
+A) Compare the depth of the left subtree and the right subtree, then return the maximum plus 1
+
+B) Add the depths of the left subtree and the right subtree
+
+C) Return the depth of the left subtree if it is non-null, else return the depth of the right subtree
+
+###### ID126
+
+A:: =============================================  
+**Answer**: A
+
+The maximum depth of a binary tree is one more than the maximum of the depths of its left and right subtrees. So, we recursively compute the maximum depths of the left and right subtrees, and the maximum depth of the tree is the maximum of these two depths plus 1.
+
+Q:: =============================================  
+
+##### You are given an array of `k` linked-lists `lists`, each linked-list is sorted in ascending order.
+
+_Merge all the linked-lists into one sorted linked-list and return it._
+
+**Example 1:**
+
+```
+Input: lists = [[1,4,5],[1,3,4],[2,6]]
+Output: [1,1,2,3,4,4,5,6]
+Explanation: The linked-lists are:
+[
+  1-&gt;4-&gt;5,
+  1-&gt;3-&gt;4,
+  2-&gt;6
+]
+merging them into one sorted list:
+1-&gt;1-&gt;2-&gt;3-&gt;4-&gt;4-&gt;5-&gt;6
+```
+
+**Example 2:**
+
+```
+Input: lists = []
+Output: []
+```
+
+**Example 3:**
+
+```
+Input: lists = [[]]
+Output: []
+```
+
+**Constraints:**
+
+-   `k == lists.length`
+-   `0 <= k <= 10^4`
+-   `0 <= lists[i].length <= 500`
+-   `10^4 <= lists[i][j] <= 10^4`
+-   `lists[i]` is sorted in **ascending order**.
+-   The sum of `lists[i].length` will not exceed `10^4`.
+
+___
+
+Given the below Python function to solve the problem, what are the time and space complexities? Assume the binary tree is balanced.
+
+```python
+class Solution:
+    def maxDepth(self, root: TreeNode) -> int:
+        if not root:
+            return 0
+
+        return 1 + max(
+            self.maxDepth(root.left),
+            self.maxDepth(root.right)
+        )
+```
+
+A) Time complexity: O(1), Space complexity: O(1)
+
+B) Time complexity: O(n), Space complexity: O(log n)
+
+C) Time complexity: O(n), Space complexity: O(n)
+
+###### ID127
+
+A:: =============================================  
+**Answer**: B
+
+The time complexity of the recursive solution is O(n), where n is the number of nodes in the tree. We visit each node once, so the time complexity is proportional to the size of the tree. The space complexity is O(log n) in the average case (for a balanced tree), as we only need to store information up to the depth of the tree, which is log(n) for a balanced binary tree. In the worst case (a completely unbalanced tree), the space complexity could be O(n).
 
 #### Chapter 3 - Diameter of Binary Tree
 
