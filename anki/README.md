@@ -140,6 +140,13 @@
 | [109](#id109) | [Given the head of a linked list remove](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%204%20-%20Remove%20Nth%20Node%20From%20End%20of%20List%20Blind/109%20-%20Given%20the%20head%20of%20a%20linked%20list%20remove.md) | 6 | 4 |
 | [110](#id110) | [Given the head of a linked list remove](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%204%20-%20Remove%20Nth%20Node%20From%20End%20of%20List%20Blind/110%20-%20Given%20the%20head%20of%20a%20linked%20list%20remove.md) | 6 | 4 |
 | [111](#id111) | [Given the head of a linked list remove](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%204%20-%20Remove%20Nth%20Node%20From%20End%20of%20List%20Blind/111%20-%20Given%20the%20head%20of%20a%20linked%20list%20remove.md) | 6 | 4 |
+| **-** | **Linked List > Merge k Sorted Lists Blind** | **6** | **10** |
+| [112](#id112) | [You are given an array of k linked-lists](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%2010%20-%20Merge%20k%20Sorted%20Lists%20Blind/112%20-%20You%20are%20given%20an%20array%20of%20k%20linked-lists.md) | 6 | 10 |
+| [113](#id113) | [You are given an array of k linked-lists](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%2010%20-%20Merge%20k%20Sorted%20Lists%20Blind/113%20-%20You%20are%20given%20an%20array%20of%20k%20linked-lists.md) | 6 | 10 |
+| [114](#id114) | [You are given an array of k linked-lists](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%2010%20-%20Merge%20k%20Sorted%20Lists%20Blind/114%20-%20You%20are%20given%20an%20array%20of%20k%20linked-lists.md) | 6 | 10 |
+| [115](#id115) | [You are given an array of k linked-lists](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%2010%20-%20Merge%20k%20Sorted%20Lists%20Blind/115%20-%20You%20are%20given%20an%20array%20of%20k%20linked-lists.md) | 6 | 10 |
+| [116](#id116) | [You are given an array of k linked-lists](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%2010%20-%20Merge%20k%20Sorted%20Lists%20Blind/116%20-%20You%20are%20given%20an%20array%20of%20k%20linked-lists.md) | 6 | 10 |
+| [117](#id117) | [You are given an array of k linked-lists](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%2010%20-%20Merge%20k%20Sorted%20Lists%20Blind/117%20-%20You%20are%20given%20an%20array%20of%20k%20linked-lists.md) | 6 | 10 |
 
 ### Part I - Arrays and Hashing
 
@@ -5968,6 +5975,384 @@ The two-pointer approach has a linear time complexity of O(n). We perform a cons
 #### Chapter 9 - LRU Cache
 
 #### Chapter 10 - Merge k Sorted Lists (Blind)
+
+Q:: =============================================  
+
+##### You are given an array of `k` linked-lists `lists`, each linked-list is sorted in ascending order.
+
+_Merge all the linked-lists into one sorted linked-list and return it._
+
+**Example 1:**
+
+```
+Input: lists = [[1,4,5],[1,3,4],[2,6]]
+Output: [1,1,2,3,4,4,5,6]
+Explanation: The linked-lists are:
+[
+  1-&gt;4-&gt;5,
+  1-&gt;3-&gt;4,
+  2-&gt;6
+]
+merging them into one sorted list:
+1-&gt;1-&gt;2-&gt;3-&gt;4-&gt;4-&gt;5-&gt;6
+```
+
+**Example 2:**
+
+```
+Input: lists = []
+Output: []
+```
+
+**Example 3:**
+
+```
+Input: lists = [[]]
+Output: []
+```
+
+**Constraints:**
+
+-   `k == lists.length`
+-   `0 <= k <= 10^4`
+-   `0 <= lists[i].length <= 500`
+-   `10^4 <= lists[i][j] <= 10^4`
+-   `lists[i]` is sorted in **ascending order**.
+-   The sum of `lists[i].length` will not exceed `10^4`.
+
+___
+
+What would be a straightforward but not necessarily optimal approach to solve this problem?
+
+A) Sequentially merge the linked lists, starting from the first one
+
+B) Reverse each linked list, and then merge
+
+C) Select the last node from each list and create a new sorted list
+
+D) Randomly pick two lists to merge until one list is left
+
+###### ID112
+
+A:: =============================================  
+**Answer**: A
+
+A straightforward approach for this problem would involve sequentially merging the linked lists, starting from the first one. This would involve merging the first two lists, then merging the result with the third list, and so on. While this approach is simple, it may not be the most efficient in terms of time complexity.
+
+Q:: =============================================  
+
+##### You are given an array of `k` linked-lists `lists`, each linked-list is sorted in ascending order.
+
+_Merge all the linked-lists into one sorted linked-list and return it._
+
+**Example 1:**
+
+```
+Input: lists = [[1,4,5],[1,3,4],[2,6]]
+Output: [1,1,2,3,4,4,5,6]
+Explanation: The linked-lists are:
+[
+  1-&gt;4-&gt;5,
+  1-&gt;3-&gt;4,
+  2-&gt;6
+]
+merging them into one sorted list:
+1-&gt;1-&gt;2-&gt;3-&gt;4-&gt;4-&gt;5-&gt;6
+```
+
+**Example 2:**
+
+```
+Input: lists = []
+Output: []
+```
+
+**Example 3:**
+
+```
+Input: lists = [[]]
+Output: []
+```
+
+**Constraints:**
+
+-   `k == lists.length`
+-   `0 <= k <= 10^4`
+-   `0 <= lists[i].length <= 500`
+-   `10^4 <= lists[i][j] <= 10^4`
+-   `lists[i]` is sorted in **ascending order**.
+-   The sum of `lists[i].length` will not exceed `10^4`.
+
+___
+
+What would be the time complexity of the solution where you merge the linked lists one by one into the first linked list? Assume `n` is the total number of nodes, and `k` is the number of linked lists.
+
+A) O(n)
+
+B) O(n log n)
+
+C) O(n^2)
+
+D) O(kn)
+
+###### ID113
+
+A:: =============================================  
+**Answer**: D
+
+When you merge two linked lists, the time complexity is proportional to the total number of nodes in the two lists. If you merge the linked lists one by one, you'll end up with a time complexity of O(kn) because each merge operation can potentially traverse all n nodes, and this operation is repeated k times.
+
+Q:: =============================================  
+
+##### You are given an array of `k` linked-lists `lists`, each linked-list is sorted in ascending order.
+
+_Merge all the linked-lists into one sorted linked-list and return it._
+
+**Example 1:**
+
+```
+Input: lists = [[1,4,5],[1,3,4],[2,6]]
+Output: [1,1,2,3,4,4,5,6]
+Explanation: The linked-lists are:
+[
+  1-&gt;4-&gt;5,
+  1-&gt;3-&gt;4,
+  2-&gt;6
+]
+merging them into one sorted list:
+1-&gt;1-&gt;2-&gt;3-&gt;4-&gt;4-&gt;5-&gt;6
+```
+
+**Example 2:**
+
+```
+Input: lists = []
+Output: []
+```
+
+**Example 3:**
+
+```
+Input: lists = [[]]
+Output: []
+```
+
+**Constraints:**
+
+-   `k == lists.length`
+-   `0 <= k <= 10^4`
+-   `0 <= lists[i].length <= 500`
+-   `10^4 <= lists[i][j] <= 10^4`
+-   `lists[i]` is sorted in **ascending order**.
+-   The sum of `lists[i].length` will not exceed `10^4`.
+
+___
+
+Given that all individual linked lists are already sorted, how can you take advantage of this to improve the time complexity?
+
+A) By using a sorting algorithm that is more efficient on nearly sorted lists
+
+B) By using a two-pointer technique to find pairs of nodes that sum to a target
+
+C) By merging the linked lists two at a time
+
+D) By using a priority queue to select the next smallest node
+
+###### ID114
+
+A:: =============================================  
+**Answer**: D
+
+Since all individual linked lists are sorted, you can use a priority queue (also known as a min-heap) to efficiently select the next smallest node from the heads of all the linked lists.
+
+Q:: =============================================  
+
+##### You are given an array of `k` linked-lists `lists`, each linked-list is sorted in ascending order.
+
+_Merge all the linked-lists into one sorted linked-list and return it._
+
+**Example 1:**
+
+```
+Input: lists = [[1,4,5],[1,3,4],[2,6]]
+Output: [1,1,2,3,4,4,5,6]
+Explanation: The linked-lists are:
+[
+  1-&gt;4-&gt;5,
+  1-&gt;3-&gt;4,
+  2-&gt;6
+]
+merging them into one sorted list:
+1-&gt;1-&gt;2-&gt;3-&gt;4-&gt;4-&gt;5-&gt;6
+```
+
+**Example 2:**
+
+```
+Input: lists = []
+Output: []
+```
+
+**Example 3:**
+
+```
+Input: lists = [[]]
+Output: []
+```
+
+**Constraints:**
+
+-   `k == lists.length`
+-   `0 <= k <= 10^4`
+-   `0 <= lists[i].length <= 500`
+-   `10^4 <= lists[i][j] <= 10^4`
+-   `lists[i]` is sorted in **ascending order**.
+-   The sum of `lists[i].length` will not exceed `10^4`.
+
+___
+
+If you use a priority queue to keep track of the smallest node in each linked list, what would be the time complexity of inserting an element into the queue?
+
+A) O(1)
+
+B) O(log k)
+
+C) O(k)
+
+D) O(n)
+
+###### ID115
+
+A:: =============================================  
+**Answer**: B
+
+The time complexity of inserting an element into a priority queue (or min-heap) is O(log k), where k is the number of linked lists (or the current size of the heap). Each insert operation might need to restructure the heap to maintain its properties, which takes logarithmic time.
+
+Q:: =============================================  
+
+##### You are given an array of `k` linked-lists `lists`, each linked-list is sorted in ascending order.
+
+_Merge all the linked-lists into one sorted linked-list and return it._
+
+**Example 1:**
+
+```
+Input: lists = [[1,4,5],[1,3,4],[2,6]]
+Output: [1,1,2,3,4,4,5,6]
+Explanation: The linked-lists are:
+[
+  1-&gt;4-&gt;5,
+  1-&gt;3-&gt;4,
+  2-&gt;6
+]
+merging them into one sorted list:
+1-&gt;1-&gt;2-&gt;3-&gt;4-&gt;4-&gt;5-&gt;6
+```
+
+**Example 2:**
+
+```
+Input: lists = []
+Output: []
+```
+
+**Example 3:**
+
+```
+Input: lists = [[]]
+Output: []
+```
+
+**Constraints:**
+
+-   `k == lists.length`
+-   `0 <= k <= 10^4`
+-   `0 <= lists[i].length <= 500`
+-   `10^4 <= lists[i][j] <= 10^4`
+-   `lists[i]` is sorted in **ascending order**.
+-   The sum of `lists[i].length` will not exceed `10^4`.
+
+___
+
+If you use a priority queue to select the smallest node from each linked list, what would be the time complexity for merging all the linked lists into one sorted list?
+
+A) O(n log n)
+
+B) O(n log k)
+
+C) O(k log n)
+
+D) O(n)
+
+###### ID116
+
+A:: =============================================  
+**Answer**: B
+
+If you use a priority queue, you are essentially removing the smallest element (head of some linked list) and then adding the next element from the same list. Each operation (insert/remove) would take O(log k) time. Since we are doing these operations for all 'n' nodes, the total time complexity would be O(n log k).
+
+Q:: =============================================  
+
+##### You are given an array of `k` linked-lists `lists`, each linked-list is sorted in ascending order.
+
+_Merge all the linked-lists into one sorted linked-list and return it._
+
+**Example 1:**
+
+```
+Input: lists = [[1,4,5],[1,3,4],[2,6]]
+Output: [1,1,2,3,4,4,5,6]
+Explanation: The linked-lists are:
+[
+  1-&gt;4-&gt;5,
+  1-&gt;3-&gt;4,
+  2-&gt;6
+]
+merging them into one sorted list:
+1-&gt;1-&gt;2-&gt;3-&gt;4-&gt;4-&gt;5-&gt;6
+```
+
+**Example 2:**
+
+```
+Input: lists = []
+Output: []
+```
+
+**Example 3:**
+
+```
+Input: lists = [[]]
+Output: []
+```
+
+**Constraints:**
+
+-   `k == lists.length`
+-   `0 <= k <= 10^4`
+-   `0 <= lists[i].length <= 500`
+-   `10^4 <= lists[i][j] <= 10^4`
+-   `lists[i]` is sorted in **ascending order**.
+-   The sum of `lists[i].length` will not exceed `10^4`.
+
+___
+
+If you use a priority queue to select the smallest node from each linked list, what would be the space complexity for merging all the linked lists into one sorted list?
+
+A) O(1)
+
+B) O(n)
+
+C) O(k)
+
+D) O(n + k)
+
+###### ID117
+
+A:: =============================================  
+**Answer**: C
+
+In this case, the space complexity is O(k) because at any point, you only need to store the head nodes of each linked list in the priority queue. Here, k is the number of linked lists.
 
 #### Chapter 11 - Reverse Nodes in k-Group
 
