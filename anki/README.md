@@ -147,6 +147,13 @@
 | [115](#id115) | [You are given an array of k linked-lists](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%2010%20-%20Merge%20k%20Sorted%20Lists%20Blind/115%20-%20You%20are%20given%20an%20array%20of%20k%20linked-lists.md) | 6 | 10 |
 | [116](#id116) | [You are given an array of k linked-lists](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%2010%20-%20Merge%20k%20Sorted%20Lists%20Blind/116%20-%20You%20are%20given%20an%20array%20of%20k%20linked-lists.md) | 6 | 10 |
 | [117](#id117) | [You are given an array of k linked-lists](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%2010%20-%20Merge%20k%20Sorted%20Lists%20Blind/117%20-%20You%20are%20given%20an%20array%20of%20k%20linked-lists.md) | 6 | 10 |
+| **-** | **Trees** | **7** | **-** |
+| **-** | **Trees > Invert Binary Tree Blind** | **7** | **1** |
+| [118](#id118) | [Given the root of a binary tree invert](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%201%20-%20Invert%20Binary%20Tree%20Blind/118%20-%20Given%20the%20root%20of%20a%20binary%20tree%20invert.md) | 7 | 1 |
+| [119](#id119) | [You are given an array of k linked-lists](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%201%20-%20Invert%20Binary%20Tree%20Blind/119%20-%20You%20are%20given%20an%20array%20of%20k%20linked-lists.md) | 7 | 1 |
+| [120](#id120) | [You are given an array of k linked-lists](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%201%20-%20Invert%20Binary%20Tree%20Blind/120%20-%20You%20are%20given%20an%20array%20of%20k%20linked-lists.md) | 7 | 1 |
+| [121](#id121) | [You are given an array of k linked-lists](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%201%20-%20Invert%20Binary%20Tree%20Blind/121%20-%20You%20are%20given%20an%20array%20of%20k%20linked-lists.md) | 7 | 1 |
+| [122](#id122) | [You are given an array of k linked-lists](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%201%20-%20Invert%20Binary%20Tree%20Blind/122%20-%20You%20are%20given%20an%20array%20of%20k%20linked-lists.md) | 7 | 1 |
 
 ### Part I - Arrays and Hashing
 
@@ -6359,6 +6366,291 @@ In this case, the space complexity is O(k) because at any point, you only need t
 ### Part VII - Trees
 
 #### Chapter 1 - Invert Binary Tree (Blind)
+
+Q:: =============================================  
+
+##### Given the `root` of a binary tree, invert the tree, and return _its root_.
+
+![Binary Tree Inverted](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/9aeb8e98-e369-4a36-2c82-be3efcab4f00/public)
+
+**Example 1:**
+
+```
+Input: root = [4,2,7,1,3,6,9]
+Output: [4,7,2,9,6,3,1]
+```
+
+**Constraints:**
+
+-   The number of nodes in the tree is in the range `[0, 100]`.
+-   `-100 <= Node.val <= 100`
+
+___
+
+What does this binary tree look like after it has been inverted? ![](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/3632af86-32d0-4224-fd47-1a9f311a8f00/public) 
+
+A) ![](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/00d65115-0868-4312-8050-b1b039ecda00/public) 
+
+B) ![](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/22600c7e-0bb6-4762-9959-370044446b00/public) 
+
+###### ID118
+
+A:: =============================================  
+**Answer**: B
+
+Inverting a binary tree means to make all left child nodes become right child nodes and vice versa. This is effectively the same as swapping the left and right child nodes for every node in the tree.
+
+Q:: =============================================  
+
+##### You are given an array of `k` linked-lists `lists`, each linked-list is sorted in ascending order.
+
+_Merge all the linked-lists into one sorted linked-list and return it._
+
+**Example 1:**
+
+```
+Input: lists = [[1,4,5],[1,3,4],[2,6]]
+Output: [1,1,2,3,4,4,5,6]
+Explanation: The linked-lists are:
+[
+  1-&gt;4-&gt;5,
+  1-&gt;3-&gt;4,
+  2-&gt;6
+]
+merging them into one sorted list:
+1-&gt;1-&gt;2-&gt;3-&gt;4-&gt;4-&gt;5-&gt;6
+```
+
+**Example 2:**
+
+```
+Input: lists = []
+Output: []
+```
+
+**Example 3:**
+
+```
+Input: lists = [[]]
+Output: []
+```
+
+**Constraints:**
+
+-   `k == lists.length`
+-   `0 <= k <= 10^4`
+-   `0 <= lists[i].length <= 500`
+-   `10^4 <= lists[i][j] <= 10^4`
+-   `lists[i]` is sorted in **ascending order**.
+-   The sum of `lists[i].length` will not exceed `10^4`.
+
+___
+
+Which tree traversal can be used to solve this problem?
+
+A) Depth-First Search (DFS)
+
+B) Breadth-First Search (BFS)
+
+C) Neither DFS nor BFS
+
+D) Both DFS and BFS
+
+###### ID119
+
+A:: =============================================  
+**Answer**: D
+
+Both Depth-First Search (DFS) and Breadth-First Search (BFS) could be used to solve this problem. Both methods would work because the order in which we visit the nodes doesn't matter in this problem, as long as every node’s children are swapped.
+
+Q:: =============================================  
+
+##### You are given an array of `k` linked-lists `lists`, each linked-list is sorted in ascending order.
+
+_Merge all the linked-lists into one sorted linked-list and return it._
+
+**Example 1:**
+
+```
+Input: lists = [[1,4,5],[1,3,4],[2,6]]
+Output: [1,1,2,3,4,4,5,6]
+Explanation: The linked-lists are:
+[
+  1-&gt;4-&gt;5,
+  1-&gt;3-&gt;4,
+  2-&gt;6
+]
+merging them into one sorted list:
+1-&gt;1-&gt;2-&gt;3-&gt;4-&gt;4-&gt;5-&gt;6
+```
+
+**Example 2:**
+
+```
+Input: lists = []
+Output: []
+```
+
+**Example 3:**
+
+```
+Input: lists = [[]]
+Output: []
+```
+
+**Constraints:**
+
+-   `k == lists.length`
+-   `0 <= k <= 10^4`
+-   `0 <= lists[i].length <= 500`
+-   `10^4 <= lists[i][j] <= 10^4`
+-   `lists[i]` is sorted in **ascending order**.
+-   The sum of `lists[i].length` will not exceed `10^4`.
+
+___
+
+If we were to use a recursive DFS approach to solve this problem, what would be the base case?
+
+A) When we encounter a null node
+
+B) When we encounter a leaf node
+
+C) Neither A nor B
+
+D) Either one of A or B would be a sufficient base case
+
+###### ID120
+
+A:: =============================================  
+**Answer**: D
+
+The base case for a recursive approach to this problem could be when we encounter a null node. This is because we cannot swap the left and right children of a null node. But an alternative base case could be when we encounter a leaf node, since the node doesn’t have any children to swap.
+
+Q:: =============================================  
+
+##### You are given an array of `k` linked-lists `lists`, each linked-list is sorted in ascending order.
+
+_Merge all the linked-lists into one sorted linked-list and return it._
+
+**Example 1:**
+
+```
+Input: lists = [[1,4,5],[1,3,4],[2,6]]
+Output: [1,1,2,3,4,4,5,6]
+Explanation: The linked-lists are:
+[
+  1-&gt;4-&gt;5,
+  1-&gt;3-&gt;4,
+  2-&gt;6
+]
+merging them into one sorted list:
+1-&gt;1-&gt;2-&gt;3-&gt;4-&gt;4-&gt;5-&gt;6
+```
+
+**Example 2:**
+
+```
+Input: lists = []
+Output: []
+```
+
+**Example 3:**
+
+```
+Input: lists = [[]]
+Output: []
+```
+
+**Constraints:**
+
+-   `k == lists.length`
+-   `0 <= k <= 10^4`
+-   `0 <= lists[i].length <= 500`
+-   `10^4 <= lists[i][j] <= 10^4`
+-   `lists[i]` is sorted in **ascending order**.
+-   The sum of `lists[i].length` will not exceed `10^4`.
+
+___
+
+With the recursive approach in mind, how would we invert a binary tree?
+
+A) Swap the left and right children of the root node, then recursively invert the left and right subtrees
+
+B) Recursively invert the left subtree, then the right subtree, then swap the left and right children of the root node
+
+C) Recursively invert the right subtree, then the left subtree, then swap the left and right children of the root node
+
+D) Any of the above.
+
+###### ID121
+
+A:: =============================================  
+**Answer**: D
+
+The recursive approach to inverting a binary tree would involve swapping the left and right children of the root node, as well as recursively inverting the left subtree, and the right subtree. But it doesn’t matter the order we execute these operations because none of them interfere with each other.
+
+Q:: =============================================  
+
+##### You are given an array of `k` linked-lists `lists`, each linked-list is sorted in ascending order.
+
+_Merge all the linked-lists into one sorted linked-list and return it._
+
+**Example 1:**
+
+```
+Input: lists = [[1,4,5],[1,3,4],[2,6]]
+Output: [1,1,2,3,4,4,5,6]
+Explanation: The linked-lists are:
+[
+  1-&gt;4-&gt;5,
+  1-&gt;3-&gt;4,
+  2-&gt;6
+]
+merging them into one sorted list:
+1-&gt;1-&gt;2-&gt;3-&gt;4-&gt;4-&gt;5-&gt;6
+```
+
+**Example 2:**
+
+```
+Input: lists = []
+Output: []
+```
+
+**Example 3:**
+
+```
+Input: lists = [[]]
+Output: []
+```
+
+**Constraints:**
+
+-   `k == lists.length`
+-   `0 <= k <= 10^4`
+-   `0 <= lists[i].length <= 500`
+-   `10^4 <= lists[i][j] <= 10^4`
+-   `lists[i]` is sorted in **ascending order**.
+-   The sum of `lists[i].length` will not exceed `10^4`.
+
+___
+
+What are the time and space complexities of the recursive solution to this problem? Assume the binary tree is balanced and contains n nodes.
+
+A) Time complexity: O(1), Space complexity: O(1)
+
+B) Time complexity: O(n), Space complexity: O(log n)
+
+C) Time complexity: O(n), Space complexity: O(n)
+
+D) Time complexity: O(n^2), Space complexity: O(n^2)
+
+###### ID122
+
+A:: =============================================  
+**Answer**: B
+
+The time complexity of the recursive solution is O(n), where n is the number of nodes in the tree. This is because we have to visit every node in the tree once in order to swap its left and right children. The space complexity is O(log n) in the average case, because the maximum amount of space we'll need corresponds to the depth of the tree, which in a balanced binary tree is log(n). In the worst case scenario (a completely unbalanced tree), it could be O(n), but generally, we consider the average case for space complexity in recursive solutions.
 
 #### Chapter 2 - Maximum Depth of Binary Tree (Blind)
 
