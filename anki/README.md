@@ -116,6 +116,12 @@
 | [90](#id90) | [Suppose an array of length n sorted in a](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Binary%20Search/Chapter%205%20-%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20Blind/90%20-%20Suppose%20an%20array%20of%20length%20n%20sorted%20in%20a.md) | 5 | 5 |
 | [91](#id91) | [Suppose an array of length n sorted in a](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Binary%20Search/Chapter%205%20-%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20Blind/91%20-%20Suppose%20an%20array%20of%20length%20n%20sorted%20in%20a.md) | 5 | 5 |
 | [92](#id92) | [Suppose an array of length n sorted in a](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Binary%20Search/Chapter%205%20-%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20Blind/92%20-%20Suppose%20an%20array%20of%20length%20n%20sorted%20in%20a.md) | 5 | 5 |
+| **-** | **Linked List** | **6** | **-** |
+| **-** | **Linked List > Reverse Linked List Blind** | **6** | **1** |
+| [93](#id93) | [Given the head of a singly linked list](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%201%20-%20Reverse%20Linked%20List%20Blind/93%20-%20Given%20the%20head%20of%20a%20singly%20linked%20list.md) | 6 | 1 |
+| [94](#id94) | [Given the head of a singly linked list](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%201%20-%20Reverse%20Linked%20List%20Blind/94%20-%20Given%20the%20head%20of%20a%20singly%20linked%20list.md) | 6 | 1 |
+| [95](#id95) | [Given the head of a singly linked list](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%201%20-%20Reverse%20Linked%20List%20Blind/95%20-%20Given%20the%20head%20of%20a%20singly%20linked%20list.md) | 6 | 1 |
+| [96](#id96) | [Given the head of a singly linked list](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%201%20-%20Reverse%20Linked%20List%20Blind/96%20-%20Given%20the%20head%20of%20a%20singly%20linked%20list.md) | 6 | 1 |
 
 ### Part I - Arrays and Hashing
 
@@ -4824,6 +4830,225 @@ The binary search approach has a time complexity of O(log n) because in each ste
 ### Part VI - Linked List
 
 #### Chapter 1 - Reverse Linked List (Blind)
+
+Q:: =============================================  
+
+##### Given the `head` of a singly linked list, reverse the list, and return _the reversed list_.
+
+**Example 1:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/b57f05e4-bd0a-4d71-2066-bfad19f84300/public)
+
+```
+Input: head = [1,2,3,4,5]
+Output: [5,4,3,2,1]
+```
+
+**Example 2:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/21b14354-6a3a-45e0-8d02-ecc7ec7f7300/public)
+
+```
+Input: head = [1,2]
+Output: [2,1]
+```
+
+**Example 3:**
+
+```
+Input: head = []
+Output: []
+```
+
+**Constraints:**
+
+-   The number of nodes in the list is the range `[0, 5000]`.
+-   `5000 <= Node.val <= 5000`
+
+___
+
+If we have a linked list with only one node, what will be the result after reversing it?
+
+A) An empty linked list
+
+B) The same linked list
+
+###### ID93
+
+A:: =============================================  
+**Answer**: B
+
+Reversing a linked list with only one node doesn't change anything. It remains the same, as there are no other nodes to rearrange.
+
+Q:: =============================================  
+
+##### Given the `head` of a singly linked list, reverse the list, and return _the reversed list_.
+
+**Example 1:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/b57f05e4-bd0a-4d71-2066-bfad19f84300/public)
+
+```
+Input: head = [1,2,3,4,5]
+Output: [5,4,3,2,1]
+```
+
+**Example 2:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/21b14354-6a3a-45e0-8d02-ecc7ec7f7300/public)
+
+```
+Input: head = [1,2]
+Output: [2,1]
+```
+
+**Example 3:**
+
+```
+Input: head = []
+Output: []
+```
+
+**Constraints:**
+
+-   The number of nodes in the list is the range `[0, 5000]`.
+-   `5000 <= Node.val <= 5000`
+
+___
+
+In order to reverse a linked list, we need to change the direction of which part of each node?
+
+A) The node's value
+
+B) The node's 'next' reference
+
+###### ID94
+
+A:: =============================================  
+**Answer**: B
+
+In a singly linked list, each node has a value and a 'next' reference pointing to the next node in the list. To reverse the list, we need to change the 'next' reference of each node to point to the previous node.
+
+Q:: =============================================  
+
+##### Given the `head` of a singly linked list, reverse the list, and return _the reversed list_.
+
+**Example 1:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/b57f05e4-bd0a-4d71-2066-bfad19f84300/public)
+
+```
+Input: head = [1,2,3,4,5]
+Output: [5,4,3,2,1]
+```
+
+**Example 2:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/21b14354-6a3a-45e0-8d02-ecc7ec7f7300/public)
+
+```
+Input: head = [1,2]
+Output: [2,1]
+```
+
+**Example 3:**
+
+```
+Input: head = []
+Output: []
+```
+
+**Constraints:**
+
+-   The number of nodes in the list is the range `[0, 5000]`.
+-   `5000 <= Node.val <= 5000`
+
+___
+
+What could be a simple, but also optimal approach to reverse a linked list?
+
+A) Recursively reverse the linked list in-place.
+
+B) Use a stack to reverse the values of the linked list in-place.
+
+C) Traverse the list once, and for each node, set its 'next' to the previous node.
+
+###### ID95
+
+A:: =============================================  
+**Answer**: C
+
+Recursion or using a stack would require additional space and isn't necessary. By traversing the list and updating the 'next' reference of each node to point to the previous node, we can achieve the desired result.
+
+Q:: =============================================  
+
+##### Given the `head` of a singly linked list, reverse the list, and return _the reversed list_.
+
+**Example 1:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/b57f05e4-bd0a-4d71-2066-bfad19f84300/public)
+
+```
+Input: head = [1,2,3,4,5]
+Output: [5,4,3,2,1]
+```
+
+**Example 2:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/21b14354-6a3a-45e0-8d02-ecc7ec7f7300/public)
+
+```
+Input: head = [1,2]
+Output: [2,1]
+```
+
+**Example 3:**
+
+```
+Input: head = []
+Output: []
+```
+
+**Constraints:**
+
+-   The number of nodes in the list is the range `[0, 5000]`.
+-   `5000 <= Node.val <= 5000`
+
+___
+
+What is the time and space complexity of the optimal approach?
+
+```python
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, x):
+#         self.val = x
+#         self.next = None
+
+class Solution:
+    def reverseList(self, head: ListNode) -> ListNode:
+        prev, curr = None, head
+        
+        while curr: 
+            temp = curr.next
+            curr.next = prev
+            prev = curr
+            curr = temp
+        return prev
+```
+
+A) Time complexity: O(n), Space complexity: O(n)
+
+B) Time complexity: O(n), Space complexity: O(1)
+
+C) Time complexity: O(1), Space complexity: O(1)
+
+###### ID96
+
+A:: =============================================  
+**Answer**: B
+
+The time complexity is O(n) because we need to traverse the list once, where n is the number of nodes in the list. The space complexity is O(1) because we are not using any additional space that scales with the size of the input. We only use a few variables to keep track of the previous and current nodes during the process.
 
 #### Chapter 2 - Merge Two Sorted Lists (Blind)
 
