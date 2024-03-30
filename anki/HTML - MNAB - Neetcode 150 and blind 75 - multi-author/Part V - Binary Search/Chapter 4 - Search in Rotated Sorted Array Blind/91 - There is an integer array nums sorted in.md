@@ -38,45 +38,21 @@ Output: -1
 
 ---
 
-To summarize, the below code will solve this problem using an augmented binary search solution. What is the time and space complexity?
+Now consider a sorted array that has been rotated at an unknown index. What is the time complexity of the _simplest_ (but non-optimal) solution to find an element in this array?
 
-<!-- codeblock-start -->
-<pre><code class="hljs language-python"><span class="hljs-keyword">def</span> <span class="hljs-title function_">search</span>(<span class="hljs-params">self, nums: <span class="hljs-type">List</span>[<span class="hljs-built_in">int</span>], target: <span class="hljs-built_in">int</span></span>) -> <span class="hljs-built_in">int</span>:
-     left, right = <span class="hljs-number">0</span>, <span class="hljs-built_in">len</span>(nums) - <span class="hljs-number">1</span>
-     <span class="hljs-keyword">while</span> left &#x3C;= right:
-         mid = (left + right) // <span class="hljs-number">2</span>
-         <span class="hljs-keyword">if</span> nums[mid] >= nums[<span class="hljs-number">0</span>] <span class="hljs-keyword">and</span> target &#x3C; nums[<span class="hljs-number">0</span>]:
-             <span class="hljs-comment"># We're in left sorted array</span>
-             <span class="hljs-comment"># But target is in right sorted array</span>
-             left = mid + <span class="hljs-number">1</span>
-         <span class="hljs-keyword">elif</span> nums[mid] &#x3C; nums[<span class="hljs-number">0</span>] <span class="hljs-keyword">and</span> target >= nums[<span class="hljs-number">0</span>]:
-             <span class="hljs-comment"># We're in right sorted array</span>
-             <span class="hljs-comment"># But target is in left sorted array</span>
-             right = mid - <span class="hljs-number">1</span>
-         <span class="hljs-comment"># Otherwise: Normal binary search</span>
-         <span class="hljs-keyword">elif</span> target > nums[mid]:
-             left = mid + <span class="hljs-number">1</span>
-         <span class="hljs-keyword">elif</span> target &#x3C; nums[mid]:
-             right = mid - <span class="hljs-number">1</span>
-         <span class="hljs-keyword">else</span>:
-             <span class="hljs-keyword">return</span> mid
-         <span class="hljs-keyword">return</span> -<span class="hljs-number">1</span>
-</code></pre>
-<!-- codeblock-end -->
+A) O(n)
 
-A) Time complexity: O(n), Space complexity: O(1)
+B) O(log n)
 
-B) Time complexity: O(log n), Space complexity: O(1)
+C) O(n^2)
 
-C) Time complexity: O(n log n), Space complexity: O(n)
-
-D) Time complexity: O(n^2), Space complexity: O(n)  
+D) O(1)  
 
 ==================== Answer ====================  
 
-**Answer**: B
+**Answer**: A
 
-The binary search approach has a time complexity of O(log n) because in each step, you reduce the problem size by half. The space complexity is O(1) because you are not using any additional space that scales with the input size. You only need a constant amount of space to store the variables left, right, and mid.
+The simplest solution would be to perform a linear search, which has a time complexity of O(n).
 
 ==================== Id ====================  
 91
