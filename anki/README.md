@@ -34,140 +34,148 @@
 | [23](#id23) | [Given an integer array nums return tru](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20and%20Hashing/Chapter%204%20-%20Group%20Anagrams%20Blind/23%20-%20Given%20an%20integer%20array%20nums%20return%20tru.md) | 1 | 4 |
 | [24](#id24) | [Given an integer array nums return tru](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20and%20Hashing/Chapter%204%20-%20Group%20Anagrams%20Blind/24%20-%20Given%20an%20integer%20array%20nums%20return%20tru.md) | 1 | 4 |
 | [25](#id25) | [Given an integer array nums return tru](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20and%20Hashing/Chapter%204%20-%20Group%20Anagrams%20Blind/25%20-%20Given%20an%20integer%20array%20nums%20return%20tru.md) | 1 | 4 |
+| **-** | **Arrays and Hashing > Top K Frequent Elements Blind** | **1** | **5** |
+| [26](#id26) | [Given an integer array nums and an integ](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20and%20Hashing/Chapter%205%20-%20Top%20K%20Frequent%20Elements%20Blind/26%20-%20Given%20an%20integer%20array%20nums%20and%20an%20integ.md) | 1 | 5 |
+| [27](#id27) | [Given an integer array nums and an integ](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20and%20Hashing/Chapter%205%20-%20Top%20K%20Frequent%20Elements%20Blind/27%20-%20Given%20an%20integer%20array%20nums%20and%20an%20integ.md) | 1 | 5 |
+| [28](#id28) | [Given an integer array nums and an integ](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20and%20Hashing/Chapter%205%20-%20Top%20K%20Frequent%20Elements%20Blind/28%20-%20Given%20an%20integer%20array%20nums%20and%20an%20integ.md) | 1 | 5 |
+| [29](#id29) | [Given an integer array nums and an integ](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20and%20Hashing/Chapter%205%20-%20Top%20K%20Frequent%20Elements%20Blind/29%20-%20Given%20an%20integer%20array%20nums%20and%20an%20integ.md) | 1 | 5 |
+| [30](#id30) | [Given an integer array nums and an integ](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20and%20Hashing/Chapter%205%20-%20Top%20K%20Frequent%20Elements%20Blind/30%20-%20Given%20an%20integer%20array%20nums%20and%20an%20integ.md) | 1 | 5 |
+| [31](#id31) | [Given an integer array nums and an integ](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20and%20Hashing/Chapter%205%20-%20Top%20K%20Frequent%20Elements%20Blind/31%20-%20Given%20an%20integer%20array%20nums%20and%20an%20integ.md) | 1 | 5 |
+| [32](#id32) | [Given an integer array nums and an integ](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20and%20Hashing/Chapter%205%20-%20Top%20K%20Frequent%20Elements%20Blind/32%20-%20Given%20an%20integer%20array%20nums%20and%20an%20integ.md) | 1 | 5 |
 | **-** | **Arrays and Hashing > Encode and Decode Strings Blind** | **1** | **8** |
-| [26](#id26) | [Design an algorithm to encode a list of](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20and%20Hashing/Chapter%208%20-%20Encode%20and%20Decode%20Strings%20Blind/26%20-%20Design%20an%20algorithm%20to%20encode%20a%20list%20of.md) | 1 | 8 |
-| [27](#id27) | [Design an algorithm to encode a list of](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20and%20Hashing/Chapter%208%20-%20Encode%20and%20Decode%20Strings%20Blind/27%20-%20Design%20an%20algorithm%20to%20encode%20a%20list%20of.md) | 1 | 8 |
-| [28](#id28) | [Design an algorithm to encode a list of](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20and%20Hashing/Chapter%208%20-%20Encode%20and%20Decode%20Strings%20Blind/28%20-%20Design%20an%20algorithm%20to%20encode%20a%20list%20of.md) | 1 | 8 |
-| [29](#id29) | [Design an algorithm to encode a list of](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20and%20Hashing/Chapter%208%20-%20Encode%20and%20Decode%20Strings%20Blind/29%20-%20Design%20an%20algorithm%20to%20encode%20a%20list%20of.md) | 1 | 8 |
+| [33](#id33) | [Design an algorithm to encode a list of](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20and%20Hashing/Chapter%208%20-%20Encode%20and%20Decode%20Strings%20Blind/33%20-%20Design%20an%20algorithm%20to%20encode%20a%20list%20of.md) | 1 | 8 |
+| [34](#id34) | [Design an algorithm to encode a list of](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20and%20Hashing/Chapter%208%20-%20Encode%20and%20Decode%20Strings%20Blind/34%20-%20Design%20an%20algorithm%20to%20encode%20a%20list%20of.md) | 1 | 8 |
+| [35](#id35) | [Design an algorithm to encode a list of](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20and%20Hashing/Chapter%208%20-%20Encode%20and%20Decode%20Strings%20Blind/35%20-%20Design%20an%20algorithm%20to%20encode%20a%20list%20of.md) | 1 | 8 |
+| [36](#id36) | [Design an algorithm to encode a list of](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20and%20Hashing/Chapter%208%20-%20Encode%20and%20Decode%20Strings%20Blind/36%20-%20Design%20an%20algorithm%20to%20encode%20a%20list%20of.md) | 1 | 8 |
 | **-** | **Arrays and Hashing > Longest Consecutive Sequence Blind** | **1** | **9** |
-| [30](#id30) | [Given an unsorted array of integers nums](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20and%20Hashing/Chapter%209%20-%20Longest%20Consecutive%20Sequence%20Blind/30%20-%20Given%20an%20unsorted%20array%20of%20integers%20nums.md) | 1 | 9 |
-| [31](#id31) | [Given an unsorted array of integers nums](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20and%20Hashing/Chapter%209%20-%20Longest%20Consecutive%20Sequence%20Blind/31%20-%20Given%20an%20unsorted%20array%20of%20integers%20nums.md) | 1 | 9 |
-| [32](#id32) | [Given an unsorted array of integers nums](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20and%20Hashing/Chapter%209%20-%20Longest%20Consecutive%20Sequence%20Blind/32%20-%20Given%20an%20unsorted%20array%20of%20integers%20nums.md) | 1 | 9 |
-| [33](#id33) | [Given an unsorted array of integers nums](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20and%20Hashing/Chapter%209%20-%20Longest%20Consecutive%20Sequence%20Blind/33%20-%20Given%20an%20unsorted%20array%20of%20integers%20nums.md) | 1 | 9 |
-| [34](#id34) | [Given an unsorted array of integers nums](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20and%20Hashing/Chapter%209%20-%20Longest%20Consecutive%20Sequence%20Blind/34%20-%20Given%20an%20unsorted%20array%20of%20integers%20nums.md) | 1 | 9 |
-| [35](#id35) | [Given an unsorted array of integers nums](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20and%20Hashing/Chapter%209%20-%20Longest%20Consecutive%20Sequence%20Blind/35%20-%20Given%20an%20unsorted%20array%20of%20integers%20nums.md) | 1 | 9 |
+| [37](#id37) | [Given an unsorted array of integers nums](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20and%20Hashing/Chapter%209%20-%20Longest%20Consecutive%20Sequence%20Blind/37%20-%20Given%20an%20unsorted%20array%20of%20integers%20nums.md) | 1 | 9 |
+| [38](#id38) | [Given an unsorted array of integers nums](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20and%20Hashing/Chapter%209%20-%20Longest%20Consecutive%20Sequence%20Blind/38%20-%20Given%20an%20unsorted%20array%20of%20integers%20nums.md) | 1 | 9 |
+| [39](#id39) | [Given an unsorted array of integers nums](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20and%20Hashing/Chapter%209%20-%20Longest%20Consecutive%20Sequence%20Blind/39%20-%20Given%20an%20unsorted%20array%20of%20integers%20nums.md) | 1 | 9 |
+| [40](#id40) | [Given an unsorted array of integers nums](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20and%20Hashing/Chapter%209%20-%20Longest%20Consecutive%20Sequence%20Blind/40%20-%20Given%20an%20unsorted%20array%20of%20integers%20nums.md) | 1 | 9 |
+| [41](#id41) | [Given an unsorted array of integers nums](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20and%20Hashing/Chapter%209%20-%20Longest%20Consecutive%20Sequence%20Blind/41%20-%20Given%20an%20unsorted%20array%20of%20integers%20nums.md) | 1 | 9 |
+| [42](#id42) | [Given an unsorted array of integers nums](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20and%20Hashing/Chapter%209%20-%20Longest%20Consecutive%20Sequence%20Blind/42%20-%20Given%20an%20unsorted%20array%20of%20integers%20nums.md) | 1 | 9 |
 | **-** | **Two Pointers** | **2** | **-** |
 | **-** | **Two Pointers > Valid Palindrome Blind** | **2** | **1** |
-| [36](#id36) | [A phrase is a palindrome if after con](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%201%20-%20Valid%20Palindrome%20Blind/36%20-%20A%20phrase%20is%20a%20palindrome%20if%20after%20con.md) | 2 | 1 |
-| [37](#id37) | [A phrase is a palindrome if after con](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%201%20-%20Valid%20Palindrome%20Blind/37%20-%20A%20phrase%20is%20a%20palindrome%20if%20after%20con.md) | 2 | 1 |
-| [38](#id38) | [A phrase is a palindrome if after con](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%201%20-%20Valid%20Palindrome%20Blind/38%20-%20A%20phrase%20is%20a%20palindrome%20if%20after%20con.md) | 2 | 1 |
-| [39](#id39) | [A phrase is a palindrome if after con](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%201%20-%20Valid%20Palindrome%20Blind/39%20-%20A%20phrase%20is%20a%20palindrome%20if%20after%20con.md) | 2 | 1 |
-| [40](#id40) | [A phrase is a palindrome if after con](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%201%20-%20Valid%20Palindrome%20Blind/40%20-%20A%20phrase%20is%20a%20palindrome%20if%20after%20con.md) | 2 | 1 |
-| [41](#id41) | [A phrase is a palindrome if after con](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%201%20-%20Valid%20Palindrome%20Blind/41%20-%20A%20phrase%20is%20a%20palindrome%20if%20after%20con.md) | 2 | 1 |
+| [43](#id43) | [A phrase is a palindrome if after con](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%201%20-%20Valid%20Palindrome%20Blind/43%20-%20A%20phrase%20is%20a%20palindrome%20if%20after%20con.md) | 2 | 1 |
+| [44](#id44) | [A phrase is a palindrome if after con](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%201%20-%20Valid%20Palindrome%20Blind/44%20-%20A%20phrase%20is%20a%20palindrome%20if%20after%20con.md) | 2 | 1 |
+| [45](#id45) | [A phrase is a palindrome if after con](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%201%20-%20Valid%20Palindrome%20Blind/45%20-%20A%20phrase%20is%20a%20palindrome%20if%20after%20con.md) | 2 | 1 |
+| [46](#id46) | [A phrase is a palindrome if after con](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%201%20-%20Valid%20Palindrome%20Blind/46%20-%20A%20phrase%20is%20a%20palindrome%20if%20after%20con.md) | 2 | 1 |
+| [47](#id47) | [A phrase is a palindrome if after con](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%201%20-%20Valid%20Palindrome%20Blind/47%20-%20A%20phrase%20is%20a%20palindrome%20if%20after%20con.md) | 2 | 1 |
+| [48](#id48) | [A phrase is a palindrome if after con](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%201%20-%20Valid%20Palindrome%20Blind/48%20-%20A%20phrase%20is%20a%20palindrome%20if%20after%20con.md) | 2 | 1 |
 | **-** | **Two Pointers > 3Sum Blind** | **2** | **3** |
-| [42](#id42) | [Given an integer array nums return all th](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%203%20-%203Sum%20Blind/42%20-%20Given%20an%20integer%20array%20nums%20return%20all%20th.md) | 2 | 3 |
-| [43](#id43) | [Given an integer array nums return all th](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%203%20-%203Sum%20Blind/43%20-%20Given%20an%20integer%20array%20nums%20return%20all%20th.md) | 2 | 3 |
-| [44](#id44) | [Given an integer array nums return all th](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%203%20-%203Sum%20Blind/44%20-%20Given%20an%20integer%20array%20nums%20return%20all%20th.md) | 2 | 3 |
-| [45](#id45) | [Given an integer array nums return all th](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%203%20-%203Sum%20Blind/45%20-%20Given%20an%20integer%20array%20nums%20return%20all%20th.md) | 2 | 3 |
-| [46](#id46) | [Given an integer array nums return all th](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%203%20-%203Sum%20Blind/46%20-%20Given%20an%20integer%20array%20nums%20return%20all%20th.md) | 2 | 3 |
+| [49](#id49) | [Given an integer array nums return all th](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%203%20-%203Sum%20Blind/49%20-%20Given%20an%20integer%20array%20nums%20return%20all%20th.md) | 2 | 3 |
+| [50](#id50) | [Given an integer array nums return all th](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%203%20-%203Sum%20Blind/50%20-%20Given%20an%20integer%20array%20nums%20return%20all%20th.md) | 2 | 3 |
+| [51](#id51) | [Given an integer array nums return all th](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%203%20-%203Sum%20Blind/51%20-%20Given%20an%20integer%20array%20nums%20return%20all%20th.md) | 2 | 3 |
+| [52](#id52) | [Given an integer array nums return all th](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%203%20-%203Sum%20Blind/52%20-%20Given%20an%20integer%20array%20nums%20return%20all%20th.md) | 2 | 3 |
+| [53](#id53) | [Given an integer array nums return all th](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%203%20-%203Sum%20Blind/53%20-%20Given%20an%20integer%20array%20nums%20return%20all%20th.md) | 2 | 3 |
 | **-** | **Two Pointers > Container With Most Water Blind** | **2** | **4** |
-| [47](#id47) | [You are given an integer array height of](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%204%20-%20Container%20With%20Most%20Water%20Blind/47%20-%20You%20are%20given%20an%20integer%20array%20height%20of.md) | 2 | 4 |
-| [48](#id48) | [You are given an integer array height of](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%204%20-%20Container%20With%20Most%20Water%20Blind/48%20-%20You%20are%20given%20an%20integer%20array%20height%20of.md) | 2 | 4 |
-| [49](#id49) | [You are given an integer array height of](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%204%20-%20Container%20With%20Most%20Water%20Blind/49%20-%20You%20are%20given%20an%20integer%20array%20height%20of.md) | 2 | 4 |
-| [50](#id50) | [You are given an integer array height of](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%204%20-%20Container%20With%20Most%20Water%20Blind/50%20-%20You%20are%20given%20an%20integer%20array%20height%20of.md) | 2 | 4 |
-| [51](#id51) | [You are given an integer array height of](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%204%20-%20Container%20With%20Most%20Water%20Blind/51%20-%20You%20are%20given%20an%20integer%20array%20height%20of.md) | 2 | 4 |
-| [52](#id52) | [You are given an integer array height of](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%204%20-%20Container%20With%20Most%20Water%20Blind/52%20-%20You%20are%20given%20an%20integer%20array%20height%20of.md) | 2 | 4 |
+| [54](#id54) | [You are given an integer array height of](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%204%20-%20Container%20With%20Most%20Water%20Blind/54%20-%20You%20are%20given%20an%20integer%20array%20height%20of.md) | 2 | 4 |
+| [55](#id55) | [You are given an integer array height of](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%204%20-%20Container%20With%20Most%20Water%20Blind/55%20-%20You%20are%20given%20an%20integer%20array%20height%20of.md) | 2 | 4 |
+| [56](#id56) | [You are given an integer array height of](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%204%20-%20Container%20With%20Most%20Water%20Blind/56%20-%20You%20are%20given%20an%20integer%20array%20height%20of.md) | 2 | 4 |
+| [57](#id57) | [You are given an integer array height of](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%204%20-%20Container%20With%20Most%20Water%20Blind/57%20-%20You%20are%20given%20an%20integer%20array%20height%20of.md) | 2 | 4 |
+| [58](#id58) | [You are given an integer array height of](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%204%20-%20Container%20With%20Most%20Water%20Blind/58%20-%20You%20are%20given%20an%20integer%20array%20height%20of.md) | 2 | 4 |
+| [59](#id59) | [You are given an integer array height of](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%204%20-%20Container%20With%20Most%20Water%20Blind/59%20-%20You%20are%20given%20an%20integer%20array%20height%20of.md) | 2 | 4 |
 | **-** | **Sliding Window** | **3** | **-** |
 | **-** | **Sliding Window > Best Time to Buy and Sell Stock Blind** | **3** | **1** |
-| [53](#id53) | [You are given an array prices where pri](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Sliding%20Window/Chapter%201%20-%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20Blind/53%20-%20You%20are%20given%20an%20array%20prices%20where%20pri.md) | 3 | 1 |
-| [54](#id54) | [You are given an array prices where pri](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Sliding%20Window/Chapter%201%20-%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20Blind/54%20-%20You%20are%20given%20an%20array%20prices%20where%20pri.md) | 3 | 1 |
-| [55](#id55) | [You are given an array prices where pri](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Sliding%20Window/Chapter%201%20-%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20Blind/55%20-%20You%20are%20given%20an%20array%20prices%20where%20pri.md) | 3 | 1 |
-| [56](#id56) | [You are given an array prices where pri](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Sliding%20Window/Chapter%201%20-%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20Blind/56%20-%20You%20are%20given%20an%20array%20prices%20where%20pri.md) | 3 | 1 |
-| [57](#id57) | [You are given an array prices where pri](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Sliding%20Window/Chapter%201%20-%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20Blind/57%20-%20You%20are%20given%20an%20array%20prices%20where%20pri.md) | 3 | 1 |
+| [60](#id60) | [You are given an array prices where pri](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Sliding%20Window/Chapter%201%20-%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20Blind/60%20-%20You%20are%20given%20an%20array%20prices%20where%20pri.md) | 3 | 1 |
+| [61](#id61) | [You are given an array prices where pri](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Sliding%20Window/Chapter%201%20-%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20Blind/61%20-%20You%20are%20given%20an%20array%20prices%20where%20pri.md) | 3 | 1 |
+| [62](#id62) | [You are given an array prices where pri](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Sliding%20Window/Chapter%201%20-%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20Blind/62%20-%20You%20are%20given%20an%20array%20prices%20where%20pri.md) | 3 | 1 |
+| [63](#id63) | [You are given an array prices where pri](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Sliding%20Window/Chapter%201%20-%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20Blind/63%20-%20You%20are%20given%20an%20array%20prices%20where%20pri.md) | 3 | 1 |
+| [64](#id64) | [You are given an array prices where pri](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Sliding%20Window/Chapter%201%20-%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20Blind/64%20-%20You%20are%20given%20an%20array%20prices%20where%20pri.md) | 3 | 1 |
 | **-** | **Sliding Window > Longest Substring Without Repeating Characters Blind** | **3** | **2** |
-| [58](#id58) | [Given a string s find the length of the](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Sliding%20Window/Chapter%202%20-%20Longest%20Substring%20Without%20Repeating%20Characters%20Blind/58%20-%20Given%20a%20string%20s%20find%20the%20length%20of%20the.md) | 3 | 2 |
-| [59](#id59) | [Given a string s find the length of the](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Sliding%20Window/Chapter%202%20-%20Longest%20Substring%20Without%20Repeating%20Characters%20Blind/59%20-%20Given%20a%20string%20s%20find%20the%20length%20of%20the.md) | 3 | 2 |
-| [60](#id60) | [Given a string s find the length of the](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Sliding%20Window/Chapter%202%20-%20Longest%20Substring%20Without%20Repeating%20Characters%20Blind/60%20-%20Given%20a%20string%20s%20find%20the%20length%20of%20the.md) | 3 | 2 |
-| [61](#id61) | [Given a string s find the length of the](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Sliding%20Window/Chapter%202%20-%20Longest%20Substring%20Without%20Repeating%20Characters%20Blind/61%20-%20Given%20a%20string%20s%20find%20the%20length%20of%20the.md) | 3 | 2 |
-| [62](#id62) | [Given a string s find the length of the](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Sliding%20Window/Chapter%202%20-%20Longest%20Substring%20Without%20Repeating%20Characters%20Blind/62%20-%20Given%20a%20string%20s%20find%20the%20length%20of%20the.md) | 3 | 2 |
-| [63](#id63) | [Given a string s find the length of the](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Sliding%20Window/Chapter%202%20-%20Longest%20Substring%20Without%20Repeating%20Characters%20Blind/63%20-%20Given%20a%20string%20s%20find%20the%20length%20of%20the.md) | 3 | 2 |
+| [65](#id65) | [Given a string s find the length of the](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Sliding%20Window/Chapter%202%20-%20Longest%20Substring%20Without%20Repeating%20Characters%20Blind/65%20-%20Given%20a%20string%20s%20find%20the%20length%20of%20the.md) | 3 | 2 |
+| [66](#id66) | [Given a string s find the length of the](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Sliding%20Window/Chapter%202%20-%20Longest%20Substring%20Without%20Repeating%20Characters%20Blind/66%20-%20Given%20a%20string%20s%20find%20the%20length%20of%20the.md) | 3 | 2 |
+| [67](#id67) | [Given a string s find the length of the](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Sliding%20Window/Chapter%202%20-%20Longest%20Substring%20Without%20Repeating%20Characters%20Blind/67%20-%20Given%20a%20string%20s%20find%20the%20length%20of%20the.md) | 3 | 2 |
+| [68](#id68) | [Given a string s find the length of the](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Sliding%20Window/Chapter%202%20-%20Longest%20Substring%20Without%20Repeating%20Characters%20Blind/68%20-%20Given%20a%20string%20s%20find%20the%20length%20of%20the.md) | 3 | 2 |
+| [69](#id69) | [Given a string s find the length of the](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Sliding%20Window/Chapter%202%20-%20Longest%20Substring%20Without%20Repeating%20Characters%20Blind/69%20-%20Given%20a%20string%20s%20find%20the%20length%20of%20the.md) | 3 | 2 |
+| [70](#id70) | [Given a string s find the length of the](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Sliding%20Window/Chapter%202%20-%20Longest%20Substring%20Without%20Repeating%20Characters%20Blind/70%20-%20Given%20a%20string%20s%20find%20the%20length%20of%20the.md) | 3 | 2 |
 | **-** | **Sliding Window > Longest Repeating Character Replacement Blind** | **3** | **3** |
-| [64](#id64) | [You are given a string s and an integer](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Sliding%20Window/Chapter%203%20-%20Longest%20Repeating%20Character%20Replacement%20Blind/64%20-%20You%20are%20given%20a%20string%20s%20and%20an%20integer.md) | 3 | 3 |
-| [65](#id65) | [You are given a string s and an integer](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Sliding%20Window/Chapter%203%20-%20Longest%20Repeating%20Character%20Replacement%20Blind/65%20-%20You%20are%20given%20a%20string%20s%20and%20an%20integer.md) | 3 | 3 |
-| [66](#id66) | [You are given a string s and an integer](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Sliding%20Window/Chapter%203%20-%20Longest%20Repeating%20Character%20Replacement%20Blind/66%20-%20You%20are%20given%20a%20string%20s%20and%20an%20integer.md) | 3 | 3 |
-| [67](#id67) | [You are given a string s and an integer](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Sliding%20Window/Chapter%203%20-%20Longest%20Repeating%20Character%20Replacement%20Blind/67%20-%20You%20are%20given%20a%20string%20s%20and%20an%20integer.md) | 3 | 3 |
-| [68](#id68) | [You are given a string s and an integer](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Sliding%20Window/Chapter%203%20-%20Longest%20Repeating%20Character%20Replacement%20Blind/68%20-%20You%20are%20given%20a%20string%20s%20and%20an%20integer.md) | 3 | 3 |
-| [69](#id69) | [You are given a string s and an integer](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Sliding%20Window/Chapter%203%20-%20Longest%20Repeating%20Character%20Replacement%20Blind/69%20-%20You%20are%20given%20a%20string%20s%20and%20an%20integer.md) | 3 | 3 |
+| [71](#id71) | [You are given a string s and an integer](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Sliding%20Window/Chapter%203%20-%20Longest%20Repeating%20Character%20Replacement%20Blind/71%20-%20You%20are%20given%20a%20string%20s%20and%20an%20integer.md) | 3 | 3 |
+| [72](#id72) | [You are given a string s and an integer](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Sliding%20Window/Chapter%203%20-%20Longest%20Repeating%20Character%20Replacement%20Blind/72%20-%20You%20are%20given%20a%20string%20s%20and%20an%20integer.md) | 3 | 3 |
+| [73](#id73) | [You are given a string s and an integer](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Sliding%20Window/Chapter%203%20-%20Longest%20Repeating%20Character%20Replacement%20Blind/73%20-%20You%20are%20given%20a%20string%20s%20and%20an%20integer.md) | 3 | 3 |
+| [74](#id74) | [You are given a string s and an integer](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Sliding%20Window/Chapter%203%20-%20Longest%20Repeating%20Character%20Replacement%20Blind/74%20-%20You%20are%20given%20a%20string%20s%20and%20an%20integer.md) | 3 | 3 |
+| [75](#id75) | [You are given a string s and an integer](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Sliding%20Window/Chapter%203%20-%20Longest%20Repeating%20Character%20Replacement%20Blind/75%20-%20You%20are%20given%20a%20string%20s%20and%20an%20integer.md) | 3 | 3 |
+| [76](#id76) | [You are given a string s and an integer](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Sliding%20Window/Chapter%203%20-%20Longest%20Repeating%20Character%20Replacement%20Blind/76%20-%20You%20are%20given%20a%20string%20s%20and%20an%20integer.md) | 3 | 3 |
 | **-** | **Sliding Window > Minimum Window Substring Blind** | **3** | **5** |
-| [70](#id70) | [Given two strings s and t of lengths](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Sliding%20Window/Chapter%205%20-%20Minimum%20Window%20Substring%20Blind/70%20-%20Given%20two%20strings%20s%20and%20t%20of%20lengths.md) | 3 | 5 |
-| [71](#id71) | [Given two strings s and t of lengths](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Sliding%20Window/Chapter%205%20-%20Minimum%20Window%20Substring%20Blind/71%20-%20Given%20two%20strings%20s%20and%20t%20of%20lengths.md) | 3 | 5 |
-| [72](#id72) | [Given two strings s and t of lengths](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Sliding%20Window/Chapter%205%20-%20Minimum%20Window%20Substring%20Blind/72%20-%20Given%20two%20strings%20s%20and%20t%20of%20lengths.md) | 3 | 5 |
-| [73](#id73) | [Given two strings s and t of lengths](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Sliding%20Window/Chapter%205%20-%20Minimum%20Window%20Substring%20Blind/73%20-%20Given%20two%20strings%20s%20and%20t%20of%20lengths.md) | 3 | 5 |
-| [74](#id74) | [Given two strings s and t of lengths](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Sliding%20Window/Chapter%205%20-%20Minimum%20Window%20Substring%20Blind/74%20-%20Given%20two%20strings%20s%20and%20t%20of%20lengths.md) | 3 | 5 |
-| [75](#id75) | [Given two strings s and t of lengths](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Sliding%20Window/Chapter%205%20-%20Minimum%20Window%20Substring%20Blind/75%20-%20Given%20two%20strings%20s%20and%20t%20of%20lengths.md) | 3 | 5 |
-| [76](#id76) | [Given two strings s and t of lengths](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Sliding%20Window/Chapter%205%20-%20Minimum%20Window%20Substring%20Blind/76%20-%20Given%20two%20strings%20s%20and%20t%20of%20lengths.md) | 3 | 5 |
+| [77](#id77) | [Given two strings s and t of lengths](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Sliding%20Window/Chapter%205%20-%20Minimum%20Window%20Substring%20Blind/77%20-%20Given%20two%20strings%20s%20and%20t%20of%20lengths.md) | 3 | 5 |
+| [78](#id78) | [Given two strings s and t of lengths](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Sliding%20Window/Chapter%205%20-%20Minimum%20Window%20Substring%20Blind/78%20-%20Given%20two%20strings%20s%20and%20t%20of%20lengths.md) | 3 | 5 |
+| [79](#id79) | [Given two strings s and t of lengths](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Sliding%20Window/Chapter%205%20-%20Minimum%20Window%20Substring%20Blind/79%20-%20Given%20two%20strings%20s%20and%20t%20of%20lengths.md) | 3 | 5 |
+| [80](#id80) | [Given two strings s and t of lengths](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Sliding%20Window/Chapter%205%20-%20Minimum%20Window%20Substring%20Blind/80%20-%20Given%20two%20strings%20s%20and%20t%20of%20lengths.md) | 3 | 5 |
+| [81](#id81) | [Given two strings s and t of lengths](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Sliding%20Window/Chapter%205%20-%20Minimum%20Window%20Substring%20Blind/81%20-%20Given%20two%20strings%20s%20and%20t%20of%20lengths.md) | 3 | 5 |
+| [82](#id82) | [Given two strings s and t of lengths](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Sliding%20Window/Chapter%205%20-%20Minimum%20Window%20Substring%20Blind/82%20-%20Given%20two%20strings%20s%20and%20t%20of%20lengths.md) | 3 | 5 |
+| [83](#id83) | [Given two strings s and t of lengths](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Sliding%20Window/Chapter%205%20-%20Minimum%20Window%20Substring%20Blind/83%20-%20Given%20two%20strings%20s%20and%20t%20of%20lengths.md) | 3 | 5 |
 | **-** | **Stack** | **4** | **-** |
 | **-** | **Stack > Valid Parentheses Blind** | **4** | **1** |
-| [77](#id77) | [Given a string s containing just the chara](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Stack/Chapter%201%20-%20Valid%20Parentheses%20Blind/77%20-%20Given%20a%20string%20s%20containing%20just%20the%20chara.md) | 4 | 1 |
-| [78](#id78) | [Given a string s containing just the chara](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Stack/Chapter%201%20-%20Valid%20Parentheses%20Blind/78%20-%20Given%20a%20string%20s%20containing%20just%20the%20chara.md) | 4 | 1 |
-| [79](#id79) | [Given a string s containing just the chara](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Stack/Chapter%201%20-%20Valid%20Parentheses%20Blind/79%20-%20Given%20a%20string%20s%20containing%20just%20the%20chara.md) | 4 | 1 |
-| [80](#id80) | [Given a string s containing just the chara](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Stack/Chapter%201%20-%20Valid%20Parentheses%20Blind/80%20-%20Given%20a%20string%20s%20containing%20just%20the%20chara.md) | 4 | 1 |
-| [81](#id81) | [Given a string s containing just the chara](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Stack/Chapter%201%20-%20Valid%20Parentheses%20Blind/81%20-%20Given%20a%20string%20s%20containing%20just%20the%20chara.md) | 4 | 1 |
-| [82](#id82) | [Given a string s containing just the chara](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Stack/Chapter%201%20-%20Valid%20Parentheses%20Blind/82%20-%20Given%20a%20string%20s%20containing%20just%20the%20chara.md) | 4 | 1 |
+| [84](#id84) | [Given a string s containing just the chara](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Stack/Chapter%201%20-%20Valid%20Parentheses%20Blind/84%20-%20Given%20a%20string%20s%20containing%20just%20the%20chara.md) | 4 | 1 |
+| [85](#id85) | [Given a string s containing just the chara](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Stack/Chapter%201%20-%20Valid%20Parentheses%20Blind/85%20-%20Given%20a%20string%20s%20containing%20just%20the%20chara.md) | 4 | 1 |
+| [86](#id86) | [Given a string s containing just the chara](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Stack/Chapter%201%20-%20Valid%20Parentheses%20Blind/86%20-%20Given%20a%20string%20s%20containing%20just%20the%20chara.md) | 4 | 1 |
+| [87](#id87) | [Given a string s containing just the chara](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Stack/Chapter%201%20-%20Valid%20Parentheses%20Blind/87%20-%20Given%20a%20string%20s%20containing%20just%20the%20chara.md) | 4 | 1 |
+| [88](#id88) | [Given a string s containing just the chara](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Stack/Chapter%201%20-%20Valid%20Parentheses%20Blind/88%20-%20Given%20a%20string%20s%20containing%20just%20the%20chara.md) | 4 | 1 |
+| [89](#id89) | [Given a string s containing just the chara](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Stack/Chapter%201%20-%20Valid%20Parentheses%20Blind/89%20-%20Given%20a%20string%20s%20containing%20just%20the%20chara.md) | 4 | 1 |
 | **-** | **Binary Search** | **5** | **-** |
 | **-** | **Binary Search > Search in Rotated Sorted Array Blind** | **5** | **4** |
-| [83](#id83) | [There is an integer array nums sorted in](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Binary%20Search/Chapter%204%20-%20Search%20in%20Rotated%20Sorted%20Array%20Blind/83%20-%20There%20is%20an%20integer%20array%20nums%20sorted%20in.md) | 5 | 4 |
-| [84](#id84) | [There is an integer array nums sorted in](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Binary%20Search/Chapter%204%20-%20Search%20in%20Rotated%20Sorted%20Array%20Blind/84%20-%20There%20is%20an%20integer%20array%20nums%20sorted%20in.md) | 5 | 4 |
-| [85](#id85) | [There is an integer array nums sorted in](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Binary%20Search/Chapter%204%20-%20Search%20in%20Rotated%20Sorted%20Array%20Blind/85%20-%20There%20is%20an%20integer%20array%20nums%20sorted%20in.md) | 5 | 4 |
-| [86](#id86) | [There is an integer array nums sorted in](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Binary%20Search/Chapter%204%20-%20Search%20in%20Rotated%20Sorted%20Array%20Blind/86%20-%20There%20is%20an%20integer%20array%20nums%20sorted%20in.md) | 5 | 4 |
-| [87](#id87) | [There is an integer array nums sorted in](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Binary%20Search/Chapter%204%20-%20Search%20in%20Rotated%20Sorted%20Array%20Blind/87%20-%20There%20is%20an%20integer%20array%20nums%20sorted%20in.md) | 5 | 4 |
-| [88](#id88) | [There is an integer array nums sorted in](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Binary%20Search/Chapter%204%20-%20Search%20in%20Rotated%20Sorted%20Array%20Blind/88%20-%20There%20is%20an%20integer%20array%20nums%20sorted%20in.md) | 5 | 4 |
-| [89](#id89) | [There is an integer array nums sorted in](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Binary%20Search/Chapter%204%20-%20Search%20in%20Rotated%20Sorted%20Array%20Blind/89%20-%20There%20is%20an%20integer%20array%20nums%20sorted%20in.md) | 5 | 4 |
 | [90](#id90) | [There is an integer array nums sorted in](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Binary%20Search/Chapter%204%20-%20Search%20in%20Rotated%20Sorted%20Array%20Blind/90%20-%20There%20is%20an%20integer%20array%20nums%20sorted%20in.md) | 5 | 4 |
 | [91](#id91) | [There is an integer array nums sorted in](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Binary%20Search/Chapter%204%20-%20Search%20in%20Rotated%20Sorted%20Array%20Blind/91%20-%20There%20is%20an%20integer%20array%20nums%20sorted%20in.md) | 5 | 4 |
+| [92](#id92) | [There is an integer array nums sorted in](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Binary%20Search/Chapter%204%20-%20Search%20in%20Rotated%20Sorted%20Array%20Blind/92%20-%20There%20is%20an%20integer%20array%20nums%20sorted%20in.md) | 5 | 4 |
+| [93](#id93) | [There is an integer array nums sorted in](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Binary%20Search/Chapter%204%20-%20Search%20in%20Rotated%20Sorted%20Array%20Blind/93%20-%20There%20is%20an%20integer%20array%20nums%20sorted%20in.md) | 5 | 4 |
+| [94](#id94) | [There is an integer array nums sorted in](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Binary%20Search/Chapter%204%20-%20Search%20in%20Rotated%20Sorted%20Array%20Blind/94%20-%20There%20is%20an%20integer%20array%20nums%20sorted%20in.md) | 5 | 4 |
+| [95](#id95) | [There is an integer array nums sorted in](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Binary%20Search/Chapter%204%20-%20Search%20in%20Rotated%20Sorted%20Array%20Blind/95%20-%20There%20is%20an%20integer%20array%20nums%20sorted%20in.md) | 5 | 4 |
+| [96](#id96) | [There is an integer array nums sorted in](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Binary%20Search/Chapter%204%20-%20Search%20in%20Rotated%20Sorted%20Array%20Blind/96%20-%20There%20is%20an%20integer%20array%20nums%20sorted%20in.md) | 5 | 4 |
+| [97](#id97) | [There is an integer array nums sorted in](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Binary%20Search/Chapter%204%20-%20Search%20in%20Rotated%20Sorted%20Array%20Blind/97%20-%20There%20is%20an%20integer%20array%20nums%20sorted%20in.md) | 5 | 4 |
+| [98](#id98) | [There is an integer array nums sorted in](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Binary%20Search/Chapter%204%20-%20Search%20in%20Rotated%20Sorted%20Array%20Blind/98%20-%20There%20is%20an%20integer%20array%20nums%20sorted%20in.md) | 5 | 4 |
 | **-** | **Binary Search > Find Minimum in Rotated Sorted Array Blind** | **5** | **5** |
-| [92](#id92) | [Suppose an array of length n sorted in a](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Binary%20Search/Chapter%205%20-%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20Blind/92%20-%20Suppose%20an%20array%20of%20length%20n%20sorted%20in%20a.md) | 5 | 5 |
-| [93](#id93) | [Suppose an array of length n sorted in a](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Binary%20Search/Chapter%205%20-%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20Blind/93%20-%20Suppose%20an%20array%20of%20length%20n%20sorted%20in%20a.md) | 5 | 5 |
-| [94](#id94) | [Suppose an array of length n sorted in a](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Binary%20Search/Chapter%205%20-%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20Blind/94%20-%20Suppose%20an%20array%20of%20length%20n%20sorted%20in%20a.md) | 5 | 5 |
-| [95](#id95) | [Suppose an array of length n sorted in a](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Binary%20Search/Chapter%205%20-%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20Blind/95%20-%20Suppose%20an%20array%20of%20length%20n%20sorted%20in%20a.md) | 5 | 5 |
-| [96](#id96) | [Suppose an array of length n sorted in a](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Binary%20Search/Chapter%205%20-%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20Blind/96%20-%20Suppose%20an%20array%20of%20length%20n%20sorted%20in%20a.md) | 5 | 5 |
-| [97](#id97) | [Suppose an array of length n sorted in a](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Binary%20Search/Chapter%205%20-%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20Blind/97%20-%20Suppose%20an%20array%20of%20length%20n%20sorted%20in%20a.md) | 5 | 5 |
-| [98](#id98) | [Suppose an array of length n sorted in a](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Binary%20Search/Chapter%205%20-%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20Blind/98%20-%20Suppose%20an%20array%20of%20length%20n%20sorted%20in%20a.md) | 5 | 5 |
 | [99](#id99) | [Suppose an array of length n sorted in a](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Binary%20Search/Chapter%205%20-%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20Blind/99%20-%20Suppose%20an%20array%20of%20length%20n%20sorted%20in%20a.md) | 5 | 5 |
+| [100](#id100) | [Suppose an array of length n sorted in a](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Binary%20Search/Chapter%205%20-%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20Blind/100%20-%20Suppose%20an%20array%20of%20length%20n%20sorted%20in%20a.md) | 5 | 5 |
+| [101](#id101) | [Suppose an array of length n sorted in a](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Binary%20Search/Chapter%205%20-%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20Blind/101%20-%20Suppose%20an%20array%20of%20length%20n%20sorted%20in%20a.md) | 5 | 5 |
+| [102](#id102) | [Suppose an array of length n sorted in a](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Binary%20Search/Chapter%205%20-%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20Blind/102%20-%20Suppose%20an%20array%20of%20length%20n%20sorted%20in%20a.md) | 5 | 5 |
+| [103](#id103) | [Suppose an array of length n sorted in a](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Binary%20Search/Chapter%205%20-%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20Blind/103%20-%20Suppose%20an%20array%20of%20length%20n%20sorted%20in%20a.md) | 5 | 5 |
+| [104](#id104) | [Suppose an array of length n sorted in a](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Binary%20Search/Chapter%205%20-%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20Blind/104%20-%20Suppose%20an%20array%20of%20length%20n%20sorted%20in%20a.md) | 5 | 5 |
+| [105](#id105) | [Suppose an array of length n sorted in a](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Binary%20Search/Chapter%205%20-%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20Blind/105%20-%20Suppose%20an%20array%20of%20length%20n%20sorted%20in%20a.md) | 5 | 5 |
+| [106](#id106) | [Suppose an array of length n sorted in a](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Binary%20Search/Chapter%205%20-%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20Blind/106%20-%20Suppose%20an%20array%20of%20length%20n%20sorted%20in%20a.md) | 5 | 5 |
 | **-** | **Linked List** | **6** | **-** |
 | **-** | **Linked List > Reverse Linked List Blind** | **6** | **1** |
-| [100](#id100) | [Given the head of a singly linked list](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%201%20-%20Reverse%20Linked%20List%20Blind/100%20-%20Given%20the%20head%20of%20a%20singly%20linked%20list.md) | 6 | 1 |
-| [101](#id101) | [Given the head of a singly linked list](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%201%20-%20Reverse%20Linked%20List%20Blind/101%20-%20Given%20the%20head%20of%20a%20singly%20linked%20list.md) | 6 | 1 |
-| [102](#id102) | [Given the head of a singly linked list](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%201%20-%20Reverse%20Linked%20List%20Blind/102%20-%20Given%20the%20head%20of%20a%20singly%20linked%20list.md) | 6 | 1 |
-| [103](#id103) | [Given the head of a singly linked list](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%201%20-%20Reverse%20Linked%20List%20Blind/103%20-%20Given%20the%20head%20of%20a%20singly%20linked%20list.md) | 6 | 1 |
+| [107](#id107) | [Given the head of a singly linked list](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%201%20-%20Reverse%20Linked%20List%20Blind/107%20-%20Given%20the%20head%20of%20a%20singly%20linked%20list.md) | 6 | 1 |
+| [108](#id108) | [Given the head of a singly linked list](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%201%20-%20Reverse%20Linked%20List%20Blind/108%20-%20Given%20the%20head%20of%20a%20singly%20linked%20list.md) | 6 | 1 |
+| [109](#id109) | [Given the head of a singly linked list](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%201%20-%20Reverse%20Linked%20List%20Blind/109%20-%20Given%20the%20head%20of%20a%20singly%20linked%20list.md) | 6 | 1 |
+| [110](#id110) | [Given the head of a singly linked list](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%201%20-%20Reverse%20Linked%20List%20Blind/110%20-%20Given%20the%20head%20of%20a%20singly%20linked%20list.md) | 6 | 1 |
 | **-** | **Linked List > Merge Two Sorted Lists Blind** | **6** | **2** |
-| [104](#id104) | [You are given the heads of two sorted link](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%202%20-%20Merge%20Two%20Sorted%20Lists%20Blind/104%20-%20You%20are%20given%20the%20heads%20of%20two%20sorted%20link.md) | 6 | 2 |
-| [105](#id105) | [You are given the heads of two sorted link](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%202%20-%20Merge%20Two%20Sorted%20Lists%20Blind/105%20-%20You%20are%20given%20the%20heads%20of%20two%20sorted%20link.md) | 6 | 2 |
-| [106](#id106) | [You are given the heads of two sorted link](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%202%20-%20Merge%20Two%20Sorted%20Lists%20Blind/106%20-%20You%20are%20given%20the%20heads%20of%20two%20sorted%20link.md) | 6 | 2 |
-| [107](#id107) | [You are given the heads of two sorted link](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%202%20-%20Merge%20Two%20Sorted%20Lists%20Blind/107%20-%20You%20are%20given%20the%20heads%20of%20two%20sorted%20link.md) | 6 | 2 |
-| [108](#id108) | [You are given the heads of two sorted link](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%202%20-%20Merge%20Two%20Sorted%20Lists%20Blind/108%20-%20You%20are%20given%20the%20heads%20of%20two%20sorted%20link.md) | 6 | 2 |
+| [111](#id111) | [You are given the heads of two sorted link](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%202%20-%20Merge%20Two%20Sorted%20Lists%20Blind/111%20-%20You%20are%20given%20the%20heads%20of%20two%20sorted%20link.md) | 6 | 2 |
+| [112](#id112) | [You are given the heads of two sorted link](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%202%20-%20Merge%20Two%20Sorted%20Lists%20Blind/112%20-%20You%20are%20given%20the%20heads%20of%20two%20sorted%20link.md) | 6 | 2 |
+| [113](#id113) | [You are given the heads of two sorted link](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%202%20-%20Merge%20Two%20Sorted%20Lists%20Blind/113%20-%20You%20are%20given%20the%20heads%20of%20two%20sorted%20link.md) | 6 | 2 |
+| [114](#id114) | [You are given the heads of two sorted link](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%202%20-%20Merge%20Two%20Sorted%20Lists%20Blind/114%20-%20You%20are%20given%20the%20heads%20of%20two%20sorted%20link.md) | 6 | 2 |
+| [115](#id115) | [You are given the heads of two sorted link](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%202%20-%20Merge%20Two%20Sorted%20Lists%20Blind/115%20-%20You%20are%20given%20the%20heads%20of%20two%20sorted%20link.md) | 6 | 2 |
 | **-** | **Linked List > Reorder List Blind** | **6** | **3** |
-| [109](#id109) | [You are given the head of a singly linked-](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%203%20-%20Reorder%20List%20Blind/109%20-%20You%20are%20given%20the%20head%20of%20a%20singly%20linked-.md) | 6 | 3 |
-| [110](#id110) | [You are given the head of a singly linked-](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%203%20-%20Reorder%20List%20Blind/110%20-%20You%20are%20given%20the%20head%20of%20a%20singly%20linked-.md) | 6 | 3 |
-| [111](#id111) | [You are given the head of a singly linked-](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%203%20-%20Reorder%20List%20Blind/111%20-%20You%20are%20given%20the%20head%20of%20a%20singly%20linked-.md) | 6 | 3 |
-| [112](#id112) | [You are given the head of a singly linked-](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%203%20-%20Reorder%20List%20Blind/112%20-%20You%20are%20given%20the%20head%20of%20a%20singly%20linked-.md) | 6 | 3 |
-| [113](#id113) | [You are given the head of a singly linked-](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%203%20-%20Reorder%20List%20Blind/113%20-%20You%20are%20given%20the%20head%20of%20a%20singly%20linked-.md) | 6 | 3 |
+| [116](#id116) | [You are given the head of a singly linked-](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%203%20-%20Reorder%20List%20Blind/116%20-%20You%20are%20given%20the%20head%20of%20a%20singly%20linked-.md) | 6 | 3 |
+| [117](#id117) | [You are given the head of a singly linked-](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%203%20-%20Reorder%20List%20Blind/117%20-%20You%20are%20given%20the%20head%20of%20a%20singly%20linked-.md) | 6 | 3 |
+| [118](#id118) | [You are given the head of a singly linked-](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%203%20-%20Reorder%20List%20Blind/118%20-%20You%20are%20given%20the%20head%20of%20a%20singly%20linked-.md) | 6 | 3 |
+| [119](#id119) | [You are given the head of a singly linked-](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%203%20-%20Reorder%20List%20Blind/119%20-%20You%20are%20given%20the%20head%20of%20a%20singly%20linked-.md) | 6 | 3 |
+| [120](#id120) | [You are given the head of a singly linked-](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%203%20-%20Reorder%20List%20Blind/120%20-%20You%20are%20given%20the%20head%20of%20a%20singly%20linked-.md) | 6 | 3 |
 | **-** | **Linked List > Remove Nth Node From End of List Blind** | **6** | **4** |
-| [114](#id114) | [Given the head of a linked list remove](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%204%20-%20Remove%20Nth%20Node%20From%20End%20of%20List%20Blind/114%20-%20Given%20the%20head%20of%20a%20linked%20list%20remove.md) | 6 | 4 |
-| [115](#id115) | [Given the head of a linked list remove](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%204%20-%20Remove%20Nth%20Node%20From%20End%20of%20List%20Blind/115%20-%20Given%20the%20head%20of%20a%20linked%20list%20remove.md) | 6 | 4 |
-| [116](#id116) | [Given the head of a linked list remove](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%204%20-%20Remove%20Nth%20Node%20From%20End%20of%20List%20Blind/116%20-%20Given%20the%20head%20of%20a%20linked%20list%20remove.md) | 6 | 4 |
-| [117](#id117) | [Given the head of a linked list remove](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%204%20-%20Remove%20Nth%20Node%20From%20End%20of%20List%20Blind/117%20-%20Given%20the%20head%20of%20a%20linked%20list%20remove.md) | 6 | 4 |
-| [118](#id118) | [Given the head of a linked list remove](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%204%20-%20Remove%20Nth%20Node%20From%20End%20of%20List%20Blind/118%20-%20Given%20the%20head%20of%20a%20linked%20list%20remove.md) | 6 | 4 |
+| [121](#id121) | [Given the head of a linked list remove](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%204%20-%20Remove%20Nth%20Node%20From%20End%20of%20List%20Blind/121%20-%20Given%20the%20head%20of%20a%20linked%20list%20remove.md) | 6 | 4 |
+| [122](#id122) | [Given the head of a linked list remove](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%204%20-%20Remove%20Nth%20Node%20From%20End%20of%20List%20Blind/122%20-%20Given%20the%20head%20of%20a%20linked%20list%20remove.md) | 6 | 4 |
+| [123](#id123) | [Given the head of a linked list remove](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%204%20-%20Remove%20Nth%20Node%20From%20End%20of%20List%20Blind/123%20-%20Given%20the%20head%20of%20a%20linked%20list%20remove.md) | 6 | 4 |
+| [124](#id124) | [Given the head of a linked list remove](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%204%20-%20Remove%20Nth%20Node%20From%20End%20of%20List%20Blind/124%20-%20Given%20the%20head%20of%20a%20linked%20list%20remove.md) | 6 | 4 |
+| [125](#id125) | [Given the head of a linked list remove](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%204%20-%20Remove%20Nth%20Node%20From%20End%20of%20List%20Blind/125%20-%20Given%20the%20head%20of%20a%20linked%20list%20remove.md) | 6 | 4 |
 | **-** | **Linked List > Merge k Sorted Lists Blind** | **6** | **10** |
-| [119](#id119) | [You are given an array of k linked-lists](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%2010%20-%20Merge%20k%20Sorted%20Lists%20Blind/119%20-%20You%20are%20given%20an%20array%20of%20k%20linked-lists.md) | 6 | 10 |
-| [120](#id120) | [You are given an array of k linked-lists](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%2010%20-%20Merge%20k%20Sorted%20Lists%20Blind/120%20-%20You%20are%20given%20an%20array%20of%20k%20linked-lists.md) | 6 | 10 |
-| [121](#id121) | [You are given an array of k linked-lists](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%2010%20-%20Merge%20k%20Sorted%20Lists%20Blind/121%20-%20You%20are%20given%20an%20array%20of%20k%20linked-lists.md) | 6 | 10 |
-| [122](#id122) | [You are given an array of k linked-lists](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%2010%20-%20Merge%20k%20Sorted%20Lists%20Blind/122%20-%20You%20are%20given%20an%20array%20of%20k%20linked-lists.md) | 6 | 10 |
-| [123](#id123) | [You are given an array of k linked-lists](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%2010%20-%20Merge%20k%20Sorted%20Lists%20Blind/123%20-%20You%20are%20given%20an%20array%20of%20k%20linked-lists.md) | 6 | 10 |
-| [124](#id124) | [You are given an array of k linked-lists](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%2010%20-%20Merge%20k%20Sorted%20Lists%20Blind/124%20-%20You%20are%20given%20an%20array%20of%20k%20linked-lists.md) | 6 | 10 |
+| [126](#id126) | [You are given an array of k linked-lists](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%2010%20-%20Merge%20k%20Sorted%20Lists%20Blind/126%20-%20You%20are%20given%20an%20array%20of%20k%20linked-lists.md) | 6 | 10 |
+| [127](#id127) | [You are given an array of k linked-lists](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%2010%20-%20Merge%20k%20Sorted%20Lists%20Blind/127%20-%20You%20are%20given%20an%20array%20of%20k%20linked-lists.md) | 6 | 10 |
+| [128](#id128) | [You are given an array of k linked-lists](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%2010%20-%20Merge%20k%20Sorted%20Lists%20Blind/128%20-%20You%20are%20given%20an%20array%20of%20k%20linked-lists.md) | 6 | 10 |
+| [129](#id129) | [You are given an array of k linked-lists](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%2010%20-%20Merge%20k%20Sorted%20Lists%20Blind/129%20-%20You%20are%20given%20an%20array%20of%20k%20linked-lists.md) | 6 | 10 |
+| [130](#id130) | [You are given an array of k linked-lists](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%2010%20-%20Merge%20k%20Sorted%20Lists%20Blind/130%20-%20You%20are%20given%20an%20array%20of%20k%20linked-lists.md) | 6 | 10 |
+| [131](#id131) | [You are given an array of k linked-lists](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%2010%20-%20Merge%20k%20Sorted%20Lists%20Blind/131%20-%20You%20are%20given%20an%20array%20of%20k%20linked-lists.md) | 6 | 10 |
 | **-** | **Trees** | **7** | **-** |
 | **-** | **Trees > Invert Binary Tree Blind** | **7** | **1** |
-| [125](#id125) | [Given the root of a binary tree invert](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%201%20-%20Invert%20Binary%20Tree%20Blind/125%20-%20Given%20the%20root%20of%20a%20binary%20tree%20invert.md) | 7 | 1 |
-| [126](#id126) | [You are given an array of k linked-lists](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%201%20-%20Invert%20Binary%20Tree%20Blind/126%20-%20You%20are%20given%20an%20array%20of%20k%20linked-lists.md) | 7 | 1 |
-| [127](#id127) | [You are given an array of k linked-lists](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%201%20-%20Invert%20Binary%20Tree%20Blind/127%20-%20You%20are%20given%20an%20array%20of%20k%20linked-lists.md) | 7 | 1 |
-| [128](#id128) | [You are given an array of k linked-lists](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%201%20-%20Invert%20Binary%20Tree%20Blind/128%20-%20You%20are%20given%20an%20array%20of%20k%20linked-lists.md) | 7 | 1 |
-| [129](#id129) | [You are given an array of k linked-lists](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%201%20-%20Invert%20Binary%20Tree%20Blind/129%20-%20You%20are%20given%20an%20array%20of%20k%20linked-lists.md) | 7 | 1 |
+| [132](#id132) | [Given the root of a binary tree invert](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%201%20-%20Invert%20Binary%20Tree%20Blind/132%20-%20Given%20the%20root%20of%20a%20binary%20tree%20invert.md) | 7 | 1 |
+| [133](#id133) | [You are given an array of k linked-lists](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%201%20-%20Invert%20Binary%20Tree%20Blind/133%20-%20You%20are%20given%20an%20array%20of%20k%20linked-lists.md) | 7 | 1 |
+| [134](#id134) | [You are given an array of k linked-lists](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%201%20-%20Invert%20Binary%20Tree%20Blind/134%20-%20You%20are%20given%20an%20array%20of%20k%20linked-lists.md) | 7 | 1 |
+| [135](#id135) | [You are given an array of k linked-lists](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%201%20-%20Invert%20Binary%20Tree%20Blind/135%20-%20You%20are%20given%20an%20array%20of%20k%20linked-lists.md) | 7 | 1 |
+| [136](#id136) | [You are given an array of k linked-lists](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%201%20-%20Invert%20Binary%20Tree%20Blind/136%20-%20You%20are%20given%20an%20array%20of%20k%20linked-lists.md) | 7 | 1 |
 | **-** | **Trees > Maximum Depth of Binary Tree Blind** | **7** | **2** |
-| [130](#id130) | [Given the root of a binary tree return](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%202%20-%20Maximum%20Depth%20of%20Binary%20Tree%20Blind/130%20-%20Given%20the%20root%20of%20a%20binary%20tree%20return.md) | 7 | 2 |
-| [131](#id131) | [You are given an array of k linked-lists](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%202%20-%20Maximum%20Depth%20of%20Binary%20Tree%20Blind/131%20-%20You%20are%20given%20an%20array%20of%20k%20linked-lists.md) | 7 | 2 |
-| [132](#id132) | [You are given an array of k linked-lists](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%202%20-%20Maximum%20Depth%20of%20Binary%20Tree%20Blind/132%20-%20You%20are%20given%20an%20array%20of%20k%20linked-lists.md) | 7 | 2 |
-| [133](#id133) | [You are given an array of k linked-lists](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%202%20-%20Maximum%20Depth%20of%20Binary%20Tree%20Blind/133%20-%20You%20are%20given%20an%20array%20of%20k%20linked-lists.md) | 7 | 2 |
-| [134](#id134) | [You are given an array of k linked-lists](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%202%20-%20Maximum%20Depth%20of%20Binary%20Tree%20Blind/134%20-%20You%20are%20given%20an%20array%20of%20k%20linked-lists.md) | 7 | 2 |
+| [137](#id137) | [Given the root of a binary tree return](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%202%20-%20Maximum%20Depth%20of%20Binary%20Tree%20Blind/137%20-%20Given%20the%20root%20of%20a%20binary%20tree%20return.md) | 7 | 2 |
+| [138](#id138) | [You are given an array of k linked-lists](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%202%20-%20Maximum%20Depth%20of%20Binary%20Tree%20Blind/138%20-%20You%20are%20given%20an%20array%20of%20k%20linked-lists.md) | 7 | 2 |
+| [139](#id139) | [You are given an array of k linked-lists](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%202%20-%20Maximum%20Depth%20of%20Binary%20Tree%20Blind/139%20-%20You%20are%20given%20an%20array%20of%20k%20linked-lists.md) | 7 | 2 |
+| [140](#id140) | [You are given an array of k linked-lists](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%202%20-%20Maximum%20Depth%20of%20Binary%20Tree%20Blind/140%20-%20You%20are%20given%20an%20array%20of%20k%20linked-lists.md) | 7 | 2 |
+| [141](#id141) | [You are given an array of k linked-lists](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%202%20-%20Maximum%20Depth%20of%20Binary%20Tree%20Blind/141%20-%20You%20are%20given%20an%20array%20of%20k%20linked-lists.md) | 7 | 2 |
 
 ### Part I - Arrays and Hashing
 
@@ -1235,6 +1243,333 @@ An alternative approach to grouping anagrams without sorting the strings is to u
 
 #### Chapter 5 - Top K Frequent Elements (Blind)
 
+Q:: =============================================  
+
+##### Given an integer array `nums` and an integer `k`, return _the_ `k` _most frequent elements_. You may return the answer in **any order**.
+
+**Example 1:**
+
+```
+Input: nums = [1,1,1,2,2,3], k = 2
+Output: [1,2]
+```
+
+**Example 2:**
+
+```
+Input: nums = [1], k = 1
+Output: [1]
+```
+
+**Constraints:**
+
+-   `1 <= nums.length <= 10^5`
+-   `-10^4 <= nums[i] <= 10^4`
+-   `k` is in the range `[1, the number of unique elements in the array]`.
+-   It is **guaranteed** that the answer is **unique**.
+
+**Follow up:** Your algorithm's time complexity must be better than `O(n log n)`, where n is the array's size.
+
+___
+
+What is the time complexity of a brute force approach to find the k most frequent elements in an array of size n?
+
+A) O(n)
+
+B) O(n log n)
+
+C) O(n^2)
+
+D) O(n^2 log n)
+
+###### ID26
+
+A:: =============================================  
+**Answer**: C
+
+A brute force approach to find the k most frequent elements would involve checking the frequency of each element by comparing it with every other element in the array. This would require a nested loop, resulting in a time complexity of O(n^2), where n is the size of the input array.
+
+Q:: =============================================  
+
+##### Given an integer array `nums` and an integer `k`, return _the_ `k` _most frequent elements_. You may return the answer in **any order**.
+
+**Example 1:**
+
+```
+Input: nums = [1,1,1,2,2,3], k = 2
+Output: [1,2]
+```
+
+**Example 2:**
+
+```
+Input: nums = [1], k = 1
+Output: [1]
+```
+
+**Constraints:**
+
+-   `1 <= nums.length <= 10^5`
+-   `-10^4 <= nums[i] <= 10^4`
+-   `k` is in the range `[1, the number of unique elements in the array]`.
+-   It is **guaranteed** that the answer is **unique**.
+
+**Follow up:** Your algorithm's time complexity must be better than `O(n log n)`, where n is the array's size.
+
+___
+
+Which data structure can be used to optimize the approach for finding the k most frequent elements?
+
+A) Queue
+
+B) Priority Queue
+
+C) Stack
+
+D) Hashmap or HashMap
+
+###### ID27
+
+A:: =============================================  
+**Answer**: D
+
+A Hashmap (or HashMap) can be used to optimize the approach for finding the k most frequent elements. The Hashmap can store the frequency of each element in the array, allowing us to quickly retrieve the frequencies and find the k most frequent elements.
+
+Q:: =============================================  
+
+##### Given an integer array `nums` and an integer `k`, return _the_ `k` _most frequent elements_. You may return the answer in **any order**.
+
+**Example 1:**
+
+```
+Input: nums = [1,1,1,2,2,3], k = 2
+Output: [1,2]
+```
+
+**Example 2:**
+
+```
+Input: nums = [1], k = 1
+Output: [1]
+```
+
+**Constraints:**
+
+-   `1 <= nums.length <= 10^5`
+-   `-10^4 <= nums[i] <= 10^4`
+-   `k` is in the range `[1, the number of unique elements in the array]`.
+-   It is **guaranteed** that the answer is **unique**.
+
+**Follow up:** Your algorithm's time complexity must be better than `O(n log n)`, where n is the array's size.
+
+___
+
+What is the time complexity of the approach using a Hashmap to find the k most frequent elements?
+
+A) O(n)
+
+B) O(n log k)
+
+C) O(n log n)
+
+D) O(k log n)
+
+###### ID28
+
+A:: =============================================  
+**Answer**: A
+
+The time complexity of the approach using a Hashmap to find the k most frequent elements is O(n), where n is the size of the input array. This is because we need to iterate through the array once to calculate the frequency of each element and store it in the Hashmap.
+
+Q:: =============================================  
+
+##### Given an integer array `nums` and an integer `k`, return _the_ `k` _most frequent elements_. You may return the answer in **any order**.
+
+**Example 1:**
+
+```
+Input: nums = [1,1,1,2,2,3], k = 2
+Output: [1,2]
+```
+
+**Example 2:**
+
+```
+Input: nums = [1], k = 1
+Output: [1]
+```
+
+**Constraints:**
+
+-   `1 <= nums.length <= 10^5`
+-   `-10^4 <= nums[i] <= 10^4`
+-   `k` is in the range `[1, the number of unique elements in the array]`.
+-   It is **guaranteed** that the answer is **unique**.
+
+**Follow up:** Your algorithm's time complexity must be better than `O(n log n)`, where n is the array's size.
+
+___
+
+What is the space complexity of the approach using a Hashmap to find the k most frequent elements?
+
+A) O(n)
+
+B) O(k)
+
+C) O(1)
+
+D) O(n log n)
+
+###### ID29
+
+A:: =============================================  
+**Answer**: A
+
+The space complexity of the approach using a Hashmap to find the k most frequent elements is O(n), where n is the size of the input array. This is because, in the worst case, all elements in the array could be distinct, and we would need to store the frequency of each element in the Hashmap.
+
+Q:: =============================================  
+
+##### Given an integer array `nums` and an integer `k`, return _the_ `k` _most frequent elements_. You may return the answer in **any order**.
+
+**Example 1:**
+
+```
+Input: nums = [1,1,1,2,2,3], k = 2
+Output: [1,2]
+```
+
+**Example 2:**
+
+```
+Input: nums = [1], k = 1
+Output: [1]
+```
+
+**Constraints:**
+
+-   `1 <= nums.length <= 10^5`
+-   `-10^4 <= nums[i] <= 10^4`
+-   `k` is in the range `[1, the number of unique elements in the array]`.
+-   It is **guaranteed** that the answer is **unique**.
+
+**Follow up:** Your algorithm's time complexity must be better than `O(n log n)`, where n is the array's size.
+
+___
+
+To find the k most frequent elements, after obtaining the frequencies using a Hashmap, which additional data structure can be used to efficiently retrieve the top k elements?
+
+A) Sorted List
+
+B) Heap (Priority Queue)
+
+C) Trie
+
+D) Graph
+
+###### ID30
+
+A:: =============================================  
+**Answer**: B
+
+After obtaining the frequencies of all elements using a Hashmap, a Heap (or Priority Queue) can be used to efficiently retrieve the top k elements. We can build a min-heap (or max-heap) of size k and insert the elements and their frequencies into the heap. This way, the heap will automatically maintain the top k elements.
+
+Q:: =============================================  
+
+##### Given an integer array `nums` and an integer `k`, return _the_ `k` _most frequent elements_. You may return the answer in **any order**.
+
+**Example 1:**
+
+```
+Input: nums = [1,1,1,2,2,3], k = 2
+Output: [1,2]
+```
+
+**Example 2:**
+
+```
+Input: nums = [1], k = 1
+Output: [1]
+```
+
+**Constraints:**
+
+-   `1 <= nums.length <= 10^5`
+-   `-10^4 <= nums[i] <= 10^4`
+-   `k` is in the range `[1, the number of unique elements in the array]`.
+-   It is **guaranteed** that the answer is **unique**.
+
+**Follow up:** Your algorithm's time complexity must be better than `O(n log n)`, where n is the array's size.
+
+___
+
+What is the time complexity of building a Heap (Priority Queue) of size k and inserting all elements and their frequencies into it?
+
+A) O(n)
+
+B) O(n log k)
+
+C) O(k log n)
+
+D) O(k log k)
+
+###### ID31
+
+A:: =============================================  
+**Answer**: C
+
+The time complexity of building a Heap (Priority Queue) of size k and inserting all elements and their frequencies into it is O(k log n), where n is the size of the input array. This is because we need to perform k insertion operations into the heap, and each insertion operation has a time complexity of O(log n), where n is the maximum size of the heap.
+
+Q:: =============================================  
+
+##### Given an integer array `nums` and an integer `k`, return _the_ `k` _most frequent elements_. You may return the answer in **any order**.
+
+**Example 1:**
+
+```
+Input: nums = [1,1,1,2,2,3], k = 2
+Output: [1,2]
+```
+
+**Example 2:**
+
+```
+Input: nums = [1], k = 1
+Output: [1]
+```
+
+**Constraints:**
+
+-   `1 <= nums.length <= 10^5`
+-   `-10^4 <= nums[i] <= 10^4`
+-   `k` is in the range `[1, the number of unique elements in the array]`.
+-   It is **guaranteed** that the answer is **unique**.
+
+**Follow up:** Your algorithm's time complexity must be better than `O(n log n)`, where n is the array's size.
+
+___
+
+What is the overall time complexity of the approach using a Hashmap and a Heap (Priority Queue) to find the k most frequent elements?
+
+A) O(n)
+
+B) O(n log k)
+
+C) O(n log n)
+
+D) O(k log n + n)
+
+###### ID32
+
+A:: =============================================  
+**Answer**: D
+
+The overall time complexity of the approach using a Hashmap and a Heap (Priority Queue) to find the k most frequent elements is O(k log n + n), where n is the size of the input array. This is because:
+
+1. Calculating the frequencies using a Hashmap takes O(n) time.
+2. Building a Heap (Priority Queue) of size k and inserting all elements and their frequencies into it takes O(k log n) time.
+
+Therefore, the overall time complexity is O(k log n + n), which satisfies the follow-up condition of being better than O(n log n).
+
 #### Chapter 6 - Product of Array Except Self (Blind)
 
 #### Chapter 7 - Valid Sudoku
@@ -1287,7 +1622,7 @@ B) Use a length-prefix followed by a special character for each string in strs.
 
 C) Concatenate all the strings in strs directly.
 
-###### ID26
+###### ID33
 
 A:: =============================================  
 **Answer**: B
@@ -1339,7 +1674,7 @@ B) Prefix each string with its individual length followed by a delimiter.
 
 C) Prefix each string with the sum of the lengths of all previous strings.
 
-###### ID27
+###### ID34
 
 A:: =============================================  
 **Answer**: B
@@ -1391,7 +1726,7 @@ B) The delimiter should be a character that is not allowed in the strings.
 
 C) The delimiter should be a non-integer character.
 
-###### ID28
+###### ID35
 
 A:: =============================================  
 **Answer**: C
@@ -1464,7 +1799,7 @@ B) Time complexity: O(n^2), Space complexity: O(n)
 
 C) Time complexity: O(n log n), Space complexity: O(n)
 
-###### ID29
+###### ID36
 
 A:: =============================================  
 **Answer**: A
@@ -1504,7 +1839,7 @@ C) O(n^2)
 
 D) O(2^n)
 
-###### ID30
+###### ID37
 
 A:: =============================================  
 **Answer**: B
@@ -1542,7 +1877,7 @@ C) Binary Search Tree
 
 D) Array
 
-###### ID31
+###### ID38
 
 A:: =============================================  
 **Answer**: B
@@ -1580,7 +1915,7 @@ C) O(n^2)
 
 D) O(2^n)
 
-###### ID32
+###### ID39
 
 A:: =============================================  
 **Answer**: C
@@ -1618,7 +1953,7 @@ C) The element (n + 1) does exist in the array.
 
 D) They are the largest numbers in their respective sequences.
 
-###### ID33
+###### ID40
 
 A:: =============================================  
 **Answer**: B
@@ -1652,7 +1987,7 @@ A) Add all elements to the hashset. Then, for each element 'n', if (n - 1) is n
 
 B) Add all elements to the hashset. Then, for each element 'n', if (n + 1) is in the hashset, check and count the longest sequence starting from 'n'.
 
-###### ID34
+###### ID41
 
 A:: =============================================  
 **Answer**: A
@@ -1690,7 +2025,7 @@ C) Time complexity: O(n^2), Space complexity: O(1)
 
 D) Time complexity: O(n), Space complexity: O(1)
 
-###### ID35
+###### ID42
 
 A:: =============================================  
 **Answer**: A
@@ -1749,7 +2084,7 @@ C) Check if the string is empty.
 
 D) Split the string into words.
 
-###### ID36
+###### ID43
 
 A:: =============================================  
 **Answer**: B
@@ -1804,7 +2139,7 @@ C) Remove all non-alphanumeric characters.
 
 D) Convert the string to uppercase.
 
-###### ID37
+###### ID44
 
 A:: =============================================  
 **Answer**: C
@@ -1859,7 +2194,7 @@ C) Check if the string is empty.
 
 D) Split the string into words.
 
-###### ID38
+###### ID45
 
 A:: =============================================  
 **Answer**: B
@@ -1914,7 +2249,7 @@ C) Time complexity: O(n^2), Space complexity: O(1)
 
 D) Time complexity: O(n), Space complexity: O(1)
 
-###### ID39
+###### ID46
 
 A:: =============================================  
 **Answer**: A
@@ -1969,7 +2304,7 @@ C) Yes, by sorting the string.
 
 D) Yes, by using a stack.
 
-###### ID40
+###### ID47
 
 A:: =============================================  
 **Answer**: B
@@ -2024,7 +2359,7 @@ C) Time complexity: O(n^2), Space complexity: O(1)
 
 D) Time complexity: O(n), Space complexity: O(1)
 
-###### ID41
+###### ID48
 
 A:: =============================================  
 **Answer**: D
@@ -2085,7 +2420,7 @@ B) Iterate through all elements, creating pair sums in a hash table, O(n^2) tim
 
 C) Sort the array and apply binary search for each element, O(n^2 log n) time complexity
 
-###### ID42
+###### ID49
 
 A:: =============================================  
 **Answer**: A
@@ -2142,7 +2477,7 @@ B) Sort the array and use binary search, decreasing the time complexity to O(n^
 
 C) Sorting cannot help in optimizing this problem
 
-###### ID43
+###### ID50
 
 A:: =============================================  
 **Answer**: A
@@ -2199,7 +2534,7 @@ B) By skipping over duplicate elements in the sorted array
 
 C) Both A and B
 
-###### ID44
+###### ID51
 
 A:: =============================================  
 **Answer**: C
@@ -2256,7 +2591,7 @@ B) By skipping over duplicate elements in the sorted array after finding a vali
 
 C) By checking if the current triplet is already in the output before adding it
 
-###### ID45
+###### ID52
 
 A:: =============================================  
 **Answer**: B
@@ -2345,7 +2680,7 @@ B) Time complexity: O(n^2), Space complexity: O(n)
 
 C) Time complexity: O(n log n), Space complexity: O(n)
 
-###### ID46
+###### ID53
 
 A:: =============================================  
 **Answer**: A
@@ -2400,7 +2735,7 @@ C) The distance between the two lines
 
 D) Both A and C
 
-###### ID47
+###### ID54
 
 A:: =============================================  
 **Answer**: D
@@ -2453,7 +2788,7 @@ C) O(n^2)
 
 D) O(2^n)
 
-###### ID48
+###### ID55
 
 A:: =============================================  
 **Answer**: C
@@ -2506,7 +2841,7 @@ C) At the two ends of the array
 
 D) At random positions in the array
 
-###### ID49
+###### ID56
 
 A:: =============================================  
 **Answer**: C
@@ -2557,7 +2892,7 @@ B) Because the new container would be both narrower and taller.
 
 C) Because the new container would be wider and not shorter.
 
-###### ID50
+###### ID57
 
 A:: =============================================  
 **Answer**: A
@@ -2610,7 +2945,7 @@ C) Both A and B.
 
 D) None of the above.
 
-###### ID51
+###### ID58
 
 A:: =============================================  
 **Answer**: C
@@ -2663,7 +2998,7 @@ C) Time complexity: O(n^2), Space complexity: O(1)
 
 D) Time complexity: O(n), Space complexity: O(1)
 
-###### ID52
+###### ID59
 
 A:: =============================================  
 **Answer**: D
@@ -2705,7 +3040,7 @@ C) Sorting the array and finding the difference between the minimum and maximum
 
 D) Creating a new array with the differences between consecutive prices and finding the maximum difference.
 
-###### ID53
+###### ID60
 
 A:: =============================================  
 **Answer**: B
@@ -2741,7 +3076,7 @@ C) The difference between each pair of prices and the maximum price found so fa
 
 D) The maximum profit found so far and the index of the minimum price found so far.
 
-###### ID54
+###### ID61
 
 A:: =============================================  
 **Answer**: B
@@ -2775,7 +3110,7 @@ B) Find the minimum price in the array, and for every other price compute the p
 
 C) Iterate through the prices, if we find a new minimum price then update it. Compute the profit between the current price and the minimum price, if it exceeds the maximum profit, then update it.
 
-###### ID55
+###### ID62
 
 A:: =============================================  
 **Answer**: C
@@ -2811,7 +3146,7 @@ C) O(n^2)
 
 D) O(2^n)
 
-###### ID56
+###### ID63
 
 A:: =============================================  
 **Answer**: B
@@ -2847,7 +3182,7 @@ C) O(n^2)
 
 D) O(2^n)
 
-###### ID57
+###### ID64
 
 A:: =============================================  
 **Answer**: A
@@ -2898,7 +3233,7 @@ A) Check each character and its subsequent characters for equality.
 
 B) Generate all possible substrings and check each for repeated characters.
 
-###### ID58
+###### ID65
 
 A:: =============================================  
 **Answer**: B
@@ -2951,7 +3286,7 @@ C) Hash Set
 
 D) Heap
 
-###### ID59
+###### ID66
 
 A:: =============================================  
 **Answer**: C
@@ -3002,7 +3337,7 @@ B) Sliding Window
 
 C) Recursion
 
-###### ID60
+###### ID67
 
 A:: =============================================  
 **Answer**: B
@@ -3053,7 +3388,7 @@ B) Shrink the window from the left until the repeating character is no longer i
 
 C) Discard the current window and start a new window from the next character.
 
-###### ID61
+###### ID68
 
 A:: =============================================  
 **Answer**: B
@@ -3104,7 +3439,7 @@ B) 52
 
 C) 95
 
-###### ID62
+###### ID69
 
 A:: =============================================  
 **Answer**: C
@@ -3171,7 +3506,7 @@ B) Time complexity: O(n), Space complexity: O(m)
 
 C) Time complexity: O(n^2), Space complexity: O(m)
 
-###### ID63
+###### ID70
 
 A:: =============================================  
 **Answer**: B
@@ -3218,7 +3553,7 @@ A) Iterate from the end of the string to the beginning, checking for duplicate 
 
 B) For each substring, find the frequency of the most common character (maxf) and check if the length of the substring minus maxf is less than or equal to k.
 
-###### ID64
+###### ID71
 
 A:: =============================================  
 **Answer**: B
@@ -3267,7 +3602,7 @@ C) Hash Map
 
 D) Either B or C
 
-###### ID65
+###### ID72
 
 A:: =============================================  
 **Answer**: D
@@ -3314,7 +3649,7 @@ B) Two pointers with sliding window
 
 C) Recursion
 
-###### ID66
+###### ID73
 
 A:: =============================================  
 **Answer**: B
@@ -3363,7 +3698,7 @@ C) Increase k
 
 D) Change the character at the left of the window
 
-###### ID67
+###### ID74
 
 A:: =============================================  
 **Answer**: B
@@ -3410,7 +3745,7 @@ B) O(n)
 
 C) O(logn)
 
-###### ID68
+###### ID75
 
 A:: =============================================  
 **Answer**: A
@@ -3472,7 +3807,7 @@ B) Time complexity: O(n), Space complexity: O(n)
 
 C) Time complexity: O(n^2), Space complexity: O(1)
 
-###### ID69
+###### ID76
 
 A:: =============================================  
 **Answer**: A
@@ -3531,7 +3866,7 @@ B) Remove each character of s one by one and check if the remaining string cont
 
 C) Sort both s and t and check if t is a substring of s
 
-###### ID70
+###### ID77
 
 A:: =============================================  
 **Answer**: A
@@ -3586,7 +3921,7 @@ B) Hash Map
 
 C) Stack
 
-###### ID71
+###### ID78
 
 A:: =============================================  
 **Answer**: B
@@ -3641,7 +3976,7 @@ B) Two Pointers with Sliding Window
 
 C) Binary Search
 
-###### ID72
+###### ID79
 
 A:: =============================================  
 **Answer**: B
@@ -3696,7 +4031,7 @@ B) Shrink the window from the left
 
 C) Remove the window and create a new one
 
-###### ID73
+###### ID80
 
 A:: =============================================  
 **Answer**: A
@@ -3751,7 +4086,7 @@ B) Shrink the window from the left
 
 C) Expand the window from the left
 
-###### ID74
+###### ID81
 
 A:: =============================================  
 **Answer**: B
@@ -3806,7 +4141,7 @@ B) By keeping track of two variables: the number of unique characters we have f
 
 C) By sorting the hashmap and comparing it with \`t\`
 
-###### ID75
+###### ID82
 
 A:: =============================================  
 **Answer**: B
@@ -3892,7 +4227,7 @@ B) Time complexity: O(n), Space complexity: O(n)
 
 C) Time complexity: O(n^2), Space complexity: O(m)
 
-###### ID76
+###### ID83
 
 A:: =============================================  
 **Answer**: A
@@ -3942,7 +4277,7 @@ A) Yes
 
 B) No
 
-###### ID77
+###### ID84
 
 A:: =============================================  
 **Answer**: B
@@ -3990,7 +4325,7 @@ C) Queue
 
 D) Binary Tree
 
-###### ID78
+###### ID85
 
 A:: =============================================  
 **Answer**: B
@@ -4038,7 +4373,7 @@ C) Push it onto the stack.
 
 D) Pop the top element from the stack.
 
-###### ID79
+###### ID86
 
 A:: =============================================  
 **Answer**: C
@@ -4086,7 +4421,7 @@ C) Pop the top element from the stack and check if it matches with the current 
 
 D) Check if it matches with the bottom element of the stack.
 
-###### ID80
+###### ID87
 
 A:: =============================================  
 **Answer**: C
@@ -4134,7 +4469,7 @@ C) If the last element in the stack is an open bracket.
 
 D) If the last element in the stack is a closing bracket.
 
-###### ID81
+###### ID88
 
 A:: =============================================  
 **Answer**: A
@@ -4182,7 +4517,7 @@ C) Time: O(n), Space: O(n^2)
 
 D) Time: O(n^2), Space: O(n)
 
-###### ID82
+###### ID89
 
 A:: =============================================  
 **Answer**: B
@@ -4255,7 +4590,7 @@ C) O(n^2)
 
 D) O(1)
 
-###### ID83
+###### ID90
 
 A:: =============================================  
 **Answer**: B
@@ -4306,7 +4641,7 @@ C) O(n^2)
 
 D) O(1)
 
-###### ID84
+###### ID91
 
 A:: =============================================  
 **Answer**: A
@@ -4357,7 +4692,7 @@ C) The middle element in the array
 
 D) The element at a random position in the array
 
-###### ID85
+###### ID92
 
 A:: =============================================  
 **Answer**: C
@@ -4408,7 +4743,7 @@ C) Compare the middle element with nums\[mid - 1\].
 
 D) Either A or B.
 
-###### ID86
+###### ID93
 
 A:: =============================================  
 **Answer**: D
@@ -4459,7 +4794,7 @@ C) Compare the target with nums\[mid - 1\] and nums\[mid + 1\].
 
 D) None of the above.
 
-###### ID87
+###### ID94
 
 A:: =============================================  
 **Answer**: B
@@ -4512,7 +4847,7 @@ C) At the mid point.
 
 D) This scenario is not possible.
 
-###### ID88
+###### ID95
 
 A:: =============================================  
 **Answer**: B
@@ -4565,7 +4900,7 @@ C) At the mid point.
 
 D) This scenario is not possible.
 
-###### ID89
+###### ID96
 
 A:: =============================================  
 **Answer**: A
@@ -4612,7 +4947,7 @@ A) Yes
 
 B) No
 
-###### ID90
+###### ID97
 
 A:: =============================================  
 **Answer**: A
@@ -4689,7 +5024,7 @@ C) Time complexity: O(n log n), Space complexity: O(n)
 
 D) Time complexity: O(n^2), Space complexity: O(n)
 
-###### ID91
+###### ID98
 
 A:: =============================================  
 **Answer**: B
@@ -4754,7 +5089,7 @@ C) O(n^2)
 
 D) O(1)
 
-###### ID92
+###### ID99
 
 A:: =============================================  
 **Answer**: D
@@ -4817,7 +5152,7 @@ C) O(n^2)
 
 D) O(1)
 
-###### ID93
+###### ID100
 
 A:: =============================================  
 **Answer**: A
@@ -4880,7 +5215,7 @@ C) The middle element in the array
 
 D) The element at a random position in the array
 
-###### ID94
+###### ID101
 
 A:: =============================================  
 **Answer**: C
@@ -4941,7 +5276,7 @@ A) The left sorted portion
 
 B) The right sorted portion
 
-###### ID95
+###### ID102
 
 A:: =============================================  
 **Answer**: B
@@ -5006,7 +5341,7 @@ C) nums\[r\]
 
 D) None of the above.
 
-###### ID96
+###### ID103
 
 A:: =============================================  
 **Answer**: B
@@ -5069,7 +5404,7 @@ B) At the mid point or to the left of mid.
 
 C) To the right of mid.
 
-###### ID97
+###### ID104
 
 A:: =============================================  
 **Answer**: B
@@ -5134,7 +5469,7 @@ C) At the mid point.
 
 D) This scenario is not possible.
 
-###### ID98
+###### ID105
 
 A:: =============================================  
 **Answer**: B
@@ -5217,7 +5552,7 @@ C) Time complexity: O(n log n), Space complexity: O(n)
 
 D) Time complexity: O(n^2), Space complexity: O(n)
 
-###### ID99
+###### ID106
 
 A:: =============================================  
 **Answer**: B
@@ -5276,7 +5611,7 @@ A) An empty linked list
 
 B) The same linked list
 
-###### ID100
+###### ID107
 
 A:: =============================================  
 **Answer**: B
@@ -5327,7 +5662,7 @@ A) The node's value
 
 B) The node's 'next' reference
 
-###### ID101
+###### ID108
 
 A:: =============================================  
 **Answer**: B
@@ -5380,7 +5715,7 @@ B) Use a stack to reverse the values of the linked list in-place.
 
 C) Traverse the list once, and for each node, set its 'next' to the previous node.
 
-###### ID102
+###### ID109
 
 A:: =============================================  
 **Answer**: C
@@ -5452,7 +5787,7 @@ B) Time complexity: O(n), Space complexity: O(1)
 
 C) Time complexity: O(1), Space complexity: O(1)
 
-###### ID103
+###### ID110
 
 A:: =============================================  
 **Answer**: B
@@ -5509,7 +5844,7 @@ B) From the last element of each list.
 
 C) From the first element of each list.
 
-###### ID104
+###### ID111
 
 A:: =============================================  
 **Answer**: C
@@ -5564,7 +5899,7 @@ B) The node with the smaller value.
 
 C) Any node, the choice doesn't matter.
 
-###### ID105
+###### ID112
 
 A:: =============================================  
 **Answer**: B
@@ -5619,7 +5954,7 @@ B) Shift to the next node in both lists and repeat the comparison.
 
 C) Shift to the next node in the list from which we inserted the node and repeat the comparison.
 
-###### ID106
+###### ID113
 
 A:: =============================================  
 **Answer**: C
@@ -5674,7 +6009,7 @@ B) Append the remaining nodes in the other list to the merged list.
 
 C) Pick nodes from the exhausted list randomly to fill up the merged list.
 
-###### ID107
+###### ID114
 
 A:: =============================================  
 **Answer**: B
@@ -5748,7 +6083,7 @@ B) Time complexity: O(m\*n), Space complexity: O(m+n)
 
 C) Time complexity: O(m+n), Space complexity: O(m+n)
 
-###### ID108
+###### ID115
 
 A:: =============================================  
 **Answer**: A
@@ -5808,7 +6143,7 @@ B) Reversing the second half of the list.
 
 C) Swapping the first and the last node.
 
-###### ID109
+###### ID116
 
 A:: =============================================  
 **Answer**: B
@@ -5864,7 +6199,7 @@ A) Starting from the head, move to the next node until you find the middle node
 
 B) Use two pointers: a slow pointer moving one step at a time, and a fast pointer moving two steps at a time.
 
-###### ID110
+###### ID117
 
 A:: =============================================  
 **Answer**: B
@@ -5922,7 +6257,7 @@ B) By alternating nodes from the first and second half of the list.
 
 C) By concatenating the first half of the list to the second half.
 
-###### ID111
+###### ID118
 
 A:: =============================================  
 **Answer**: B
@@ -5980,7 +6315,7 @@ B) Corresponding nodes from the first and second half of the list are swapped.
 
 C) At each step, a node is unlinked from the second half and linked into the first half.
 
-###### ID112
+###### ID119
 
 A:: =============================================  
 **Answer**: C
@@ -6071,7 +6406,7 @@ B) Time complexity: O(n), Space complexity: O(n)
 
 C) Time complexity: O(n^2), Space complexity: O(1)
 
-###### ID113
+###### ID120
 
 A:: =============================================  
 **Answer**: A
@@ -6127,7 +6462,7 @@ B) Node before x
 
 C) Node after x
 
-###### ID114
+###### ID121
 
 A:: =============================================  
 **Answer**: B
@@ -6181,7 +6516,7 @@ B) Add a dummy node at the beginning of the list.
 
 C) There is no way to eliminate this edge case.
 
-###### ID115
+###### ID122
 
 A:: =============================================  
 **Answer**: B
@@ -6237,7 +6572,7 @@ B) n + 1
 
 C) n - 1
 
-###### ID116
+###### ID123
 
 A:: =============================================  
 **Answer**: B
@@ -6289,7 +6624,7 @@ A) First pointer by 1, Second pointer by 2
 
 B) First pointer by 1, Second pointer by 1
 
-###### ID117
+###### ID124
 
 A:: =============================================  
 **Answer**: B
@@ -6362,7 +6697,7 @@ B) Time complexity: O(n), Space complexity: O(n)
 
 C) Time complexity: O(n^2), Space complexity: O(1)
 
-###### ID118
+###### ID125
 
 A:: =============================================  
 **Answer**: A
@@ -6437,7 +6772,7 @@ C) Select the last node from each list and create a new sorted list
 
 D) Randomly pick two lists to merge until one list is left
 
-###### ID119
+###### ID126
 
 A:: =============================================  
 **Answer**: A
@@ -6500,7 +6835,7 @@ C) O(n^2)
 
 D) O(kn)
 
-###### ID120
+###### ID127
 
 A:: =============================================  
 **Answer**: D
@@ -6563,7 +6898,7 @@ C) By merging the linked lists two at a time
 
 D) By using a priority queue to select the next smallest node
 
-###### ID121
+###### ID128
 
 A:: =============================================  
 **Answer**: D
@@ -6626,7 +6961,7 @@ C) O(k)
 
 D) O(n)
 
-###### ID122
+###### ID129
 
 A:: =============================================  
 **Answer**: B
@@ -6689,7 +7024,7 @@ C) O(k log n)
 
 D) O(n)
 
-###### ID123
+###### ID130
 
 A:: =============================================  
 **Answer**: B
@@ -6752,7 +7087,7 @@ C) O(k)
 
 D) O(n + k)
 
-###### ID124
+###### ID131
 
 A:: =============================================  
 **Answer**: C
@@ -6793,7 +7128,7 @@ A) ![](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/00d65115-0868-4312-8050
 
 B) ![](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/22600c7e-0bb6-4762-9959-370044446b00/public) 
 
-###### ID125
+###### ID132
 
 A:: =============================================  
 **Answer**: B
@@ -6856,7 +7191,7 @@ C) Neither DFS nor BFS
 
 D) Both DFS and BFS
 
-###### ID126
+###### ID133
 
 A:: =============================================  
 **Answer**: D
@@ -6919,7 +7254,7 @@ C) Neither A nor B
 
 D) Either one of A or B would be a sufficient base case
 
-###### ID127
+###### ID134
 
 A:: =============================================  
 **Answer**: D
@@ -6982,7 +7317,7 @@ C) Recursively invert the right subtree, then the left subtree, then swap the l
 
 D) Any of the above.
 
-###### ID128
+###### ID135
 
 A:: =============================================  
 **Answer**: D
@@ -7045,7 +7380,7 @@ C) Time complexity: O(n), Space complexity: O(n)
 
 D) Time complexity: O(n^2), Space complexity: O(n^2)
 
-###### ID129
+###### ID136
 
 A:: =============================================  
 **Answer**: B
@@ -7094,7 +7429,7 @@ C) 2
 
 D) The depth is undefined for a single node tree.
 
-###### ID130
+###### ID137
 
 A:: =============================================  
 **Answer**: B
@@ -7157,7 +7492,7 @@ C) Both DFS and BFS
 
 D) Neither DFS nor BFS
 
-###### ID131
+###### ID138
 
 A:: =============================================  
 **Answer**: C
@@ -7218,7 +7553,7 @@ B) When we encounter a node with only one child
 
 C) There is no need for a base case
 
-###### ID132
+###### ID139
 
 A:: =============================================  
 **Answer**: A
@@ -7279,7 +7614,7 @@ B) Add the depths of the left subtree and the right subtree
 
 C) Return the depth of the left subtree if it is non-null, else return the depth of the right subtree
 
-###### ID133
+###### ID140
 
 A:: =============================================  
 **Answer**: A
@@ -7352,7 +7687,7 @@ B) Time complexity: O(n), Space complexity: O(log n)
 
 C) Time complexity: O(n), Space complexity: O(n)
 
-###### ID134
+###### ID141
 
 A:: =============================================  
 **Answer**: B
