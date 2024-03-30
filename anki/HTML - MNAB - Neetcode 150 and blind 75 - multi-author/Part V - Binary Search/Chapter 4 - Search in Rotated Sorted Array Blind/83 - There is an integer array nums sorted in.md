@@ -38,17 +38,21 @@ Output: -1
 
 ---
 
-If we are in the appropriate half of the array, can we simply perform a normal binary search?
+Suppose we have a normal sorted integer array. What is normally the optimal time complexity to find an element in it?
 
-A) Yes
+A) O(n)
 
-B) No  
+B) O(log n)
+
+C) O(n^2)
+
+D) O(1)  
 
 ==================== Answer ====================  
 
-**Answer**: A
+**Answer**: B
 
-Yes, if we are in the appropriate half of the array, we can simply perform a normal binary search. The normal binary search process involves comparing the target with the middle element and then deciding whether to continue the search in the left portion or the right portion of the array, depending on whether the target is less or greater than the middle element.
+For a sorted array, binary search can be applied to find an element. The time complexity of binary search is O(log n).
 
 ==================== Id ====================  
 83

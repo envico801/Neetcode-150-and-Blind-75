@@ -52,43 +52,23 @@ Explanation: The original array was [11,13,15,17] and it was rotated 4 times.
 
 ---
 
-To summarize, the below code will solve this problem using an augmented binary
-search solution. What is the time and space complexity?
+Suppose we have a _normal_ sorted integer array. What is the time complexity to
+find the minimum element in this array?
 
-```python
-def findMin(self, nums: List[int]) -> int:
-     res = nums[0]
-     l, r = 0, len(nums) - 1
-     while l <= r:
-         if nums[l] < nums[r]:
-             return min(res, nums[l])
-         m = (l + r) // 2
-         res = min(res, nums[m])
-         if nums[m] >= nums[l]:
-             # We are in the left sorted portion, move right
-             l = m + 1
-         else:
-             # We are in the right sorted portion, move left
-             r = m - 1
-     return res
-```
+A) O(n)
 
-A) Time complexity: O(n), Space complexity: O(1)
+B) O(log n)
 
-B) Time complexity: O(log n), Space complexity: O(1)
+C) O(n^2)
 
-C) Time complexity: O(n log n), Space complexity: O(n)
-
-D) Time complexity: O(n^2), Space complexity: O(n)  
+D) O(1)  
 
 ========== Answer ==========  
 
-**Answer**: B
+**Answer**: D
 
-The binary search approach has a time complexity of O(log n) because in each
-step, you reduce the problem size by half. The space complexity is O(1) because
-you are not using any additional space that scales with the input size. You only
-need a constant amount of space to store the variables left, right, and mid.
+In a sorted array, the minimum element is always at the beginning, which can be
+found in constant time, O(1).
 
 ========== Id ==========  
 92
