@@ -53,40 +53,21 @@ Explanation: The original array was [11,13,15,17] and it was rotated 4 times.
 
 ---
 
-To summarize, the below code will solve this problem using an augmented binary search solution. What is the time and space complexity?
+Suppose we have a _normal_ sorted integer array. What is the time complexity to find the minimum element in this array?
 
-<!-- codeblock-start -->
-<pre><code class="hljs language-python"><span class="hljs-keyword">def</span> <span class="hljs-title function_">findMin</span>(<span class="hljs-params">self, nums: <span class="hljs-type">List</span>[<span class="hljs-built_in">int</span>]</span>) -> <span class="hljs-built_in">int</span>:
-     res = nums[<span class="hljs-number">0</span>]
-     l, r = <span class="hljs-number">0</span>, <span class="hljs-built_in">len</span>(nums) - <span class="hljs-number">1</span>
-     <span class="hljs-keyword">while</span> l &#x3C;= r:
-         <span class="hljs-keyword">if</span> nums[l] &#x3C; nums[r]:
-             <span class="hljs-keyword">return</span> <span class="hljs-built_in">min</span>(res, nums[l])
-         m = (l + r) // <span class="hljs-number">2</span>
-         res = <span class="hljs-built_in">min</span>(res, nums[m])
-         <span class="hljs-keyword">if</span> nums[m] >= nums[l]:
-             <span class="hljs-comment"># We are in the left sorted portion, move right</span>
-             l = m + <span class="hljs-number">1</span>
-         <span class="hljs-keyword">else</span>:
-             <span class="hljs-comment"># We are in the right sorted portion, move left</span>
-             r = m - <span class="hljs-number">1</span>
-     <span class="hljs-keyword">return</span> res
-</code></pre>
-<!-- codeblock-end -->
+A) O(n)
 
-A) Time complexity: O(n), Space complexity: O(1)
+B) O(log n)
 
-B) Time complexity: O(log n), Space complexity: O(1)
+C) O(n^2)
 
-C) Time complexity: O(n log n), Space complexity: O(n)
-
-D) Time complexity: O(n^2), Space complexity: O(n)  
+D) O(1)  
 
 ==================== Answer ====================  
 
-**Answer**: B
+**Answer**: D
 
-The binary search approach has a time complexity of O(log n) because in each step, you reduce the problem size by half. The space complexity is O(1) because you are not using any additional space that scales with the input size. You only need a constant amount of space to store the variables left, right, and mid.
+In a sorted array, the minimum element is always at the beginning, which can be found in constant time, O(1).
 
 ==================== Id ====================  
 106
