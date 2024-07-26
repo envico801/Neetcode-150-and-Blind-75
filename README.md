@@ -43,7 +43,7 @@ The order is based on the [roadmap created by neetcode](https://neetcode.io/road
 3. Two Sum (Blind) ✅
 4. Group Anagrams (Blind) ✅⚠
 5. Top K Frequent Elements (Blind) ✅⚠
-6. Product of Array Except Self (Blind) ⚠
+6. Product of Array Except Self (Blind) ✅⚠
 7. Valid Sudoku ⚠
 9. Encode and Decode Strings (Blind) ✅
 9. Longest Consecutive Sequence (Blind) ✅
