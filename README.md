@@ -15,7 +15,28 @@
   - [Top interview 150](https://leetcode.com/studyplan/top-interview-150/)
 - [🧩 Leetcode patterns](https://seanprashad.com/leetcode-patterns/)
 
+## Practice questions
+
+**Disclaimer**: Some of the questions are taken from [neetcode.io/practice](https://neetcode.io/practice), only the questions that correspond to the "free" category were used, the content belongs to neetcode and is only being used for educational purposes.
+
+### Anki content
+
+The questions in this section are designed to help you remember the patterns or techniques used throughout the problems. The problems are in a Q&A format, this is to facilitate the creation of a deck of Anki cards.
+
+The order is based on the [roadmap created by neetcode](https://neetcode.io/roadmap)
+
 ## Sections
+
+### Information about the tables
+
+| Symbol | Meaning |
+|:------:|---------|
+| ✅ | Transcribed/created questions (may need revision) |
+| 📘 | Questions that need to be transcribed |
+| ⚠️ | Questions that do not appear on neetcode.io or are behind a paywall and need to be created |
+| **[Blind]** | Question part of [Blind 75](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) original post |
+| **[Ex]** | Extra question that is not in that category in [neetcode.io/roadmap](https://neetcode.io/roadmap) |
+| **[ComEx]** | Extra question considered within blind by the community |
 
 ### Arrays & Hashing
 
@@ -167,7 +188,7 @@
 | **0100** | **[Same Tree](https://neetcode.io/problems/same-binary-tree) - [Blind]** | [Link](https://leetcode.com/problems/same-tree/) | Easy | [YouTube](https://www.youtube.com/watch?v=vRbbcKXCxOw) | [Typescript](https://github.com/neetcode-gh/leetcode/blob/main/typescript/0100-same-tree.ts) | N/A  | N/A   | 📘 |
 | **0572** | **[Subtree of Another Tree](https://neetcode.io/problems/subtree-of-a-binary-tree) - [Blind]** | [Link](https://leetcode.com/problems/subtree-of-another-tree/) | Easy | [YouTube](https://www.youtube.com/watch?v=E36O5SWp-LE) | [Typescript](https://github.com/neetcode-gh/leetcode/blob/main/typescript/0572-subtree-of-another-tree.ts) | N/A  | N/A   | 📘 |
 | **0235** | **[Lowest Common Ancestor of a Binary Search Tree](https://neetcode.io/problems/lowest-common-ancestor-in-binary-search-tree) - [Blind]** | [Link](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | Medium | [YouTube](https://www.youtube.com/watch?v=gs2LMfuOR9k) | [Typescript](https://github.com/neetcode-gh/leetcode/blob/main/typescript/0235-lowest-common-ancestor-of-a-binary-search-tree.ts) | N/A  | N/A   | 📘 |
-| **0236** | **[Lowest Common Ancestor of a Binary Tree]() - [Blind] - [Extra]** | [Link](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | Medium | [YouTube]() | N/A | N/A  | N/A   | ⚠️ |
+| **0236** | **[Lowest Common Ancestor of a Binary Tree]() - [Blind] - [Ex] - [ComEx]** | [Link](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | Medium | [YouTube]() | N/A | N/A  | N/A   | ⚠️ |
 | **0102** | **[Binary Tree Level Order Traversal](https://neetcode.io/problems/level-order-traversal-of-binary-tree) - [Blind]** | [Link](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Medium | [YouTube](https://www.youtube.com/watch?v=6ZnyEApgFYg) | [Typescript](https://github.com/neetcode-gh/leetcode/blob/main/typescript/0102-binary-tree-level-order-traversal.ts) | N/A  | N/A   | 📘 |
 | **0199** | **[Binary Tree Right Side View](https://neetcode.io/problems/binary-tree-right-side-view)** | [Link](https://leetcode.com/problems/binary-tree-right-side-view/) | Medium | [YouTube](https://www.youtube.com/watch?v=d4zLyf32e3I) | [Typescript](https://github.com/neetcode-gh/leetcode/blob/main/typescript/0199-binary-tree-right-side-view.ts) | N/A  | N/A   | ⚠️ |
 | **1448** | **[Count Good Nodes In Binary Tree](https://neetcode.io/problems/count-good-nodes-in-binary-tree)** | [Link](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | Medium | [YouTube](https://www.youtube.com/watch?v=7cp5imvDzl4) | [Typescript](https://github.com/neetcode-gh/leetcode/blob/main/typescript/1448-count-good-nodes-in-binary-tree.ts) | N/A  | N/A   | ⚠️ |
@@ -176,7 +197,7 @@
 | **0105** | **[Construct Binary Tree From Preorder And Inorder Traversal](https://neetcode.io/problems/binary-tree-from-preorder-and-inorder-traversal) - [Blind]** | [Link](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium | [YouTube](https://www.youtube.com/watch?v=ihj4IQGZ2zc) | [Typescript](https://github.com/neetcode-gh/leetcode/blob/main/typescript/0105-construct-binary-tree-from-preorder-and-inorder-traversal.ts) | N/A  | N/A   | ⚠️ |
 | **0124** | **[Binary Tree Maximum Path Sum](https://neetcode.io/problems/binary-tree-maximum-path-sum) - [Blind]** | [Link](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | Hard | [YouTube](https://www.youtube.com/watch?v=Hr5cWUld4vU) | [Typescript](https://github.com/neetcode-gh/leetcode/blob/main/typescript/0124-binary-tree-maximum-path-sum.ts) | N/A  | N/A   | ⚠️ |
 | **0297** | **[Serialize And Deserialize Binary Tree](https://neetcode.io/problems/serialize-and-deserialize-binary-tree)** | [Link](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | Hard | [YouTube](https://www.youtube.com/watch?v=u4JAi2JJhI8) | [Typescript](https://github.com/neetcode-gh/leetcode/blob/main/typescript/0297-serialize-and-deserialize-binary-tree.ts) | N/A  | N/A   | ⚠️ |
-| **0449** | **[Serialize and Deserialize BST]() - [Blind] - [Extra]** | [Link](https://leetcode.com/problems/serialize-and-deserialize-bst/) | Medium | [YouTube]() | N/A | N/A  | N/A   | ⚠️ |
+| **0449** | **[Serialize and Deserialize BST]() - [Blind] - [Ex]** | [Link](https://leetcode.com/problems/serialize-and-deserialize-bst/) | Medium | [YouTube]() | N/A | N/A  | N/A   | ⚠️ |
 
 ### Tries
 
@@ -417,16 +438,3 @@
 | **0043** | **[Multiply Strings](https://neetcode.io/problems/multiply-strings)** | [Link](https://leetcode.com/problems/multiply-strings/) | Medium | [YouTube](https://www.youtube.com/watch?v=1vZswirL8Y8) | [Typescript](https://github.com/neetcode-gh/leetcode/blob/main/typescript/0043-multiply-strings.ts) | N/A  | N/A   | ⚠️ |
 | **N/A** | **[Detect Squares](https://neetcode.io/problems/count-squares)** | [Link](https://leetcode.com/problems/detect-squares/) | Medium | [YouTube](https://www.youtube.com/watch?v=bahebearrDc) | N/A | N/A  | N/A   | ⚠️ |
 
-## Practice questions
-
-**Disclaimer**: Some of the questions are taken from [https://neetcode.io/practice](https://neetcode.io/practice), only the questions that correspond to the "free" category were used, the content belongs to neetcode and is only being used for educational purposes.
-
-### Contents
-
-The questions in this section are designed to help you remember the patterns or techniques used throughout the problems. The problems are in a Q&A format, this is to facilitate the creation of a deck of Anki cards.
-
-The order is based on the [roadmap created by neetcode](https://neetcode.io/roadmap)
-
-✅ - Transcribed/created questions (may need revision)  
-📘 - Questions that need to be transcribed  
-⚠️ - Questions that do not appear on [neetcode.io](https://neetcode.io/practice) or are behind a paywall and need to be created
