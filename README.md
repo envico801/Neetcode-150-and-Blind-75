@@ -4,16 +4,37 @@
 
 ## Resources
 
-- [🎁 New Year Gift - Curated List of Top 75 LeetCode Questions to Save Your Time](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
-- [🚀 NeetCode](https://neetcode.io/)
-  - [Practice](https://neetcode.io/practice)
-  - [Roadmap](https://neetcode.io/roadmap)
-  - [Algorithms and Data Structures for Beginners](https://neetcode.io/courses/dsa-for-beginners/13)
-  - [Advanced Algorithms](https://neetcode.io/courses/advanced-algorithms/0)
-- [🥇 Leetcode](https://leetcode.com)
-  - [Blind 75 list](https://leetcode.com/list/xi4ci4ig/)
-  - [Top interview 150](https://leetcode.com/studyplan/top-interview-150/)
-- [🧩 Leetcode patterns](https://seanprashad.com/leetcode-patterns/)
+1. **🚀 NeetCode**
+    1. [neetcode.io](https://neetcode.io/)
+        1. [Practice](https://neetcode.io/practice)
+        2. [Roadmap](https://neetcode.io/roadmap)
+        3. [Courses DSA For Beginners](https://neetcode.io/courses/dsa-for-beginners/0)
+        4. [Courses Advanced Algorithms](https://neetcode.io/courses/advanced-algorithms/0)
+    2. [YouTube](https://www.youtube.com/)
+        1. [How I Got Good At Coding Interviews](https://www.youtube.com/watch?v=SVvr3ZjtjI8&t)
+        2. [My Brain After 569 Leetcode Problems](https://www.youtube.com/watch?v=8wysIxzqgPI&t)
+        3. [Playlist - Leetcode BLIND-75 Solutions](https://www.youtube.com/playlist?list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf)
+    3. 📄 [Docs Google](https://docs.google.com/)
+        1. [Leetcode 75 Questions (NeetCode on YT)](https://docs.google.com/spreadsheets/d/1A2PaQKcdwO_lwxz9bAnxXnIQayCouZP6d-ENrBz_NXc/edit?gid=0#gid=0)
+2. **🅱️ Blind**
+    1. [teamblind.com](https://www.teamblind.com)
+        1. 🎁 [New Year Gift - Curated List of Top 75 LeetCode Questions to Save Your Time](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
+3. **🥇 LeetCode**
+    1. [leetcode.com](https://leetcode.com)
+        1. [Blind 75 list **(community version)**](https://leetcode.com/list/xi4ci4ig/)
+        2. [Study Plan - Top Interview 150](https://leetcode.com/studyplan/top-interview-150/)
+        3. [Community Post - Blind 75 Leetcode Questions](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions)
+4. **🧩 Sean Prashad**
+    1. [seanprashad.com](https://seanprashad.com)
+        1. [Leetcode Patterns](https://seanprashad.com/leetcode-patterns/)
+5. **🏫 Tech interview handbook**
+    1. [techinterviewhandbook.org](https://www.techinterviewhandbook.org)
+        1. [Coding Interview Study Plan](https://www.techinterviewhandbook.org/coding-interview-study-plan/)
+        2. [Grind 75](https://www.techinterviewhandbook.org/grind75)
+            1. [**OLD VERSION** - Best Practice Questions](https://www.techinterviewhandbook.org/best-practice-questions/)
+6. **🧑‍💻 Hackernoon**
+    1. [hackernoon.com](https://hackernoon.com)
+        1. [14 Patterns To Ace Any Coding Interview Question](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
 
 ## Practice questions
 
