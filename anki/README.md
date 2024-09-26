@@ -160,6 +160,12 @@
 | [125](#id125) | [You are given an array of k linked-lists](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%202%20-%20Maximum%20Depth%20of%20Binary%20Tree%20Blind/125%20-%20You%20are%20given%20an%20array%20of%20k%20linked-lists.md) | 7 | 2 |
 | [126](#id126) | [You are given an array of k linked-lists](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%202%20-%20Maximum%20Depth%20of%20Binary%20Tree%20Blind/126%20-%20You%20are%20given%20an%20array%20of%20k%20linked-lists.md) | 7 | 2 |
 | [127](#id127) | [You are given an array of k linked-lists](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%202%20-%20Maximum%20Depth%20of%20Binary%20Tree%20Blind/127%20-%20You%20are%20given%20an%20array%20of%20k%20linked-lists.md) | 7 | 2 |
+| **-** | **Trees > Same Tree Blind** | **7** | **5** |
+| [128](#id128) | [Given the roots of two binary trees p an](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%205%20-%20Same%20Tree%20Blind/128%20-%20Given%20the%20roots%20of%20two%20binary%20trees%20p%20an.md) | 7 | 5 |
+| [129](#id129) | [Given the roots of two binary trees p an](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%205%20-%20Same%20Tree%20Blind/129%20-%20Given%20the%20roots%20of%20two%20binary%20trees%20p%20an.md) | 7 | 5 |
+| [130](#id130) | [Given the roots of two binary trees p an](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%205%20-%20Same%20Tree%20Blind/130%20-%20Given%20the%20roots%20of%20two%20binary%20trees%20p%20an.md) | 7 | 5 |
+| [131](#id131) | [Given the roots of two binary trees p an](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%205%20-%20Same%20Tree%20Blind/131%20-%20Given%20the%20roots%20of%20two%20binary%20trees%20p%20an.md) | 7 | 5 |
+| [132](#id132) | [Given the roots of two binary trees p an](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%205%20-%20Same%20Tree%20Blind/132%20-%20Given%20the%20roots%20of%20two%20binary%20trees%20p%20an.md) | 7 | 5 |
 
 ### Part I - Arrays and Hashing
 
@@ -7013,6 +7019,292 @@ The time complexity of the recursive solution is O(n), where n is the number of 
 #### Chapter 4 - Balanced Binary Tree
 
 #### Chapter 5 - Same Tree (Blind)
+
+Q:: =============================================  
+
+##### Given the roots of two binary trees `p` and `q`, write a function to check if they are the same or not.
+
+Two binary trees are considered the same if they are structurally identical, and the nodes have the same value.
+
+**Example 1:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/1168b33f-0718-49d2-3991-d2e92b1ae500/public)
+
+```
+Input: p = [1,2,3], q = [1,2,3]
+Output: true
+```
+
+**Example 2:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/753a6eeb-7153-4c61-096f-438a4ccd9400/public)
+
+```
+Input: p = [1,2], q = [1,null,2]
+Output: false
+```
+
+**Example 3:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/76cda15a-858b-4702-d319-badd1fb6da00/public)
+
+```
+Input: p = [1,2,1], q = [1,1,2]
+Output: false
+```
+
+**Constraints:**
+
+-   The number of nodes in both trees is in the range `[0, 100]`.
+-   `10^4 <= Node.val <= 10^4`
+
+___
+
+Which of the following factors would be considered when determining if two binary trees are the same?
+
+A) The structure of the trees.
+
+B) The values of the nodes in the trees.
+
+C) Both A and B.
+
+###### ID128
+
+A:: =============================================  
+**Answer**: C
+
+Two binary trees are considered the same if they are structurally identical and the nodes have the same value.
+
+Q:: =============================================  
+
+##### Given the roots of two binary trees `p` and `q`, write a function to check if they are the same or not.
+
+Two binary trees are considered the same if they are structurally identical, and the nodes have the same value.
+
+**Example 1:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/1168b33f-0718-49d2-3991-d2e92b1ae500/public)
+
+```
+Input: p = [1,2,3], q = [1,2,3]
+Output: true
+```
+
+**Example 2:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/753a6eeb-7153-4c61-096f-438a4ccd9400/public)
+
+```
+Input: p = [1,2], q = [1,null,2]
+Output: false
+```
+
+**Example 3:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/76cda15a-858b-4702-d319-badd1fb6da00/public)
+
+```
+Input: p = [1,2,1], q = [1,1,2]
+Output: false
+```
+
+**Constraints:**
+
+-   The number of nodes in both trees is in the range `[0, 100]`.
+-   `10^4 <= Node.val <= 10^4`
+
+___
+
+What would be a base case to check if two subtrees `p` and `q` are the same in the recursive approach to this problem?
+
+A) When both p and q are null.
+
+B) When either p or q is null.
+
+###### ID129
+
+A:: =============================================  
+**Answer**: A
+
+The base case for this problem is when both nodes are null. If both nodes are null, then we can say they are the same.
+
+Q:: =============================================  
+
+##### Given the roots of two binary trees `p` and `q`, write a function to check if they are the same or not.
+
+Two binary trees are considered the same if they are structurally identical, and the nodes have the same value.
+
+**Example 1:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/1168b33f-0718-49d2-3991-d2e92b1ae500/public)
+
+```
+Input: p = [1,2,3], q = [1,2,3]
+Output: true
+```
+
+**Example 2:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/753a6eeb-7153-4c61-096f-438a4ccd9400/public)
+
+```
+Input: p = [1,2], q = [1,null,2]
+Output: false
+```
+
+**Example 3:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/76cda15a-858b-4702-d319-badd1fb6da00/public)
+
+```
+Input: p = [1,2,1], q = [1,1,2]
+Output: false
+```
+
+**Constraints:**
+
+-   The number of nodes in both trees is in the range `[0, 100]`.
+-   `10^4 <= Node.val <= 10^4`
+
+___
+
+What would be a base case to check if two subtrees `p` and `q` are _not_ the same in the recursive approach to this problem?
+
+A) When either p or q is null, but not both.
+
+B) When the values of p and q differ.
+
+C) Both A and B.
+
+###### ID130
+
+A:: =============================================  
+**Answer**: C
+
+If only one of them is null, they are not the same. Similarly, if the values of p and q are different, they are not the same.
+
+Q:: =============================================  
+
+##### Given the roots of two binary trees `p` and `q`, write a function to check if they are the same or not.
+
+Two binary trees are considered the same if they are structurally identical, and the nodes have the same value.
+
+**Example 1:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/1168b33f-0718-49d2-3991-d2e92b1ae500/public)
+
+```
+Input: p = [1,2,3], q = [1,2,3]
+Output: true
+```
+
+**Example 2:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/753a6eeb-7153-4c61-096f-438a4ccd9400/public)
+
+```
+Input: p = [1,2], q = [1,null,2]
+Output: false
+```
+
+**Example 3:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/76cda15a-858b-4702-d319-badd1fb6da00/public)
+
+```
+Input: p = [1,2,1], q = [1,1,2]
+Output: false
+```
+
+**Constraints:**
+
+-   The number of nodes in both trees is in the range `[0, 100]`.
+-   `10^4 <= Node.val <= 10^4`
+
+___
+
+If the base case does _not_ hold, what should be checked to confirm whether the two subtrees are the same?
+
+A) Compare the values of the nodes and check if the left and right subtrees of the nodes are the same.
+
+B) Check if the left subtree of one node is the same as the right subtree of the other node.
+
+C) Compare only the values of the nodes.
+
+###### ID131
+
+A:: =============================================  
+**Answer**: A
+
+If both nodes are not null, we need to check if the values of the nodes are the same and if the left subtree of the first node is the same as the left subtree of the second node, and the same for the right subtrees.
+
+Q:: =============================================  
+
+##### Given the roots of two binary trees `p` and `q`, write a function to check if they are the same or not.
+
+Two binary trees are considered the same if they are structurally identical, and the nodes have the same value.
+
+**Example 1:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/1168b33f-0718-49d2-3991-d2e92b1ae500/public)
+
+```
+Input: p = [1,2,3], q = [1,2,3]
+Output: true
+```
+
+**Example 2:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/753a6eeb-7153-4c61-096f-438a4ccd9400/public)
+
+```
+Input: p = [1,2], q = [1,null,2]
+Output: false
+```
+
+**Example 3:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/76cda15a-858b-4702-d319-badd1fb6da00/public)
+
+```
+Input: p = [1,2,1], q = [1,1,2]
+Output: false
+```
+
+**Constraints:**
+
+-   The number of nodes in both trees is in the range `[0, 100]`.
+-   `10^4 <= Node.val <= 10^4`
+
+___
+
+Considering the below Python function to solve the problem, where `n` and `m` are the number of nodes in the first and second tree respectively, and `h1` and `h2` are the heights of the first and second tree respectively. What are the time and space complexities?
+
+```python
+class Solution:
+    def isSameTree(self, p: Optional[TreeNode], q: Optional[TreeNode]) -> bool:
+        if not p and not q:
+            return True
+        if not p or not q or p.val != q.val:
+            return False
+        return (
+            self.isSameTree(p.left, q.left) and
+            self.isSameTree(p.right, q.right)
+        )
+```
+
+A) Time complexity: O(1), Space complexity: O(1)
+
+B) Time complexity: O(min(n, m)), Space complexity: O(min(h1, h2))
+
+C) Time complexity: O(max(n, m)), Space complexity: O(max(h1, h2))
+
+###### ID132
+
+A:: =============================================  
+**Answer**: B
+
+The time complexity of the recursive solution is O(min(n, m)), where n and m are the number of nodes in the first and second tree, respectively. We stop as soon as we find a difference between the trees, which could be at a size smaller than the larger tree. The space complexity is O(min(h1, h2)) in the worst case, which is determined by the maximum amount of space required by the recursive stack. The worst-case occurs in situations where the tree is completely unbalanced (e.g., each node only contains a left / right child node), leading to a maximum recursion depth of h (height of the tree). However, because we are comparing two trees, the maximum recursion depth would be the minimum height of the two trees.
 
 #### Chapter 6 - Subtree of Another Tree (Blind)
 
