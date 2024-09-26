@@ -166,6 +166,12 @@
 | [130](#id130) | [Given the roots of two binary trees p an](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%205%20-%20Same%20Tree%20Blind/130%20-%20Given%20the%20roots%20of%20two%20binary%20trees%20p%20an.md) | 7 | 5 |
 | [131](#id131) | [Given the roots of two binary trees p an](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%205%20-%20Same%20Tree%20Blind/131%20-%20Given%20the%20roots%20of%20two%20binary%20trees%20p%20an.md) | 7 | 5 |
 | [132](#id132) | [Given the roots of two binary trees p an](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%205%20-%20Same%20Tree%20Blind/132%20-%20Given%20the%20roots%20of%20two%20binary%20trees%20p%20an.md) | 7 | 5 |
+| **-** | **Trees > Subtree of Another Tree Blind** | **7** | **6** |
+| [133](#id133) | [Given the roots of two binary trees root](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%206%20-%20Subtree%20of%20Another%20Tree%20Blind/133%20-%20Given%20the%20roots%20of%20two%20binary%20trees%20root.md) | 7 | 6 |
+| [134](#id134) | [Given the roots of two binary trees root](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%206%20-%20Subtree%20of%20Another%20Tree%20Blind/134%20-%20Given%20the%20roots%20of%20two%20binary%20trees%20root.md) | 7 | 6 |
+| [135](#id135) | [Given the roots of two binary trees root](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%206%20-%20Subtree%20of%20Another%20Tree%20Blind/135%20-%20Given%20the%20roots%20of%20two%20binary%20trees%20root.md) | 7 | 6 |
+| [136](#id136) | [Given the roots of two binary trees root](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%206%20-%20Subtree%20of%20Another%20Tree%20Blind/136%20-%20Given%20the%20roots%20of%20two%20binary%20trees%20root.md) | 7 | 6 |
+| [137](#id137) | [Given the roots of two binary trees root](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%206%20-%20Subtree%20of%20Another%20Tree%20Blind/137%20-%20Given%20the%20roots%20of%20two%20binary%20trees%20root.md) | 7 | 6 |
 
 ### Part I - Arrays and Hashing
 
@@ -7307,6 +7313,264 @@ A:: =============================================
 The time complexity of the recursive solution is O(min(n, m)), where n and m are the number of nodes in the first and second tree, respectively. We stop as soon as we find a difference between the trees, which could be at a size smaller than the larger tree. The space complexity is O(min(h1, h2)) in the worst case, which is determined by the maximum amount of space required by the recursive stack. The worst-case occurs in situations where the tree is completely unbalanced (e.g., each node only contains a left / right child node), leading to a maximum recursion depth of h (height of the tree). However, because we are comparing two trees, the maximum recursion depth would be the minimum height of the two trees.
 
 #### Chapter 6 - Subtree of Another Tree (Blind)
+
+Q:: =============================================  
+
+##### Given the roots of two binary trees `root` and `subRoot`, return `true` if there is a subtree of `root` with the same structure and node values of `subRoot` and `false` otherwise.
+
+A subtree of a binary tree `tree` is a tree that consists of a node in `tree` and all of this node's descendants. The tree `tree` could also be considered as a subtree of itself.
+
+**Example 1:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/52b41f82-273f-4b31-83ea-f6895eb79200/public)
+
+```
+Input: root = [3,4,5,1,2], subRoot = [4,1,2]
+Output: true
+```
+
+**Example 2:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/fc852005-42e7-434d-3514-e5c834361b00/public)
+
+```
+Input: root = [3,4,5,1,2,null,null,null,null,0], subRoot = [4,1,2]
+Output: false
+```
+
+**Constraints:**
+
+-   The number of nodes in the `root` tree is in the range `[1, 2000]`.
+-   The number of nodes in the `subRoot` tree is in the range `[1, 1000]`.
+-   `10^4 <= root.val <= 10^4`
+-   `10^4 <= subRoot.val <= 10^4`
+
+___
+
+What is a subtree in the context of binary trees?
+
+A) Any node along with all its descendants in the original tree.
+
+B) A tree that only consists of leaf nodes of the original tree.
+
+C) A smaller tree that has the same root node as the original tree.
+
+###### ID133
+
+A:: =============================================  
+**Answer**: A
+
+A subtree of a binary tree is a tree that consists of a node in the original tree and all of this node's descendants. The tree could also be considered a subtree of itself.
+
+Q:: =============================================  
+
+##### Given the roots of two binary trees `root` and `subRoot`, return `true` if there is a subtree of `root` with the same structure and node values of `subRoot` and `false` otherwise.
+
+A subtree of a binary tree `tree` is a tree that consists of a node in `tree` and all of this node's descendants. The tree `tree` could also be considered as a subtree of itself.
+
+**Example 1:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/52b41f82-273f-4b31-83ea-f6895eb79200/public)
+
+```
+Input: root = [3,4,5,1,2], subRoot = [4,1,2]
+Output: true
+```
+
+**Example 2:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/fc852005-42e7-434d-3514-e5c834361b00/public)
+
+```
+Input: root = [3,4,5,1,2,null,null,null,null,0], subRoot = [4,1,2]
+Output: false
+```
+
+**Constraints:**
+
+-   The number of nodes in the `root` tree is in the range `[1, 2000]`.
+-   The number of nodes in the `subRoot` tree is in the range `[1, 1000]`.
+-   `10^4 <= root.val <= 10^4`
+-   `10^4 <= subRoot.val <= 10^4`
+
+___
+
+Considering the problem of finding a subtree within a tree which tree traversal technique could be utilized?
+
+A) Depth-First Search (DFS)
+
+B) Breadth-First Search (BFS)
+
+C) Both DFS and BFS
+
+###### ID134
+
+A:: =============================================  
+**Answer**: C
+
+Both DFS and BFS can be used to solve this problem. These tree traversal techniques allow us to check each node in the root tree and compare it with the subRoot tree.
+
+Q:: =============================================  
+
+##### Given the roots of two binary trees `root` and `subRoot`, return `true` if there is a subtree of `root` with the same structure and node values of `subRoot` and `false` otherwise.
+
+A subtree of a binary tree `tree` is a tree that consists of a node in `tree` and all of this node's descendants. The tree `tree` could also be considered as a subtree of itself.
+
+**Example 1:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/52b41f82-273f-4b31-83ea-f6895eb79200/public)
+
+```
+Input: root = [3,4,5,1,2], subRoot = [4,1,2]
+Output: true
+```
+
+**Example 2:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/fc852005-42e7-434d-3514-e5c834361b00/public)
+
+```
+Input: root = [3,4,5,1,2,null,null,null,null,0], subRoot = [4,1,2]
+Output: false
+```
+
+**Constraints:**
+
+-   The number of nodes in the `root` tree is in the range `[1, 2000]`.
+-   The number of nodes in the `subRoot` tree is in the range `[1, 1000]`.
+-   `10^4 <= root.val <= 10^4`
+-   `10^4 <= subRoot.val <= 10^4`
+
+___
+
+When trying to determine if a `subRoot` is a subtree of `root`, which kind of helper function might be beneficial to have?
+
+A) A function to calculate the height of root and subroot
+
+B) A function to compare two trees and check if they are identical
+
+###### ID135
+
+A:: =============================================  
+**Answer**: B
+
+A helper function that compares two trees to check if they are identical can be useful. We can use it every time we find a node in \`root\` that is the same as the root of \`subRoot\`. We then compare the entire structure starting from this node with \`subRoot\` using this helper function.
+
+Q:: =============================================  
+
+##### Given the roots of two binary trees `root` and `subRoot`, return `true` if there is a subtree of `root` with the same structure and node values of `subRoot` and `false` otherwise.
+
+A subtree of a binary tree `tree` is a tree that consists of a node in `tree` and all of this node's descendants. The tree `tree` could also be considered as a subtree of itself.
+
+**Example 1:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/52b41f82-273f-4b31-83ea-f6895eb79200/public)
+
+```
+Input: root = [3,4,5,1,2], subRoot = [4,1,2]
+Output: true
+```
+
+**Example 2:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/fc852005-42e7-434d-3514-e5c834361b00/public)
+
+```
+Input: root = [3,4,5,1,2,null,null,null,null,0], subRoot = [4,1,2]
+Output: false
+```
+
+**Constraints:**
+
+-   The number of nodes in the `root` tree is in the range `[1, 2000]`.
+-   The number of nodes in the `subRoot` tree is in the range `[1, 1000]`.
+-   `10^4 <= root.val <= 10^4`
+-   `10^4 <= subRoot.val <= 10^4`
+
+___
+
+Given a tree `root` and a `subRoot`, if we find a node in `root` with the same value as the root of `subRoot`, what should be our next step?
+
+A) Return true as we have found subroot in root
+
+B) Check if the subtree at the found node in root is identical to subroot
+
+C) Check if the left child of the found node in root is identical to the left child of subroot
+
+###### ID136
+
+A:: =============================================  
+**Answer**: B
+
+Just finding a node with the same value does not confirm the presence of the subtree. We need to verify if the entire structure of the subtree starting at this node is identical to subroot.
+
+Q:: =============================================  
+
+##### Given the roots of two binary trees `root` and `subRoot`, return `true` if there is a subtree of `root` with the same structure and node values of `subRoot` and `false` otherwise.
+
+A subtree of a binary tree `tree` is a tree that consists of a node in `tree` and all of this node's descendants. The tree `tree` could also be considered as a subtree of itself.
+
+**Example 1:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/52b41f82-273f-4b31-83ea-f6895eb79200/public)
+
+```
+Input: root = [3,4,5,1,2], subRoot = [4,1,2]
+Output: true
+```
+
+**Example 2:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/fc852005-42e7-434d-3514-e5c834361b00/public)
+
+```
+Input: root = [3,4,5,1,2,null,null,null,null,0], subRoot = [4,1,2]
+Output: false
+```
+
+**Constraints:**
+
+-   The number of nodes in the `root` tree is in the range `[1, 2000]`.
+-   The number of nodes in the `subRoot` tree is in the range `[1, 1000]`.
+-   `10^4 <= root.val <= 10^4`
+-   `10^4 <= subRoot.val <= 10^4`
+
+___
+
+Given the below Python solution to solve the problem, what are the time and space complexities of the `isSubtree` function? Assume the tree may not be balanced.
+
+```python
+class Solution:
+    def isSubtree(self, s: TreeNode, t: TreeNode) -> bool:
+        if not t: return True
+        if not s: return False
+
+        if self.sameTree(s, t):
+            return True
+        return (self.isSubtree(s.left, t) or
+                self.isSubtree(s.right, t))
+
+    def sameTree(self, s, t):
+        if not s and not t:
+            return True
+        if s and t and s.val == t.val:
+            return (self.sameTree(s.left, t.left) and
+                    self.sameTree(s.right, t.right))
+        return False
+```
+
+A) Time complexity: O(mn), Space complexity: O(n)
+
+B) Time complexity: O(m+n), Space complexity: O(m+n)
+
+C) Time complexity: O(n), Space complexity: O(log n)
+
+###### ID137
+
+A:: =============================================  
+**Answer**: A
+
+The time complexity of this solution is O(mn), where m and n are the number of nodes in root and subroot, respectively. This is because, in the worst case, for each node in root, we may have to traverse all nodes in subroot to check if they form the same tree (i.e., in the sameTree function). The space complexity is O(n) in the worst case (for an unbalanced tree) because of the potential stack space needed for the DFS traversal. However, if the tree is balanced, the space complexity would be O(log n) as the maximum depth of the tree (and thus the maximum stack size) would be log n.
 
 #### Chapter 7 - Lowest Common Ancestor of a Binary Search Tree (Blind)
 
