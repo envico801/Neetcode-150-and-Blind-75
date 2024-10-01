@@ -43,15 +43,15 @@ Output: 2
 
 -   `p` and `q` will exist in the BST.
 
+---
+
 If the `cur` node in the search is either **`p`** or **`q`**, then what will be the LCA?
 
 A) The LCA will be the root node.
 
 B) The LCA will be p or q, whichever is the current node.
 
-C) The LCA will be the other node that is not the current node.
-
----  
+C) The LCA will be the other node that is not the current node.  
 
 ========== Answer ==========  
 

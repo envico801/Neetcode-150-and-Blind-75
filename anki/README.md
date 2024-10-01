@@ -185,6 +185,11 @@
 | [146](#id146) | [Given a binary search tree bst find the](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%207%20-%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree%20-%20Blind/146%20-%20Given%20a%20binary%20search%20tree%20bst%20find%20the.md) | 7 | 7 |
 | [147](#id147) | [Given a binary search tree bst find the](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%207%20-%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree%20-%20Blind/147%20-%20Given%20a%20binary%20search%20tree%20bst%20find%20the.md) | 7 | 7 |
 | [148](#id148) | [Given a binary search tree bst find the](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%207%20-%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree%20-%20Blind/148%20-%20Given%20a%20binary%20search%20tree%20bst%20find%20the.md) | 7 | 7 |
+| **-** | **Trees > Binary Tree Level Order Traversal** | **7** | **9** |
+| [149](#id149) | [Given the root of a binary tree return](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%209%20-%20Binary%20Tree%20Level%20Order%20Traversal%20-%20Blind/149%20-%20Given%20the%20root%20of%20a%20binary%20tree%20return.md) | 7 | 9 |
+| [150](#id150) | [Given the root of a binary tree return](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%209%20-%20Binary%20Tree%20Level%20Order%20Traversal%20-%20Blind/150%20-%20Given%20the%20root%20of%20a%20binary%20tree%20return.md) | 7 | 9 |
+| [151](#id151) | [Given the root of a binary tree return](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%209%20-%20Binary%20Tree%20Level%20Order%20Traversal%20-%20Blind/151%20-%20Given%20the%20root%20of%20a%20binary%20tree%20return.md) | 7 | 9 |
+| [152](#id152) | [Given the root of a binary tree return](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%209%20-%20Binary%20Tree%20Level%20Order%20Traversal%20-%20Blind/152%20-%20Given%20the%20root%20of%20a%20binary%20tree%20return.md) | 7 | 9 |
 
 ### Part I - Arrays & Hashing
 
@@ -8202,6 +8207,226 @@ The time complexity of this solution is O(log n), where n is the number of nodes
 
 #### Chapter 8 - Lowest Common Ancestor of a Binary Tree - [Blind] - [Ex] - [ComEx]
 #### Chapter 9 - Binary Tree Level Order Traversal - [Blind]
+
+Q:: =============================================  
+
+##### Given the `root` of a binary tree, return _the level order traversal of its nodes' values_. (i.e., from left to right, level by level).
+
+**Example 1:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/e9bf9a5e-fd98-48e2-0967-a1d246f32100/public)
+
+```
+Input: root = [3,9,20,null,null,15,7]
+Output: [[3],[9,20],[15,7]]
+```
+
+**Example 2:**
+
+```
+Input: root = [1]
+Output: [[1]]
+```
+
+**Example 3:**
+
+```
+Input: root = []
+Output: []
+```
+
+**Constraints:**
+
+-   The number of nodes in the tree is in the range `[0, 2000]`.
+-   `1000 <= Node.val <= 1000`
+
+___
+
+How would you traverse a binary tree in a level order fashion?
+
+A) By using Depth-First Search (DFS)
+
+B) By using Breadth-First Search (BFS)
+
+###### ID149
+
+A:: =============================================  
+**Answer**: B
+
+Level order traversal of a binary tree is also known as Breadth-First Search (BFS) traversal.
+
+Q:: =============================================  
+
+##### Given the `root` of a binary tree, return _the level order traversal of its nodes' values_. (i.e., from left to right, level by level).
+
+**Example 1:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/e9bf9a5e-fd98-48e2-0967-a1d246f32100/public)
+
+```
+Input: root = [3,9,20,null,null,15,7]
+Output: [[3],[9,20],[15,7]]
+```
+
+**Example 2:**
+
+```
+Input: root = [1]
+Output: [[1]]
+```
+
+**Example 3:**
+
+```
+Input: root = []
+Output: []
+```
+
+**Constraints:**
+
+-   The number of nodes in the tree is in the range `[0, 2000]`.
+-   `1000 <= Node.val <= 1000`
+
+___
+
+What data structure is typically used for BFS traversal in a binary tree?
+
+A) Stack
+
+B) Queue
+
+C) LinkedList
+
+D) Array
+
+###### ID150
+
+A:: =============================================  
+**Answer**: B
+
+BFS typically uses a Queue data structure. As you visit a node, you would add its children to the queue, then move on to the next node in the queue, continually adding their children. This way, you naturally visit the nodes level by level.
+
+Q:: =============================================  
+
+##### Given the `root` of a binary tree, return _the level order traversal of its nodes' values_. (i.e., from left to right, level by level).
+
+**Example 1:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/e9bf9a5e-fd98-48e2-0967-a1d246f32100/public)
+
+```
+Input: root = [3,9,20,null,null,15,7]
+Output: [[3],[9,20],[15,7]]
+```
+
+**Example 2:**
+
+```
+Input: root = [1]
+Output: [[1]]
+```
+
+**Example 3:**
+
+```
+Input: root = []
+Output: []
+```
+
+**Constraints:**
+
+-   The number of nodes in the tree is in the range `[0, 2000]`.
+-   `1000 <= Node.val <= 1000`
+
+___
+
+For level order traversal, when do we start a new level in the output?
+
+A) When we have visited all the nodes in the current level
+
+B) When the tree has no more levels to traverse
+
+###### ID151
+
+A:: =============================================  
+**Answer**: A
+
+We start a new level in the output when we have visited all the nodes in the current level. This can be tracked by recording the size of the queue before starting a new level, and then dequeueing that many nodes for the current level.
+
+Q:: =============================================  
+
+##### Given the `root` of a binary tree, return _the level order traversal of its nodes' values_. (i.e., from left to right, level by level).
+
+**Example 1:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/e9bf9a5e-fd98-48e2-0967-a1d246f32100/public)
+
+```
+Input: root = [3,9,20,null,null,15,7]
+Output: [[3],[9,20],[15,7]]
+```
+
+**Example 2:**
+
+```
+Input: root = [1]
+Output: [[1]]
+```
+
+**Example 3:**
+
+```
+Input: root = []
+Output: []
+```
+
+**Constraints:**
+
+-   The number of nodes in the tree is in the range `[0, 2000]`.
+-   `1000 <= Node.val <= 1000`
+
+___
+
+Given the below Python function to solve the problem, what are the time and space complexities? Assume there are `n` nodes in the tree.
+
+```python
+# Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, x):
+#         self.val = x
+#         self.left = None
+#         self.right = None
+class Solution:
+    def levelOrder(self, root: TreeNode) -> List[List[int]]:
+        res = []
+        q = collections.deque()
+        if root: q.append(root)
+
+        while q:
+            val = []
+
+            for i in range(len(q)):
+                node = q.popleft()
+                val.append(node.val)
+                if node.left: q.append(node.left)
+                if node.right: q.append(node.right)
+            res.append(val)
+        return res
+```
+
+A) Time complexity: O(n), Space complexity: O(n)
+
+B) Time complexity: O(n^2), Space complexity: O(n)
+
+C) Time complexity: O(n), Space complexity: O(log n)
+
+###### ID152
+
+A:: =============================================  
+**Answer**: A
+
+The time complexity of a level order traversal (or BFS) is O(n), where n is the number of nodes in the tree, as we need to visit every node. The space complexity is also O(n), as we need to store every node in the queue in the worst-case scenario (consider a full binary tree's last level).
+
 #### Chapter 10 - Binary Tree Right Side View
 #### Chapter 11 - Count Good Nodes In Binary Tree
 #### Chapter 12 - Validate Binary Search Tree - [Blind]

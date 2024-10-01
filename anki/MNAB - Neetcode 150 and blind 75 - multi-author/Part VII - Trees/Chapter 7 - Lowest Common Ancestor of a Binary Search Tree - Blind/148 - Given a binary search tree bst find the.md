@@ -43,6 +43,8 @@ Output: 2
 
 -   `p` and `q` will exist in the BST.
 
+---
+
 Given the below Python function to solve the problem, what are the time and space complexities? Assume there are `n` nodes in the tree and the tree is balanced.
 
 ```python
@@ -62,9 +64,7 @@ A) Time complexity: O(log n), Space complexity: O(log n)
 
 B) Time complexity: O(log n), Space complexity: O(1)
 
-C) Time complexity: O(n), Space complexity: O(1)
-
----  
+C) Time complexity: O(n), Space complexity: O(1)  
 
 ========== Answer ==========  
 

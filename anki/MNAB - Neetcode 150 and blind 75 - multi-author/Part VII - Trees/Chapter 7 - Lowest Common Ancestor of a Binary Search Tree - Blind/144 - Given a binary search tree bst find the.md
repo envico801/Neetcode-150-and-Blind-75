@@ -43,13 +43,13 @@ Output: 2
 
 -   `p` and `q` will exist in the BST.
 
+---
+
 In a BST, for any given node `n`, which of the following is true?
 
 A) All nodes in the left subtree of n are greater than n, and all nodes in the right subtree are less than n.
 
-B) All nodes in the left subtree of n are less than n, and all nodes in the right subtree are greater than n.
-
----  
+B) All nodes in the left subtree of n are less than n, and all nodes in the right subtree are greater than n.  
 
 ========== Answer ==========  
 

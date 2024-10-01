@@ -43,6 +43,8 @@ Output: 2
 
 -   `p` and `q` will exist in the BST.
 
+---
+
 If `p` and `q` are both less than the root, where should we search for their `LCA` in a BST?
 
 A) In the root's right subtree.
@@ -51,9 +53,7 @@ B) In the root's left subtree.
 
 C) In both the root's left and right subtrees.
 
-D) Only in the root itself.
-
----  
+D) Only in the root itself.  
 
 ========== Answer ==========  
 

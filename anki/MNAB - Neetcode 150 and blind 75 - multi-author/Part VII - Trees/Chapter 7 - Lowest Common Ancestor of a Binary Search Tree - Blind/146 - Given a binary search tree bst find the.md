@@ -43,15 +43,15 @@ Output: 2
 
 -   `p` and `q` will exist in the BST.
 
+---
+
 If p and q are on different sides of the root (i.e., one is less than the root and the other is greater), where is their LCA?
 
 A) It is the root.
 
 B) It is in the root's left subtree.
 
-C) It is in the root's right subtree.
-
----  
+C) It is in the root's right subtree.  
 
 ========== Answer ==========  
 
