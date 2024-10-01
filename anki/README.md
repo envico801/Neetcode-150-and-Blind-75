@@ -2,11 +2,188 @@
 
 ## Questions
 
+| ID | File name / path | Part | Chapter |
+| --- | --- | --- | --- |
+| **-** | **Arrays Hashing** | **1** | **-** |
+| **-** | **Arrays Hashing > Contains Duplicate** | **1** | **1** |
+| [1](#id1) | [Given an integer array nums return tru](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%201%20-%20Contains%20Duplicate%20-%20Blind/1%20-%20Given%20an%20integer%20array%20nums%20return%20tru.md) | 1 | 1 |
+| [2](#id2) | [Given an integer array nums return tru](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%201%20-%20Contains%20Duplicate%20-%20Blind/2%20-%20Given%20an%20integer%20array%20nums%20return%20tru.md) | 1 | 1 |
+| [3](#id3) | [Given an integer array nums return tru](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%201%20-%20Contains%20Duplicate%20-%20Blind/3%20-%20Given%20an%20integer%20array%20nums%20return%20tru.md) | 1 | 1 |
+| [4](#id4) | [Given an integer array nums return tru](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%201%20-%20Contains%20Duplicate%20-%20Blind/4%20-%20Given%20an%20integer%20array%20nums%20return%20tru.md) | 1 | 1 |
+| [5](#id5) | [Given an integer array nums return tru](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%201%20-%20Contains%20Duplicate%20-%20Blind/5%20-%20Given%20an%20integer%20array%20nums%20return%20tru.md) | 1 | 1 |
+| **-** | **Arrays Hashing > Valid Anagram** | **1** | **2** |
+| [6](#id6) | [Given two strings s and t return tru](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%202%20-%20Valid%20Anagram%20-%20Blind/6%20-%20Given%20two%20strings%20s%20and%20t%20return%20tru.md) | 1 | 2 |
+| [7](#id7) | [Given two strings s and t return tru](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%202%20-%20Valid%20Anagram%20-%20Blind/7%20-%20Given%20two%20strings%20s%20and%20t%20return%20tru.md) | 1 | 2 |
+| [8](#id8) | [Given two strings s and t return tru](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%202%20-%20Valid%20Anagram%20-%20Blind/8%20-%20Given%20two%20strings%20s%20and%20t%20return%20tru.md) | 1 | 2 |
+| [9](#id9) | [Given two strings s and t return tru](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%202%20-%20Valid%20Anagram%20-%20Blind/9%20-%20Given%20two%20strings%20s%20and%20t%20return%20tru.md) | 1 | 2 |
+| [10](#id10) | [Given two strings s and t return tru](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%202%20-%20Valid%20Anagram%20-%20Blind/10%20-%20Given%20two%20strings%20s%20and%20t%20return%20tru.md) | 1 | 2 |
+| [11](#id11) | [Given two strings s and t return tru](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%202%20-%20Valid%20Anagram%20-%20Blind/11%20-%20Given%20two%20strings%20s%20and%20t%20return%20tru.md) | 1 | 2 |
+| **-** | **Arrays Hashing > Two Sum** | **1** | **3** |
+| [12](#id12) | [Given an array of integers nums and an i](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%203%20-%20Two%20Sum%20-%20Blind/12%20-%20Given%20an%20array%20of%20integers%20nums%20and%20an%20i.md) | 1 | 3 |
+| [13](#id13) | [Given an array of integers nums and an i](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%203%20-%20Two%20Sum%20-%20Blind/13%20-%20Given%20an%20array%20of%20integers%20nums%20and%20an%20i.md) | 1 | 3 |
+| [14](#id14) | [Given an array of integers nums and an i](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%203%20-%20Two%20Sum%20-%20Blind/14%20-%20Given%20an%20array%20of%20integers%20nums%20and%20an%20i.md) | 1 | 3 |
+| [15](#id15) | [Given an array of integers nums and an i](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%203%20-%20Two%20Sum%20-%20Blind/15%20-%20Given%20an%20array%20of%20integers%20nums%20and%20an%20i.md) | 1 | 3 |
+| [16](#id16) | [Given an array of integers nums and an i](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%203%20-%20Two%20Sum%20-%20Blind/16%20-%20Given%20an%20array%20of%20integers%20nums%20and%20an%20i.md) | 1 | 3 |
+| [17](#id17) | [Given an array of integers nums and an i](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%203%20-%20Two%20Sum%20-%20Blind/17%20-%20Given%20an%20array%20of%20integers%20nums%20and%20an%20i.md) | 1 | 3 |
+| [18](#id18) | [Given an array of integers nums and an i](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%203%20-%20Two%20Sum%20-%20Blind/18%20-%20Given%20an%20array%20of%20integers%20nums%20and%20an%20i.md) | 1 | 3 |
+| **-** | **Arrays Hashing > Encode and Decode Strings** | **1** | **6** |
+| [19](#id19) | [Design an algorithm to encode a list of](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%206%20-%20Encode%20and%20Decode%20Strings%20-%20Blind/19%20-%20Design%20an%20algorithm%20to%20encode%20a%20list%20of.md) | 1 | 6 |
+| [20](#id20) | [Design an algorithm to encode a list of](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%206%20-%20Encode%20and%20Decode%20Strings%20-%20Blind/20%20-%20Design%20an%20algorithm%20to%20encode%20a%20list%20of.md) | 1 | 6 |
+| [21](#id21) | [Design an algorithm to encode a list of](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%206%20-%20Encode%20and%20Decode%20Strings%20-%20Blind/21%20-%20Design%20an%20algorithm%20to%20encode%20a%20list%20of.md) | 1 | 6 |
+| [22](#id22) | [Design an algorithm to encode a list of](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%206%20-%20Encode%20and%20Decode%20Strings%20-%20Blind/22%20-%20Design%20an%20algorithm%20to%20encode%20a%20list%20of.md) | 1 | 6 |
+| **-** | **Arrays Hashing > Longest Consecutive Sequence** | **1** | **9** |
+| [23](#id23) | [Given an unsorted array of integers nums](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%209%20-%20Longest%20Consecutive%20Sequence%20-%20Blind/23%20-%20Given%20an%20unsorted%20array%20of%20integers%20nums.md) | 1 | 9 |
+| [24](#id24) | [Given an unsorted array of integers nums](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%209%20-%20Longest%20Consecutive%20Sequence%20-%20Blind/24%20-%20Given%20an%20unsorted%20array%20of%20integers%20nums.md) | 1 | 9 |
+| [25](#id25) | [Given an unsorted array of integers nums](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%209%20-%20Longest%20Consecutive%20Sequence%20-%20Blind/25%20-%20Given%20an%20unsorted%20array%20of%20integers%20nums.md) | 1 | 9 |
+| [26](#id26) | [Given an unsorted array of integers nums](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%209%20-%20Longest%20Consecutive%20Sequence%20-%20Blind/26%20-%20Given%20an%20unsorted%20array%20of%20integers%20nums.md) | 1 | 9 |
+| [27](#id27) | [Given an unsorted array of integers nums](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%209%20-%20Longest%20Consecutive%20Sequence%20-%20Blind/27%20-%20Given%20an%20unsorted%20array%20of%20integers%20nums.md) | 1 | 9 |
+| [28](#id28) | [Given an unsorted array of integers nums](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%209%20-%20Longest%20Consecutive%20Sequence%20-%20Blind/28%20-%20Given%20an%20unsorted%20array%20of%20integers%20nums.md) | 1 | 9 |
+| **-** | **Two Pointers** | **2** | **-** |
+| **-** | **Two Pointers > Valid Palindrome** | **2** | **1** |
+| [29](#id29) | [A phrase is a palindrome if after con](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%201%20-%20Valid%20Palindrome%20-%20Blind/29%20-%20A%20phrase%20is%20a%20palindrome%20if%20after%20con.md) | 2 | 1 |
+| [30](#id30) | [A phrase is a palindrome if after con](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%201%20-%20Valid%20Palindrome%20-%20Blind/30%20-%20A%20phrase%20is%20a%20palindrome%20if%20after%20con.md) | 2 | 1 |
+| [31](#id31) | [A phrase is a palindrome if after con](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%201%20-%20Valid%20Palindrome%20-%20Blind/31%20-%20A%20phrase%20is%20a%20palindrome%20if%20after%20con.md) | 2 | 1 |
+| [32](#id32) | [A phrase is a palindrome if after con](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%201%20-%20Valid%20Palindrome%20-%20Blind/32%20-%20A%20phrase%20is%20a%20palindrome%20if%20after%20con.md) | 2 | 1 |
+| [33](#id33) | [A phrase is a palindrome if after con](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%201%20-%20Valid%20Palindrome%20-%20Blind/33%20-%20A%20phrase%20is%20a%20palindrome%20if%20after%20con.md) | 2 | 1 |
+| [34](#id34) | [A phrase is a palindrome if after con](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%201%20-%20Valid%20Palindrome%20-%20Blind/34%20-%20A%20phrase%20is%20a%20palindrome%20if%20after%20con.md) | 2 | 1 |
+| **-** | **Two Pointers > 3Sum** | **2** | **3** |
+| [35](#id35) | [Given an integer array nums return all th](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%203%20-%203Sum%20-%20Blind/35%20-%20Given%20an%20integer%20array%20nums%20return%20all%20th.md) | 2 | 3 |
+| [36](#id36) | [Given an integer array nums return all th](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%203%20-%203Sum%20-%20Blind/36%20-%20Given%20an%20integer%20array%20nums%20return%20all%20th.md) | 2 | 3 |
+| [37](#id37) | [Given an integer array nums return all th](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%203%20-%203Sum%20-%20Blind/37%20-%20Given%20an%20integer%20array%20nums%20return%20all%20th.md) | 2 | 3 |
+| [38](#id38) | [Given an integer array nums return all th](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%203%20-%203Sum%20-%20Blind/38%20-%20Given%20an%20integer%20array%20nums%20return%20all%20th.md) | 2 | 3 |
+| [39](#id39) | [Given an integer array nums return all th](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%203%20-%203Sum%20-%20Blind/39%20-%20Given%20an%20integer%20array%20nums%20return%20all%20th.md) | 2 | 3 |
+| **-** | **Two Pointers > Container With Most Water** | **2** | **4** |
+| [40](#id40) | [You are given an integer array height of](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%204%20-%20Container%20With%20Most%20Water%20-%20Blind/40%20-%20You%20are%20given%20an%20integer%20array%20height%20of.md) | 2 | 4 |
+| [41](#id41) | [You are given an integer array height of](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%204%20-%20Container%20With%20Most%20Water%20-%20Blind/41%20-%20You%20are%20given%20an%20integer%20array%20height%20of.md) | 2 | 4 |
+| [42](#id42) | [You are given an integer array height of](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%204%20-%20Container%20With%20Most%20Water%20-%20Blind/42%20-%20You%20are%20given%20an%20integer%20array%20height%20of.md) | 2 | 4 |
+| [43](#id43) | [You are given an integer array height of](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%204%20-%20Container%20With%20Most%20Water%20-%20Blind/43%20-%20You%20are%20given%20an%20integer%20array%20height%20of.md) | 2 | 4 |
+| [44](#id44) | [You are given an integer array height of](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%204%20-%20Container%20With%20Most%20Water%20-%20Blind/44%20-%20You%20are%20given%20an%20integer%20array%20height%20of.md) | 2 | 4 |
+| [45](#id45) | [You are given an integer array height of](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%204%20-%20Container%20With%20Most%20Water%20-%20Blind/45%20-%20You%20are%20given%20an%20integer%20array%20height%20of.md) | 2 | 4 |
+| **-** | **Stack** | **3** | **-** |
+| **-** | **Stack > Valid Parentheses** | **3** | **1** |
+| [46](#id46) | [Given a string s containing just the chara](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Stack/Chapter%201%20-%20Valid%20Parentheses%20-%20Blind/46%20-%20Given%20a%20string%20s%20containing%20just%20the%20chara.md) | 3 | 1 |
+| [47](#id47) | [Given a string s containing just the chara](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Stack/Chapter%201%20-%20Valid%20Parentheses%20-%20Blind/47%20-%20Given%20a%20string%20s%20containing%20just%20the%20chara.md) | 3 | 1 |
+| [48](#id48) | [Given a string s containing just the chara](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Stack/Chapter%201%20-%20Valid%20Parentheses%20-%20Blind/48%20-%20Given%20a%20string%20s%20containing%20just%20the%20chara.md) | 3 | 1 |
+| [49](#id49) | [Given a string s containing just the chara](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Stack/Chapter%201%20-%20Valid%20Parentheses%20-%20Blind/49%20-%20Given%20a%20string%20s%20containing%20just%20the%20chara.md) | 3 | 1 |
+| [50](#id50) | [Given a string s containing just the chara](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Stack/Chapter%201%20-%20Valid%20Parentheses%20-%20Blind/50%20-%20Given%20a%20string%20s%20containing%20just%20the%20chara.md) | 3 | 1 |
+| [51](#id51) | [Given a string s containing just the chara](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Stack/Chapter%201%20-%20Valid%20Parentheses%20-%20Blind/51%20-%20Given%20a%20string%20s%20containing%20just%20the%20chara.md) | 3 | 1 |
+| **-** | **Binary Search** | **4** | **-** |
+| **-** | **Binary Search > Find Minimum In Rotated Sorted Array** | **4** | **4** |
+| [52](#id52) | [Suppose an array of length n sorted in a](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%204%20-%20Find%20Minimum%20In%20Rotated%20Sorted%20Array%20-%20Blind/52%20-%20Suppose%20an%20array%20of%20length%20n%20sorted%20in%20a.md) | 4 | 4 |
+| [53](#id53) | [Suppose an array of length n sorted in a](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%204%20-%20Find%20Minimum%20In%20Rotated%20Sorted%20Array%20-%20Blind/53%20-%20Suppose%20an%20array%20of%20length%20n%20sorted%20in%20a.md) | 4 | 4 |
+| [54](#id54) | [Suppose an array of length n sorted in a](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%204%20-%20Find%20Minimum%20In%20Rotated%20Sorted%20Array%20-%20Blind/54%20-%20Suppose%20an%20array%20of%20length%20n%20sorted%20in%20a.md) | 4 | 4 |
+| [55](#id55) | [Suppose an array of length n sorted in a](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%204%20-%20Find%20Minimum%20In%20Rotated%20Sorted%20Array%20-%20Blind/55%20-%20Suppose%20an%20array%20of%20length%20n%20sorted%20in%20a.md) | 4 | 4 |
+| [56](#id56) | [Suppose an array of length n sorted in a](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%204%20-%20Find%20Minimum%20In%20Rotated%20Sorted%20Array%20-%20Blind/56%20-%20Suppose%20an%20array%20of%20length%20n%20sorted%20in%20a.md) | 4 | 4 |
+| [57](#id57) | [Suppose an array of length n sorted in a](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%204%20-%20Find%20Minimum%20In%20Rotated%20Sorted%20Array%20-%20Blind/57%20-%20Suppose%20an%20array%20of%20length%20n%20sorted%20in%20a.md) | 4 | 4 |
+| [58](#id58) | [Suppose an array of length n sorted in a](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%204%20-%20Find%20Minimum%20In%20Rotated%20Sorted%20Array%20-%20Blind/58%20-%20Suppose%20an%20array%20of%20length%20n%20sorted%20in%20a.md) | 4 | 4 |
+| [59](#id59) | [Suppose an array of length n sorted in a](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%204%20-%20Find%20Minimum%20In%20Rotated%20Sorted%20Array%20-%20Blind/59%20-%20Suppose%20an%20array%20of%20length%20n%20sorted%20in%20a.md) | 4 | 4 |
+| **-** | **Binary Search > Search In Rotated Sorted Array** | **4** | **5** |
+| [60](#id60) | [There is an integer array nums sorted in](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%205%20-%20Search%20In%20Rotated%20Sorted%20Array%20-%20Blind/60%20-%20There%20is%20an%20integer%20array%20nums%20sorted%20in.md) | 4 | 5 |
+| [61](#id61) | [There is an integer array nums sorted in](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%205%20-%20Search%20In%20Rotated%20Sorted%20Array%20-%20Blind/61%20-%20There%20is%20an%20integer%20array%20nums%20sorted%20in.md) | 4 | 5 |
+| [62](#id62) | [There is an integer array nums sorted in](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%205%20-%20Search%20In%20Rotated%20Sorted%20Array%20-%20Blind/62%20-%20There%20is%20an%20integer%20array%20nums%20sorted%20in.md) | 4 | 5 |
+| [63](#id63) | [There is an integer array nums sorted in](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%205%20-%20Search%20In%20Rotated%20Sorted%20Array%20-%20Blind/63%20-%20There%20is%20an%20integer%20array%20nums%20sorted%20in.md) | 4 | 5 |
+| [64](#id64) | [There is an integer array nums sorted in](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%205%20-%20Search%20In%20Rotated%20Sorted%20Array%20-%20Blind/64%20-%20There%20is%20an%20integer%20array%20nums%20sorted%20in.md) | 4 | 5 |
+| [65](#id65) | [There is an integer array nums sorted in](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%205%20-%20Search%20In%20Rotated%20Sorted%20Array%20-%20Blind/65%20-%20There%20is%20an%20integer%20array%20nums%20sorted%20in.md) | 4 | 5 |
+| [66](#id66) | [There is an integer array nums sorted in](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%205%20-%20Search%20In%20Rotated%20Sorted%20Array%20-%20Blind/66%20-%20There%20is%20an%20integer%20array%20nums%20sorted%20in.md) | 4 | 5 |
+| [67](#id67) | [There is an integer array nums sorted in](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%205%20-%20Search%20In%20Rotated%20Sorted%20Array%20-%20Blind/67%20-%20There%20is%20an%20integer%20array%20nums%20sorted%20in.md) | 4 | 5 |
+| [68](#id68) | [There is an integer array nums sorted in](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%205%20-%20Search%20In%20Rotated%20Sorted%20Array%20-%20Blind/68%20-%20There%20is%20an%20integer%20array%20nums%20sorted%20in.md) | 4 | 5 |
+| **-** | **Sliding Window** | **5** | **-** |
+| **-** | **Sliding Window > Best Time to Buy And Sell Stock** | **5** | **1** |
+| [69](#id69) | [You are given an array prices where pri](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%201%20-%20Best%20Time%20to%20Buy%20And%20Sell%20Stock%20-%20Blind/69%20-%20You%20are%20given%20an%20array%20prices%20where%20pri.md) | 5 | 1 |
+| [70](#id70) | [You are given an array prices where pri](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%201%20-%20Best%20Time%20to%20Buy%20And%20Sell%20Stock%20-%20Blind/70%20-%20You%20are%20given%20an%20array%20prices%20where%20pri.md) | 5 | 1 |
+| [71](#id71) | [You are given an array prices where pri](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%201%20-%20Best%20Time%20to%20Buy%20And%20Sell%20Stock%20-%20Blind/71%20-%20You%20are%20given%20an%20array%20prices%20where%20pri.md) | 5 | 1 |
+| [72](#id72) | [You are given an array prices where pri](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%201%20-%20Best%20Time%20to%20Buy%20And%20Sell%20Stock%20-%20Blind/72%20-%20You%20are%20given%20an%20array%20prices%20where%20pri.md) | 5 | 1 |
+| [73](#id73) | [You are given an array prices where pri](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%201%20-%20Best%20Time%20to%20Buy%20And%20Sell%20Stock%20-%20Blind/73%20-%20You%20are%20given%20an%20array%20prices%20where%20pri.md) | 5 | 1 |
+| **-** | **Sliding Window > Longest Substring Without Repeating Characters** | **5** | **2** |
+| [74](#id74) | [Given a string s find the length of the](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%202%20-%20Longest%20Substring%20Without%20Repeating%20Characters%20-%20Blind/74%20-%20Given%20a%20string%20s%20find%20the%20length%20of%20the.md) | 5 | 2 |
+| [75](#id75) | [Given a string s find the length of the](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%202%20-%20Longest%20Substring%20Without%20Repeating%20Characters%20-%20Blind/75%20-%20Given%20a%20string%20s%20find%20the%20length%20of%20the.md) | 5 | 2 |
+| [76](#id76) | [Given a string s find the length of the](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%202%20-%20Longest%20Substring%20Without%20Repeating%20Characters%20-%20Blind/76%20-%20Given%20a%20string%20s%20find%20the%20length%20of%20the.md) | 5 | 2 |
+| [77](#id77) | [Given a string s find the length of the](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%202%20-%20Longest%20Substring%20Without%20Repeating%20Characters%20-%20Blind/77%20-%20Given%20a%20string%20s%20find%20the%20length%20of%20the.md) | 5 | 2 |
+| [78](#id78) | [Given a string s find the length of the](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%202%20-%20Longest%20Substring%20Without%20Repeating%20Characters%20-%20Blind/78%20-%20Given%20a%20string%20s%20find%20the%20length%20of%20the.md) | 5 | 2 |
+| [79](#id79) | [Given a string s find the length of the](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%202%20-%20Longest%20Substring%20Without%20Repeating%20Characters%20-%20Blind/79%20-%20Given%20a%20string%20s%20find%20the%20length%20of%20the.md) | 5 | 2 |
+| **-** | **Sliding Window > Longest Repeating Character Replacement** | **5** | **3** |
+| [80](#id80) | [You are given a string s and an integer](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%203%20-%20Longest%20Repeating%20Character%20Replacement%20-%20Blind/80%20-%20You%20are%20given%20a%20string%20s%20and%20an%20integer.md) | 5 | 3 |
+| [81](#id81) | [You are given a string s and an integer](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%203%20-%20Longest%20Repeating%20Character%20Replacement%20-%20Blind/81%20-%20You%20are%20given%20a%20string%20s%20and%20an%20integer.md) | 5 | 3 |
+| [82](#id82) | [You are given a string s and an integer](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%203%20-%20Longest%20Repeating%20Character%20Replacement%20-%20Blind/82%20-%20You%20are%20given%20a%20string%20s%20and%20an%20integer.md) | 5 | 3 |
+| [83](#id83) | [You are given a string s and an integer](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%203%20-%20Longest%20Repeating%20Character%20Replacement%20-%20Blind/83%20-%20You%20are%20given%20a%20string%20s%20and%20an%20integer.md) | 5 | 3 |
+| [84](#id84) | [You are given a string s and an integer](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%203%20-%20Longest%20Repeating%20Character%20Replacement%20-%20Blind/84%20-%20You%20are%20given%20a%20string%20s%20and%20an%20integer.md) | 5 | 3 |
+| [85](#id85) | [You are given a string s and an integer](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%203%20-%20Longest%20Repeating%20Character%20Replacement%20-%20Blind/85%20-%20You%20are%20given%20a%20string%20s%20and%20an%20integer.md) | 5 | 3 |
+| **-** | **Sliding Window > Minimum Window Substring** | **5** | **5** |
+| [86](#id86) | [Given two strings s and t of lengths](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%205%20-%20Minimum%20Window%20Substring%20-%20Blind/86%20-%20Given%20two%20strings%20s%20and%20t%20of%20lengths.md) | 5 | 5 |
+| [87](#id87) | [Given two strings s and t of lengths](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%205%20-%20Minimum%20Window%20Substring%20-%20Blind/87%20-%20Given%20two%20strings%20s%20and%20t%20of%20lengths.md) | 5 | 5 |
+| [88](#id88) | [Given two strings s and t of lengths](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%205%20-%20Minimum%20Window%20Substring%20-%20Blind/88%20-%20Given%20two%20strings%20s%20and%20t%20of%20lengths.md) | 5 | 5 |
+| [89](#id89) | [Given two strings s and t of lengths](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%205%20-%20Minimum%20Window%20Substring%20-%20Blind/89%20-%20Given%20two%20strings%20s%20and%20t%20of%20lengths.md) | 5 | 5 |
+| [90](#id90) | [Given two strings s and t of lengths](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%205%20-%20Minimum%20Window%20Substring%20-%20Blind/90%20-%20Given%20two%20strings%20s%20and%20t%20of%20lengths.md) | 5 | 5 |
+| [91](#id91) | [Given two strings s and t of lengths](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%205%20-%20Minimum%20Window%20Substring%20-%20Blind/91%20-%20Given%20two%20strings%20s%20and%20t%20of%20lengths.md) | 5 | 5 |
+| [92](#id92) | [Given two strings s and t of lengths](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%205%20-%20Minimum%20Window%20Substring%20-%20Blind/92%20-%20Given%20two%20strings%20s%20and%20t%20of%20lengths.md) | 5 | 5 |
+| **-** | **Linked List** | **6** | **-** |
+| **-** | **Linked List > Reverse Linked List** | **6** | **1** |
+| [93](#id93) | [Given the head of a singly linked list](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%201%20-%20Reverse%20Linked%20List%20-%20Blind/93%20-%20Given%20the%20head%20of%20a%20singly%20linked%20list.md) | 6 | 1 |
+| [94](#id94) | [Given the head of a singly linked list](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%201%20-%20Reverse%20Linked%20List%20-%20Blind/94%20-%20Given%20the%20head%20of%20a%20singly%20linked%20list.md) | 6 | 1 |
+| [95](#id95) | [Given the head of a singly linked list](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%201%20-%20Reverse%20Linked%20List%20-%20Blind/95%20-%20Given%20the%20head%20of%20a%20singly%20linked%20list.md) | 6 | 1 |
+| [96](#id96) | [Given the head of a singly linked list](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%201%20-%20Reverse%20Linked%20List%20-%20Blind/96%20-%20Given%20the%20head%20of%20a%20singly%20linked%20list.md) | 6 | 1 |
+| **-** | **Linked List > Merge Two Sorted Lists** | **6** | **2** |
+| [97](#id97) | [You are given the heads of two sorted link](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%202%20-%20Merge%20Two%20Sorted%20Lists%20-%20Blind/97%20-%20You%20are%20given%20the%20heads%20of%20two%20sorted%20link.md) | 6 | 2 |
+| [98](#id98) | [You are given the heads of two sorted link](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%202%20-%20Merge%20Two%20Sorted%20Lists%20-%20Blind/98%20-%20You%20are%20given%20the%20heads%20of%20two%20sorted%20link.md) | 6 | 2 |
+| [99](#id99) | [You are given the heads of two sorted link](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%202%20-%20Merge%20Two%20Sorted%20Lists%20-%20Blind/99%20-%20You%20are%20given%20the%20heads%20of%20two%20sorted%20link.md) | 6 | 2 |
+| [100](#id100) | [You are given the heads of two sorted link](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%202%20-%20Merge%20Two%20Sorted%20Lists%20-%20Blind/100%20-%20You%20are%20given%20the%20heads%20of%20two%20sorted%20link.md) | 6 | 2 |
+| [101](#id101) | [You are given the heads of two sorted link](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%202%20-%20Merge%20Two%20Sorted%20Lists%20-%20Blind/101%20-%20You%20are%20given%20the%20heads%20of%20two%20sorted%20link.md) | 6 | 2 |
+| **-** | **Linked List > Reorder List** | **6** | **3** |
+| [102](#id102) | [You are given the head of a singly linked-](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%203%20-%20Reorder%20List%20-%20Blind/102%20-%20You%20are%20given%20the%20head%20of%20a%20singly%20linked-.md) | 6 | 3 |
+| [103](#id103) | [You are given the head of a singly linked-](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%203%20-%20Reorder%20List%20-%20Blind/103%20-%20You%20are%20given%20the%20head%20of%20a%20singly%20linked-.md) | 6 | 3 |
+| [104](#id104) | [You are given the head of a singly linked-](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%203%20-%20Reorder%20List%20-%20Blind/104%20-%20You%20are%20given%20the%20head%20of%20a%20singly%20linked-.md) | 6 | 3 |
+| [105](#id105) | [You are given the head of a singly linked-](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%203%20-%20Reorder%20List%20-%20Blind/105%20-%20You%20are%20given%20the%20head%20of%20a%20singly%20linked-.md) | 6 | 3 |
+| [106](#id106) | [You are given the head of a singly linked-](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%203%20-%20Reorder%20List%20-%20Blind/106%20-%20You%20are%20given%20the%20head%20of%20a%20singly%20linked-.md) | 6 | 3 |
+| **-** | **Linked List > Remove Nth Node From End of List** | **6** | **4** |
+| [107](#id107) | [Given the head of a linked list remove](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%204%20-%20Remove%20Nth%20Node%20From%20End%20of%20List%20-%20Blind/107%20-%20Given%20the%20head%20of%20a%20linked%20list%20remove.md) | 6 | 4 |
+| [108](#id108) | [Given the head of a linked list remove](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%204%20-%20Remove%20Nth%20Node%20From%20End%20of%20List%20-%20Blind/108%20-%20Given%20the%20head%20of%20a%20linked%20list%20remove.md) | 6 | 4 |
+| [109](#id109) | [Given the head of a linked list remove](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%204%20-%20Remove%20Nth%20Node%20From%20End%20of%20List%20-%20Blind/109%20-%20Given%20the%20head%20of%20a%20linked%20list%20remove.md) | 6 | 4 |
+| [110](#id110) | [Given the head of a linked list remove](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%204%20-%20Remove%20Nth%20Node%20From%20End%20of%20List%20-%20Blind/110%20-%20Given%20the%20head%20of%20a%20linked%20list%20remove.md) | 6 | 4 |
+| [111](#id111) | [Given the head of a linked list remove](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%204%20-%20Remove%20Nth%20Node%20From%20End%20of%20List%20-%20Blind/111%20-%20Given%20the%20head%20of%20a%20linked%20list%20remove.md) | 6 | 4 |
+| **-** | **Linked List > Merge K Sorted Lists** | **6** | **10** |
+| [112](#id112) | [You are given an array of k linked-lists](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%2010%20-%20Merge%20K%20Sorted%20Lists%20-%20Blind/112%20-%20You%20are%20given%20an%20array%20of%20k%20linked-lists.md) | 6 | 10 |
+| [113](#id113) | [You are given an array of k linked-lists](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%2010%20-%20Merge%20K%20Sorted%20Lists%20-%20Blind/113%20-%20You%20are%20given%20an%20array%20of%20k%20linked-lists.md) | 6 | 10 |
+| [114](#id114) | [You are given an array of k linked-lists](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%2010%20-%20Merge%20K%20Sorted%20Lists%20-%20Blind/114%20-%20You%20are%20given%20an%20array%20of%20k%20linked-lists.md) | 6 | 10 |
+| [115](#id115) | [You are given an array of k linked-lists](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%2010%20-%20Merge%20K%20Sorted%20Lists%20-%20Blind/115%20-%20You%20are%20given%20an%20array%20of%20k%20linked-lists.md) | 6 | 10 |
+| [116](#id116) | [You are given an array of k linked-lists](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%2010%20-%20Merge%20K%20Sorted%20Lists%20-%20Blind/116%20-%20You%20are%20given%20an%20array%20of%20k%20linked-lists.md) | 6 | 10 |
+| [117](#id117) | [You are given an array of k linked-lists](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%2010%20-%20Merge%20K%20Sorted%20Lists%20-%20Blind/117%20-%20You%20are%20given%20an%20array%20of%20k%20linked-lists.md) | 6 | 10 |
+| **-** | **Trees** | **7** | **-** |
+| **-** | **Trees > Invert Binary Tree** | **7** | **1** |
+| [118](#id118) | [Given the root of a binary tree invert](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%201%20-%20Invert%20Binary%20Tree%20-%20Blind/118%20-%20Given%20the%20root%20of%20a%20binary%20tree%20invert.md) | 7 | 1 |
+| [119](#id119) | [You are given an array of k linked-lists](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%201%20-%20Invert%20Binary%20Tree%20-%20Blind/119%20-%20You%20are%20given%20an%20array%20of%20k%20linked-lists.md) | 7 | 1 |
+| [120](#id120) | [You are given an array of k linked-lists](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%201%20-%20Invert%20Binary%20Tree%20-%20Blind/120%20-%20You%20are%20given%20an%20array%20of%20k%20linked-lists.md) | 7 | 1 |
+| [121](#id121) | [You are given an array of k linked-lists](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%201%20-%20Invert%20Binary%20Tree%20-%20Blind/121%20-%20You%20are%20given%20an%20array%20of%20k%20linked-lists.md) | 7 | 1 |
+| [122](#id122) | [You are given an array of k linked-lists](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%201%20-%20Invert%20Binary%20Tree%20-%20Blind/122%20-%20You%20are%20given%20an%20array%20of%20k%20linked-lists.md) | 7 | 1 |
+| **-** | **Trees > Maximum Depth of Binary Tree** | **7** | **2** |
+| [123](#id123) | [Given the root of a binary tree return](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%202%20-%20Maximum%20Depth%20of%20Binary%20Tree%20-%20Blind/123%20-%20Given%20the%20root%20of%20a%20binary%20tree%20return.md) | 7 | 2 |
+| [124](#id124) | [You are given an array of k linked-lists](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%202%20-%20Maximum%20Depth%20of%20Binary%20Tree%20-%20Blind/124%20-%20You%20are%20given%20an%20array%20of%20k%20linked-lists.md) | 7 | 2 |
+| [125](#id125) | [You are given an array of k linked-lists](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%202%20-%20Maximum%20Depth%20of%20Binary%20Tree%20-%20Blind/125%20-%20You%20are%20given%20an%20array%20of%20k%20linked-lists.md) | 7 | 2 |
+| [126](#id126) | [You are given an array of k linked-lists](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%202%20-%20Maximum%20Depth%20of%20Binary%20Tree%20-%20Blind/126%20-%20You%20are%20given%20an%20array%20of%20k%20linked-lists.md) | 7 | 2 |
+| [127](#id127) | [You are given an array of k linked-lists](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%202%20-%20Maximum%20Depth%20of%20Binary%20Tree%20-%20Blind/127%20-%20You%20are%20given%20an%20array%20of%20k%20linked-lists.md) | 7 | 2 |
+| **-** | **Trees > Same Tree** | **7** | **5** |
+| [128](#id128) | [Given the roots of two binary trees p an](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%205%20-%20Same%20Tree%20-%20Blind/128%20-%20Given%20the%20roots%20of%20two%20binary%20trees%20p%20an.md) | 7 | 5 |
+| [129](#id129) | [Given the roots of two binary trees p an](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%205%20-%20Same%20Tree%20-%20Blind/129%20-%20Given%20the%20roots%20of%20two%20binary%20trees%20p%20an.md) | 7 | 5 |
+| [130](#id130) | [Given the roots of two binary trees p an](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%205%20-%20Same%20Tree%20-%20Blind/130%20-%20Given%20the%20roots%20of%20two%20binary%20trees%20p%20an.md) | 7 | 5 |
+| [131](#id131) | [Given the roots of two binary trees p an](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%205%20-%20Same%20Tree%20-%20Blind/131%20-%20Given%20the%20roots%20of%20two%20binary%20trees%20p%20an.md) | 7 | 5 |
+| [132](#id132) | [Given the roots of two binary trees p an](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%205%20-%20Same%20Tree%20-%20Blind/132%20-%20Given%20the%20roots%20of%20two%20binary%20trees%20p%20an.md) | 7 | 5 |
+| **-** | **Trees > Subtree of Another Tree** | **7** | **6** |
+| [133](#id133) | [Given the roots of two binary trees root](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%206%20-%20Subtree%20of%20Another%20Tree%20-%20Blind/133%20-%20Given%20the%20roots%20of%20two%20binary%20trees%20root.md) | 7 | 6 |
+| [134](#id134) | [Given the roots of two binary trees root](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%206%20-%20Subtree%20of%20Another%20Tree%20-%20Blind/134%20-%20Given%20the%20roots%20of%20two%20binary%20trees%20root.md) | 7 | 6 |
+| [135](#id135) | [Given the roots of two binary trees root](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%206%20-%20Subtree%20of%20Another%20Tree%20-%20Blind/135%20-%20Given%20the%20roots%20of%20two%20binary%20trees%20root.md) | 7 | 6 |
+| [136](#id136) | [Given the roots of two binary trees root](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%206%20-%20Subtree%20of%20Another%20Tree%20-%20Blind/136%20-%20Given%20the%20roots%20of%20two%20binary%20trees%20root.md) | 7 | 6 |
+| [137](#id137) | [Given the roots of two binary trees root](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%206%20-%20Subtree%20of%20Another%20Tree%20-%20Blind/137%20-%20Given%20the%20roots%20of%20two%20binary%20trees%20root.md) | 7 | 6 |
+| **-** | **Trees > Lowest Common Ancestor of a Binary Search Tree** | **7** | **7** |
+| [138](#id138) | [Given a binary search tree bst find the](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%207%20-%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree%20-%20Blind/138%20-%20Given%20a%20binary%20search%20tree%20bst%20find%20the.md) | 7 | 7 |
+| [139](#id139) | [Given a binary search tree bst find the](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%207%20-%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree%20-%20Blind/139%20-%20Given%20a%20binary%20search%20tree%20bst%20find%20the.md) | 7 | 7 |
+| [140](#id140) | [Given a binary search tree bst find the](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%207%20-%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree%20-%20Blind/140%20-%20Given%20a%20binary%20search%20tree%20bst%20find%20the.md) | 7 | 7 |
+| [141](#id141) | [Given a binary search tree bst find the](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%207%20-%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree%20-%20Blind/141%20-%20Given%20a%20binary%20search%20tree%20bst%20find%20the.md) | 7 | 7 |
+| [142](#id142) | [Given a binary search tree bst find the](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%207%20-%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree%20-%20Blind/142%20-%20Given%20a%20binary%20search%20tree%20bst%20find%20the.md) | 7 | 7 |
+
 ### Part I - Arrays & Hashing
 
 #### Chapter 1 - Contains Duplicate - [Blind]
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### Given an integer array `nums`, return `true` if any value appears at least twice in the array, and return `false` if every element is distinct.
 
@@ -48,7 +225,7 @@ A:: =============================================
 
 There are exactly n \* (n - 1) / 2 distinct pairs of integers in the array. This is equivalent to (n^2 - n) / 2, and we normally consider the largest term, which in this case is n^2.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### Given an integer array `nums`, return `true` if any value appears at least twice in the array, and return `false` if every element is distinct.
 
@@ -90,7 +267,7 @@ A:: =============================================
 
 The brute-force solution using two nested loops has a time complexity of O(n^2) because for each element in the array, you need to iterate over up to n other elements.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### Given an integer array `nums`, return `true` if any value appears at least twice in the array, and return `false` if every element is distinct.
 
@@ -132,7 +309,7 @@ A:: =============================================
 
 A Hashmap (or Hashtable) and a HashSet allow us to store and retrieve values in constant time, O(1). We can utilize this property to efficiently check for duplicates.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### Given an integer array `nums`, return `true` if any value appears at least twice in the array, and return `false` if every element is distinct.
 
@@ -172,7 +349,7 @@ A:: =============================================
 
 A HashSet does not allow duplicate values. So, if you try to insert an element that already exists in the HashSet, it will not add the element and you know you've found a duplicate (choice A). Alternatively, you could add all elements to the HashSet and then compare its size to the size of the array. If the sizes are different, then there must have been a duplicate in the array (choice B). Both these methods will help identify if a duplicate exists in the array.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### Given an integer array `nums`, return `true` if any value appears at least twice in the array, and return `false` if every element is distinct.
 
@@ -220,7 +397,7 @@ The hashmap solution has a time complexity of O(n) because you need to iterate t
 
 #### Chapter 2 - Valid Anagram - [Blind]
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### Given two strings `s` and `t`, return `true` _if `t` is an anagram of `s`, and `false` otherwise_.
 
@@ -264,7 +441,7 @@ A:: =============================================
 
 An anagram is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once. This means both words have the same letters, in the same quantities. For example, 'Heart' is an anagram of 'Earth'.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### Given two strings `s` and `t`, return `true` _if `t` is an anagram of `s`, and `false` otherwise_.
 
@@ -306,7 +483,7 @@ A:: =============================================
 
 By converting each word to an array, sorting the arrays, and then comparing them, we can confirm if two words are anagrams. This is because anagrams have the same letters in the same quantities. For example, after sorting either 'heart' and 'earth', the result is 'aehrt'.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### Given two strings `s` and `t`, return `true` _if `t` is an anagram of `s`, and `false` otherwise_.
 
@@ -350,7 +527,7 @@ A:: =============================================
 
 The time complexity of sorting an array of n elements is O(n log n), and the time complexity of comparing two arrays is O(n). When considering the largest term, the time complexity of the solution becomes O(n log n).
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### Given two strings `s` and `t`, return `true` _if `t` is an anagram of `s`, and `false` otherwise_.
 
@@ -392,7 +569,7 @@ A:: =============================================
 
 Given the constraints of the problem and the nature of anagrams, we can use a hashmap to store the count of letters for each string. This would allow us to compare the frequency of each letter in both strings in a more time-efficient way. The downside is we may need extra memory, compared to an in-place sorting algorithm.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### Given two strings `s` and `t`, return `true` _if `t` is an anagram of `s`, and `false` otherwise_.
 
@@ -434,7 +611,7 @@ A:: =============================================
 
 In this case, the keys would be the letters, and the values would be the count of each letter. This way, we can track the frequency of each letter in the strings and compare them.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### Given two strings `s` and `t`, return `true` _if `t` is an anagram of `s`, and `false` otherwise_.
 
@@ -480,7 +657,7 @@ The time complexity of this solution is O(n) because we iterate over the input s
 
 #### Chapter 3 - Two Sum - [Blind]
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### Given an array of integers `nums` and an integer `target`, _return indices of the two numbers such that they add up to `target`_.
 
@@ -515,7 +692,7 @@ A:: =============================================
 
 There are exactly n \* (n - 1) / 2 distinct pairs of integers in the array. This is equivalent to (n^2 - n) / 2 and we normally care about the largest term, which in this case is n^2.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### Given an array of integers `nums` and an integer `target`, _return indices of the two numbers such that they add up to `target`_.
 
@@ -548,7 +725,7 @@ A:: =============================================
 
 To find all pairs of elements with different indices in the array, you can use two nested loops. The first loop iterates over each element, while the second loop only iterates over the elements to the right of the current element. This allows you to compare all possible pairs without duplicates.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### Given an array of integers `nums` and an integer `target`, _return indices of the two numbers such that they add up to `target`_.
 
@@ -583,7 +760,7 @@ A:: =============================================
 
 The brute-force solution using two nested loops has a time complexity of O(n^2) because for each element in the array, you need to iterate over up to n other elements.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### Given an array of integers `nums` and an integer `target`, _return indices of the two numbers such that they add up to `target`_.
 
@@ -618,7 +795,7 @@ A:: =============================================
 
 We can solve this equation for y: y = target - x. For example, if target=9, and x=2, then y = 9 - 2 = 7. In mathematics, this value is known as the complement.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### Given an array of integers `nums` and an integer `target`, _return indices of the two numbers such that they add up to `target`_.
 
@@ -653,7 +830,7 @@ A:: =============================================
 
 Yes, you can reduce the time complexity using a hashmap. A hashmap allows you to store and retrieve values in O(1) - constant time, which can help you find the required indices more efficiently than a brute-force solution.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### Given an array of integers `nums` and an integer `target`, _return indices of the two numbers such that they add up to `target`_.
 
@@ -686,7 +863,7 @@ A:: =============================================
 
 By storing each element in the array as a key and its index as the corresponding value in the hashmap, you can efficiently find the required pair. For each element, you can efficiently calculate the difference and check if it’s a key within the hashmap. If it does, we can get the index from the hashmap. If the index of the difference is different from the index of the current element (remember we are not allowed reuse the same element twice), then you've found the solution.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### Given an array of integers `nums` and an integer `target`, _return indices of the two numbers such that they add up to `target`_.
 
@@ -725,7 +902,7 @@ The hashmap solution has a time complexity of O(n) because you need to iterate t
 #### Chapter 5 - Top K Frequent Elements - [Blind]
 #### Chapter 6 - Encode and Decode Strings - [Blind]
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### Design an algorithm to encode **a list of strings** to **a string**. The encoded string is then sent over the network and is decoded back to the original list of strings.
 
@@ -777,7 +954,7 @@ A:: =============================================
 
 If we use a special character to separate the strings, it could be a problem if the string itself contains this special character. If we concatenate the strings directly, we can't distinguish where one string ends and another begins. Therefore, prefixing each string with its length followed by a special character allows us to correctly separate the strings during decoding, even if they contain special characters.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### Design an algorithm to encode **a list of strings** to **a string**. The encoded string is then sent over the network and is decoded back to the original list of strings.
 
@@ -829,7 +1006,7 @@ A:: =============================================
 
 Prefixing each string with its own length allows us to know exactly where each string starts and ends in the encoded string, which simplifies the decoding process.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### Design an algorithm to encode **a list of strings** to **a string**. The encoded string is then sent over the network and is decoded back to the original list of strings.
 
@@ -881,7 +1058,7 @@ A:: =============================================
 
 If the delimiter is a number, it could lead to confusion during decoding. Hence, we need to choose a delimiter that cannot be part of the prefix.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### Design an algorithm to encode **a list of strings** to **a string**. The encoded string is then sent over the network and is decoded back to the original list of strings.
 
@@ -958,7 +1135,7 @@ The overall time complexity of the solution is determined by the number of chara
 #### Chapter 8 - Valid Sudoku
 #### Chapter 9 - Longest Consecutive Sequence - [Blind]
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### Given an unsorted array of integers `nums`, return the _length of the longest consecutive elements sequence_.
 
@@ -996,7 +1173,7 @@ A:: =============================================
 
 Sorting an array generally takes O(n log n) time. Once the array is sorted, you could iterate through the array once to find the longest consecutive sequence, which would take O(n) time. However, the dominating factor is the sorting time complexity, thus the overall time complexity is O(n log n).
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### Given an unsorted array of integers `nums`, return the _length of the longest consecutive elements sequence_.
 
@@ -1034,7 +1211,7 @@ A:: =============================================
 
 A HashSet can be used to efficiently check the existence of elements in O(1) average time complexity. When extending a sequence, this property is essential, allowing us to determine if the next integer (n + 1) exists in the original array, regardless of its position.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### Given an unsorted array of integers `nums`, return the _length of the longest consecutive elements sequence_.
 
@@ -1072,7 +1249,7 @@ A:: =============================================
 
 For every element in the array, except for 6, the follow-up element n + 1 does exist. So for each element, in the worst case, we would iterate n - 1 times to build each sequence, resulting in a time complexity of O(n^2).
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### Given an unsorted array of integers `nums`, return the _length of the longest consecutive elements sequence_.
 
@@ -1110,7 +1287,7 @@ A:: =============================================
 
 The key observation is that for any number 'n' to be the start of a sequence, the number (n - 1) must not exist in the array. This is because if (n-1) exists, 'n' would be part of a sequence starting at least from (n-1). In this case, for '1' and '100', neither '0' nor '99' exist in the array, indicating that '1' and '100' can indeed be the starting points of their sequences.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### Given an unsorted array of integers `nums`, return the _length of the longest consecutive elements sequence_.
 
@@ -1144,7 +1321,7 @@ A:: =============================================
 
 We then iterate through each element 'n' and if (n - 1) is not in the hashset, we check for the longest sequence starting from 'n'. This is because if (n-1) does not exist, 'n' must be the starting point of a sequence. We then check for the existence of (n + 1), (n + 2), and so on in the hashset, and count the length of the sequence. This approach ensures that we don't repeatedly check the same sequence and keeps the time complexity to O(n).
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### Given an unsorted array of integers `nums`, return the _length of the longest consecutive elements sequence_.
 
@@ -1187,7 +1364,7 @@ The HashSet solution has a time complexity of O(n) because you need to iterate t
 
 #### Chapter 1 - Valid Palindrome - [Blind]
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### A phrase is a **palindrome** if, after converting all uppercase letters into lowercase letters and removing all non-alphanumeric characters, it reads the same forward and backward. Alphanumeric characters include letters and numbers.
 
@@ -1242,7 +1419,7 @@ A:: =============================================
 
 A crucial step to check if a string is a palindrome is to convert it to lowercase. This is because palindromes are case-insensitive. However, it's important to note that removing non-alphanumeric characters is another critical preprocessing step not mentioned in this particular question.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### A phrase is a **palindrome** if, after converting all uppercase letters into lowercase letters and removing all non-alphanumeric characters, it reads the same forward and backward. Alphanumeric characters include letters and numbers.
 
@@ -1297,7 +1474,7 @@ A:: =============================================
 
 The next step is to remove all non-alphanumeric characters. This is because palindromes only consider alphanumeric characters.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### A phrase is a **palindrome** if, after converting all uppercase letters into lowercase letters and removing all non-alphanumeric characters, it reads the same forward and backward. Alphanumeric characters include letters and numbers.
 
@@ -1352,7 +1529,7 @@ A:: =============================================
 
 The final step to check if a string is a palindrome is to compare it to its reversed version. If they are the same, then the string is a palindrome.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### A phrase is a **palindrome** if, after converting all uppercase letters into lowercase letters and removing all non-alphanumeric characters, it reads the same forward and backward. Alphanumeric characters include letters and numbers.
 
@@ -1407,7 +1584,7 @@ A:: =============================================
 
 The time complexity is O(n) because all operations (lowercase conversion, removing non-alphanumeric characters, and reversing the string) take linear time. The 'n' here is the length of the string. The space complexity is also O(n) because we are creating a new string for the reversed version, which can be as long as the input string.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### A phrase is a **palindrome** if, after converting all uppercase letters into lowercase letters and removing all non-alphanumeric characters, it reads the same forward and backward. Alphanumeric characters include letters and numbers.
 
@@ -1462,7 +1639,7 @@ A:: =============================================
 
 Yes, it is possible. You can use two pointers: one starting from the beginning of the string and the other from the end. If the characters at both pointers are equal, we increment the left pointer and decrement the right pointer. If they are not equal, then the string is not a palindrome. This approach avoids creating a new string for the reversed version, thus saving space.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### A phrase is a **palindrome** if, after converting all uppercase letters into lowercase letters and removing all non-alphanumeric characters, it reads the same forward and backward. Alphanumeric characters include letters and numbers.
 
@@ -1520,7 +1697,7 @@ The time complexity is O(n) because in the worst case, we would have to compare 
 #### Chapter 2 - Two Sum II Input Array Is Sorted
 #### Chapter 3 - 3Sum - [Blind]
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### Given an integer array nums, return all the triplets `[nums[i], nums[j], nums[k]]` such that `i != j`, `i != k`, and `j != k`, and `nums[i] + nums[j] + nums[k] == 0`.
 
@@ -1577,7 +1754,7 @@ A:: =============================================
 
 The brute force approach would be to iterate through all possible triplets in the list and check if their sum is equal to zero. This would involve three nested loops and thus would have a time complexity of O(n^3).
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### Given an integer array nums, return all the triplets `[nums[i], nums[j], nums[k]]` such that `i != j`, `i != k`, and `j != k`, and `nums[i] + nums[j] + nums[k] == 0`.
 
@@ -1634,7 +1811,7 @@ A:: =============================================
 
 By sorting the array, we can iterate through the array once and then use a two-pointer approach for each iteration. The two pointers can move towards each other until they meet, checking if the sum of the elements at the pointers equals the negative of the current element. This reduces the time complexity to O(n^2). A binary search approach will also work, but is less efficient.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### Given an integer array nums, return all the triplets `[nums[i], nums[j], nums[k]]` such that `i != j`, `i != k`, and `j != k`, and `nums[i] + nums[j] + nums[k] == 0`.
 
@@ -1691,7 +1868,7 @@ A:: =============================================
 
 Both methods can be used to avoid duplicate triplets. We can check if a triplet is already in our solution before adding it, or we can skip over duplicate elements in our sorted array, since any triplet containing these duplicates would have already been found.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### Given an integer array nums, return all the triplets `[nums[i], nums[j], nums[k]]` such that `i != j`, `i != k`, and `j != k`, and `nums[i] + nums[j] + nums[k] == 0`.
 
@@ -1748,7 +1925,7 @@ A:: =============================================
 
 When we find a valid triplet, we increment the left pointer until we find a new value. This ensures that we do not add the same triplet multiple times when the array contains duplicates. Additionally, when choosing the first number for our triplet, if this number is the same as the previous number, we can skip it. This is because any valid triplets including this number would have already been found in the previous iteration. These steps effectively eliminate duplicate solutions in the final result set.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### Given an integer array nums, return all the triplets `[nums[i], nums[j], nums[k]]` such that `i != j`, `i != k`, and `j != k`, and `nums[i] + nums[j] + nums[k] == 0`.
 
@@ -1839,7 +2016,7 @@ The time complexity is O(n^2) because we iterate through the array once (which i
 
 #### Chapter 4 - Container With Most Water - [Blind]
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### You are given an integer array `height` of length `n`. There are `n` vertical lines drawn such that the two endpoints of the `ith` line are `(i, 0)` and `(i, height[i])`.
 
@@ -1892,7 +2069,7 @@ A:: =============================================
 
 The amount of water a container can hold is determined by the height of the shortest line (since water will overflow from the shorter line) and the distance between the two lines (since a wider container can hold more water).
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### You are given an integer array `height` of length `n`. There are `n` vertical lines drawn such that the two endpoints of the `ith` line are `(i, 0)` and `(i, height[i])`.
 
@@ -1945,7 +2122,7 @@ A:: =============================================
 
 In a brute-force solution, you would have two nested loops to calculate the area for all pairs of lines. There are n\*(n-1)/2 unique pairs, so the time complexity is O(n^2).
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### You are given an integer array `height` of length `n`. There are `n` vertical lines drawn such that the two endpoints of the `ith` line are `(i, 0)` and `(i, height[i])`.
 
@@ -1998,7 +2175,7 @@ A:: =============================================
 
 To maximize the initial area, we should start with the widest possible container, by placing the two pointers at the two ends of the array. This allows us to be greedy and maximize the distance between the two lines. From there, we can move the pointers inward to explore other possible containers.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### You are given an integer array `height` of length `n`. There are `n` vertical lines drawn such that the two endpoints of the `ith` line are `(i, 0)` and `(i, height[i])`.
 
@@ -2049,7 +2226,7 @@ A:: =============================================
 
 The amount of water a container can hold is determined by the height of the shorter line. If we move the pointer at the taller line, the new container will be narrower (since the distance between the lines decreases), and it can't be taller (since the height is still limited by the shorter line). Therefore, there’s no need to consider anymore containers where the left pointer is at index = 0, since they will always be smaller than the current maximum.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### You are given an integer array `height` of length `n`. There are `n` vertical lines drawn such that the two endpoints of the `ith` line are `(i, 0)` and `(i, height[i])`.
 
@@ -2102,7 +2279,7 @@ A:: =============================================
 
 The two-pointer technique starts with the widest possible container and moves the pointers inward, always choosing the pointer at the shorter line to move. This ensures that every element in the array is guaranteed to have a pointer land on it at some point. It also avoids unnecessary combinations by skipping those that won't lead to a larger area (i.e., those where the container would be narrower but not taller). This solution is based on a ‘proof by contradiction’. Since we are being greedy and only skipping combinations that won’t lead to a new maximum, we are guaranteed to find the solution.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### You are given an integer array `height` of length `n`. There are `n` vertical lines drawn such that the two endpoints of the `ith` line are `(i, 0)` and `(i, height[i])`.
 
@@ -2161,7 +2338,7 @@ The two-pointer solution has a time complexity of O(n) because you need to itera
 
 #### Chapter 1 - Valid Parentheses - [Blind]
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### Given a string s containing just the characters `'('`, `')'`, `'{'`, `'}'`, `'['` and `']'`, determine if the input string is valid.
 
@@ -2198,14 +2375,14 @@ A) Yes
 
 B) No
 
-###### ID70
+###### ID46
 
 A:: =============================================  
 **Answer**: B
 
 Although every opening bracket has a matching closing bracket of the same type, they are not closed in the correct order. The first opening bracket is '(', but the first closing bracket after that is '\]', which is not the correct matching closing bracket.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### Given a string s containing just the characters `'('`, `')'`, `'{'`, `'}'`, `'['` and `']'`, determine if the input string is valid.
 
@@ -2246,14 +2423,14 @@ C) Queue
 
 D) Binary Tree
 
-###### ID71
+###### ID47
 
 A:: =============================================  
 **Answer**: B
 
 A Stack is a LIFO (Last In First Out) data structure, which aligns well with this problem's requirements. When dealing with nested structures, like brackets, the most recently opened bracket must be the first one to be closed. This 'last opened, first closed' pattern is a characteristic behavior of a Stack, making it a suitable data structure to handle such scenarios.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### Given a string s containing just the characters `'('`, `')'`, `'{'`, `'}'`, `'['` and `']'`, determine if the input string is valid.
 
@@ -2294,14 +2471,14 @@ C) Push it onto the stack.
 
 D) Pop the top element from the stack.
 
-###### ID72
+###### ID48
 
 A:: =============================================  
 **Answer**: C
 
 When we encounter an open bracket, we should push it onto the stack. The stack is used to keep track of the open brackets that we have encountered but not yet closed.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### Given a string s containing just the characters `'('`, `')'`, `'{'`, `'}'`, `'['` and `']'`, determine if the input string is valid.
 
@@ -2342,14 +2519,14 @@ C) Pop the top element from the stack and check if it matches with the current 
 
 D) Check if it matches with the bottom element of the stack.
 
-###### ID73
+###### ID49
 
 A:: =============================================  
 **Answer**: C
 
 When we encounter a closing bracket, we should pop the top element from the stack and check if it is the matching opening bracket for the current closing bracket. If it is, we can continue; if it's not, or if the stack is empty, then the string is not valid.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### Given a string s containing just the characters `'('`, `')'`, `'{'`, `'}'`, `'['` and `']'`, determine if the input string is valid.
 
@@ -2390,14 +2567,14 @@ C) If the last element in the stack is an open bracket.
 
 D) If the last element in the stack is a closing bracket.
 
-###### ID74
+###### ID50
 
 A:: =============================================  
 **Answer**: A
 
 If we have managed to close all open brackets while iterating through the string, the stack should be empty at the end. If the stack is not empty, it means there are some open brackets that were not closed, so the string is not valid.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### Given a string s containing just the characters `'('`, `')'`, `'{'`, `'}'`, `'['` and `']'`, determine if the input string is valid.
 
@@ -2438,7 +2615,7 @@ C) Time: O(n), Space: O(n^2)
 
 D) Time: O(n^2), Space: O(n)
 
-###### ID75
+###### ID51
 
 A:: =============================================  
 **Answer**: B
@@ -2459,7 +2636,7 @@ We are iterating through the string only once, where n is the length of the stri
 #### Chapter 3 - Koko Eating Bananas
 #### Chapter 4 - Find Minimum In Rotated Sorted Array - [Blind]
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### Suppose an array of length `n` sorted in ascending order is **rotated** between `1` and `n` times. For example, the array `nums = [0, 1, 2, 4, 5, 6, 7]` might become:
 
@@ -2515,14 +2692,14 @@ C) O(n^2)
 
 D) O(1)
 
-###### ID85
+###### ID52
 
 A:: =============================================  
 **Answer**: D
 
 In a sorted array, the minimum element is always at the beginning, which can be found in constant time, O(1).
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### Suppose an array of length `n` sorted in ascending order is **rotated** between `1` and `n` times. For example, the array `nums = [0, 1, 2, 4, 5, 6, 7]` might become:
 
@@ -2578,14 +2755,14 @@ C) O(n^2)
 
 D) O(1)
 
-###### ID86
+###### ID53
 
 A:: =============================================  
 **Answer**: A
 
 The simplest solution would be to perform a linear search, which has a time complexity of O(n).
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### Suppose an array of length `n` sorted in ascending order is **rotated** between `1` and `n` times. For example, the array `nums = [0, 1, 2, 4, 5, 6, 7]` might become:
 
@@ -2641,14 +2818,14 @@ C) The middle element in the array
 
 D) The element at a random position in the array
 
-###### ID87
+###### ID54
 
 A:: =============================================  
 **Answer**: C
 
 In a binary search, we first check the middle element of the array. Depending on the condition, we decide whether to proceed to the left half or the right half.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### Suppose an array of length `n` sorted in ascending order is **rotated** between `1` and `n` times. For example, the array `nums = [0, 1, 2, 4, 5, 6, 7]` might become:
 
@@ -2702,14 +2879,14 @@ A) The left sorted portion
 
 B) The right sorted portion
 
-###### ID88
+###### ID55
 
 A:: =============================================  
 **Answer**: B
 
 The minimum element will be found in the right sorted portion since every element in that portion will be less than every element in the left sorted portion. The minimum element will be the leftmost value in the right sorted portion.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### Suppose an array of length `n` sorted in ascending order is **rotated** between `1` and `n` times. For example, the array `nums = [0, 1, 2, 4, 5, 6, 7]` might become:
 
@@ -2767,14 +2944,14 @@ C) nums\[r\]
 
 D) None of the above.
 
-###### ID89
+###### ID56
 
 A:: =============================================  
 **Answer**: B
 
 In a normal sorted array, the leftmost element is the minimum. In our case, if the original array is rotated n times, the minimum will be nums\[0\]. Alternatively, as we run binary search, if the current subarray of our search is a normal sorted array, we can end the binary search.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### Suppose an array of length `n` sorted in ascending order is **rotated** between `1` and `n` times. For example, the array `nums = [0, 1, 2, 4, 5, 6, 7]` might become:
 
@@ -2830,14 +3007,14 @@ B) At the mid point or to the left of mid.
 
 C) To the right of mid.
 
-###### ID90
+###### ID57
 
 A:: =============================================  
 **Answer**: B
 
 If the middle element is less than the first element, it means the middle element is in the right sorted portion. The smallest element will always be found in the right sorted portion, so either the middle element is the minimum or the minimum is to the left of mid.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### Suppose an array of length `n` sorted in ascending order is **rotated** between `1` and `n` times. For example, the array `nums = [0, 1, 2, 4, 5, 6, 7]` might become:
 
@@ -2895,14 +3072,14 @@ C) At the mid point.
 
 D) This scenario is not possible.
 
-###### ID91
+###### ID58
 
 A:: =============================================  
 **Answer**: B
 
 If the middle element is greater than the first element, it means the middle element is in the left sorted portion, but the minimum must be found in the right sorted portion.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### Suppose an array of length `n` sorted in ascending order is **rotated** between `1` and `n` times. For example, the array `nums = [0, 1, 2, 4, 5, 6, 7]` might become:
 
@@ -2978,7 +3155,7 @@ C) Time complexity: O(n log n), Space complexity: O(n)
 
 D) Time complexity: O(n^2), Space complexity: O(n)
 
-###### ID92
+###### ID59
 
 A:: =============================================  
 **Answer**: B
@@ -2987,7 +3164,7 @@ The binary search approach has a time complexity of O(log n) because in each ste
 
 #### Chapter 5 - Search In Rotated Sorted Array - [Blind]
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### There is an integer array `nums` sorted in ascending order (with **distinct** values).
 
@@ -3031,14 +3208,14 @@ C) O(n^2)
 
 D) O(1)
 
-###### ID76
+###### ID60
 
 A:: =============================================  
 **Answer**: B
 
 For a sorted array, binary search can be applied to find an element. The time complexity of binary search is O(log n).
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### There is an integer array `nums` sorted in ascending order (with **distinct** values).
 
@@ -3082,14 +3259,14 @@ C) O(n^2)
 
 D) O(1)
 
-###### ID77
+###### ID61
 
 A:: =============================================  
 **Answer**: A
 
 The simplest solution would be to perform a linear search, which has a time complexity of O(n).
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### There is an integer array `nums` sorted in ascending order (with **distinct** values).
 
@@ -3133,14 +3310,14 @@ C) The middle element in the array
 
 D) The element at a random position in the array
 
-###### ID78
+###### ID62
 
 A:: =============================================  
 **Answer**: C
 
 In a binary search, we first check the middle element of the array. If the target is equal to it, we're done. If the target is greater, we know our target must be in the right portion of the array, and if it's less, the target must be in the left portion.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### There is an integer array `nums` sorted in ascending order (with **distinct** values).
 
@@ -3184,14 +3361,14 @@ C) Compare the middle element with nums\[mid - 1\].
 
 D) Either A or B.
 
-###### ID79
+###### ID63
 
 A:: =============================================  
 **Answer**: D
 
 We can determine which half of the array we are currently inside by comparing the middle element with the first element (nums\[0\]) or the last element (nums\[length - 1\]). If the middle element is greater than or equal to nums\[0\], we are in the left portion of the array; otherwise, we are in the right sorted portion. Alternatively, if the middle element is less than or equal to nums\[length - 1\] we are in the right sorted portion, otherwise we are in the left portion.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### There is an integer array `nums` sorted in ascending order (with **distinct** values).
 
@@ -3235,14 +3412,14 @@ C) Compare the target with nums\[mid - 1\] and nums\[mid + 1\].
 
 D) None of the above.
 
-###### ID80
+###### ID64
 
 A:: =============================================  
 **Answer**: B
 
 We can determine if the target element belongs to the left or right portion of the array by comparing the target with the first element (nums\[0\]) or the last element (nums\[length - 1\]). If the target is greater than or equal to the first element, it belongs to the left portion of the array. If the target is less than the first element, it belongs to the right portion of the array.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### There is an integer array `nums` sorted in ascending order (with **distinct** values).
 
@@ -3288,14 +3465,14 @@ C) At the mid point.
 
 D) This scenario is not possible.
 
-###### ID81
+###### ID65
 
 A:: =============================================  
 **Answer**: B
 
 If we are in the left sorted half of the array, but the target element belongs to the right sorted half, we should continue our search to the right of the mid pointer.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### There is an integer array `nums` sorted in ascending order (with **distinct** values).
 
@@ -3341,14 +3518,14 @@ C) At the mid point.
 
 D) This scenario is not possible.
 
-###### ID82
+###### ID66
 
 A:: =============================================  
 **Answer**: A
 
 If we are in the right sorted half of the array, but the target element belongs to the left sorted half, we should continue our search to the left of the mid pointer.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### There is an integer array `nums` sorted in ascending order (with **distinct** values).
 
@@ -3388,14 +3565,14 @@ A) Yes
 
 B) No
 
-###### ID83
+###### ID67
 
 A:: =============================================  
 **Answer**: A
 
 Yes, if we are in the appropriate half of the array, we can simply perform a normal binary search. The normal binary search process involves comparing the target with the middle element and then deciding whether to continue the search in the left portion or the right portion of the array, depending on whether the target is less or greater than the middle element.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### There is an integer array `nums` sorted in ascending order (with **distinct** values).
 
@@ -3465,7 +3642,7 @@ C) Time complexity: O(n log n), Space complexity: O(n)
 
 D) Time complexity: O(n^2), Space complexity: O(n)
 
-###### ID84
+###### ID68
 
 A:: =============================================  
 **Answer**: B
@@ -3479,7 +3656,7 @@ The binary search approach has a time complexity of O(log n) because in each ste
 
 #### Chapter 1 - Best Time to Buy And Sell Stock - [Blind]
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### You are given an array `prices` where `prices[i]` is the price of a given stock on the `ith` day.
 
@@ -3508,14 +3685,14 @@ C) Sorting the array and finding the difference between the minimum and maximum
 
 D) Creating a new array with the differences between consecutive prices and finding the maximum difference.
 
-###### ID46
+###### ID69
 
 A:: =============================================  
 **Answer**: B
 
 The correct brute-force approach is to calculate the profit for each valid pair of buying and selling days, and then find the maximum profit. For each day, we calculate the profit for every other day in the future. We keep track of the maximum profit seen.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### You are given an array `prices` where `prices[i]` is the price of a given stock on the `ith` day.
 
@@ -3544,14 +3721,14 @@ C) The difference between each pair of prices and the maximum price found so fa
 
 D) The maximum profit found so far and the index of the minimum price found so far.
 
-###### ID47
+###### ID70
 
 A:: =============================================  
 **Answer**: B
 
 We should keep track of the minimum price found so far and the maximum profit found so far. By keeping track of these two values, we can calculate the maximum potential profit at each step while iterating through the array.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### You are given an array `prices` where `prices[i]` is the price of a given stock on the `ith` day.
 
@@ -3578,14 +3755,14 @@ B) Find the minimum price in the array, and for every other price compute the p
 
 C) Iterate through the prices, if we find a new minimum price then update it. Compute the profit between the current price and the minimum price, if it exceeds the maximum profit, then update it.
 
-###### ID48
+###### ID71
 
 A:: =============================================  
 **Answer**: C
 
 We iterate through the prices, and for each price, if it is lower than the current minimum price, we update the minimum price. Then, we compute the profit by subtracting the current minimum from the current price. If this profit is greater than the current maximum profit, we update the maximum profit.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### You are given an array `prices` where `prices[i]` is the price of a given stock on the `ith` day.
 
@@ -3614,14 +3791,14 @@ C) O(n^2)
 
 D) O(2^n)
 
-###### ID49
+###### ID72
 
 A:: =============================================  
 **Answer**: B
 
 The optimal solution has a time complexity of O(n), where n is the number of days (or the length of the input array). This is because we're iterating through the array just once.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### You are given an array `prices` where `prices[i]` is the price of a given stock on the `ith` day.
 
@@ -3650,7 +3827,7 @@ C) O(n^2)
 
 D) O(2^n)
 
-###### ID50
+###### ID73
 
 A:: =============================================  
 **Answer**: A
@@ -3659,7 +3836,7 @@ The optimal solution has a constant space complexity, O(1), as we are only keepi
 
 #### Chapter 2 - Longest Substring Without Repeating Characters - [Blind]
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### Given a string `s`, find the length of the **longest** **substring** without repeating characters.
 
@@ -3701,14 +3878,14 @@ A) Check each character and its subsequent characters for equality.
 
 B) Generate all possible substrings and check each for repeated characters.
 
-###### ID51
+###### ID74
 
 A:: =============================================  
 **Answer**: B
 
 The brute force solution for this problem would be to generate all possible substrings of the given string and check each of them for repeated characters. We would then keep track of the length of the longest substring without repeated characters.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### Given a string `s`, find the length of the **longest** **substring** without repeating characters.
 
@@ -3754,14 +3931,14 @@ C) Hash Set
 
 D) Heap
 
-###### ID52
+###### ID75
 
 A:: =============================================  
 **Answer**: C
 
 A Set is a data structure that maintains a collection of unique elements. It provides constant-time complexity for search, insertion, and deletion, making it a suitable choice for tracking unique characters in a string.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### Given a string `s`, find the length of the **longest** **substring** without repeating characters.
 
@@ -3805,14 +3982,14 @@ B) Sliding Window
 
 C) Recursion
 
-###### ID53
+###### ID76
 
 A:: =============================================  
 **Answer**: B
 
 The sliding window approach allows us to scan through the string once (linear time complexity) while keeping track of the longest substring without repeating characters. It's an optimal strategy for this problem as it avoids unnecessary repeated computations.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### Given a string `s`, find the length of the **longest** **substring** without repeating characters.
 
@@ -3856,14 +4033,14 @@ B) Shrink the window from the left until the repeating character is no longer i
 
 C) Discard the current window and start a new window from the next character.
 
-###### ID54
+###### ID77
 
 A:: =============================================  
 **Answer**: B
 
 When we encounter a repeating character, it means we need to shrink the window from the left until the repeating character is no longer in the window, as we are searching for substrings without repeating characters.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### Given a string `s`, find the length of the **longest** **substring** without repeating characters.
 
@@ -3907,14 +4084,14 @@ B) 52
 
 C) 95
 
-###### ID55
+###### ID78
 
 A:: =============================================  
 **Answer**: C
 
 In ASCII, there are 95 printable characters: 26 lowercase English letters, 26 uppercase English letters, 10 digits (0-9), 32 special characters and symbols, and the space character. This makes a total of 95 unique characters. Even if you don’t know there are exactly 95, it reasonable that there would be more than 52 (26 uppercase, 26 lowercase).
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### Given a string `s`, find the length of the **longest** **substring** without repeating characters.
 
@@ -3974,7 +4151,7 @@ B) Time complexity: O(n), Space complexity: O(m)
 
 C) Time complexity: O(n^2), Space complexity: O(m)
 
-###### ID56
+###### ID79
 
 A:: =============================================  
 **Answer**: B
@@ -3983,7 +4160,7 @@ Using the sliding window approach, we essentially scan through the string once w
 
 #### Chapter 3 - Longest Repeating Character Replacement - [Blind]
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### You are given a string `s` and an integer `k`. You can choose any character of the string and change it to any other uppercase English character. You can perform this operation at most `k` times.
 
@@ -4021,14 +4198,14 @@ A) Iterate from the end of the string to the beginning, checking for duplicate 
 
 B) For each substring, find the frequency of the most common character (maxf) and check if the length of the substring minus maxf is less than or equal to k.
 
-###### ID57
+###### ID80
 
 A:: =============================================  
 **Answer**: B
 
 The brute force solution would be to generate all possible substrings and for each substring, find the frequency of the most common character. If the length of the substring minus the frequency of the most common character is less than or equal to k, then the substring is valid (since we can change at most k characters to make all characters in the substring the same). We would then keep track of the maximum length of such valid substrings.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### You are given a string `s` and an integer `k`. You can choose any character of the string and change it to any other uppercase English character. You can perform this operation at most `k` times.
 
@@ -4070,14 +4247,14 @@ C) Hash Map
 
 D) Either B or C
 
-###### ID58
+###### ID81
 
 A:: =============================================  
 **Answer**: D
 
 Both an Array and a Hash Map can be used to efficiently count the frequency of elements. By keeping a frequency count of characters in our current window, we can determine the most frequent character. In the case of an Array, we could use each index to represent a unique character from the string (i.e., 'A' to 'Z' mapped to 0 to 25). In the case of a Hash Map, we would use the character itself as the key and the frequency as the value. Both methods allow us to update and access the frequency of each character in constant time.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### You are given a string `s` and an integer `k`. You can choose any character of the string and change it to any other uppercase English character. You can perform this operation at most `k` times.
 
@@ -4117,14 +4294,14 @@ B) Two pointers with sliding window
 
 C) Recursion
 
-###### ID59
+###### ID82
 
 A:: =============================================  
 **Answer**: B
 
 The two pointers with sliding window strategy allows us to scan through the string in linear time complexity while keeping track of the longest substring with the same letters. The sliding window size changes based on the character frequency and the number of operations allowed.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### You are given a string `s` and an integer `k`. You can choose any character of the string and change it to any other uppercase English character. You can perform this operation at most `k` times.
 
@@ -4166,14 +4343,14 @@ C) Increase k
 
 D) Change the character at the left of the window
 
-###### ID60
+###### ID83
 
 A:: =============================================  
 **Answer**: B
 
 If the window size minus the frequency of the most common character is greater than k, it means we cannot make all characters the same in this window by changing k characters. Therefore, we need to shrink the window from the left.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### You are given a string `s` and an integer `k`. You can choose any character of the string and change it to any other uppercase English character. You can perform this operation at most `k` times.
 
@@ -4213,14 +4390,14 @@ B) O(n)
 
 C) O(logn)
 
-###### ID61
+###### ID84
 
 A:: =============================================  
 **Answer**: A
 
 Since we know that the string only contains uppercase English letters, there can be at most 26 unique characters. Thus, if we were to iterate through each unique character in our frequency dictionary or array to find the most frequent one, the time complexity would be O(26), which is essentially constant time, O(1).
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### You are given a string `s` and an integer `k`. You can choose any character of the string and change it to any other uppercase English character. You can perform this operation at most `k` times.
 
@@ -4275,7 +4452,7 @@ B) Time complexity: O(n), Space complexity: O(n)
 
 C) Time complexity: O(n^2), Space complexity: O(1)
 
-###### ID62
+###### ID85
 
 A:: =============================================  
 **Answer**: A
@@ -4285,7 +4462,7 @@ The sliding window approach only scans the string once, and the time complexity 
 #### Chapter 4 - Permutation In String
 #### Chapter 5 - Minimum Window Substring - [Blind]
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### Given two strings `s` and `t` of lengths `m` and `n` respectively, return the _**minimum window substring**_ of `s` such that every character in `t` (_**including duplicates**_) is included in the window. If there is no such substring, return the empty string `""`.
 
@@ -4333,14 +4510,14 @@ B) Remove each character of s one by one and check if the remaining string cont
 
 C) Sort both s and t and check if t is a substring of s
 
-###### ID63
+###### ID86
 
 A:: =============================================  
 **Answer**: A
 
 The brute force solution would be to generate all possible substrings of s and for each substring, check if it contains all characters of t including duplicates. Then we keep the shortest such valid substring.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### Given two strings `s` and `t` of lengths `m` and `n` respectively, return the _**minimum window substring**_ of `s` such that every character in `t` (_**including duplicates**_) is included in the window. If there is no such substring, return the empty string `""`.
 
@@ -4388,14 +4565,14 @@ B) Hash Map
 
 C) Stack
 
-###### ID64
+###### ID87
 
 A:: =============================================  
 **Answer**: B
 
 A Hash Map is a good data structure to efficiently track the frequency of each character in the current window. By using the character itself as the key and the frequency as the value, we can access and update the frequency of each character in constant time.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### Given two strings `s` and `t` of lengths `m` and `n` respectively, return the _**minimum window substring**_ of `s` such that every character in `t` (_**including duplicates**_) is included in the window. If there is no such substring, return the empty string `""`.
 
@@ -4443,14 +4620,14 @@ B) Two Pointers with Sliding Window
 
 C) Binary Search
 
-###### ID65
+###### ID88
 
 A:: =============================================  
 **Answer**: B
 
 The Two Pointers with Sliding Window strategy allows us to scan through the string in linear time complexity while keeping track of the smallest valid substring. We maintain a sliding window that always satisfies the condition of containing all characters of \`t\`.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### Given two strings `s` and `t` of lengths `m` and `n` respectively, return the _**minimum window substring**_ of `s` such that every character in `t` (_**including duplicates**_) is included in the window. If there is no such substring, return the empty string `""`.
 
@@ -4498,14 +4675,14 @@ B) Shrink the window from the left
 
 C) Remove the window and create a new one
 
-###### ID66
+###### ID89
 
 A:: =============================================  
 **Answer**: A
 
 If our current window does not contain all characters of \`t\`, it means we need to expand the window from the right in hope of including the missing characters.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### Given two strings `s` and `t` of lengths `m` and `n` respectively, return the _**minimum window substring**_ of `s` such that every character in `t` (_**including duplicates**_) is included in the window. If there is no such substring, return the empty string `""`.
 
@@ -4553,14 +4730,14 @@ B) Shrink the window from the left
 
 C) Expand the window from the left
 
-###### ID67
+###### ID90
 
 A:: =============================================  
 **Answer**: B
 
 If our current window already contains all characters of \`t\`, we try to shrink the window from the left to find the smallest window that still satisfies the condition. If we can't shrink it without losing a necessary character, we move on to expanding it from the right again.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### Given two strings `s` and `t` of lengths `m` and `n` respectively, return the _**minimum window substring**_ of `s` such that every character in `t` (_**including duplicates**_) is included in the window. If there is no such substring, return the empty string `""`.
 
@@ -4608,14 +4785,14 @@ B) By keeping track of two variables: the number of unique characters we have f
 
 C) By sorting the hashmap and comparing it with \`t\`
 
-###### ID68
+###### ID91
 
 A:: =============================================  
 **Answer**: B
 
 By maintaining two variables, \`have\` and \`need\`, we can efficiently check if our window contains all characters of \`t\`. \`need\` is the number of unique characters in \`t\`, and \`have\` is the number of unique characters in \`t\` that our window currently contains. Each time we add a character to our window that makes the count of that character match what's needed in \`t\`, we increment \`have\`. We know our window contains all characters of \`t\` when \`have\` equals \`need\`.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### Given two strings `s` and `t` of lengths `m` and `n` respectively, return the _**minimum window substring**_ of `s` such that every character in `t` (_**including duplicates**_) is included in the window. If there is no such substring, return the empty string `""`.
 
@@ -4694,7 +4871,7 @@ B) Time complexity: O(n), Space complexity: O(n)
 
 C) Time complexity: O(n^2), Space complexity: O(m)
 
-###### ID69
+###### ID92
 
 A:: =============================================  
 **Answer**: A
@@ -4707,7 +4884,7 @@ The time complexity is O(n+m) as we go through both s and t once. The space comp
 
 #### Chapter 1 - Reverse Linked List - [Blind]
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### Given the `head` of a singly linked list, reverse the list, and return _the reversed list_.
 
@@ -4758,7 +4935,7 @@ A:: =============================================
 
 Reversing a linked list with only one node doesn't change anything. It remains the same, as there are no other nodes to rearrange.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### Given the `head` of a singly linked list, reverse the list, and return _the reversed list_.
 
@@ -4809,7 +4986,7 @@ A:: =============================================
 
 In a singly linked list, each node has a value and a 'next' reference pointing to the next node in the list. To reverse the list, we need to change the 'next' reference of each node to point to the previous node.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### Given the `head` of a singly linked list, reverse the list, and return _the reversed list_.
 
@@ -4862,7 +5039,7 @@ A:: =============================================
 
 Recursion or using a stack would require additional space and isn't necessary. By traversing the list and updating the 'next' reference of each node to point to the previous node, we can achieve the desired result.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### Given the `head` of a singly linked list, reverse the list, and return _the reversed list_.
 
@@ -4936,7 +5113,7 @@ The time complexity is O(n) because we need to traverse the list once, where n i
 
 #### Chapter 2 - Merge Two Sorted Lists - [Blind]
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### You are given the heads of two sorted linked lists `list1` and `list2`.
 
@@ -4991,7 +5168,7 @@ A:: =============================================
 
 As both lists are sorted in non-decreasing order, the smallest elements are at the heads of the lists. Hence, we should start comparing from the first elements of each list to create the new sorted list.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### You are given the heads of two sorted linked lists `list1` and `list2`.
 
@@ -5046,7 +5223,7 @@ A:: =============================================
 
 To maintain the sorted order in the output list, we should always insert the node with the smaller value first. If there’s a tie, we can insert either node. This ensures that we are always adding the smallest remaining element to the merged list.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### You are given the heads of two sorted linked lists `list1` and `list2`.
 
@@ -5101,7 +5278,7 @@ A:: =============================================
 
 After inserting a node from one of the lists into the output list, we should shift to the next node in the same list. We've already considered the inserted node in the sorting process. Now, it's time to compare the next node from this list with the current node from the other list.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### You are given the heads of two sorted linked lists `list1` and `list2`.
 
@@ -5156,7 +5333,7 @@ A:: =============================================
 
 If one list becomes empty before the other, we can safely append the remaining nodes from the other list to the merged list. As both lists are sorted, the remaining nodes will also be in sorted order.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### You are given the heads of two sorted linked lists `list1` and `list2`.
 
@@ -5232,7 +5409,7 @@ The time complexity is O(m+n) because in the worst case, we'll have to traverse 
 
 #### Chapter 3 - Reorder List - [Blind]
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### You are given the head of a singly linked-list. The list can be represented as:
 
@@ -5290,7 +5467,7 @@ A:: =============================================
 
 To get to the required order, we first need to reverse the second half of the list. This is because the second half of the list is to be interweaved with the first half, but in the reverse order.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### You are given the head of a singly linked-list. The list can be represented as:
 
@@ -5346,7 +5523,7 @@ A:: =============================================
 
 We use a technique known as the 'tortoise and the hare' to find the middle of a singly linked list. The slow pointer moves one step at a time while the fast pointer moves two steps at a time. By the time the fast pointer reaches the end of the list, the slow pointer will be at the middle.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### You are given the head of a singly linked-list. The list can be represented as:
 
@@ -5404,7 +5581,7 @@ A:: =============================================
 
 After reversing the second half of the list, we reorder the list by alternating nodes from the first and second half of the list.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### You are given the head of a singly linked-list. The list can be represented as:
 
@@ -5462,7 +5639,7 @@ A:: =============================================
 
 The provided code merges the two halves by iterating through the first half of the list. At each step, it unlinks a node from the second half and links it into the first half. This results in the desired ordering of nodes.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### You are given the head of a singly linked-list. The list can be represented as:
 
@@ -5555,7 +5732,7 @@ This approach has a linear time complexity O(n) because we are making a single p
 
 #### Chapter 4 - Remove Nth Node From End of List - [Blind]
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### Given the `head` of a linked list, remove the `nth` node from the end of the list and return its head.
 
@@ -5609,7 +5786,7 @@ A:: =============================================
 
 To remove a node x from a singly linked list, we need access to the node before x. This is because in a singly linked list, we can only navigate in one direction and there's no reference to the previous node from a given node. By having access to the node before x, we can adjust its next reference to bypass x, effectively removing x from the list.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### Given the `head` of a linked list, remove the `nth` node from the end of the list and return its head.
 
@@ -5663,7 +5840,7 @@ A:: =============================================
 
 To eliminate the edge case of removing the first node in the list, we can add a dummy node at the beginning of the list. This dummy node won't affect the other operations, but allows us to handle the head of the list in a consistent way with other nodes.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### Given the `head` of a linked list, remove the `nth` node from the end of the list and return its head.
 
@@ -5719,7 +5896,7 @@ A:: =============================================
 
 If we are to solve this problem using two pointers without precomputing the length of the list, the offset between the two pointers should be n + 1. This ensures that the second pointer reaches null right when the first pointer gets to the node before the target node, which is the nth node from the end of the list.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### Given the `head` of a linked list, remove the `nth` node from the end of the list and return its head.
 
@@ -5771,7 +5948,7 @@ A:: =============================================
 
 After we have created the offset, we should shift each pointer by 1 on each iteration of the loop. This ensures that the offset (the gap between the two pointers) remains constant while traversing the list, allowing us to find the node to be removed.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### Given the `head` of a linked list, remove the `nth` node from the end of the list and return its head.
 
@@ -5851,7 +6028,7 @@ The two-pointer approach has a linear time complexity of O(n). We perform a cons
 #### Chapter 9 - LRU Cache
 #### Chapter 10 - Merge K Sorted Lists - [Blind]
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### You are given an array of `k` linked-lists `lists`, each linked-list is sorted in ascending order.
 
@@ -5914,7 +6091,7 @@ A:: =============================================
 
 A straightforward approach for this problem would involve sequentially merging the linked lists, starting from the first one. This would involve merging the first two lists, then merging the result with the third list, and so on. While this approach is simple, it may not be the most efficient in terms of time complexity.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### You are given an array of `k` linked-lists `lists`, each linked-list is sorted in ascending order.
 
@@ -5977,7 +6154,7 @@ A:: =============================================
 
 When you merge two linked lists, the time complexity is proportional to the total number of nodes in the two lists. If you merge the linked lists one by one, you'll end up with a time complexity of O(kn) because each merge operation can potentially traverse all n nodes, and this operation is repeated k times.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### You are given an array of `k` linked-lists `lists`, each linked-list is sorted in ascending order.
 
@@ -6040,7 +6217,7 @@ A:: =============================================
 
 Since all individual linked lists are sorted, you can use a priority queue (also known as a min-heap) to efficiently select the next smallest node from the heads of all the linked lists.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### You are given an array of `k` linked-lists `lists`, each linked-list is sorted in ascending order.
 
@@ -6103,7 +6280,7 @@ A:: =============================================
 
 The time complexity of inserting an element into a priority queue (or min-heap) is O(log k), where k is the number of linked lists (or the current size of the heap). Each insert operation might need to restructure the heap to maintain its properties, which takes logarithmic time.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### You are given an array of `k` linked-lists `lists`, each linked-list is sorted in ascending order.
 
@@ -6166,7 +6343,7 @@ A:: =============================================
 
 If you use a priority queue, you are essentially removing the smallest element (head of some linked list) and then adding the next element from the same list. Each operation (insert/remove) would take O(log k) time. Since we are doing these operations for all 'n' nodes, the total time complexity would be O(n log k).
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### You are given an array of `k` linked-lists `lists`, each linked-list is sorted in ascending order.
 
@@ -6235,7 +6412,7 @@ In this case, the space complexity is O(k) because at any point, you only need t
 
 #### Chapter 1 - Invert Binary Tree - [Blind]
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### Given the `root` of a binary tree, invert the tree, and return _its root_.
 
@@ -6270,7 +6447,7 @@ A:: =============================================
 
 Inverting a binary tree means to make all left child nodes become right child nodes and vice versa. This is effectively the same as swapping the left and right child nodes for every node in the tree.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### You are given an array of `k` linked-lists `lists`, each linked-list is sorted in ascending order.
 
@@ -6333,7 +6510,7 @@ A:: =============================================
 
 Both Depth-First Search (DFS) and Breadth-First Search (BFS) could be used to solve this problem. Both methods would work because the order in which we visit the nodes doesn't matter in this problem, as long as every node’s children are swapped.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### You are given an array of `k` linked-lists `lists`, each linked-list is sorted in ascending order.
 
@@ -6396,7 +6573,7 @@ A:: =============================================
 
 The base case for a recursive approach to this problem could be when we encounter a null node. This is because we cannot swap the left and right children of a null node. But an alternative base case could be when we encounter a leaf node, since the node doesn’t have any children to swap.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### You are given an array of `k` linked-lists `lists`, each linked-list is sorted in ascending order.
 
@@ -6459,7 +6636,7 @@ A:: =============================================
 
 The recursive approach to inverting a binary tree would involve swapping the left and right children of the root node, as well as recursively inverting the left subtree, and the right subtree. But it doesn’t matter the order we execute these operations because none of them interfere with each other.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### You are given an array of `k` linked-lists `lists`, each linked-list is sorted in ascending order.
 
@@ -6524,7 +6701,7 @@ The time complexity of the recursive solution is O(n), where n is the number of 
 
 #### Chapter 2 - Maximum Depth of Binary Tree - [Blind]
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### Given the `root` of a binary tree, return _its maximum depth_.
 
@@ -6571,7 +6748,7 @@ A:: =============================================
 
 A tree with a single node (which is also the root) has a maximum depth of 1. The depth of a tree is the number of nodes along the longest path from the root node down to the farthest leaf node. Here, that path consists only of the root node itself.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### You are given an array of `k` linked-lists `lists`, each linked-list is sorted in ascending order.
 
@@ -6634,7 +6811,7 @@ A:: =============================================
 
 Both DFS and BFS can be used to solve this problem. Both methods would work because they both can explore the full depth of the tree. There is no inherent efficiency gain in this particular problem for DFS over BFS or vice versa, as we would need to traverse all nodes to ensure we've found the maximum depth.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### You are given an array of `k` linked-lists `lists`, each linked-list is sorted in ascending order.
 
@@ -6695,7 +6872,7 @@ A:: =============================================
 
 A good base case for this problem could be when we encounter a null node. When we reach a null node, it indicates we've traversed all the way down one path of the tree and we've hit a leaf node in the previous step.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### You are given an array of `k` linked-lists `lists`, each linked-list is sorted in ascending order.
 
@@ -6756,7 +6933,7 @@ A:: =============================================
 
 The maximum depth of a binary tree is one more than the maximum of the depths of its left and right subtrees. So, we recursively compute the maximum depths of the left and right subtrees, and the maximum depth of the tree is the maximum of these two depths plus 1.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### You are given an array of `k` linked-lists `lists`, each linked-list is sorted in ascending order.
 
@@ -6833,7 +7010,7 @@ The time complexity of the recursive solution is O(n), where n is the number of 
 #### Chapter 4 - Balanced Binary Tree
 #### Chapter 5 - Same Tree - [Blind]
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### Given the roots of two binary trees `p` and `q`, write a function to check if they are the same or not.
 
@@ -6888,7 +7065,7 @@ A:: =============================================
 
 Two binary trees are considered the same if they are structurally identical and the nodes have the same value.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### Given the roots of two binary trees `p` and `q`, write a function to check if they are the same or not.
 
@@ -6941,7 +7118,7 @@ A:: =============================================
 
 The base case for this problem is when both nodes are null. If both nodes are null, then we can say they are the same.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### Given the roots of two binary trees `p` and `q`, write a function to check if they are the same or not.
 
@@ -6996,7 +7173,7 @@ A:: =============================================
 
 If only one of them is null, they are not the same. Similarly, if the values of p and q are different, they are not the same.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### Given the roots of two binary trees `p` and `q`, write a function to check if they are the same or not.
 
@@ -7051,7 +7228,7 @@ A:: =============================================
 
 If both nodes are not null, we need to check if the values of the nodes are the same and if the left subtree of the first node is the same as the left subtree of the second node, and the same for the right subtrees.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### Given the roots of two binary trees `p` and `q`, write a function to check if they are the same or not.
 
@@ -7121,7 +7298,7 @@ The time complexity of the recursive solution is O(min(n, m)), where n and m are
 
 #### Chapter 6 - Subtree of Another Tree - [Blind]
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### Given the roots of two binary trees `root` and `subRoot`, return `true` if there is a subtree of `root` with the same structure and node values of `subRoot` and `false` otherwise.
 
@@ -7169,7 +7346,7 @@ A:: =============================================
 
 A subtree of a binary tree is a tree that consists of a node in the original tree and all of this node's descendants. The tree could also be considered a subtree of itself.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### Given the roots of two binary trees `root` and `subRoot`, return `true` if there is a subtree of `root` with the same structure and node values of `subRoot` and `false` otherwise.
 
@@ -7217,7 +7394,7 @@ A:: =============================================
 
 Both DFS and BFS can be used to solve this problem. These tree traversal techniques allow us to check each node in the root tree and compare it with the subRoot tree.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### Given the roots of two binary trees `root` and `subRoot`, return `true` if there is a subtree of `root` with the same structure and node values of `subRoot` and `false` otherwise.
 
@@ -7263,7 +7440,7 @@ A:: =============================================
 
 A helper function that compares two trees to check if they are identical can be useful. We can use it every time we find a node in \`root\` that is the same as the root of \`subRoot\`. We then compare the entire structure starting from this node with \`subRoot\` using this helper function.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### Given the roots of two binary trees `root` and `subRoot`, return `true` if there is a subtree of `root` with the same structure and node values of `subRoot` and `false` otherwise.
 
@@ -7311,7 +7488,7 @@ A:: =============================================
 
 Just finding a node with the same value does not confirm the presence of the subtree. We need to verify if the entire structure of the subtree starting at this node is identical to subroot.
 
-Q:: =============================================
+Q:: =============================================  
 
 ##### Given the roots of two binary trees `root` and `subRoot`, return `true` if there is a subtree of `root` with the same structure and node values of `subRoot` and `false` otherwise.
 
@@ -7380,6 +7557,311 @@ A:: =============================================
 The time complexity of this solution is O(mn), where m and n are the number of nodes in root and subroot, respectively. This is because, in the worst case, for each node in root, we may have to traverse all nodes in subroot to check if they form the same tree (i.e., in the sameTree function). The space complexity is O(n) in the worst case (for an unbalanced tree) because of the potential stack space needed for the DFS traversal. However, if the tree is balanced, the space complexity would be O(log n) as the maximum depth of the tree (and thus the maximum stack size) would be log n.
 
 #### Chapter 7 - Lowest Common Ancestor of a Binary Search Tree - [Blind]
+
+Q:: =============================================  
+
+##### Given a binary search tree (BST), find the lowest common ancestor (LCA) node of two given nodes in the BST.
+
+According to the [definition of LCA on Wikipedia](https://en.wikipedia.org/wiki/Lowest_common_ancestor): “The lowest common ancestor is defined between two nodes `p` and `q` as the lowest node in `T` that has both `p` and `q` as descendants (where we allow **a node to be a descendant of itself**).”
+
+**Example 1:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/6a944957-3b32-4eab-37ab-48b701a70000/public)
+
+```
+Input: root = [6,2,8,0,4,7,9,null,null,3,5], p = 2, q = 8
+Output: 6
+Explanation: The LCA of nodes 2 and 8 is 6.
+```
+
+**Example 2:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/fe9f02bd-c21c-4dac-d6c5-1962775c0800/public)
+
+```
+Input: root = [6,2,8,0,4,7,9,null,null,3,5], p = 2, q = 4
+Output: 2
+Explanation: The LCA of nodes 2 and 4 is 2, since a node can be a descendant of itself according to the LCA definition.
+```
+
+**Example 3:**
+
+```
+Input: root = [2,1], p = 2, q = 1
+Output: 2
+```
+
+**Constraints:**
+
+-   The number of nodes in the tree is in the range `[2, 10^5]`.
+-   `10^9 <= Node.val <= 10^9`
+-   All `Node.val` are **unique**.
+-   `p != q`
+-   `p` and `q` will exist in the BST.
+
+In a BST, for any given node `n`, which of the following is true?
+
+A) All nodes in the left subtree of n are greater than n, and all nodes in the right subtree are less than n.
+
+B) All nodes in the left subtree of n are less than n, and all nodes in the right subtree are greater than n.
+
+___
+
+###### ID138
+
+A:: =============================================  
+**Answer**: B
+
+By definition, in a Binary Search Tree, for any given node n, all nodes in the left subtree of n are less than n, and all nodes in the right subtree are greater than n.
+
+Q:: =============================================  
+
+##### Given a binary search tree (BST), find the lowest common ancestor (LCA) node of two given nodes in the BST.
+
+According to the [definition of LCA on Wikipedia](https://en.wikipedia.org/wiki/Lowest_common_ancestor): “The lowest common ancestor is defined between two nodes `p` and `q` as the lowest node in `T` that has both `p` and `q` as descendants (where we allow **a node to be a descendant of itself**).”
+
+**Example 1:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/6a944957-3b32-4eab-37ab-48b701a70000/public)
+
+```
+Input: root = [6,2,8,0,4,7,9,null,null,3,5], p = 2, q = 8
+Output: 6
+Explanation: The LCA of nodes 2 and 8 is 6.
+```
+
+**Example 2:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/fe9f02bd-c21c-4dac-d6c5-1962775c0800/public)
+
+```
+Input: root = [6,2,8,0,4,7,9,null,null,3,5], p = 2, q = 4
+Output: 2
+Explanation: The LCA of nodes 2 and 4 is 2, since a node can be a descendant of itself according to the LCA definition.
+```
+
+**Example 3:**
+
+```
+Input: root = [2,1], p = 2, q = 1
+Output: 2
+```
+
+**Constraints:**
+
+-   The number of nodes in the tree is in the range `[2, 10^5]`.
+-   `10^9 <= Node.val <= 10^9`
+-   All `Node.val` are **unique**.
+-   `p != q`
+-   `p` and `q` will exist in the BST.
+
+If `p` and `q` are both less than the root, where should we search for their `LCA` in a BST?
+
+A) In the root's right subtree.
+
+B) In the root's left subtree.
+
+C) In both the root's left and right subtrees.
+
+D) Only in the root itself.
+
+___
+
+###### ID139
+
+A:: =============================================  
+**Answer**: B
+
+Given the properties of a BST, if both p and q are less than the root, then their LCA must be in the root's left subtree.
+
+Q:: =============================================  
+
+##### Given a binary search tree (BST), find the lowest common ancestor (LCA) node of two given nodes in the BST.
+
+According to the [definition of LCA on Wikipedia](https://en.wikipedia.org/wiki/Lowest_common_ancestor): “The lowest common ancestor is defined between two nodes `p` and `q` as the lowest node in `T` that has both `p` and `q` as descendants (where we allow **a node to be a descendant of itself**).”
+
+**Example 1:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/6a944957-3b32-4eab-37ab-48b701a70000/public)
+
+```
+Input: root = [6,2,8,0,4,7,9,null,null,3,5], p = 2, q = 8
+Output: 6
+Explanation: The LCA of nodes 2 and 8 is 6.
+```
+
+**Example 2:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/fe9f02bd-c21c-4dac-d6c5-1962775c0800/public)
+
+```
+Input: root = [6,2,8,0,4,7,9,null,null,3,5], p = 2, q = 4
+Output: 2
+Explanation: The LCA of nodes 2 and 4 is 2, since a node can be a descendant of itself according to the LCA definition.
+```
+
+**Example 3:**
+
+```
+Input: root = [2,1], p = 2, q = 1
+Output: 2
+```
+
+**Constraints:**
+
+-   The number of nodes in the tree is in the range `[2, 10^5]`.
+-   `10^9 <= Node.val <= 10^9`
+-   All `Node.val` are **unique**.
+-   `p != q`
+-   `p` and `q` will exist in the BST.
+
+If p and q are on different sides of the root (i.e., one is less than the root and the other is greater), where is their LCA?
+
+A) It is the root.
+
+B) It is in the root's left subtree.
+
+C) It is in the root's right subtree.
+
+___
+
+###### ID140
+
+A:: =============================================  
+**Answer**: A
+
+Given the properties of a BST, if p and q are on different sides of the root, the root is the LCA. This is because all values in the left subtree are less than the root, and all values in the right subtree are greater.
+
+Q:: =============================================  
+
+##### Given a binary search tree (BST), find the lowest common ancestor (LCA) node of two given nodes in the BST.
+
+According to the [definition of LCA on Wikipedia](https://en.wikipedia.org/wiki/Lowest_common_ancestor): “The lowest common ancestor is defined between two nodes `p` and `q` as the lowest node in `T` that has both `p` and `q` as descendants (where we allow **a node to be a descendant of itself**).”
+
+**Example 1:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/6a944957-3b32-4eab-37ab-48b701a70000/public)
+
+```
+Input: root = [6,2,8,0,4,7,9,null,null,3,5], p = 2, q = 8
+Output: 6
+Explanation: The LCA of nodes 2 and 8 is 6.
+```
+
+**Example 2:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/fe9f02bd-c21c-4dac-d6c5-1962775c0800/public)
+
+```
+Input: root = [6,2,8,0,4,7,9,null,null,3,5], p = 2, q = 4
+Output: 2
+Explanation: The LCA of nodes 2 and 4 is 2, since a node can be a descendant of itself according to the LCA definition.
+```
+
+**Example 3:**
+
+```
+Input: root = [2,1], p = 2, q = 1
+Output: 2
+```
+
+**Constraints:**
+
+-   The number of nodes in the tree is in the range `[2, 10^5]`.
+-   `10^9 <= Node.val <= 10^9`
+-   All `Node.val` are **unique**.
+-   `p != q`
+-   `p` and `q` will exist in the BST.
+
+If the `cur` node in the search is either **`p`** or **`q`**, then what will be the LCA?
+
+A) The LCA will be the root node.
+
+B) The LCA will be p or q, whichever is the current node.
+
+C) The LCA will be the other node that is not the current node.
+
+___
+
+###### ID141
+
+A:: =============================================  
+**Answer**: B
+
+Given the property of a BST and the definition of LCA, if the current node is either \*\*\`p\`\*\* or \*\*\`q\`\*\*, then this node will be the LCA. This is because a node can be a descendant of itself, and this node will be the lowest common node that has both \*\*\`p\`\*\* and \*\*\`q\`\*\* as descendants.
+
+Q:: =============================================  
+
+##### Given a binary search tree (BST), find the lowest common ancestor (LCA) node of two given nodes in the BST.
+
+According to the [definition of LCA on Wikipedia](https://en.wikipedia.org/wiki/Lowest_common_ancestor): “The lowest common ancestor is defined between two nodes `p` and `q` as the lowest node in `T` that has both `p` and `q` as descendants (where we allow **a node to be a descendant of itself**).”
+
+**Example 1:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/6a944957-3b32-4eab-37ab-48b701a70000/public)
+
+```
+Input: root = [6,2,8,0,4,7,9,null,null,3,5], p = 2, q = 8
+Output: 6
+Explanation: The LCA of nodes 2 and 8 is 6.
+```
+
+**Example 2:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/fe9f02bd-c21c-4dac-d6c5-1962775c0800/public)
+
+```
+Input: root = [6,2,8,0,4,7,9,null,null,3,5], p = 2, q = 4
+Output: 2
+Explanation: The LCA of nodes 2 and 4 is 2, since a node can be a descendant of itself according to the LCA definition.
+```
+
+**Example 3:**
+
+```
+Input: root = [2,1], p = 2, q = 1
+Output: 2
+```
+
+**Constraints:**
+
+-   The number of nodes in the tree is in the range `[2, 10^5]`.
+-   `10^9 <= Node.val <= 10^9`
+-   All `Node.val` are **unique**.
+-   `p != q`
+-   `p` and `q` will exist in the BST.
+
+Given the below Python function to solve the problem, what are the time and space complexities? Assume there are `n` nodes in the tree and the tree is balanced.
+
+```python
+class Solution:
+    def lowestCommonAncestor(self, root: 'TreeNode', p: 'TreeNode', q: 'TreeNode') -> 'TreeNode':
+        cur = root
+
+        while cur:
+            if p.val > cur.val and q.val > cur.val:
+                cur = cur.right
+            elif p.val < cur.val and q.val < cur.val:
+                cur = cur.left
+            else:
+                return cur
+```
+
+A) Time complexity: O(log n), Space complexity: O(log n)
+
+B) Time complexity: O(log n), Space complexity: O(1)
+
+C) Time complexity: O(n), Space complexity: O(1)
+
+___
+
+###### ID142
+
+A:: =============================================  
+**Answer**: B
+
+The time complexity of this solution is O(log n), where n is the number of nodes in the tree. This is because we are essentially performing a binary search, narrowing down our search to either the left or right subtrees each time, which gives a log(n) time complexity. The space complexity is O(1), because this approach only uses a constant amount of space and doesn't depend on the size of the input tree.
+
 #### Chapter 8 - Lowest Common Ancestor of a Binary Tree - [Blind] - [Ex] - [ComEx]
 #### Chapter 9 - Binary Tree Level Order Traversal - [Blind]
 #### Chapter 10 - Binary Tree Right Side View
