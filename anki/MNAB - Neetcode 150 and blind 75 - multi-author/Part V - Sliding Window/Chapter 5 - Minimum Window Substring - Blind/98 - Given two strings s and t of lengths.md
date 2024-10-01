@@ -41,22 +41,49 @@ Since the largest window <span class="token keyword">of</span> s only has one <s
 
 ---
 
-What is a brute force solution for this problem?
+Given that the input strings only consist of lowercase or uppercase English characters, what is the time and space complexity of the sliding window approach below? Assume `n` is the length of `s` and `m` is the length of `t`.
 
-A) Check all substrings of s to find if they contain all characters of t
+```python
+class Solution:
+    def minWindow(self, s: str, t: str) -> str:
+        if t == '': return ''
+        countT, window = {}, {}
+        for c in t:
+            countT[c] = 1 + countT.get(c, 0)
+        have, need = 0, len(countT)
+        res, resLen = [-1, -1], float('infinity')
+        l = 0
+        for r in range(len(s)):
+            c = s[r]
+            window[c] = 1 + window.get(c, 0)
+            if c in countT and window[c] == countT[c]:
+                have += 1
+            while have == need:
+                if (r - l + 1) < resLen:
+                    res = [l, r]
+                    resLen = (r - l + 1)
+                window[s[l]] -= 1
+                if s[l] in countT and window[s[l]] < countT[s[l]]:
+                    have -= 1
+                l += 1
+        l, r = res
+        return s[l:r+1] if resLen != float('infinity') else ''
+```
 
-B) Remove each character of s one by one and check if the remaining string contains t
+A) Time complexity: O(n+m), Space complexity: O(1)
 
-C) Sort both s and t and check if t is a substring of s  
+B) Time complexity: O(n), Space complexity: O(n)
+
+C) Time complexity: O(n^2), Space complexity: O(m)  
 
 ========== Answer ==========  
 
 **Answer**: A
 
-The brute force solution would be to generate all possible substrings of s and for each substring, check if it contains all characters of t including duplicates. Then we keep the shortest such valid substring.
+The time complexity is O(n+m) as we go through both s and t once. The space complexity is O(1) because the countT and window dictionaries will at most contain 52 unique keys, corresponding to the 26 lowercase and 26 uppercase English letters, which is a constant number and does not grow with n or m.
 
 ========== Id ==========  
-92
+98
 
 ---
 
@@ -64,7 +91,7 @@ DECK INFO
 
 TARGET DECK: Data Structures and Algorithms::Leetcode::MNAB - Neetcode 150 and blind 75 - multi-author::Part V - Sliding Window::Chapter 5 - Minimum Window Substring - Blind
 
-FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-V-Sliding-Window::#Chapter-5-Minimum-Window-Substring-Blind::#92-Given-two-strings-s-and-t-of-lengths
+FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-V-Sliding-Window::#Chapter-5-Minimum-Window-Substring-Blind::#98-Given-two-strings-s-and-t-of-lengths
 
 Tags:
 

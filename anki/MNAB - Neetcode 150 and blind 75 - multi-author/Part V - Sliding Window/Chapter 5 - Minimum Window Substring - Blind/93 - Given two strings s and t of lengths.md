@@ -41,22 +41,22 @@ Since the largest window <span class="token keyword">of</span> s only has one <s
 
 ---
 
-What is a brute force solution for this problem?
+What kind of data structure could help us track the frequency of each character in the current window of our string?
 
-A) Check all substrings of s to find if they contain all characters of t
+A) Linked List
 
-B) Remove each character of s one by one and check if the remaining string contains t
+B) Hash Map
 
-C) Sort both s and t and check if t is a substring of s  
+C) Stack  
 
 ========== Answer ==========  
 
-**Answer**: A
+**Answer**: B
 
-The brute force solution would be to generate all possible substrings of s and for each substring, check if it contains all characters of t including duplicates. Then we keep the shortest such valid substring.
+A Hash Map is a good data structure to efficiently track the frequency of each character in the current window. By using the character itself as the key and the frequency as the value, we can access and update the frequency of each character in constant time.
 
 ========== Id ==========  
-92
+93
 
 ---
 
@@ -64,7 +64,7 @@ DECK INFO
 
 TARGET DECK: Data Structures and Algorithms::Leetcode::MNAB - Neetcode 150 and blind 75 - multi-author::Part V - Sliding Window::Chapter 5 - Minimum Window Substring - Blind
 
-FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-V-Sliding-Window::#Chapter-5-Minimum-Window-Substring-Blind::#92-Given-two-strings-s-and-t-of-lengths
+FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-V-Sliding-Window::#Chapter-5-Minimum-Window-Substring-Blind::#93-Given-two-strings-s-and-t-of-lengths
 
 Tags:
 

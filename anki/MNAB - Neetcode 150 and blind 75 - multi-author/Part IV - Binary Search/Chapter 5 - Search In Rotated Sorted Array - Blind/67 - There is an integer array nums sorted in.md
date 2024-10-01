@@ -36,17 +36,21 @@ Output: -1
 
 ---
 
-If we are in the appropriate half of the array, can we simply perform a normal binary search?
+Now consider a sorted array that has been rotated at an unknown index. What is the time complexity of the _simplest_ (but non-optimal) solution to find an element in this array?
 
-A) Yes
+A) O(n)
 
-B) No  
+B) O(log n)
+
+C) O(n^2)
+
+D) O(1)  
 
 ========== Answer ==========  
 
 **Answer**: A
 
-Yes, if we are in the appropriate half of the array, we can simply perform a normal binary search. The normal binary search process involves comparing the target with the middle element and then deciding whether to continue the search in the left portion or the right portion of the array, depending on whether the target is less or greater than the middle element.
+The simplest solution would be to perform a linear search, which has a time complexity of O(n).
 
 ========== Id ==========  
 67

@@ -50,24 +50,42 @@ Explanation: The original array was [11,13,15,17] and it was rotated 4 times.
 
 ---
 
-Now consider a sorted array that has been rotated at an unknown index. What is the time complexity of the _simplest_ (but non-optimal) solution to find the minimum element in this array?
+To summarize, the below code will solve this problem using an augmented binary search solution. What is the time and space complexity?
 
-A) O(n)
+```python
+def findMin(self, nums: List[int]) -> int:
+    res = nums[0]
+    l, r = 0, len(nums) - 1
+    while l <= r:
+        if nums[l] < nums[r]:
+            return min(res, nums[l])
+        m = (l + r) // 2
+        res = min(res, nums[m])
+        if nums[m] >= nums[l]:
+            # We are in the left sorted portion, move right
+            l = m + 1
+        else:
+            # We are in the right sorted portion, move left
+            r = m - 1
+    return res
+```
 
-B) O(log n)
+A) Time complexity: O(n), Space complexity: O(1)
 
-C) O(n^2)
+B) Time complexity: O(log n), Space complexity: O(1)
 
-D) O(1)  
+C) Time complexity: O(n log n), Space complexity: O(n)
+
+D) Time complexity: O(n^2), Space complexity: O(n)  
 
 ========== Answer ==========  
 
-**Answer**: A
+**Answer**: B
 
-The simplest solution would be to perform a linear search, which has a time complexity of O(n).
+The binary search approach has a time complexity of O(log n) because in each step, you reduce the problem size by half. The space complexity is O(1) because you are not using any additional space that scales with the input size. You only need a constant amount of space to store the variables left, right, and mid.
 
 ========== Id ==========  
-59
+65
 
 ---
 
@@ -75,7 +93,7 @@ DECK INFO
 
 TARGET DECK: Data Structures and Algorithms::Leetcode::MNAB - Neetcode 150 and blind 75 - multi-author::Part IV - Binary Search::Chapter 4 - Find Minimum In Rotated Sorted Array - Blind
 
-FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-IV-Binary-Search::#Chapter-4-Find-Minimum-In-Rotated-Sorted-Array-Blind::#59-Suppose-an-array-of-length-n-sorted-in-a
+FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-IV-Binary-Search::#Chapter-4-Find-Minimum-In-Rotated-Sorted-Array-Blind::#65-Suppose-an-array-of-length-n-sorted-in-a
 
 Tags:
 

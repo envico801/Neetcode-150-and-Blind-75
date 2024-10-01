@@ -36,44 +36,21 @@ Output: -1
 
 ---
 
-To summarize, the below code will solve this problem using an augmented binary search solution. What is the time and space complexity?
+In a typical binary search, what is the first element we check to see if it's equal to the target?
 
-```python
-def search(self, nums: List[int], target: int) -> int:
-    left, right = 0, len(nums) - 1
-    while left <= right:
-        mid = (left + right) // 2
-        if nums[mid] >= nums[0] and target < nums[0]:
-            # We're in left sorted array
-            # But target is in right sorted array
-            left = mid + 1
-        elif nums[mid] < nums[0] and target >= nums[0]:
-            # We're in right sorted array
-            # But target is in left sorted array
-            right = mid - 1
-        # Otherwise: Normal binary search
-        elif target > nums[mid]:
-            left = mid + 1
-        elif target < nums[mid]:
-            right = mid - 1
-        else:
-            return mid
-        return -1
-```
+A) The first element in the array
 
-A) Time complexity: O(n), Space complexity: O(1)
+B) The last element in the array
 
-B) Time complexity: O(log n), Space complexity: O(1)
+C) The middle element in the array
 
-C) Time complexity: O(n log n), Space complexity: O(n)
-
-D) Time complexity: O(n^2), Space complexity: O(n)  
+D) The element at a random position in the array  
 
 ========== Answer ==========  
 
-**Answer**: B
+**Answer**: C
 
-The binary search approach has a time complexity of O(log n) because in each step, you reduce the problem size by half. The space complexity is O(1) because you are not using any additional space that scales with the input size. You only need a constant amount of space to store the variables left, right, and mid.
+In a binary search, we first check the middle element of the array. If the target is equal to it, we're done. If the target is greater, we know our target must be in the right portion of the array, and if it's less, the target must be in the left portion.
 
 ========== Id ==========  
 68

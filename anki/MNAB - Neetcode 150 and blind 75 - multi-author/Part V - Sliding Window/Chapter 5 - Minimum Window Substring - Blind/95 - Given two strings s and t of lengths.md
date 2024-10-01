@@ -41,22 +41,22 @@ Since the largest window <span class="token keyword">of</span> s only has one <s
 
 ---
 
-What is a brute force solution for this problem?
+What should we do if our current window doesn't contain all characters of `t`?
 
-A) Check all substrings of s to find if they contain all characters of t
+A) Expand the window from the right
 
-B) Remove each character of s one by one and check if the remaining string contains t
+B) Shrink the window from the left
 
-C) Sort both s and t and check if t is a substring of s  
+C) Remove the window and create a new one  
 
 ========== Answer ==========  
 
 **Answer**: A
 
-The brute force solution would be to generate all possible substrings of s and for each substring, check if it contains all characters of t including duplicates. Then we keep the shortest such valid substring.
+If our current window does not contain all characters of \`t\`, it means we need to expand the window from the right in hope of including the missing characters.
 
 ========== Id ==========  
-92
+95
 
 ---
 
@@ -64,7 +64,7 @@ DECK INFO
 
 TARGET DECK: Data Structures and Algorithms::Leetcode::MNAB - Neetcode 150 and blind 75 - multi-author::Part V - Sliding Window::Chapter 5 - Minimum Window Substring - Blind
 
-FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-V-Sliding-Window::#Chapter-5-Minimum-Window-Substring-Blind::#92-Given-two-strings-s-and-t-of-lengths
+FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-V-Sliding-Window::#Chapter-5-Minimum-Window-Substring-Blind::#95-Given-two-strings-s-and-t-of-lengths
 
 Tags:
 

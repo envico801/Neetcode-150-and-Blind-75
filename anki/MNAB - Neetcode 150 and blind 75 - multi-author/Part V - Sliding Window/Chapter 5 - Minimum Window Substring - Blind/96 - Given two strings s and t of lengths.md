@@ -41,22 +41,22 @@ Since the largest window <span class="token keyword">of</span> s only has one <s
 
 ---
 
-What is a brute force solution for this problem?
+If our current window contains all characters of `t`, what should we do to find the smallest valid window?
 
-A) Check all substrings of s to find if they contain all characters of t
+A) Expand the window from the right
 
-B) Remove each character of s one by one and check if the remaining string contains t
+B) Shrink the window from the left
 
-C) Sort both s and t and check if t is a substring of s  
+C) Expand the window from the left  
 
 ========== Answer ==========  
 
-**Answer**: A
+**Answer**: B
 
-The brute force solution would be to generate all possible substrings of s and for each substring, check if it contains all characters of t including duplicates. Then we keep the shortest such valid substring.
+If our current window already contains all characters of \`t\`, we try to shrink the window from the left to find the smallest window that still satisfies the condition. If we can't shrink it without losing a necessary character, we move on to expanding it from the right again.
 
 ========== Id ==========  
-92
+96
 
 ---
 
@@ -64,7 +64,7 @@ DECK INFO
 
 TARGET DECK: Data Structures and Algorithms::Leetcode::MNAB - Neetcode 150 and blind 75 - multi-author::Part V - Sliding Window::Chapter 5 - Minimum Window Substring - Blind
 
-FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-V-Sliding-Window::#Chapter-5-Minimum-Window-Substring-Blind::#92-Given-two-strings-s-and-t-of-lengths
+FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-V-Sliding-Window::#Chapter-5-Minimum-Window-Substring-Blind::#96-Given-two-strings-s-and-t-of-lengths
 
 Tags:
 

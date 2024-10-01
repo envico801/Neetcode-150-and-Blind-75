@@ -50,24 +50,26 @@ Explanation: The original array was [11,13,15,17] and it was rotated 4 times.
 
 ---
 
-Now consider a sorted array that has been rotated at an unknown index. What is the time complexity of the _simplest_ (but non-optimal) solution to find the minimum element in this array?
+If the middle element is greater than or equal to the first element of the array, where is the minimum element?
 
-A) O(n)
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/c5da4e6e-997d-4ccc-952d-9dd0360f9200/public)
 
-B) O(log n)
+A) To the left of mid.
 
-C) O(n^2)
+B) To the right of mid.
 
-D) O(1)  
+C) At the mid point.
+
+D) This scenario is not possible.  
 
 ========== Answer ==========  
 
-**Answer**: A
+**Answer**: B
 
-The simplest solution would be to perform a linear search, which has a time complexity of O(n).
+If the middle element is greater than the first element, it means the middle element is in the left sorted portion, but the minimum must be found in the right sorted portion.
 
 ========== Id ==========  
-59
+64
 
 ---
 
@@ -75,7 +77,7 @@ DECK INFO
 
 TARGET DECK: Data Structures and Algorithms::Leetcode::MNAB - Neetcode 150 and blind 75 - multi-author::Part IV - Binary Search::Chapter 4 - Find Minimum In Rotated Sorted Array - Blind
 
-FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-IV-Binary-Search::#Chapter-4-Find-Minimum-In-Rotated-Sorted-Array-Blind::#59-Suppose-an-array-of-length-n-sorted-in-a
+FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-IV-Binary-Search::#Chapter-4-Find-Minimum-In-Rotated-Sorted-Array-Blind::#64-Suppose-an-array-of-length-n-sorted-in-a
 
 Tags:
 

@@ -41,22 +41,22 @@ Since the largest window <span class="token keyword">of</span> s only has one <s
 
 ---
 
-What is a brute force solution for this problem?
+How can we determine if our current window contains all characters of `t` without iterating through the entire hashmap?
 
-A) Check all substrings of s to find if they contain all characters of t
+A) By checking if the length of the window is greater than or equal to the length of \`t\`
 
-B) Remove each character of s one by one and check if the remaining string contains t
+B) By keeping track of two variables: the number of unique characters we have from \`t\` in our current window and the total unique characters needed from \`t\`
 
-C) Sort both s and t and check if t is a substring of s  
+C) By sorting the hashmap and comparing it with \`t\`  
 
 ========== Answer ==========  
 
-**Answer**: A
+**Answer**: B
 
-The brute force solution would be to generate all possible substrings of s and for each substring, check if it contains all characters of t including duplicates. Then we keep the shortest such valid substring.
+By maintaining two variables, \`have\` and \`need\`, we can efficiently check if our window contains all characters of \`t\`. \`need\` is the number of unique characters in \`t\`, and \`have\` is the number of unique characters in \`t\` that our window currently contains. Each time we add a character to our window that makes the count of that character match what's needed in \`t\`, we increment \`have\`. We know our window contains all characters of \`t\` when \`have\` equals \`need\`.
 
 ========== Id ==========  
-92
+97
 
 ---
 
@@ -64,7 +64,7 @@ DECK INFO
 
 TARGET DECK: Data Structures and Algorithms::Leetcode::MNAB - Neetcode 150 and blind 75 - multi-author::Part V - Sliding Window::Chapter 5 - Minimum Window Substring - Blind
 
-FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-V-Sliding-Window::#Chapter-5-Minimum-Window-Substring-Blind::#92-Given-two-strings-s-and-t-of-lengths
+FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-V-Sliding-Window::#Chapter-5-Minimum-Window-Substring-Blind::#97-Given-two-strings-s-and-t-of-lengths
 
 Tags:
 

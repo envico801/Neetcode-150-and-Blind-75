@@ -50,23 +50,21 @@ Explanation: The original array was [11,13,15,17] and it was rotated 4 times.
 
 ---
 
-If the middle element is greater than or equal to the first element of the array, where is the minimum element?
+Suppose we have a _normal_ sorted integer array. What is the time complexity to find the minimum element in this array?
 
-![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/c5da4e6e-997d-4ccc-952d-9dd0360f9200/public)
+A) O(n)
 
-A) To the left of mid.
+B) O(log n)
 
-B) To the right of mid.
+C) O(n^2)
 
-C) At the mid point.
-
-D) This scenario is not possible.  
+D) O(1)  
 
 ========== Answer ==========  
 
-**Answer**: B
+**Answer**: D
 
-If the middle element is greater than the first element, it means the middle element is in the left sorted portion, but the minimum must be found in the right sorted portion.
+In a sorted array, the minimum element is always at the beginning, which can be found in constant time, O(1).
 
 ========== Id ==========  
 58
