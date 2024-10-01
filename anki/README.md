@@ -7937,13 +7937,13 @@ Output: 2
 -   `p != q`
 -   `p` and `q` will exist in the BST.
 
+___
+
 In a BST, for any given node `n`, which of the following is true?
 
 A) All nodes in the left subtree of n are greater than n, and all nodes in the right subtree are less than n.
 
 B) All nodes in the left subtree of n are less than n, and all nodes in the right subtree are greater than n.
-
-___
 
 ###### ID144
 
@@ -7993,6 +7993,8 @@ Output: 2
 -   `p != q`
 -   `p` and `q` will exist in the BST.
 
+___
+
 If `p` and `q` are both less than the root, where should we search for their `LCA` in a BST?
 
 A) In the root's right subtree.
@@ -8002,8 +8004,6 @@ B) In the root's left subtree.
 C) In both the root's left and right subtrees.
 
 D) Only in the root itself.
-
-___
 
 ###### ID145
 
@@ -8053,6 +8053,8 @@ Output: 2
 -   `p != q`
 -   `p` and `q` will exist in the BST.
 
+___
+
 If p and q are on different sides of the root (i.e., one is less than the root and the other is greater), where is their LCA?
 
 A) It is the root.
@@ -8060,8 +8062,6 @@ A) It is the root.
 B) It is in the root's left subtree.
 
 C) It is in the root's right subtree.
-
-___
 
 ###### ID146
 
@@ -8111,6 +8111,8 @@ Output: 2
 -   `p != q`
 -   `p` and `q` will exist in the BST.
 
+___
+
 If the `cur` node in the search is either **`p`** or **`q`**, then what will be the LCA?
 
 A) The LCA will be the root node.
@@ -8118,8 +8120,6 @@ A) The LCA will be the root node.
 B) The LCA will be p or q, whichever is the current node.
 
 C) The LCA will be the other node that is not the current node.
-
-___
 
 ###### ID147
 
@@ -8169,6 +8169,8 @@ Output: 2
 -   `p != q`
 -   `p` and `q` will exist in the BST.
 
+___
+
 Given the below Python function to solve the problem, what are the time and space complexities? Assume there are `n` nodes in the tree and the tree is balanced.
 
 ```python
@@ -8190,8 +8192,6 @@ A) Time complexity: O(log n), Space complexity: O(log n)
 B) Time complexity: O(log n), Space complexity: O(1)
 
 C) Time complexity: O(n), Space complexity: O(1)
-
-___
 
 ###### ID148
 
