@@ -205,6 +205,16 @@
 | [161](#id161) | [Given an m x n 2d binary grid grid whi](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XI%20-%20Graphs/Chapter%201%20-%20Number%20of%20Islands%20-%20Blind/161%20-%20Given%20an%20m%20x%20n%202d%20binary%20grid%20grid%20whi.md) | 11 | 1 |
 | [162](#id162) | [Given an m x n 2d binary grid grid whi](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XI%20-%20Graphs/Chapter%201%20-%20Number%20of%20Islands%20-%20Blind/162%20-%20Given%20an%20m%20x%20n%202d%20binary%20grid%20grid%20whi.md) | 11 | 1 |
 | [163](#id163) | [Given an m x n 2d binary grid grid whi](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XI%20-%20Graphs/Chapter%201%20-%20Number%20of%20Islands%20-%20Blind/163%20-%20Given%20an%20m%20x%20n%202d%20binary%20grid%20grid%20whi.md) | 11 | 1 |
+| **-** | **1** | **12** | **-** |
+| **-** | **1 > House Robber** | **12** | **3** |
+| [164](#id164) | [You are a professional robber planning to](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XII%20-%201-D%20DP/Chapter%203%20-%20House%20Robber%20-%20Blind/164%20-%20You%20are%20a%20professional%20robber%20planning%20to.md) | 12 | 3 |
+| [165](#id165) | [You are a professional robber planning to](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XII%20-%201-D%20DP/Chapter%203%20-%20House%20Robber%20-%20Blind/165%20-%20You%20are%20a%20professional%20robber%20planning%20to.md) | 12 | 3 |
+| [166](#id166) | [You are a professional robber planning to](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XII%20-%201-D%20DP/Chapter%203%20-%20House%20Robber%20-%20Blind/166%20-%20You%20are%20a%20professional%20robber%20planning%20to.md) | 12 | 3 |
+| [167](#id167) | [You are a professional robber planning to](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XII%20-%201-D%20DP/Chapter%203%20-%20House%20Robber%20-%20Blind/167%20-%20You%20are%20a%20professional%20robber%20planning%20to.md) | 12 | 3 |
+| [168](#id168) | [You are a professional robber planning to](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XII%20-%201-D%20DP/Chapter%203%20-%20House%20Robber%20-%20Blind/168%20-%20You%20are%20a%20professional%20robber%20planning%20to.md) | 12 | 3 |
+| [169](#id169) | [You are a professional robber planning to](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XII%20-%201-D%20DP/Chapter%203%20-%20House%20Robber%20-%20Blind/169%20-%20You%20are%20a%20professional%20robber%20planning%20to.md) | 12 | 3 |
+| [170](#id170) | [You are a professional robber planning to](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XII%20-%201-D%20DP/Chapter%203%20-%20House%20Robber%20-%20Blind/170%20-%20You%20are%20a%20professional%20robber%20planning%20to.md) | 12 | 3 |
+| [171](#id171) | [You are a professional robber planning to](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XII%20-%201-D%20DP/Chapter%203%20-%20House%20Robber%20-%20Blind/171%20-%20You%20are%20a%20professional%20robber%20planning%20to.md) | 12 | 3 |
 
 ### Part I - Arrays & Hashing
 
@@ -8908,6 +8918,265 @@ The space complexity of the solution when using DFS is O(m \* n), where m and n 
 #### Chapter 1 - Climbing Stairs - [Blind]
 #### Chapter 2 - Min Cost Climbing Stairs
 #### Chapter 3 - House Robber - [Blind]
+
+Q:: =============================================  
+
+##### You are a professional robber planning to rob houses along a street. Each house has a certain amount of money stashed, the only constraint stopping you from robbing each of them is that adjacent houses have security systems connected and **it will automatically contact the police if two adjacent houses were broken into on the same night**.
+
+Given an integer array `nums` representing the amount of money of each house, return the maximum amount of money you can rob tonight **without alerting the police**.
+
+**Example 1:**
+
+```
+Input: nums = [1,2,3,1]
+Output: 4
+Explanation: Rob house 1 (money = 1) and then rob house 3 (money = 3).
+Total amount you can rob = 1 + 3 = 4.
+```
+
+___
+
+What are the possible decisions to make when robbing houses along the street?
+
+A) Rob every house.
+
+B) Rob only the houses with the maximum amount of money.
+
+C) Rob houses while skipping one or more houses to avoid adjacent houses.
+
+###### ID164
+
+A:: =============================================  
+**Answer**: C
+
+The correct decision is to rob houses while skipping one or more houses to avoid adjacent houses. Since the problem statement mentions that adjacent houses cannot be robbed on the same night, the strategy should involve skipping one or more houses.
+
+Q:: =============================================  
+
+##### You are a professional robber planning to rob houses along a street. Each house has a certain amount of money stashed, the only constraint stopping you from robbing each of them is that adjacent houses have security systems connected and **it will automatically contact the police if two adjacent houses were broken into on the same night**.
+
+Given an integer array `nums` representing the amount of money of each house, return the maximum amount of money you can rob tonight **without alerting the police**.
+
+**Example 1:**
+
+```
+Input: nums = [1,2,3,1]
+Output: 4
+Explanation: Rob house 1 (money = 1) and then rob house 3 (money = 3).
+Total amount you can rob = 1 + 3 = 4.
+```
+
+___
+
+What is the brute-force solution to this problem?
+
+A) Try every possible combination of non-adjacent houses and find the maximum sum.
+
+B) Rob the house with the maximum amount of money, then move on to the next unrobbed house.
+
+C) Rob houses in a strictly increasing order of money.
+
+D) Rob houses in a strictly decreasing order of money.
+
+###### ID165
+
+A:: =============================================  
+**Answer**: A
+
+The brute-force solution is to try every possible combination of non-adjacent houses and find the maximum sum. This involves evaluating all possible combinations of houses where no two houses are adjacent.
+
+Q:: =============================================  
+
+##### You are a professional robber planning to rob houses along a street. Each house has a certain amount of money stashed, the only constraint stopping you from robbing each of them is that adjacent houses have security systems connected and **it will automatically contact the police if two adjacent houses were broken into on the same night**.
+
+Given an integer array `nums` representing the amount of money of each house, return the maximum amount of money you can rob tonight **without alerting the police**.
+
+**Example 1:**
+
+```
+Input: nums = [1,2,3,1]
+Output: 4
+Explanation: Rob house 1 (money = 1) and then rob house 3 (money = 3).
+Total amount you can rob = 1 + 3 = 4.
+```
+
+___
+
+If we implement the brute-force approach using recursion, what will be our decisions as we go through the array?
+
+A) Choice 1 = Rob the current house and go to the next house and continue making decisions. Choice 2 = Skip the current house altogether.
+
+B) Choice 1 = Rob the current house and skip the next house and continue making decisions. Choice 2 = Skip the current house altogether.
+
+###### ID166
+
+A:: =============================================  
+**Answer**: B
+
+This ensures that we don't rob two adjacent houses.
+
+Q:: =============================================  
+
+##### You are a professional robber planning to rob houses along a street. Each house has a certain amount of money stashed, the only constraint stopping you from robbing each of them is that adjacent houses have security systems connected and **it will automatically contact the police if two adjacent houses were broken into on the same night**.
+
+Given an integer array `nums` representing the amount of money of each house, return the maximum amount of money you can rob tonight **without alerting the police**.
+
+**Example 1:**
+
+```
+Input: nums = [1,2,3,1]
+Output: 4
+Explanation: Rob house 1 (money = 1) and then rob house 3 (money = 3).
+Total amount you can rob = 1 + 3 = 4.
+```
+
+___
+
+What is the time complexity of the recursive solution?
+
+A) O(n)
+
+B) O(n^2)
+
+C) O(n^3)
+
+D) O(2^n)
+
+###### ID167
+
+A:: =============================================  
+**Answer**: D
+
+The time complexity of the recursive solution is O(2^n). In the worst case, we might end up exploring each possible combination of houses, leading to an exponential time complexity.
+
+Q:: =============================================  
+
+##### You are a professional robber planning to rob houses along a street. Each house has a certain amount of money stashed, the only constraint stopping you from robbing each of them is that adjacent houses have security systems connected and **it will automatically contact the police if two adjacent houses were broken into on the same night**.
+
+Given an integer array `nums` representing the amount of money of each house, return the maximum amount of money you can rob tonight **without alerting the police**.
+
+**Example 1:**
+
+```
+Input: nums = [1,2,3,1]
+Output: 4
+Explanation: Rob house 1 (money = 1) and then rob house 3 (money = 3).
+Total amount you can rob = 1 + 3 = 4.
+```
+
+___
+
+We want to use memoization to improve the efficiency of the recursive solution. What subproblem should we cache the result of? Assume we start our recursion at the beginning of the array.
+
+A) If we are at index i, the subproblem is the maximum we can rob only from houses that are at or to the right of index i. We can store this in a hashmap or an array by mapping the index to maximum amount.
+
+B) If we are at index i, the subproblem is the maximum we can rob only from houses that are at or to the left of index i. We can store this in a hashmap or an array by mapping the index to maximum amount.
+
+###### ID168
+
+A:: =============================================  
+**Answer**: A
+
+If we start at the beginning of the array, each recursive call is a subproblem of the maximum we can rob only from a postfix of the array. The result of a subproblem allows us to solve a slightly larger subproblem.
+
+Q:: =============================================  
+
+##### You are a professional robber planning to rob houses along a street. Each house has a certain amount of money stashed, the only constraint stopping you from robbing each of them is that adjacent houses have security systems connected and **it will automatically contact the police if two adjacent houses were broken into on the same night**.
+
+Given an integer array `nums` representing the amount of money of each house, return the maximum amount of money you can rob tonight **without alerting the police**.
+
+**Example 1:**
+
+```
+Input: nums = [1,2,3,1]
+Output: 4
+Explanation: Rob house 1 (money = 1) and then rob house 3 (money = 3).
+Total amount you can rob = 1 + 3 = 4.
+```
+
+___
+
+What is the time complexity of the memoization solution?
+
+A) O(n)
+
+B) O(n^2)
+
+C) O(n^3)
+
+D) O(2^n)
+
+###### ID169
+
+A:: =============================================  
+**Answer**: A
+
+The time complexity of the memoization solution is O(n), where n is the number of houses. This is because with memoization, we only solve each subproblem once.
+
+Q:: =============================================  
+
+##### You are a professional robber planning to rob houses along a street. Each house has a certain amount of money stashed, the only constraint stopping you from robbing each of them is that adjacent houses have security systems connected and **it will automatically contact the police if two adjacent houses were broken into on the same night**.
+
+Given an integer array `nums` representing the amount of money of each house, return the maximum amount of money you can rob tonight **without alerting the police**.
+
+**Example 1:**
+
+```
+Input: nums = [1,2,3,1]
+Output: 4
+Explanation: Rob house 1 (money = 1) and then rob house 3 (money = 3).
+Total amount you can rob = 1 + 3 = 4.
+```
+
+___
+
+How can we solve this problem using dynamic programming? Assume we start robbing at the beginning of the array.
+
+A) If we are at index i, the subproblem is the maximum we can rob only from houses that are at or to the right of index i. We can store this in a hashmap or an array after we compute it.
+
+B) If we are at index i, the subproblem is the maximum we can rob only from houses that are at or to the left of index i. We can store this in a hashmap or an array after we compute it.
+
+###### ID170
+
+A:: =============================================  
+**Answer**: B
+
+If we start at the beginning of the array, on each iteration we are solving a new subproblem - a prefix of the array. The result of previous subproblems will be used to compute the next one.
+
+Q:: =============================================  
+
+##### You are a professional robber planning to rob houses along a street. Each house has a certain amount of money stashed, the only constraint stopping you from robbing each of them is that adjacent houses have security systems connected and **it will automatically contact the police if two adjacent houses were broken into on the same night**.
+
+Given an integer array `nums` representing the amount of money of each house, return the maximum amount of money you can rob tonight **without alerting the police**.
+
+**Example 1:**
+
+```
+Input: nums = [1,2,3,1]
+Output: 4
+Explanation: Rob house 1 (money = 1) and then rob house 3 (money = 3).
+Total amount you can rob = 1 + 3 = 4.
+```
+
+___
+
+What is the time complexity of the dynamic programming solution?
+
+A) O(n)
+
+B) O(n^2)
+
+C) O(n^3)
+
+D) O(2^n)
+
+###### ID171
+
+A:: =============================================  
+**Answer**: A
+
+The time complexity of the dynamic programming solution is O(n), where n is the number of houses. Each subproblem is solved only once and used for future computations, thus leading to a linear time complexity.
+
 #### Chapter 4 - House Robber II - [Blind]
 #### Chapter 5 - Longest Palindromic Substring - [Blind]
 #### Chapter 6 - Palindromic Substrings - [Blind]
