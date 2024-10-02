@@ -6,215 +6,215 @@
 | --- | --- | --- | --- |
 | **-** | **Arrays Hashing** | **1** | **-** |
 | **-** | **Arrays Hashing > Contains Duplicate** | **1** | **1** |
-| [1](#id1) | [Given an integer array nums return tru](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%201%20-%20Contains%20Duplicate%20-%20Blind/1%20-%20Given%20an%20integer%20array%20nums%20return%20tru.md) | 1 | 1 |
-| [2](#id2) | [Given an integer array nums return tru](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%201%20-%20Contains%20Duplicate%20-%20Blind/2%20-%20Given%20an%20integer%20array%20nums%20return%20tru.md) | 1 | 1 |
-| [3](#id3) | [Given an integer array nums return tru](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%201%20-%20Contains%20Duplicate%20-%20Blind/3%20-%20Given%20an%20integer%20array%20nums%20return%20tru.md) | 1 | 1 |
-| [4](#id4) | [Given an integer array nums return tru](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%201%20-%20Contains%20Duplicate%20-%20Blind/4%20-%20Given%20an%20integer%20array%20nums%20return%20tru.md) | 1 | 1 |
-| [5](#id5) | [Given an integer array nums return tru](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%201%20-%20Contains%20Duplicate%20-%20Blind/5%20-%20Given%20an%20integer%20array%20nums%20return%20tru.md) | 1 | 1 |
+| [1](#id1) | [Contains duplicate given an integer array](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%201%20-%20Contains%20Duplicate%20-%20Blind/1%20-%20Contains%20duplicate%20given%20an%20integer%20array.md) | 1 | 1 |
+| [2](#id2) | [Contains duplicate given an integer array](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%201%20-%20Contains%20Duplicate%20-%20Blind/2%20-%20Contains%20duplicate%20given%20an%20integer%20array.md) | 1 | 1 |
+| [3](#id3) | [Contains duplicate given an integer array](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%201%20-%20Contains%20Duplicate%20-%20Blind/3%20-%20Contains%20duplicate%20given%20an%20integer%20array.md) | 1 | 1 |
+| [4](#id4) | [Contains duplicate given an integer array](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%201%20-%20Contains%20Duplicate%20-%20Blind/4%20-%20Contains%20duplicate%20given%20an%20integer%20array.md) | 1 | 1 |
+| [5](#id5) | [Contains duplicate given an integer array](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%201%20-%20Contains%20Duplicate%20-%20Blind/5%20-%20Contains%20duplicate%20given%20an%20integer%20array.md) | 1 | 1 |
 | **-** | **Arrays Hashing > Valid Anagram** | **1** | **2** |
-| [6](#id6) | [Given two strings s and t return tru](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%202%20-%20Valid%20Anagram%20-%20Blind/6%20-%20Given%20two%20strings%20s%20and%20t%20return%20tru.md) | 1 | 2 |
-| [7](#id7) | [Given two strings s and t return tru](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%202%20-%20Valid%20Anagram%20-%20Blind/7%20-%20Given%20two%20strings%20s%20and%20t%20return%20tru.md) | 1 | 2 |
-| [8](#id8) | [Given two strings s and t return tru](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%202%20-%20Valid%20Anagram%20-%20Blind/8%20-%20Given%20two%20strings%20s%20and%20t%20return%20tru.md) | 1 | 2 |
-| [9](#id9) | [Given two strings s and t return tru](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%202%20-%20Valid%20Anagram%20-%20Blind/9%20-%20Given%20two%20strings%20s%20and%20t%20return%20tru.md) | 1 | 2 |
-| [10](#id10) | [Given two strings s and t return tru](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%202%20-%20Valid%20Anagram%20-%20Blind/10%20-%20Given%20two%20strings%20s%20and%20t%20return%20tru.md) | 1 | 2 |
-| [11](#id11) | [Given two strings s and t return tru](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%202%20-%20Valid%20Anagram%20-%20Blind/11%20-%20Given%20two%20strings%20s%20and%20t%20return%20tru.md) | 1 | 2 |
+| [6](#id6) | [Valid anagram given two strings s and t](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%202%20-%20Valid%20Anagram%20-%20Blind/6%20-%20Valid%20anagram%20given%20two%20strings%20s%20and%20t.md) | 1 | 2 |
+| [7](#id7) | [Valid anagram given two strings s and t](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%202%20-%20Valid%20Anagram%20-%20Blind/7%20-%20Valid%20anagram%20given%20two%20strings%20s%20and%20t.md) | 1 | 2 |
+| [8](#id8) | [Valid anagram given two strings s and t](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%202%20-%20Valid%20Anagram%20-%20Blind/8%20-%20Valid%20anagram%20given%20two%20strings%20s%20and%20t.md) | 1 | 2 |
+| [9](#id9) | [Valid anagram given two strings s and t](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%202%20-%20Valid%20Anagram%20-%20Blind/9%20-%20Valid%20anagram%20given%20two%20strings%20s%20and%20t.md) | 1 | 2 |
+| [10](#id10) | [Valid anagram given two strings s and t](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%202%20-%20Valid%20Anagram%20-%20Blind/10%20-%20Valid%20anagram%20given%20two%20strings%20s%20and%20t.md) | 1 | 2 |
+| [11](#id11) | [Valid anagram given two strings s and t](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%202%20-%20Valid%20Anagram%20-%20Blind/11%20-%20Valid%20anagram%20given%20two%20strings%20s%20and%20t.md) | 1 | 2 |
 | **-** | **Arrays Hashing > Two Sum** | **1** | **3** |
-| [12](#id12) | [Given an array of integers nums and an i](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%203%20-%20Two%20Sum%20-%20Blind/12%20-%20Given%20an%20array%20of%20integers%20nums%20and%20an%20i.md) | 1 | 3 |
-| [13](#id13) | [Given an array of integers nums and an i](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%203%20-%20Two%20Sum%20-%20Blind/13%20-%20Given%20an%20array%20of%20integers%20nums%20and%20an%20i.md) | 1 | 3 |
-| [14](#id14) | [Given an array of integers nums and an i](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%203%20-%20Two%20Sum%20-%20Blind/14%20-%20Given%20an%20array%20of%20integers%20nums%20and%20an%20i.md) | 1 | 3 |
-| [15](#id15) | [Given an array of integers nums and an i](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%203%20-%20Two%20Sum%20-%20Blind/15%20-%20Given%20an%20array%20of%20integers%20nums%20and%20an%20i.md) | 1 | 3 |
-| [16](#id16) | [Given an array of integers nums and an i](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%203%20-%20Two%20Sum%20-%20Blind/16%20-%20Given%20an%20array%20of%20integers%20nums%20and%20an%20i.md) | 1 | 3 |
-| [17](#id17) | [Given an array of integers nums and an i](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%203%20-%20Two%20Sum%20-%20Blind/17%20-%20Given%20an%20array%20of%20integers%20nums%20and%20an%20i.md) | 1 | 3 |
-| [18](#id18) | [Given an array of integers nums and an i](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%203%20-%20Two%20Sum%20-%20Blind/18%20-%20Given%20an%20array%20of%20integers%20nums%20and%20an%20i.md) | 1 | 3 |
+| [12](#id12) | [Two sum given an array of integers nums](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%203%20-%20Two%20Sum%20-%20Blind/12%20-%20Two%20sum%20given%20an%20array%20of%20integers%20nums.md) | 1 | 3 |
+| [13](#id13) | [Two sum given an array of integers nums](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%203%20-%20Two%20Sum%20-%20Blind/13%20-%20Two%20sum%20given%20an%20array%20of%20integers%20nums.md) | 1 | 3 |
+| [14](#id14) | [Two sum given an array of integers nums](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%203%20-%20Two%20Sum%20-%20Blind/14%20-%20Two%20sum%20given%20an%20array%20of%20integers%20nums.md) | 1 | 3 |
+| [15](#id15) | [Two sum given an array of integers nums](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%203%20-%20Two%20Sum%20-%20Blind/15%20-%20Two%20sum%20given%20an%20array%20of%20integers%20nums.md) | 1 | 3 |
+| [16](#id16) | [Two sum given an array of integers nums](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%203%20-%20Two%20Sum%20-%20Blind/16%20-%20Two%20sum%20given%20an%20array%20of%20integers%20nums.md) | 1 | 3 |
+| [17](#id17) | [Two sum given an array of integers nums](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%203%20-%20Two%20Sum%20-%20Blind/17%20-%20Two%20sum%20given%20an%20array%20of%20integers%20nums.md) | 1 | 3 |
+| [18](#id18) | [Two sum given an array of integers nums](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%203%20-%20Two%20Sum%20-%20Blind/18%20-%20Two%20sum%20given%20an%20array%20of%20integers%20nums.md) | 1 | 3 |
 | **-** | **Arrays Hashing > Group Anagrams** | **1** | **4** |
-| [19](#id19) | [Given an array of strings strs group al](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%204%20-%20Group%20Anagrams%20-%20Blind/19%20-%20Given%20an%20array%20of%20strings%20strs%20group%20al.md) | 1 | 4 |
-| [20](#id20) | [Given an array of strings strs group al](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%204%20-%20Group%20Anagrams%20-%20Blind/20%20-%20Given%20an%20array%20of%20strings%20strs%20group%20al.md) | 1 | 4 |
-| [21](#id21) | [Given an array of strings strs group al](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%204%20-%20Group%20Anagrams%20-%20Blind/21%20-%20Given%20an%20array%20of%20strings%20strs%20group%20al.md) | 1 | 4 |
-| [22](#id22) | [Given an array of strings strs group al](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%204%20-%20Group%20Anagrams%20-%20Blind/22%20-%20Given%20an%20array%20of%20strings%20strs%20group%20al.md) | 1 | 4 |
-| [23](#id23) | [Given an array of strings strs group al](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%204%20-%20Group%20Anagrams%20-%20Blind/23%20-%20Given%20an%20array%20of%20strings%20strs%20group%20al.md) | 1 | 4 |
-| [24](#id24) | [Given an array of strings strs group al](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%204%20-%20Group%20Anagrams%20-%20Blind/24%20-%20Given%20an%20array%20of%20strings%20strs%20group%20al.md) | 1 | 4 |
+| [19](#id19) | [Group anagrams given an array of strings](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%204%20-%20Group%20Anagrams%20-%20Blind/19%20-%20Group%20anagrams%20given%20an%20array%20of%20strings.md) | 1 | 4 |
+| [20](#id20) | [Group anagrams given an array of strings](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%204%20-%20Group%20Anagrams%20-%20Blind/20%20-%20Group%20anagrams%20given%20an%20array%20of%20strings.md) | 1 | 4 |
+| [21](#id21) | [Group anagrams given an array of strings](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%204%20-%20Group%20Anagrams%20-%20Blind/21%20-%20Group%20anagrams%20given%20an%20array%20of%20strings.md) | 1 | 4 |
+| [22](#id22) | [Group anagrams given an array of strings](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%204%20-%20Group%20Anagrams%20-%20Blind/22%20-%20Group%20anagrams%20given%20an%20array%20of%20strings.md) | 1 | 4 |
+| [23](#id23) | [Group anagrams given an array of strings](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%204%20-%20Group%20Anagrams%20-%20Blind/23%20-%20Group%20anagrams%20given%20an%20array%20of%20strings.md) | 1 | 4 |
+| [24](#id24) | [Group anagrams given an array of strings](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%204%20-%20Group%20Anagrams%20-%20Blind/24%20-%20Group%20anagrams%20given%20an%20array%20of%20strings.md) | 1 | 4 |
 | **-** | **Arrays Hashing > Encode and Decode Strings** | **1** | **6** |
-| [25](#id25) | [Design an algorithm to encode a list of](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%206%20-%20Encode%20and%20Decode%20Strings%20-%20Blind/25%20-%20Design%20an%20algorithm%20to%20encode%20a%20list%20of.md) | 1 | 6 |
-| [26](#id26) | [Design an algorithm to encode a list of](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%206%20-%20Encode%20and%20Decode%20Strings%20-%20Blind/26%20-%20Design%20an%20algorithm%20to%20encode%20a%20list%20of.md) | 1 | 6 |
-| [27](#id27) | [Design an algorithm to encode a list of](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%206%20-%20Encode%20and%20Decode%20Strings%20-%20Blind/27%20-%20Design%20an%20algorithm%20to%20encode%20a%20list%20of.md) | 1 | 6 |
-| [28](#id28) | [Design an algorithm to encode a list of](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%206%20-%20Encode%20and%20Decode%20Strings%20-%20Blind/28%20-%20Design%20an%20algorithm%20to%20encode%20a%20list%20of.md) | 1 | 6 |
+| [25](#id25) | [Encode and decode strings design an algori](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%206%20-%20Encode%20and%20Decode%20Strings%20-%20Blind/25%20-%20Encode%20and%20decode%20strings%20design%20an%20algori.md) | 1 | 6 |
+| [26](#id26) | [Encode and decode strings design an algori](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%206%20-%20Encode%20and%20Decode%20Strings%20-%20Blind/26%20-%20Encode%20and%20decode%20strings%20design%20an%20algori.md) | 1 | 6 |
+| [27](#id27) | [Encode and decode strings design an algori](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%206%20-%20Encode%20and%20Decode%20Strings%20-%20Blind/27%20-%20Encode%20and%20decode%20strings%20design%20an%20algori.md) | 1 | 6 |
+| [28](#id28) | [Encode and decode strings design an algori](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%206%20-%20Encode%20and%20Decode%20Strings%20-%20Blind/28%20-%20Encode%20and%20decode%20strings%20design%20an%20algori.md) | 1 | 6 |
 | **-** | **Arrays Hashing > Longest Consecutive Sequence** | **1** | **9** |
-| [29](#id29) | [Given an unsorted array of integers nums](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%209%20-%20Longest%20Consecutive%20Sequence%20-%20Blind/29%20-%20Given%20an%20unsorted%20array%20of%20integers%20nums.md) | 1 | 9 |
-| [30](#id30) | [Given an unsorted array of integers nums](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%209%20-%20Longest%20Consecutive%20Sequence%20-%20Blind/30%20-%20Given%20an%20unsorted%20array%20of%20integers%20nums.md) | 1 | 9 |
-| [31](#id31) | [Given an unsorted array of integers nums](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%209%20-%20Longest%20Consecutive%20Sequence%20-%20Blind/31%20-%20Given%20an%20unsorted%20array%20of%20integers%20nums.md) | 1 | 9 |
-| [32](#id32) | [Given an unsorted array of integers nums](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%209%20-%20Longest%20Consecutive%20Sequence%20-%20Blind/32%20-%20Given%20an%20unsorted%20array%20of%20integers%20nums.md) | 1 | 9 |
-| [33](#id33) | [Given an unsorted array of integers nums](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%209%20-%20Longest%20Consecutive%20Sequence%20-%20Blind/33%20-%20Given%20an%20unsorted%20array%20of%20integers%20nums.md) | 1 | 9 |
-| [34](#id34) | [Given an unsorted array of integers nums](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%209%20-%20Longest%20Consecutive%20Sequence%20-%20Blind/34%20-%20Given%20an%20unsorted%20array%20of%20integers%20nums.md) | 1 | 9 |
+| [29](#id29) | [Longest consecutive sequence given an unso](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%209%20-%20Longest%20Consecutive%20Sequence%20-%20Blind/29%20-%20Longest%20consecutive%20sequence%20given%20an%20unso.md) | 1 | 9 |
+| [30](#id30) | [Longest consecutive sequence given an unso](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%209%20-%20Longest%20Consecutive%20Sequence%20-%20Blind/30%20-%20Longest%20consecutive%20sequence%20given%20an%20unso.md) | 1 | 9 |
+| [31](#id31) | [Longest consecutive sequence given an unso](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%209%20-%20Longest%20Consecutive%20Sequence%20-%20Blind/31%20-%20Longest%20consecutive%20sequence%20given%20an%20unso.md) | 1 | 9 |
+| [32](#id32) | [Longest consecutive sequence given an unso](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%209%20-%20Longest%20Consecutive%20Sequence%20-%20Blind/32%20-%20Longest%20consecutive%20sequence%20given%20an%20unso.md) | 1 | 9 |
+| [33](#id33) | [Longest consecutive sequence given an unso](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%209%20-%20Longest%20Consecutive%20Sequence%20-%20Blind/33%20-%20Longest%20consecutive%20sequence%20given%20an%20unso.md) | 1 | 9 |
+| [34](#id34) | [Longest consecutive sequence given an unso](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%209%20-%20Longest%20Consecutive%20Sequence%20-%20Blind/34%20-%20Longest%20consecutive%20sequence%20given%20an%20unso.md) | 1 | 9 |
 | **-** | **Two Pointers** | **2** | **-** |
 | **-** | **Two Pointers > Valid Palindrome** | **2** | **1** |
-| [35](#id35) | [A phrase is a palindrome if after con](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%201%20-%20Valid%20Palindrome%20-%20Blind/35%20-%20A%20phrase%20is%20a%20palindrome%20if%20after%20con.md) | 2 | 1 |
-| [36](#id36) | [A phrase is a palindrome if after con](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%201%20-%20Valid%20Palindrome%20-%20Blind/36%20-%20A%20phrase%20is%20a%20palindrome%20if%20after%20con.md) | 2 | 1 |
-| [37](#id37) | [A phrase is a palindrome if after con](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%201%20-%20Valid%20Palindrome%20-%20Blind/37%20-%20A%20phrase%20is%20a%20palindrome%20if%20after%20con.md) | 2 | 1 |
-| [38](#id38) | [A phrase is a palindrome if after con](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%201%20-%20Valid%20Palindrome%20-%20Blind/38%20-%20A%20phrase%20is%20a%20palindrome%20if%20after%20con.md) | 2 | 1 |
-| [39](#id39) | [A phrase is a palindrome if after con](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%201%20-%20Valid%20Palindrome%20-%20Blind/39%20-%20A%20phrase%20is%20a%20palindrome%20if%20after%20con.md) | 2 | 1 |
-| [40](#id40) | [A phrase is a palindrome if after con](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%201%20-%20Valid%20Palindrome%20-%20Blind/40%20-%20A%20phrase%20is%20a%20palindrome%20if%20after%20con.md) | 2 | 1 |
+| [35](#id35) | [Valid palindrome a phrase is a palindrom](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%201%20-%20Valid%20Palindrome%20-%20Blind/35%20-%20Valid%20palindrome%20a%20phrase%20is%20a%20palindrom.md) | 2 | 1 |
+| [36](#id36) | [Valid palindrome a phrase is a palindrom](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%201%20-%20Valid%20Palindrome%20-%20Blind/36%20-%20Valid%20palindrome%20a%20phrase%20is%20a%20palindrom.md) | 2 | 1 |
+| [37](#id37) | [Valid palindrome a phrase is a palindrom](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%201%20-%20Valid%20Palindrome%20-%20Blind/37%20-%20Valid%20palindrome%20a%20phrase%20is%20a%20palindrom.md) | 2 | 1 |
+| [38](#id38) | [Valid palindrome a phrase is a palindrom](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%201%20-%20Valid%20Palindrome%20-%20Blind/38%20-%20Valid%20palindrome%20a%20phrase%20is%20a%20palindrom.md) | 2 | 1 |
+| [39](#id39) | [Valid palindrome a phrase is a palindrom](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%201%20-%20Valid%20Palindrome%20-%20Blind/39%20-%20Valid%20palindrome%20a%20phrase%20is%20a%20palindrom.md) | 2 | 1 |
+| [40](#id40) | [Valid palindrome a phrase is a palindrom](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%201%20-%20Valid%20Palindrome%20-%20Blind/40%20-%20Valid%20palindrome%20a%20phrase%20is%20a%20palindrom.md) | 2 | 1 |
 | **-** | **Two Pointers > 3Sum** | **2** | **3** |
-| [41](#id41) | [Given an integer array nums return all th](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%203%20-%203Sum%20-%20Blind/41%20-%20Given%20an%20integer%20array%20nums%20return%20all%20th.md) | 2 | 3 |
-| [42](#id42) | [Given an integer array nums return all th](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%203%20-%203Sum%20-%20Blind/42%20-%20Given%20an%20integer%20array%20nums%20return%20all%20th.md) | 2 | 3 |
-| [43](#id43) | [Given an integer array nums return all th](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%203%20-%203Sum%20-%20Blind/43%20-%20Given%20an%20integer%20array%20nums%20return%20all%20th.md) | 2 | 3 |
-| [44](#id44) | [Given an integer array nums return all th](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%203%20-%203Sum%20-%20Blind/44%20-%20Given%20an%20integer%20array%20nums%20return%20all%20th.md) | 2 | 3 |
-| [45](#id45) | [Given an integer array nums return all th](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%203%20-%203Sum%20-%20Blind/45%20-%20Given%20an%20integer%20array%20nums%20return%20all%20th.md) | 2 | 3 |
+| [41](#id41) | [3sum given an integer array nums return a](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%203%20-%203Sum%20-%20Blind/41%20-%203sum%20given%20an%20integer%20array%20nums%20return%20a.md) | 2 | 3 |
+| [42](#id42) | [3sum given an integer array nums return a](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%203%20-%203Sum%20-%20Blind/42%20-%203sum%20given%20an%20integer%20array%20nums%20return%20a.md) | 2 | 3 |
+| [43](#id43) | [3sum given an integer array nums return a](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%203%20-%203Sum%20-%20Blind/43%20-%203sum%20given%20an%20integer%20array%20nums%20return%20a.md) | 2 | 3 |
+| [44](#id44) | [3sum given an integer array nums return a](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%203%20-%203Sum%20-%20Blind/44%20-%203sum%20given%20an%20integer%20array%20nums%20return%20a.md) | 2 | 3 |
+| [45](#id45) | [3sum given an integer array nums return a](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%203%20-%203Sum%20-%20Blind/45%20-%203sum%20given%20an%20integer%20array%20nums%20return%20a.md) | 2 | 3 |
 | **-** | **Two Pointers > Container With Most Water** | **2** | **4** |
-| [46](#id46) | [You are given an integer array height of](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%204%20-%20Container%20With%20Most%20Water%20-%20Blind/46%20-%20You%20are%20given%20an%20integer%20array%20height%20of.md) | 2 | 4 |
-| [47](#id47) | [You are given an integer array height of](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%204%20-%20Container%20With%20Most%20Water%20-%20Blind/47%20-%20You%20are%20given%20an%20integer%20array%20height%20of.md) | 2 | 4 |
-| [48](#id48) | [You are given an integer array height of](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%204%20-%20Container%20With%20Most%20Water%20-%20Blind/48%20-%20You%20are%20given%20an%20integer%20array%20height%20of.md) | 2 | 4 |
-| [49](#id49) | [You are given an integer array height of](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%204%20-%20Container%20With%20Most%20Water%20-%20Blind/49%20-%20You%20are%20given%20an%20integer%20array%20height%20of.md) | 2 | 4 |
-| [50](#id50) | [You are given an integer array height of](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%204%20-%20Container%20With%20Most%20Water%20-%20Blind/50%20-%20You%20are%20given%20an%20integer%20array%20height%20of.md) | 2 | 4 |
-| [51](#id51) | [You are given an integer array height of](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%204%20-%20Container%20With%20Most%20Water%20-%20Blind/51%20-%20You%20are%20given%20an%20integer%20array%20height%20of.md) | 2 | 4 |
+| [46](#id46) | [Container with most water you are given an](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%204%20-%20Container%20With%20Most%20Water%20-%20Blind/46%20-%20Container%20with%20most%20water%20you%20are%20given%20an.md) | 2 | 4 |
+| [47](#id47) | [Container with most water you are given an](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%204%20-%20Container%20With%20Most%20Water%20-%20Blind/47%20-%20Container%20with%20most%20water%20you%20are%20given%20an.md) | 2 | 4 |
+| [48](#id48) | [Container with most water you are given an](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%204%20-%20Container%20With%20Most%20Water%20-%20Blind/48%20-%20Container%20with%20most%20water%20you%20are%20given%20an.md) | 2 | 4 |
+| [49](#id49) | [Container with most water you are given an](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%204%20-%20Container%20With%20Most%20Water%20-%20Blind/49%20-%20Container%20with%20most%20water%20you%20are%20given%20an.md) | 2 | 4 |
+| [50](#id50) | [Container with most water you are given an](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%204%20-%20Container%20With%20Most%20Water%20-%20Blind/50%20-%20Container%20with%20most%20water%20you%20are%20given%20an.md) | 2 | 4 |
+| [51](#id51) | [Container with most water you are given an](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%204%20-%20Container%20With%20Most%20Water%20-%20Blind/51%20-%20Container%20with%20most%20water%20you%20are%20given%20an.md) | 2 | 4 |
 | **-** | **Stack** | **3** | **-** |
 | **-** | **Stack > Valid Parentheses** | **3** | **1** |
-| [52](#id52) | [Given a string s containing just the chara](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Stack/Chapter%201%20-%20Valid%20Parentheses%20-%20Blind/52%20-%20Given%20a%20string%20s%20containing%20just%20the%20chara.md) | 3 | 1 |
-| [53](#id53) | [Given a string s containing just the chara](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Stack/Chapter%201%20-%20Valid%20Parentheses%20-%20Blind/53%20-%20Given%20a%20string%20s%20containing%20just%20the%20chara.md) | 3 | 1 |
-| [54](#id54) | [Given a string s containing just the chara](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Stack/Chapter%201%20-%20Valid%20Parentheses%20-%20Blind/54%20-%20Given%20a%20string%20s%20containing%20just%20the%20chara.md) | 3 | 1 |
-| [55](#id55) | [Given a string s containing just the chara](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Stack/Chapter%201%20-%20Valid%20Parentheses%20-%20Blind/55%20-%20Given%20a%20string%20s%20containing%20just%20the%20chara.md) | 3 | 1 |
-| [56](#id56) | [Given a string s containing just the chara](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Stack/Chapter%201%20-%20Valid%20Parentheses%20-%20Blind/56%20-%20Given%20a%20string%20s%20containing%20just%20the%20chara.md) | 3 | 1 |
-| [57](#id57) | [Given a string s containing just the chara](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Stack/Chapter%201%20-%20Valid%20Parentheses%20-%20Blind/57%20-%20Given%20a%20string%20s%20containing%20just%20the%20chara.md) | 3 | 1 |
+| [52](#id52) | [Valid parentheses given a string s contain](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Stack/Chapter%201%20-%20Valid%20Parentheses%20-%20Blind/52%20-%20Valid%20parentheses%20given%20a%20string%20s%20contain.md) | 3 | 1 |
+| [53](#id53) | [Valid parentheses given a string s contain](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Stack/Chapter%201%20-%20Valid%20Parentheses%20-%20Blind/53%20-%20Valid%20parentheses%20given%20a%20string%20s%20contain.md) | 3 | 1 |
+| [54](#id54) | [Valid parentheses given a string s contain](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Stack/Chapter%201%20-%20Valid%20Parentheses%20-%20Blind/54%20-%20Valid%20parentheses%20given%20a%20string%20s%20contain.md) | 3 | 1 |
+| [55](#id55) | [Valid parentheses given a string s contain](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Stack/Chapter%201%20-%20Valid%20Parentheses%20-%20Blind/55%20-%20Valid%20parentheses%20given%20a%20string%20s%20contain.md) | 3 | 1 |
+| [56](#id56) | [Valid parentheses given a string s contain](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Stack/Chapter%201%20-%20Valid%20Parentheses%20-%20Blind/56%20-%20Valid%20parentheses%20given%20a%20string%20s%20contain.md) | 3 | 1 |
+| [57](#id57) | [Valid parentheses given a string s contain](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Stack/Chapter%201%20-%20Valid%20Parentheses%20-%20Blind/57%20-%20Valid%20parentheses%20given%20a%20string%20s%20contain.md) | 3 | 1 |
 | **-** | **Binary Search** | **4** | **-** |
 | **-** | **Binary Search > Find Minimum In Rotated Sorted Array** | **4** | **4** |
-| [58](#id58) | [Suppose an array of length n sorted in a](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%204%20-%20Find%20Minimum%20In%20Rotated%20Sorted%20Array%20-%20Blind/58%20-%20Suppose%20an%20array%20of%20length%20n%20sorted%20in%20a.md) | 4 | 4 |
-| [59](#id59) | [Suppose an array of length n sorted in a](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%204%20-%20Find%20Minimum%20In%20Rotated%20Sorted%20Array%20-%20Blind/59%20-%20Suppose%20an%20array%20of%20length%20n%20sorted%20in%20a.md) | 4 | 4 |
-| [60](#id60) | [Suppose an array of length n sorted in a](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%204%20-%20Find%20Minimum%20In%20Rotated%20Sorted%20Array%20-%20Blind/60%20-%20Suppose%20an%20array%20of%20length%20n%20sorted%20in%20a.md) | 4 | 4 |
-| [61](#id61) | [Suppose an array of length n sorted in a](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%204%20-%20Find%20Minimum%20In%20Rotated%20Sorted%20Array%20-%20Blind/61%20-%20Suppose%20an%20array%20of%20length%20n%20sorted%20in%20a.md) | 4 | 4 |
-| [62](#id62) | [Suppose an array of length n sorted in a](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%204%20-%20Find%20Minimum%20In%20Rotated%20Sorted%20Array%20-%20Blind/62%20-%20Suppose%20an%20array%20of%20length%20n%20sorted%20in%20a.md) | 4 | 4 |
-| [63](#id63) | [Suppose an array of length n sorted in a](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%204%20-%20Find%20Minimum%20In%20Rotated%20Sorted%20Array%20-%20Blind/63%20-%20Suppose%20an%20array%20of%20length%20n%20sorted%20in%20a.md) | 4 | 4 |
-| [64](#id64) | [Suppose an array of length n sorted in a](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%204%20-%20Find%20Minimum%20In%20Rotated%20Sorted%20Array%20-%20Blind/64%20-%20Suppose%20an%20array%20of%20length%20n%20sorted%20in%20a.md) | 4 | 4 |
-| [65](#id65) | [Suppose an array of length n sorted in a](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%204%20-%20Find%20Minimum%20In%20Rotated%20Sorted%20Array%20-%20Blind/65%20-%20Suppose%20an%20array%20of%20length%20n%20sorted%20in%20a.md) | 4 | 4 |
+| [58](#id58) | [Find minimum in rotated sorted array suppo](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%204%20-%20Find%20Minimum%20In%20Rotated%20Sorted%20Array%20-%20Blind/58%20-%20Find%20minimum%20in%20rotated%20sorted%20array%20suppo.md) | 4 | 4 |
+| [59](#id59) | [Find minimum in rotated sorted array suppo](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%204%20-%20Find%20Minimum%20In%20Rotated%20Sorted%20Array%20-%20Blind/59%20-%20Find%20minimum%20in%20rotated%20sorted%20array%20suppo.md) | 4 | 4 |
+| [60](#id60) | [Find minimum in rotated sorted array suppo](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%204%20-%20Find%20Minimum%20In%20Rotated%20Sorted%20Array%20-%20Blind/60%20-%20Find%20minimum%20in%20rotated%20sorted%20array%20suppo.md) | 4 | 4 |
+| [61](#id61) | [Find minimum in rotated sorted array suppo](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%204%20-%20Find%20Minimum%20In%20Rotated%20Sorted%20Array%20-%20Blind/61%20-%20Find%20minimum%20in%20rotated%20sorted%20array%20suppo.md) | 4 | 4 |
+| [62](#id62) | [Find minimum in rotated sorted array suppo](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%204%20-%20Find%20Minimum%20In%20Rotated%20Sorted%20Array%20-%20Blind/62%20-%20Find%20minimum%20in%20rotated%20sorted%20array%20suppo.md) | 4 | 4 |
+| [63](#id63) | [Find minimum in rotated sorted array suppo](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%204%20-%20Find%20Minimum%20In%20Rotated%20Sorted%20Array%20-%20Blind/63%20-%20Find%20minimum%20in%20rotated%20sorted%20array%20suppo.md) | 4 | 4 |
+| [64](#id64) | [Find minimum in rotated sorted array suppo](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%204%20-%20Find%20Minimum%20In%20Rotated%20Sorted%20Array%20-%20Blind/64%20-%20Find%20minimum%20in%20rotated%20sorted%20array%20suppo.md) | 4 | 4 |
+| [65](#id65) | [Find minimum in rotated sorted array suppo](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%204%20-%20Find%20Minimum%20In%20Rotated%20Sorted%20Array%20-%20Blind/65%20-%20Find%20minimum%20in%20rotated%20sorted%20array%20suppo.md) | 4 | 4 |
 | **-** | **Binary Search > Search In Rotated Sorted Array** | **4** | **5** |
-| [66](#id66) | [There is an integer array nums sorted in](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%205%20-%20Search%20In%20Rotated%20Sorted%20Array%20-%20Blind/66%20-%20There%20is%20an%20integer%20array%20nums%20sorted%20in.md) | 4 | 5 |
-| [67](#id67) | [There is an integer array nums sorted in](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%205%20-%20Search%20In%20Rotated%20Sorted%20Array%20-%20Blind/67%20-%20There%20is%20an%20integer%20array%20nums%20sorted%20in.md) | 4 | 5 |
-| [68](#id68) | [There is an integer array nums sorted in](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%205%20-%20Search%20In%20Rotated%20Sorted%20Array%20-%20Blind/68%20-%20There%20is%20an%20integer%20array%20nums%20sorted%20in.md) | 4 | 5 |
-| [69](#id69) | [There is an integer array nums sorted in](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%205%20-%20Search%20In%20Rotated%20Sorted%20Array%20-%20Blind/69%20-%20There%20is%20an%20integer%20array%20nums%20sorted%20in.md) | 4 | 5 |
-| [70](#id70) | [There is an integer array nums sorted in](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%205%20-%20Search%20In%20Rotated%20Sorted%20Array%20-%20Blind/70%20-%20There%20is%20an%20integer%20array%20nums%20sorted%20in.md) | 4 | 5 |
-| [71](#id71) | [There is an integer array nums sorted in](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%205%20-%20Search%20In%20Rotated%20Sorted%20Array%20-%20Blind/71%20-%20There%20is%20an%20integer%20array%20nums%20sorted%20in.md) | 4 | 5 |
-| [72](#id72) | [There is an integer array nums sorted in](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%205%20-%20Search%20In%20Rotated%20Sorted%20Array%20-%20Blind/72%20-%20There%20is%20an%20integer%20array%20nums%20sorted%20in.md) | 4 | 5 |
-| [73](#id73) | [There is an integer array nums sorted in](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%205%20-%20Search%20In%20Rotated%20Sorted%20Array%20-%20Blind/73%20-%20There%20is%20an%20integer%20array%20nums%20sorted%20in.md) | 4 | 5 |
-| [74](#id74) | [There is an integer array nums sorted in](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%205%20-%20Search%20In%20Rotated%20Sorted%20Array%20-%20Blind/74%20-%20There%20is%20an%20integer%20array%20nums%20sorted%20in.md) | 4 | 5 |
+| [66](#id66) | [Search in rotated sorted array there is an](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%205%20-%20Search%20In%20Rotated%20Sorted%20Array%20-%20Blind/66%20-%20Search%20in%20rotated%20sorted%20array%20there%20is%20an.md) | 4 | 5 |
+| [67](#id67) | [Search in rotated sorted array there is an](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%205%20-%20Search%20In%20Rotated%20Sorted%20Array%20-%20Blind/67%20-%20Search%20in%20rotated%20sorted%20array%20there%20is%20an.md) | 4 | 5 |
+| [68](#id68) | [Search in rotated sorted array there is an](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%205%20-%20Search%20In%20Rotated%20Sorted%20Array%20-%20Blind/68%20-%20Search%20in%20rotated%20sorted%20array%20there%20is%20an.md) | 4 | 5 |
+| [69](#id69) | [Search in rotated sorted array there is an](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%205%20-%20Search%20In%20Rotated%20Sorted%20Array%20-%20Blind/69%20-%20Search%20in%20rotated%20sorted%20array%20there%20is%20an.md) | 4 | 5 |
+| [70](#id70) | [Search in rotated sorted array there is an](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%205%20-%20Search%20In%20Rotated%20Sorted%20Array%20-%20Blind/70%20-%20Search%20in%20rotated%20sorted%20array%20there%20is%20an.md) | 4 | 5 |
+| [71](#id71) | [Search in rotated sorted array there is an](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%205%20-%20Search%20In%20Rotated%20Sorted%20Array%20-%20Blind/71%20-%20Search%20in%20rotated%20sorted%20array%20there%20is%20an.md) | 4 | 5 |
+| [72](#id72) | [Search in rotated sorted array there is an](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%205%20-%20Search%20In%20Rotated%20Sorted%20Array%20-%20Blind/72%20-%20Search%20in%20rotated%20sorted%20array%20there%20is%20an.md) | 4 | 5 |
+| [73](#id73) | [Search in rotated sorted array there is an](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%205%20-%20Search%20In%20Rotated%20Sorted%20Array%20-%20Blind/73%20-%20Search%20in%20rotated%20sorted%20array%20there%20is%20an.md) | 4 | 5 |
+| [74](#id74) | [Search in rotated sorted array there is an](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%205%20-%20Search%20In%20Rotated%20Sorted%20Array%20-%20Blind/74%20-%20Search%20in%20rotated%20sorted%20array%20there%20is%20an.md) | 4 | 5 |
 | **-** | **Sliding Window** | **5** | **-** |
 | **-** | **Sliding Window > Best Time to Buy And Sell Stock** | **5** | **1** |
-| [75](#id75) | [You are given an array prices where pri](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%201%20-%20Best%20Time%20to%20Buy%20And%20Sell%20Stock%20-%20Blind/75%20-%20You%20are%20given%20an%20array%20prices%20where%20pri.md) | 5 | 1 |
-| [76](#id76) | [You are given an array prices where pri](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%201%20-%20Best%20Time%20to%20Buy%20And%20Sell%20Stock%20-%20Blind/76%20-%20You%20are%20given%20an%20array%20prices%20where%20pri.md) | 5 | 1 |
-| [77](#id77) | [You are given an array prices where pri](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%201%20-%20Best%20Time%20to%20Buy%20And%20Sell%20Stock%20-%20Blind/77%20-%20You%20are%20given%20an%20array%20prices%20where%20pri.md) | 5 | 1 |
-| [78](#id78) | [You are given an array prices where pri](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%201%20-%20Best%20Time%20to%20Buy%20And%20Sell%20Stock%20-%20Blind/78%20-%20You%20are%20given%20an%20array%20prices%20where%20pri.md) | 5 | 1 |
-| [79](#id79) | [You are given an array prices where pri](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%201%20-%20Best%20Time%20to%20Buy%20And%20Sell%20Stock%20-%20Blind/79%20-%20You%20are%20given%20an%20array%20prices%20where%20pri.md) | 5 | 1 |
+| [75](#id75) | [Best time to buy and sell stock you are gi](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%201%20-%20Best%20Time%20to%20Buy%20And%20Sell%20Stock%20-%20Blind/75%20-%20Best%20time%20to%20buy%20and%20sell%20stock%20you%20are%20gi.md) | 5 | 1 |
+| [76](#id76) | [Best time to buy and sell stock you are gi](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%201%20-%20Best%20Time%20to%20Buy%20And%20Sell%20Stock%20-%20Blind/76%20-%20Best%20time%20to%20buy%20and%20sell%20stock%20you%20are%20gi.md) | 5 | 1 |
+| [77](#id77) | [Best time to buy and sell stock you are gi](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%201%20-%20Best%20Time%20to%20Buy%20And%20Sell%20Stock%20-%20Blind/77%20-%20Best%20time%20to%20buy%20and%20sell%20stock%20you%20are%20gi.md) | 5 | 1 |
+| [78](#id78) | [Best time to buy and sell stock you are gi](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%201%20-%20Best%20Time%20to%20Buy%20And%20Sell%20Stock%20-%20Blind/78%20-%20Best%20time%20to%20buy%20and%20sell%20stock%20you%20are%20gi.md) | 5 | 1 |
+| [79](#id79) | [Best time to buy and sell stock you are gi](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%201%20-%20Best%20Time%20to%20Buy%20And%20Sell%20Stock%20-%20Blind/79%20-%20Best%20time%20to%20buy%20and%20sell%20stock%20you%20are%20gi.md) | 5 | 1 |
 | **-** | **Sliding Window > Longest Substring Without Repeating Characters** | **5** | **2** |
-| [80](#id80) | [Given a string s find the length of the](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%202%20-%20Longest%20Substring%20Without%20Repeating%20Characters%20-%20Blind/80%20-%20Given%20a%20string%20s%20find%20the%20length%20of%20the.md) | 5 | 2 |
-| [81](#id81) | [Given a string s find the length of the](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%202%20-%20Longest%20Substring%20Without%20Repeating%20Characters%20-%20Blind/81%20-%20Given%20a%20string%20s%20find%20the%20length%20of%20the.md) | 5 | 2 |
-| [82](#id82) | [Given a string s find the length of the](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%202%20-%20Longest%20Substring%20Without%20Repeating%20Characters%20-%20Blind/82%20-%20Given%20a%20string%20s%20find%20the%20length%20of%20the.md) | 5 | 2 |
-| [83](#id83) | [Given a string s find the length of the](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%202%20-%20Longest%20Substring%20Without%20Repeating%20Characters%20-%20Blind/83%20-%20Given%20a%20string%20s%20find%20the%20length%20of%20the.md) | 5 | 2 |
-| [84](#id84) | [Given a string s find the length of the](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%202%20-%20Longest%20Substring%20Without%20Repeating%20Characters%20-%20Blind/84%20-%20Given%20a%20string%20s%20find%20the%20length%20of%20the.md) | 5 | 2 |
-| [85](#id85) | [Given a string s find the length of the](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%202%20-%20Longest%20Substring%20Without%20Repeating%20Characters%20-%20Blind/85%20-%20Given%20a%20string%20s%20find%20the%20length%20of%20the.md) | 5 | 2 |
+| [80](#id80) | [Longest substring without repeating charac](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%202%20-%20Longest%20Substring%20Without%20Repeating%20Characters%20-%20Blind/80%20-%20Longest%20substring%20without%20repeating%20charac.md) | 5 | 2 |
+| [81](#id81) | [Longest substring without repeating charac](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%202%20-%20Longest%20Substring%20Without%20Repeating%20Characters%20-%20Blind/81%20-%20Longest%20substring%20without%20repeating%20charac.md) | 5 | 2 |
+| [82](#id82) | [Longest substring without repeating charac](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%202%20-%20Longest%20Substring%20Without%20Repeating%20Characters%20-%20Blind/82%20-%20Longest%20substring%20without%20repeating%20charac.md) | 5 | 2 |
+| [83](#id83) | [Longest substring without repeating charac](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%202%20-%20Longest%20Substring%20Without%20Repeating%20Characters%20-%20Blind/83%20-%20Longest%20substring%20without%20repeating%20charac.md) | 5 | 2 |
+| [84](#id84) | [Longest substring without repeating charac](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%202%20-%20Longest%20Substring%20Without%20Repeating%20Characters%20-%20Blind/84%20-%20Longest%20substring%20without%20repeating%20charac.md) | 5 | 2 |
+| [85](#id85) | [Longest substring without repeating charac](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%202%20-%20Longest%20Substring%20Without%20Repeating%20Characters%20-%20Blind/85%20-%20Longest%20substring%20without%20repeating%20charac.md) | 5 | 2 |
 | **-** | **Sliding Window > Longest Repeating Character Replacement** | **5** | **3** |
-| [86](#id86) | [You are given a string s and an integer](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%203%20-%20Longest%20Repeating%20Character%20Replacement%20-%20Blind/86%20-%20You%20are%20given%20a%20string%20s%20and%20an%20integer.md) | 5 | 3 |
-| [87](#id87) | [You are given a string s and an integer](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%203%20-%20Longest%20Repeating%20Character%20Replacement%20-%20Blind/87%20-%20You%20are%20given%20a%20string%20s%20and%20an%20integer.md) | 5 | 3 |
-| [88](#id88) | [You are given a string s and an integer](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%203%20-%20Longest%20Repeating%20Character%20Replacement%20-%20Blind/88%20-%20You%20are%20given%20a%20string%20s%20and%20an%20integer.md) | 5 | 3 |
-| [89](#id89) | [You are given a string s and an integer](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%203%20-%20Longest%20Repeating%20Character%20Replacement%20-%20Blind/89%20-%20You%20are%20given%20a%20string%20s%20and%20an%20integer.md) | 5 | 3 |
-| [90](#id90) | [You are given a string s and an integer](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%203%20-%20Longest%20Repeating%20Character%20Replacement%20-%20Blind/90%20-%20You%20are%20given%20a%20string%20s%20and%20an%20integer.md) | 5 | 3 |
-| [91](#id91) | [You are given a string s and an integer](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%203%20-%20Longest%20Repeating%20Character%20Replacement%20-%20Blind/91%20-%20You%20are%20given%20a%20string%20s%20and%20an%20integer.md) | 5 | 3 |
+| [86](#id86) | [Longest repeating character replacement yo](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%203%20-%20Longest%20Repeating%20Character%20Replacement%20-%20Blind/86%20-%20Longest%20repeating%20character%20replacement%20yo.md) | 5 | 3 |
+| [87](#id87) | [Longest repeating character replacement yo](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%203%20-%20Longest%20Repeating%20Character%20Replacement%20-%20Blind/87%20-%20Longest%20repeating%20character%20replacement%20yo.md) | 5 | 3 |
+| [88](#id88) | [Longest repeating character replacement yo](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%203%20-%20Longest%20Repeating%20Character%20Replacement%20-%20Blind/88%20-%20Longest%20repeating%20character%20replacement%20yo.md) | 5 | 3 |
+| [89](#id89) | [Longest repeating character replacement yo](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%203%20-%20Longest%20Repeating%20Character%20Replacement%20-%20Blind/89%20-%20Longest%20repeating%20character%20replacement%20yo.md) | 5 | 3 |
+| [90](#id90) | [Longest repeating character replacement yo](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%203%20-%20Longest%20Repeating%20Character%20Replacement%20-%20Blind/90%20-%20Longest%20repeating%20character%20replacement%20yo.md) | 5 | 3 |
+| [91](#id91) | [Longest repeating character replacement yo](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%203%20-%20Longest%20Repeating%20Character%20Replacement%20-%20Blind/91%20-%20Longest%20repeating%20character%20replacement%20yo.md) | 5 | 3 |
 | **-** | **Sliding Window > Minimum Window Substring** | **5** | **5** |
-| [92](#id92) | [Given two strings s and t of lengths](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%205%20-%20Minimum%20Window%20Substring%20-%20Blind/92%20-%20Given%20two%20strings%20s%20and%20t%20of%20lengths.md) | 5 | 5 |
-| [93](#id93) | [Given two strings s and t of lengths](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%205%20-%20Minimum%20Window%20Substring%20-%20Blind/93%20-%20Given%20two%20strings%20s%20and%20t%20of%20lengths.md) | 5 | 5 |
-| [94](#id94) | [Given two strings s and t of lengths](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%205%20-%20Minimum%20Window%20Substring%20-%20Blind/94%20-%20Given%20two%20strings%20s%20and%20t%20of%20lengths.md) | 5 | 5 |
-| [95](#id95) | [Given two strings s and t of lengths](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%205%20-%20Minimum%20Window%20Substring%20-%20Blind/95%20-%20Given%20two%20strings%20s%20and%20t%20of%20lengths.md) | 5 | 5 |
-| [96](#id96) | [Given two strings s and t of lengths](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%205%20-%20Minimum%20Window%20Substring%20-%20Blind/96%20-%20Given%20two%20strings%20s%20and%20t%20of%20lengths.md) | 5 | 5 |
-| [97](#id97) | [Given two strings s and t of lengths](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%205%20-%20Minimum%20Window%20Substring%20-%20Blind/97%20-%20Given%20two%20strings%20s%20and%20t%20of%20lengths.md) | 5 | 5 |
-| [98](#id98) | [Given two strings s and t of lengths](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%205%20-%20Minimum%20Window%20Substring%20-%20Blind/98%20-%20Given%20two%20strings%20s%20and%20t%20of%20lengths.md) | 5 | 5 |
+| [92](#id92) | [Minimum window substring given two strings](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%205%20-%20Minimum%20Window%20Substring%20-%20Blind/92%20-%20Minimum%20window%20substring%20given%20two%20strings.md) | 5 | 5 |
+| [93](#id93) | [Minimum window substring given two strings](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%205%20-%20Minimum%20Window%20Substring%20-%20Blind/93%20-%20Minimum%20window%20substring%20given%20two%20strings.md) | 5 | 5 |
+| [94](#id94) | [Minimum window substring given two strings](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%205%20-%20Minimum%20Window%20Substring%20-%20Blind/94%20-%20Minimum%20window%20substring%20given%20two%20strings.md) | 5 | 5 |
+| [95](#id95) | [Minimum window substring given two strings](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%205%20-%20Minimum%20Window%20Substring%20-%20Blind/95%20-%20Minimum%20window%20substring%20given%20two%20strings.md) | 5 | 5 |
+| [96](#id96) | [Minimum window substring given two strings](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%205%20-%20Minimum%20Window%20Substring%20-%20Blind/96%20-%20Minimum%20window%20substring%20given%20two%20strings.md) | 5 | 5 |
+| [97](#id97) | [Minimum window substring given two strings](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%205%20-%20Minimum%20Window%20Substring%20-%20Blind/97%20-%20Minimum%20window%20substring%20given%20two%20strings.md) | 5 | 5 |
+| [98](#id98) | [Minimum window substring given two strings](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%205%20-%20Minimum%20Window%20Substring%20-%20Blind/98%20-%20Minimum%20window%20substring%20given%20two%20strings.md) | 5 | 5 |
 | **-** | **Linked List** | **6** | **-** |
 | **-** | **Linked List > Reverse Linked List** | **6** | **1** |
-| [99](#id99) | [Given the head of a singly linked list](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%201%20-%20Reverse%20Linked%20List%20-%20Blind/99%20-%20Given%20the%20head%20of%20a%20singly%20linked%20list.md) | 6 | 1 |
-| [100](#id100) | [Given the head of a singly linked list](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%201%20-%20Reverse%20Linked%20List%20-%20Blind/100%20-%20Given%20the%20head%20of%20a%20singly%20linked%20list.md) | 6 | 1 |
-| [101](#id101) | [Given the head of a singly linked list](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%201%20-%20Reverse%20Linked%20List%20-%20Blind/101%20-%20Given%20the%20head%20of%20a%20singly%20linked%20list.md) | 6 | 1 |
-| [102](#id102) | [Given the head of a singly linked list](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%201%20-%20Reverse%20Linked%20List%20-%20Blind/102%20-%20Given%20the%20head%20of%20a%20singly%20linked%20list.md) | 6 | 1 |
+| [99](#id99) | [Reverse linked list given the head of a](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%201%20-%20Reverse%20Linked%20List%20-%20Blind/99%20-%20Reverse%20linked%20list%20given%20the%20head%20of%20a.md) | 6 | 1 |
+| [100](#id100) | [Reverse linked list given the head of a](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%201%20-%20Reverse%20Linked%20List%20-%20Blind/100%20-%20Reverse%20linked%20list%20given%20the%20head%20of%20a.md) | 6 | 1 |
+| [101](#id101) | [Reverse linked list given the head of a](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%201%20-%20Reverse%20Linked%20List%20-%20Blind/101%20-%20Reverse%20linked%20list%20given%20the%20head%20of%20a.md) | 6 | 1 |
+| [102](#id102) | [Reverse linked list given the head of a](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%201%20-%20Reverse%20Linked%20List%20-%20Blind/102%20-%20Reverse%20linked%20list%20given%20the%20head%20of%20a.md) | 6 | 1 |
 | **-** | **Linked List > Merge Two Sorted Lists** | **6** | **2** |
-| [103](#id103) | [You are given the heads of two sorted link](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%202%20-%20Merge%20Two%20Sorted%20Lists%20-%20Blind/103%20-%20You%20are%20given%20the%20heads%20of%20two%20sorted%20link.md) | 6 | 2 |
-| [104](#id104) | [You are given the heads of two sorted link](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%202%20-%20Merge%20Two%20Sorted%20Lists%20-%20Blind/104%20-%20You%20are%20given%20the%20heads%20of%20two%20sorted%20link.md) | 6 | 2 |
-| [105](#id105) | [You are given the heads of two sorted link](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%202%20-%20Merge%20Two%20Sorted%20Lists%20-%20Blind/105%20-%20You%20are%20given%20the%20heads%20of%20two%20sorted%20link.md) | 6 | 2 |
-| [106](#id106) | [You are given the heads of two sorted link](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%202%20-%20Merge%20Two%20Sorted%20Lists%20-%20Blind/106%20-%20You%20are%20given%20the%20heads%20of%20two%20sorted%20link.md) | 6 | 2 |
-| [107](#id107) | [You are given the heads of two sorted link](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%202%20-%20Merge%20Two%20Sorted%20Lists%20-%20Blind/107%20-%20You%20are%20given%20the%20heads%20of%20two%20sorted%20link.md) | 6 | 2 |
+| [103](#id103) | [Merge two sorted lists you are given the h](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%202%20-%20Merge%20Two%20Sorted%20Lists%20-%20Blind/103%20-%20Merge%20two%20sorted%20lists%20you%20are%20given%20the%20h.md) | 6 | 2 |
+| [104](#id104) | [Merge two sorted lists you are given the h](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%202%20-%20Merge%20Two%20Sorted%20Lists%20-%20Blind/104%20-%20Merge%20two%20sorted%20lists%20you%20are%20given%20the%20h.md) | 6 | 2 |
+| [105](#id105) | [Merge two sorted lists you are given the h](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%202%20-%20Merge%20Two%20Sorted%20Lists%20-%20Blind/105%20-%20Merge%20two%20sorted%20lists%20you%20are%20given%20the%20h.md) | 6 | 2 |
+| [106](#id106) | [Merge two sorted lists you are given the h](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%202%20-%20Merge%20Two%20Sorted%20Lists%20-%20Blind/106%20-%20Merge%20two%20sorted%20lists%20you%20are%20given%20the%20h.md) | 6 | 2 |
+| [107](#id107) | [Merge two sorted lists you are given the h](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%202%20-%20Merge%20Two%20Sorted%20Lists%20-%20Blind/107%20-%20Merge%20two%20sorted%20lists%20you%20are%20given%20the%20h.md) | 6 | 2 |
 | **-** | **Linked List > Reorder List** | **6** | **3** |
-| [108](#id108) | [You are given the head of a singly linked-](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%203%20-%20Reorder%20List%20-%20Blind/108%20-%20You%20are%20given%20the%20head%20of%20a%20singly%20linked-.md) | 6 | 3 |
-| [109](#id109) | [You are given the head of a singly linked-](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%203%20-%20Reorder%20List%20-%20Blind/109%20-%20You%20are%20given%20the%20head%20of%20a%20singly%20linked-.md) | 6 | 3 |
-| [110](#id110) | [You are given the head of a singly linked-](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%203%20-%20Reorder%20List%20-%20Blind/110%20-%20You%20are%20given%20the%20head%20of%20a%20singly%20linked-.md) | 6 | 3 |
-| [111](#id111) | [You are given the head of a singly linked-](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%203%20-%20Reorder%20List%20-%20Blind/111%20-%20You%20are%20given%20the%20head%20of%20a%20singly%20linked-.md) | 6 | 3 |
-| [112](#id112) | [You are given the head of a singly linked-](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%203%20-%20Reorder%20List%20-%20Blind/112%20-%20You%20are%20given%20the%20head%20of%20a%20singly%20linked-.md) | 6 | 3 |
+| [108](#id108) | [Reorder list you are given the head of a s](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%203%20-%20Reorder%20List%20-%20Blind/108%20-%20Reorder%20list%20you%20are%20given%20the%20head%20of%20a%20s.md) | 6 | 3 |
+| [109](#id109) | [Reorder list you are given the head of a s](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%203%20-%20Reorder%20List%20-%20Blind/109%20-%20Reorder%20list%20you%20are%20given%20the%20head%20of%20a%20s.md) | 6 | 3 |
+| [110](#id110) | [Reorder list you are given the head of a s](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%203%20-%20Reorder%20List%20-%20Blind/110%20-%20Reorder%20list%20you%20are%20given%20the%20head%20of%20a%20s.md) | 6 | 3 |
+| [111](#id111) | [Reorder list you are given the head of a s](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%203%20-%20Reorder%20List%20-%20Blind/111%20-%20Reorder%20list%20you%20are%20given%20the%20head%20of%20a%20s.md) | 6 | 3 |
+| [112](#id112) | [Reorder list you are given the head of a s](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%203%20-%20Reorder%20List%20-%20Blind/112%20-%20Reorder%20list%20you%20are%20given%20the%20head%20of%20a%20s.md) | 6 | 3 |
 | **-** | **Linked List > Remove Nth Node From End of List** | **6** | **4** |
-| [113](#id113) | [Given the head of a linked list remove](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%204%20-%20Remove%20Nth%20Node%20From%20End%20of%20List%20-%20Blind/113%20-%20Given%20the%20head%20of%20a%20linked%20list%20remove.md) | 6 | 4 |
-| [114](#id114) | [Given the head of a linked list remove](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%204%20-%20Remove%20Nth%20Node%20From%20End%20of%20List%20-%20Blind/114%20-%20Given%20the%20head%20of%20a%20linked%20list%20remove.md) | 6 | 4 |
-| [115](#id115) | [Given the head of a linked list remove](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%204%20-%20Remove%20Nth%20Node%20From%20End%20of%20List%20-%20Blind/115%20-%20Given%20the%20head%20of%20a%20linked%20list%20remove.md) | 6 | 4 |
-| [116](#id116) | [Given the head of a linked list remove](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%204%20-%20Remove%20Nth%20Node%20From%20End%20of%20List%20-%20Blind/116%20-%20Given%20the%20head%20of%20a%20linked%20list%20remove.md) | 6 | 4 |
-| [117](#id117) | [Given the head of a linked list remove](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%204%20-%20Remove%20Nth%20Node%20From%20End%20of%20List%20-%20Blind/117%20-%20Given%20the%20head%20of%20a%20linked%20list%20remove.md) | 6 | 4 |
+| [113](#id113) | [Remove nth node from end of list given the](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%204%20-%20Remove%20Nth%20Node%20From%20End%20of%20List%20-%20Blind/113%20-%20Remove%20nth%20node%20from%20end%20of%20list%20given%20the.md) | 6 | 4 |
+| [114](#id114) | [Remove nth node from end of list given the](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%204%20-%20Remove%20Nth%20Node%20From%20End%20of%20List%20-%20Blind/114%20-%20Remove%20nth%20node%20from%20end%20of%20list%20given%20the.md) | 6 | 4 |
+| [115](#id115) | [Remove nth node from end of list given the](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%204%20-%20Remove%20Nth%20Node%20From%20End%20of%20List%20-%20Blind/115%20-%20Remove%20nth%20node%20from%20end%20of%20list%20given%20the.md) | 6 | 4 |
+| [116](#id116) | [Remove nth node from end of list given the](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%204%20-%20Remove%20Nth%20Node%20From%20End%20of%20List%20-%20Blind/116%20-%20Remove%20nth%20node%20from%20end%20of%20list%20given%20the.md) | 6 | 4 |
+| [117](#id117) | [Remove nth node from end of list given the](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%204%20-%20Remove%20Nth%20Node%20From%20End%20of%20List%20-%20Blind/117%20-%20Remove%20nth%20node%20from%20end%20of%20list%20given%20the.md) | 6 | 4 |
 | **-** | **Linked List > Merge K Sorted Lists** | **6** | **10** |
-| [118](#id118) | [You are given an array of k linked-lists](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%2010%20-%20Merge%20K%20Sorted%20Lists%20-%20Blind/118%20-%20You%20are%20given%20an%20array%20of%20k%20linked-lists.md) | 6 | 10 |
-| [119](#id119) | [You are given an array of k linked-lists](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%2010%20-%20Merge%20K%20Sorted%20Lists%20-%20Blind/119%20-%20You%20are%20given%20an%20array%20of%20k%20linked-lists.md) | 6 | 10 |
-| [120](#id120) | [You are given an array of k linked-lists](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%2010%20-%20Merge%20K%20Sorted%20Lists%20-%20Blind/120%20-%20You%20are%20given%20an%20array%20of%20k%20linked-lists.md) | 6 | 10 |
-| [121](#id121) | [You are given an array of k linked-lists](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%2010%20-%20Merge%20K%20Sorted%20Lists%20-%20Blind/121%20-%20You%20are%20given%20an%20array%20of%20k%20linked-lists.md) | 6 | 10 |
-| [122](#id122) | [You are given an array of k linked-lists](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%2010%20-%20Merge%20K%20Sorted%20Lists%20-%20Blind/122%20-%20You%20are%20given%20an%20array%20of%20k%20linked-lists.md) | 6 | 10 |
-| [123](#id123) | [You are given an array of k linked-lists](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%2010%20-%20Merge%20K%20Sorted%20Lists%20-%20Blind/123%20-%20You%20are%20given%20an%20array%20of%20k%20linked-lists.md) | 6 | 10 |
+| [118](#id118) | [Merge k sorted lists you are given an arra](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%2010%20-%20Merge%20K%20Sorted%20Lists%20-%20Blind/118%20-%20Merge%20k%20sorted%20lists%20you%20are%20given%20an%20arra.md) | 6 | 10 |
+| [119](#id119) | [Merge k sorted lists you are given an arra](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%2010%20-%20Merge%20K%20Sorted%20Lists%20-%20Blind/119%20-%20Merge%20k%20sorted%20lists%20you%20are%20given%20an%20arra.md) | 6 | 10 |
+| [120](#id120) | [Merge k sorted lists you are given an arra](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%2010%20-%20Merge%20K%20Sorted%20Lists%20-%20Blind/120%20-%20Merge%20k%20sorted%20lists%20you%20are%20given%20an%20arra.md) | 6 | 10 |
+| [121](#id121) | [Merge k sorted lists you are given an arra](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%2010%20-%20Merge%20K%20Sorted%20Lists%20-%20Blind/121%20-%20Merge%20k%20sorted%20lists%20you%20are%20given%20an%20arra.md) | 6 | 10 |
+| [122](#id122) | [Merge k sorted lists you are given an arra](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%2010%20-%20Merge%20K%20Sorted%20Lists%20-%20Blind/122%20-%20Merge%20k%20sorted%20lists%20you%20are%20given%20an%20arra.md) | 6 | 10 |
+| [123](#id123) | [Merge k sorted lists you are given an arra](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%2010%20-%20Merge%20K%20Sorted%20Lists%20-%20Blind/123%20-%20Merge%20k%20sorted%20lists%20you%20are%20given%20an%20arra.md) | 6 | 10 |
 | **-** | **Trees** | **7** | **-** |
 | **-** | **Trees > Invert Binary Tree** | **7** | **1** |
-| [124](#id124) | [Given the root of a binary tree invert](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%201%20-%20Invert%20Binary%20Tree%20-%20Blind/124%20-%20Given%20the%20root%20of%20a%20binary%20tree%20invert.md) | 7 | 1 |
-| [125](#id125) | [You are given an array of k linked-lists](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%201%20-%20Invert%20Binary%20Tree%20-%20Blind/125%20-%20You%20are%20given%20an%20array%20of%20k%20linked-lists.md) | 7 | 1 |
-| [126](#id126) | [You are given an array of k linked-lists](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%201%20-%20Invert%20Binary%20Tree%20-%20Blind/126%20-%20You%20are%20given%20an%20array%20of%20k%20linked-lists.md) | 7 | 1 |
-| [127](#id127) | [You are given an array of k linked-lists](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%201%20-%20Invert%20Binary%20Tree%20-%20Blind/127%20-%20You%20are%20given%20an%20array%20of%20k%20linked-lists.md) | 7 | 1 |
-| [128](#id128) | [You are given an array of k linked-lists](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%201%20-%20Invert%20Binary%20Tree%20-%20Blind/128%20-%20You%20are%20given%20an%20array%20of%20k%20linked-lists.md) | 7 | 1 |
+| [124](#id124) | [Invert binary tree given the root of a b](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%201%20-%20Invert%20Binary%20Tree%20-%20Blind/124%20-%20Invert%20binary%20tree%20given%20the%20root%20of%20a%20b.md) | 7 | 1 |
+| [125](#id125) | [Invert binary tree you are given an array](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%201%20-%20Invert%20Binary%20Tree%20-%20Blind/125%20-%20Invert%20binary%20tree%20you%20are%20given%20an%20array.md) | 7 | 1 |
+| [126](#id126) | [Invert binary tree you are given an array](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%201%20-%20Invert%20Binary%20Tree%20-%20Blind/126%20-%20Invert%20binary%20tree%20you%20are%20given%20an%20array.md) | 7 | 1 |
+| [127](#id127) | [Invert binary tree you are given an array](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%201%20-%20Invert%20Binary%20Tree%20-%20Blind/127%20-%20Invert%20binary%20tree%20you%20are%20given%20an%20array.md) | 7 | 1 |
+| [128](#id128) | [Invert binary tree you are given an array](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%201%20-%20Invert%20Binary%20Tree%20-%20Blind/128%20-%20Invert%20binary%20tree%20you%20are%20given%20an%20array.md) | 7 | 1 |
 | **-** | **Trees > Maximum Depth of Binary Tree** | **7** | **2** |
-| [129](#id129) | [Given the root of a binary tree return](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%202%20-%20Maximum%20Depth%20of%20Binary%20Tree%20-%20Blind/129%20-%20Given%20the%20root%20of%20a%20binary%20tree%20return.md) | 7 | 2 |
-| [130](#id130) | [You are given an array of k linked-lists](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%202%20-%20Maximum%20Depth%20of%20Binary%20Tree%20-%20Blind/130%20-%20You%20are%20given%20an%20array%20of%20k%20linked-lists.md) | 7 | 2 |
-| [131](#id131) | [You are given an array of k linked-lists](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%202%20-%20Maximum%20Depth%20of%20Binary%20Tree%20-%20Blind/131%20-%20You%20are%20given%20an%20array%20of%20k%20linked-lists.md) | 7 | 2 |
-| [132](#id132) | [You are given an array of k linked-lists](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%202%20-%20Maximum%20Depth%20of%20Binary%20Tree%20-%20Blind/132%20-%20You%20are%20given%20an%20array%20of%20k%20linked-lists.md) | 7 | 2 |
-| [133](#id133) | [You are given an array of k linked-lists](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%202%20-%20Maximum%20Depth%20of%20Binary%20Tree%20-%20Blind/133%20-%20You%20are%20given%20an%20array%20of%20k%20linked-lists.md) | 7 | 2 |
+| [129](#id129) | [Maximum depth of binary tree given the ro](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%202%20-%20Maximum%20Depth%20of%20Binary%20Tree%20-%20Blind/129%20-%20Maximum%20depth%20of%20binary%20tree%20given%20the%20ro.md) | 7 | 2 |
+| [130](#id130) | [Maximum depth of binary tree you are given](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%202%20-%20Maximum%20Depth%20of%20Binary%20Tree%20-%20Blind/130%20-%20Maximum%20depth%20of%20binary%20tree%20you%20are%20given.md) | 7 | 2 |
+| [131](#id131) | [Maximum depth of binary tree you are given](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%202%20-%20Maximum%20Depth%20of%20Binary%20Tree%20-%20Blind/131%20-%20Maximum%20depth%20of%20binary%20tree%20you%20are%20given.md) | 7 | 2 |
+| [132](#id132) | [Maximum depth of binary tree you are given](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%202%20-%20Maximum%20Depth%20of%20Binary%20Tree%20-%20Blind/132%20-%20Maximum%20depth%20of%20binary%20tree%20you%20are%20given.md) | 7 | 2 |
+| [133](#id133) | [Maximum depth of binary tree you are given](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%202%20-%20Maximum%20Depth%20of%20Binary%20Tree%20-%20Blind/133%20-%20Maximum%20depth%20of%20binary%20tree%20you%20are%20given.md) | 7 | 2 |
 | **-** | **Trees > Same Tree** | **7** | **5** |
-| [134](#id134) | [Given the roots of two binary trees p an](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%205%20-%20Same%20Tree%20-%20Blind/134%20-%20Given%20the%20roots%20of%20two%20binary%20trees%20p%20an.md) | 7 | 5 |
-| [135](#id135) | [Given the roots of two binary trees p an](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%205%20-%20Same%20Tree%20-%20Blind/135%20-%20Given%20the%20roots%20of%20two%20binary%20trees%20p%20an.md) | 7 | 5 |
-| [136](#id136) | [Given the roots of two binary trees p an](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%205%20-%20Same%20Tree%20-%20Blind/136%20-%20Given%20the%20roots%20of%20two%20binary%20trees%20p%20an.md) | 7 | 5 |
-| [137](#id137) | [Given the roots of two binary trees p an](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%205%20-%20Same%20Tree%20-%20Blind/137%20-%20Given%20the%20roots%20of%20two%20binary%20trees%20p%20an.md) | 7 | 5 |
-| [138](#id138) | [Given the roots of two binary trees p an](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%205%20-%20Same%20Tree%20-%20Blind/138%20-%20Given%20the%20roots%20of%20two%20binary%20trees%20p%20an.md) | 7 | 5 |
+| [134](#id134) | [Same tree given the roots of two binary tr](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%205%20-%20Same%20Tree%20-%20Blind/134%20-%20Same%20tree%20given%20the%20roots%20of%20two%20binary%20tr.md) | 7 | 5 |
+| [135](#id135) | [Same tree given the roots of two binary tr](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%205%20-%20Same%20Tree%20-%20Blind/135%20-%20Same%20tree%20given%20the%20roots%20of%20two%20binary%20tr.md) | 7 | 5 |
+| [136](#id136) | [Same tree given the roots of two binary tr](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%205%20-%20Same%20Tree%20-%20Blind/136%20-%20Same%20tree%20given%20the%20roots%20of%20two%20binary%20tr.md) | 7 | 5 |
+| [137](#id137) | [Same tree given the roots of two binary tr](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%205%20-%20Same%20Tree%20-%20Blind/137%20-%20Same%20tree%20given%20the%20roots%20of%20two%20binary%20tr.md) | 7 | 5 |
+| [138](#id138) | [Same tree given the roots of two binary tr](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%205%20-%20Same%20Tree%20-%20Blind/138%20-%20Same%20tree%20given%20the%20roots%20of%20two%20binary%20tr.md) | 7 | 5 |
 | **-** | **Trees > Subtree of Another Tree** | **7** | **6** |
-| [139](#id139) | [Given the roots of two binary trees root](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%206%20-%20Subtree%20of%20Another%20Tree%20-%20Blind/139%20-%20Given%20the%20roots%20of%20two%20binary%20trees%20root.md) | 7 | 6 |
-| [140](#id140) | [Given the roots of two binary trees root](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%206%20-%20Subtree%20of%20Another%20Tree%20-%20Blind/140%20-%20Given%20the%20roots%20of%20two%20binary%20trees%20root.md) | 7 | 6 |
-| [141](#id141) | [Given the roots of two binary trees root](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%206%20-%20Subtree%20of%20Another%20Tree%20-%20Blind/141%20-%20Given%20the%20roots%20of%20two%20binary%20trees%20root.md) | 7 | 6 |
-| [142](#id142) | [Given the roots of two binary trees root](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%206%20-%20Subtree%20of%20Another%20Tree%20-%20Blind/142%20-%20Given%20the%20roots%20of%20two%20binary%20trees%20root.md) | 7 | 6 |
-| [143](#id143) | [Given the roots of two binary trees root](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%206%20-%20Subtree%20of%20Another%20Tree%20-%20Blind/143%20-%20Given%20the%20roots%20of%20two%20binary%20trees%20root.md) | 7 | 6 |
+| [139](#id139) | [Subtree of another tree given the roots of](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%206%20-%20Subtree%20of%20Another%20Tree%20-%20Blind/139%20-%20Subtree%20of%20another%20tree%20given%20the%20roots%20of.md) | 7 | 6 |
+| [140](#id140) | [Subtree of another tree given the roots of](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%206%20-%20Subtree%20of%20Another%20Tree%20-%20Blind/140%20-%20Subtree%20of%20another%20tree%20given%20the%20roots%20of.md) | 7 | 6 |
+| [141](#id141) | [Subtree of another tree given the roots of](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%206%20-%20Subtree%20of%20Another%20Tree%20-%20Blind/141%20-%20Subtree%20of%20another%20tree%20given%20the%20roots%20of.md) | 7 | 6 |
+| [142](#id142) | [Subtree of another tree given the roots of](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%206%20-%20Subtree%20of%20Another%20Tree%20-%20Blind/142%20-%20Subtree%20of%20another%20tree%20given%20the%20roots%20of.md) | 7 | 6 |
+| [143](#id143) | [Subtree of another tree given the roots of](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%206%20-%20Subtree%20of%20Another%20Tree%20-%20Blind/143%20-%20Subtree%20of%20another%20tree%20given%20the%20roots%20of.md) | 7 | 6 |
 | **-** | **Trees > Lowest Common Ancestor of a Binary Search Tree** | **7** | **7** |
-| [144](#id144) | [Given a binary search tree bst find the](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%207%20-%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree%20-%20Blind/144%20-%20Given%20a%20binary%20search%20tree%20bst%20find%20the.md) | 7 | 7 |
-| [145](#id145) | [Given a binary search tree bst find the](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%207%20-%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree%20-%20Blind/145%20-%20Given%20a%20binary%20search%20tree%20bst%20find%20the.md) | 7 | 7 |
-| [146](#id146) | [Given a binary search tree bst find the](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%207%20-%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree%20-%20Blind/146%20-%20Given%20a%20binary%20search%20tree%20bst%20find%20the.md) | 7 | 7 |
-| [147](#id147) | [Given a binary search tree bst find the](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%207%20-%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree%20-%20Blind/147%20-%20Given%20a%20binary%20search%20tree%20bst%20find%20the.md) | 7 | 7 |
-| [148](#id148) | [Given a binary search tree bst find the](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%207%20-%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree%20-%20Blind/148%20-%20Given%20a%20binary%20search%20tree%20bst%20find%20the.md) | 7 | 7 |
+| [144](#id144) | [Lowest common ancestor of a binary search](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%207%20-%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree%20-%20Blind/144%20-%20Lowest%20common%20ancestor%20of%20a%20binary%20search.md) | 7 | 7 |
+| [145](#id145) | [Lowest common ancestor of a binary search](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%207%20-%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree%20-%20Blind/145%20-%20Lowest%20common%20ancestor%20of%20a%20binary%20search.md) | 7 | 7 |
+| [146](#id146) | [Lowest common ancestor of a binary search](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%207%20-%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree%20-%20Blind/146%20-%20Lowest%20common%20ancestor%20of%20a%20binary%20search.md) | 7 | 7 |
+| [147](#id147) | [Lowest common ancestor of a binary search](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%207%20-%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree%20-%20Blind/147%20-%20Lowest%20common%20ancestor%20of%20a%20binary%20search.md) | 7 | 7 |
+| [148](#id148) | [Lowest common ancestor of a binary search](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%207%20-%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree%20-%20Blind/148%20-%20Lowest%20common%20ancestor%20of%20a%20binary%20search.md) | 7 | 7 |
 | **-** | **Trees > Binary Tree Level Order Traversal** | **7** | **9** |
-| [149](#id149) | [Given the root of a binary tree return](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%209%20-%20Binary%20Tree%20Level%20Order%20Traversal%20-%20Blind/149%20-%20Given%20the%20root%20of%20a%20binary%20tree%20return.md) | 7 | 9 |
-| [150](#id150) | [Given the root of a binary tree return](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%209%20-%20Binary%20Tree%20Level%20Order%20Traversal%20-%20Blind/150%20-%20Given%20the%20root%20of%20a%20binary%20tree%20return.md) | 7 | 9 |
-| [151](#id151) | [Given the root of a binary tree return](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%209%20-%20Binary%20Tree%20Level%20Order%20Traversal%20-%20Blind/151%20-%20Given%20the%20root%20of%20a%20binary%20tree%20return.md) | 7 | 9 |
-| [152](#id152) | [Given the root of a binary tree return](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%209%20-%20Binary%20Tree%20Level%20Order%20Traversal%20-%20Blind/152%20-%20Given%20the%20root%20of%20a%20binary%20tree%20return.md) | 7 | 9 |
+| [149](#id149) | [Binary tree level order traversal given th](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%209%20-%20Binary%20Tree%20Level%20Order%20Traversal%20-%20Blind/149%20-%20Binary%20tree%20level%20order%20traversal%20given%20th.md) | 7 | 9 |
+| [150](#id150) | [Binary tree level order traversal given th](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%209%20-%20Binary%20Tree%20Level%20Order%20Traversal%20-%20Blind/150%20-%20Binary%20tree%20level%20order%20traversal%20given%20th.md) | 7 | 9 |
+| [151](#id151) | [Binary tree level order traversal given th](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%209%20-%20Binary%20Tree%20Level%20Order%20Traversal%20-%20Blind/151%20-%20Binary%20tree%20level%20order%20traversal%20given%20th.md) | 7 | 9 |
+| [152](#id152) | [Binary tree level order traversal given th](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%209%20-%20Binary%20Tree%20Level%20Order%20Traversal%20-%20Blind/152%20-%20Binary%20tree%20level%20order%20traversal%20given%20th.md) | 7 | 9 |
 | **-** | **Backtracking** | **9** | **-** |
 | **-** | **Backtracking > Combination Sum** | **9** | **2** |
-| [153](#id153) | [Given an array of distinct integers c](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IX%20-%20Backtracking/Chapter%202%20-%20Combination%20Sum%20-%20Blind/153%20-%20Given%20an%20array%20of%20distinct%20integers%20c.md) | 9 | 2 |
-| [154](#id154) | [Given an array of distinct integers c](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IX%20-%20Backtracking/Chapter%202%20-%20Combination%20Sum%20-%20Blind/154%20-%20Given%20an%20array%20of%20distinct%20integers%20c.md) | 9 | 2 |
-| [155](#id155) | [Given an array of distinct integers c](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IX%20-%20Backtracking/Chapter%202%20-%20Combination%20Sum%20-%20Blind/155%20-%20Given%20an%20array%20of%20distinct%20integers%20c.md) | 9 | 2 |
-| [156](#id156) | [Given an array of distinct integers c](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IX%20-%20Backtracking/Chapter%202%20-%20Combination%20Sum%20-%20Blind/156%20-%20Given%20an%20array%20of%20distinct%20integers%20c.md) | 9 | 2 |
-| [157](#id157) | [Given an array of distinct integers c](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IX%20-%20Backtracking/Chapter%202%20-%20Combination%20Sum%20-%20Blind/157%20-%20Given%20an%20array%20of%20distinct%20integers%20c.md) | 9 | 2 |
+| [153](#id153) | [Combination sum given an array of distin](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IX%20-%20Backtracking/Chapter%202%20-%20Combination%20Sum%20-%20Blind/153%20-%20Combination%20sum%20given%20an%20array%20of%20distin.md) | 9 | 2 |
+| [154](#id154) | [Combination sum given an array of distin](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IX%20-%20Backtracking/Chapter%202%20-%20Combination%20Sum%20-%20Blind/154%20-%20Combination%20sum%20given%20an%20array%20of%20distin.md) | 9 | 2 |
+| [155](#id155) | [Combination sum given an array of distin](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IX%20-%20Backtracking/Chapter%202%20-%20Combination%20Sum%20-%20Blind/155%20-%20Combination%20sum%20given%20an%20array%20of%20distin.md) | 9 | 2 |
+| [156](#id156) | [Combination sum given an array of distin](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IX%20-%20Backtracking/Chapter%202%20-%20Combination%20Sum%20-%20Blind/156%20-%20Combination%20sum%20given%20an%20array%20of%20distin.md) | 9 | 2 |
+| [157](#id157) | [Combination sum given an array of distin](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IX%20-%20Backtracking/Chapter%202%20-%20Combination%20Sum%20-%20Blind/157%20-%20Combination%20sum%20given%20an%20array%20of%20distin.md) | 9 | 2 |
 | **-** | **Graphs** | **11** | **-** |
 | **-** | **Graphs > Number of Islands** | **11** | **1** |
-| [158](#id158) | [Given an m x n 2d binary grid grid whi](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XI%20-%20Graphs/Chapter%201%20-%20Number%20of%20Islands%20-%20Blind/158%20-%20Given%20an%20m%20x%20n%202d%20binary%20grid%20grid%20whi.md) | 11 | 1 |
-| [159](#id159) | [Given an m x n 2d binary grid grid whi](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XI%20-%20Graphs/Chapter%201%20-%20Number%20of%20Islands%20-%20Blind/159%20-%20Given%20an%20m%20x%20n%202d%20binary%20grid%20grid%20whi.md) | 11 | 1 |
-| [160](#id160) | [Given an m x n 2d binary grid grid whi](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XI%20-%20Graphs/Chapter%201%20-%20Number%20of%20Islands%20-%20Blind/160%20-%20Given%20an%20m%20x%20n%202d%20binary%20grid%20grid%20whi.md) | 11 | 1 |
-| [161](#id161) | [Given an m x n 2d binary grid grid whi](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XI%20-%20Graphs/Chapter%201%20-%20Number%20of%20Islands%20-%20Blind/161%20-%20Given%20an%20m%20x%20n%202d%20binary%20grid%20grid%20whi.md) | 11 | 1 |
-| [162](#id162) | [Given an m x n 2d binary grid grid whi](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XI%20-%20Graphs/Chapter%201%20-%20Number%20of%20Islands%20-%20Blind/162%20-%20Given%20an%20m%20x%20n%202d%20binary%20grid%20grid%20whi.md) | 11 | 1 |
-| [163](#id163) | [Given an m x n 2d binary grid grid whi](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XI%20-%20Graphs/Chapter%201%20-%20Number%20of%20Islands%20-%20Blind/163%20-%20Given%20an%20m%20x%20n%202d%20binary%20grid%20grid%20whi.md) | 11 | 1 |
-| **-** | **1** | **12** | **-** |
-| **-** | **1 > House Robber** | **12** | **3** |
-| [164](#id164) | [You are a professional robber planning to](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XII%20-%201-D%20DP/Chapter%203%20-%20House%20Robber%20-%20Blind/164%20-%20You%20are%20a%20professional%20robber%20planning%20to.md) | 12 | 3 |
-| [165](#id165) | [You are a professional robber planning to](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XII%20-%201-D%20DP/Chapter%203%20-%20House%20Robber%20-%20Blind/165%20-%20You%20are%20a%20professional%20robber%20planning%20to.md) | 12 | 3 |
-| [166](#id166) | [You are a professional robber planning to](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XII%20-%201-D%20DP/Chapter%203%20-%20House%20Robber%20-%20Blind/166%20-%20You%20are%20a%20professional%20robber%20planning%20to.md) | 12 | 3 |
-| [167](#id167) | [You are a professional robber planning to](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XII%20-%201-D%20DP/Chapter%203%20-%20House%20Robber%20-%20Blind/167%20-%20You%20are%20a%20professional%20robber%20planning%20to.md) | 12 | 3 |
-| [168](#id168) | [You are a professional robber planning to](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XII%20-%201-D%20DP/Chapter%203%20-%20House%20Robber%20-%20Blind/168%20-%20You%20are%20a%20professional%20robber%20planning%20to.md) | 12 | 3 |
-| [169](#id169) | [You are a professional robber planning to](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XII%20-%201-D%20DP/Chapter%203%20-%20House%20Robber%20-%20Blind/169%20-%20You%20are%20a%20professional%20robber%20planning%20to.md) | 12 | 3 |
-| [170](#id170) | [You are a professional robber planning to](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XII%20-%201-D%20DP/Chapter%203%20-%20House%20Robber%20-%20Blind/170%20-%20You%20are%20a%20professional%20robber%20planning%20to.md) | 12 | 3 |
-| [171](#id171) | [You are a professional robber planning to](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XII%20-%201-D%20DP/Chapter%203%20-%20House%20Robber%20-%20Blind/171%20-%20You%20are%20a%20professional%20robber%20planning%20to.md) | 12 | 3 |
+| [158](#id158) | [Number of islands given an m x n 2d bina](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XI%20-%20Graphs/Chapter%201%20-%20Number%20of%20Islands%20-%20Blind/158%20-%20Number%20of%20islands%20given%20an%20m%20x%20n%202d%20bina.md) | 11 | 1 |
+| [159](#id159) | [Number of islands given an m x n 2d bina](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XI%20-%20Graphs/Chapter%201%20-%20Number%20of%20Islands%20-%20Blind/159%20-%20Number%20of%20islands%20given%20an%20m%20x%20n%202d%20bina.md) | 11 | 1 |
+| [160](#id160) | [Number of islands given an m x n 2d bina](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XI%20-%20Graphs/Chapter%201%20-%20Number%20of%20Islands%20-%20Blind/160%20-%20Number%20of%20islands%20given%20an%20m%20x%20n%202d%20bina.md) | 11 | 1 |
+| [161](#id161) | [Number of islands given an m x n 2d bina](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XI%20-%20Graphs/Chapter%201%20-%20Number%20of%20Islands%20-%20Blind/161%20-%20Number%20of%20islands%20given%20an%20m%20x%20n%202d%20bina.md) | 11 | 1 |
+| [162](#id162) | [Number of islands given an m x n 2d bina](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XI%20-%20Graphs/Chapter%201%20-%20Number%20of%20Islands%20-%20Blind/162%20-%20Number%20of%20islands%20given%20an%20m%20x%20n%202d%20bina.md) | 11 | 1 |
+| [163](#id163) | [Number of islands given an m x n 2d bina](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XI%20-%20Graphs/Chapter%201%20-%20Number%20of%20Islands%20-%20Blind/163%20-%20Number%20of%20islands%20given%20an%20m%20x%20n%202d%20bina.md) | 11 | 1 |
+| **-** | **1-D DP** | **12** | **-** |
+| **-** | **1-D DP > House Robber** | **12** | **3** |
+| [164](#id164) | [House robber you are a professional robber](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XII%20-%201-D%20DP/Chapter%203%20-%20House%20Robber%20-%20Blind/164%20-%20House%20robber%20you%20are%20a%20professional%20robber.md) | 12 | 3 |
+| [165](#id165) | [House robber you are a professional robber](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XII%20-%201-D%20DP/Chapter%203%20-%20House%20Robber%20-%20Blind/165%20-%20House%20robber%20you%20are%20a%20professional%20robber.md) | 12 | 3 |
+| [166](#id166) | [House robber you are a professional robber](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XII%20-%201-D%20DP/Chapter%203%20-%20House%20Robber%20-%20Blind/166%20-%20House%20robber%20you%20are%20a%20professional%20robber.md) | 12 | 3 |
+| [167](#id167) | [House robber you are a professional robber](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XII%20-%201-D%20DP/Chapter%203%20-%20House%20Robber%20-%20Blind/167%20-%20House%20robber%20you%20are%20a%20professional%20robber.md) | 12 | 3 |
+| [168](#id168) | [House robber you are a professional robber](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XII%20-%201-D%20DP/Chapter%203%20-%20House%20Robber%20-%20Blind/168%20-%20House%20robber%20you%20are%20a%20professional%20robber.md) | 12 | 3 |
+| [169](#id169) | [House robber you are a professional robber](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XII%20-%201-D%20DP/Chapter%203%20-%20House%20Robber%20-%20Blind/169%20-%20House%20robber%20you%20are%20a%20professional%20robber.md) | 12 | 3 |
+| [170](#id170) | [House robber you are a professional robber](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XII%20-%201-D%20DP/Chapter%203%20-%20House%20Robber%20-%20Blind/170%20-%20House%20robber%20you%20are%20a%20professional%20robber.md) | 12 | 3 |
+| [171](#id171) | [House robber you are a professional robber](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XII%20-%201-D%20DP/Chapter%203%20-%20House%20Robber%20-%20Blind/171%20-%20House%20robber%20you%20are%20a%20professional%20robber.md) | 12 | 3 |
 
 ### Part I - Arrays & Hashing
 
@@ -222,7 +222,9 @@
 
 Q:: =============================================  
 
-##### Given an integer array `nums`, return `true` if any value appears at least twice in the array, and return `false` if every element is distinct.
+##### Contains Duplicate
+
+Given an integer array `nums`, return `true` if any value appears at least twice in the array, and return `false` if every element is distinct.
 
 **Example 1:**
 
@@ -264,7 +266,9 @@ There are exactly n \* (n - 1) / 2 distinct pairs of integers in the array. This
 
 Q:: =============================================  
 
-##### Given an integer array `nums`, return `true` if any value appears at least twice in the array, and return `false` if every element is distinct.
+##### Contains Duplicate
+
+Given an integer array `nums`, return `true` if any value appears at least twice in the array, and return `false` if every element is distinct.
 
 **Example 1:**
 
@@ -291,7 +295,7 @@ What is the time complexity of a brute force approach, where you compare every p
 
 A) O(n)
 
-B) O(n * log n)
+B) O(n \* log n)
 
 C) O(n^2)
 
@@ -306,7 +310,9 @@ The brute-force solution using two nested loops has a time complexity of O(n^2) 
 
 Q:: =============================================  
 
-##### Given an integer array `nums`, return `true` if any value appears at least twice in the array, and return `false` if every element is distinct.
+##### Contains Duplicate
+
+Given an integer array `nums`, return `true` if any value appears at least twice in the array, and return `false` if every element is distinct.
 
 **Example 1:**
 
@@ -348,7 +354,9 @@ A Hashmap (or Hashtable) and a HashSet allow us to store and retrieve values in 
 
 Q:: =============================================  
 
-##### Given an integer array `nums`, return `true` if any value appears at least twice in the array, and return `false` if every element is distinct.
+##### Contains Duplicate
+
+Given an integer array `nums`, return `true` if any value appears at least twice in the array, and return `false` if every element is distinct.
 
 **Example 1:**
 
@@ -388,7 +396,9 @@ A HashSet does not allow duplicate values. So, if you try to insert an element t
 
 Q:: =============================================  
 
-##### Given an integer array `nums`, return `true` if any value appears at least twice in the array, and return `false` if every element is distinct.
+##### Contains Duplicate
+
+Given an integer array `nums`, return `true` if any value appears at least twice in the array, and return `false` if every element is distinct.
 
 **Example 1:**
 
@@ -436,7 +446,9 @@ The hashmap solution has a time complexity of O(n) because you need to iterate t
 
 Q:: =============================================  
 
-##### Given two strings `s` and `t`, return `true` _if `t` is an anagram of `s`, and `false` otherwise_.
+##### Valid Anagram
+
+Given two strings `s` and `t`, return `true` if `t` is an anagram of `s`, and `false` otherwise.
 
 An **Anagram** is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once.
 
@@ -480,7 +492,9 @@ An anagram is a word or phrase formed by rearranging the letters of a different 
 
 Q:: =============================================  
 
-##### Given two strings `s` and `t`, return `true` _if `t` is an anagram of `s`, and `false` otherwise_.
+##### Valid Anagram
+
+Given two strings `s` and `t`, return `true` if `t` is an anagram of `s`, and `false` otherwise.
 
 An **Anagram** is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once.
 
@@ -522,7 +536,9 @@ By converting each word to an array, sorting the arrays, and then comparing them
 
 Q:: =============================================  
 
-##### Given two strings `s` and `t`, return `true` _if `t` is an anagram of `s`, and `false` otherwise_.
+##### Valid Anagram
+
+Given two strings `s` and `t`, return `true` if `t` is an anagram of `s`, and `false` otherwise.
 
 An **Anagram** is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once.
 
@@ -566,7 +582,9 @@ The time complexity of sorting an array of n elements is O(n log n), and the tim
 
 Q:: =============================================  
 
-##### Given two strings `s` and `t`, return `true` _if `t` is an anagram of `s`, and `false` otherwise_.
+##### Valid Anagram
+
+Given two strings `s` and `t`, return `true` if `t` is an anagram of `s`, and `false` otherwise.
 
 An **Anagram** is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once.
 
@@ -608,7 +626,9 @@ Given the constraints of the problem and the nature of anagrams, we can use a ha
 
 Q:: =============================================  
 
-##### Given two strings `s` and `t`, return `true` _if `t` is an anagram of `s`, and `false` otherwise_.
+##### Valid Anagram
+
+Given two strings `s` and `t`, return `true` if `t` is an anagram of `s`, and `false` otherwise.
 
 An **Anagram** is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once.
 
@@ -650,7 +670,9 @@ In this case, the keys would be the letters, and the values would be the count o
 
 Q:: =============================================  
 
-##### Given two strings `s` and `t`, return `true` _if `t` is an anagram of `s`, and `false` otherwise_.
+##### Valid Anagram
+
+Given two strings `s` and `t`, return `true` if `t` is an anagram of `s`, and `false` otherwise.
 
 An **Anagram** is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once.
 
@@ -696,7 +718,9 @@ The time complexity of this solution is O(n) because we iterate over the input s
 
 Q:: =============================================  
 
-##### Given an array of integers `nums` and an integer `target`, _return indices of the two numbers such that they add up to `target`_.
+##### Two Sum
+
+Given an array of integers `nums` and an integer `target`, return indices of the two numbers such that they add up to `target`.
 
 You may assume that each input would have **exactly one solution**, and you may not use the same element twice.
 
@@ -731,7 +755,9 @@ There are exactly n \* (n - 1) / 2 distinct pairs of integers in the array. This
 
 Q:: =============================================  
 
-##### Given an array of integers `nums` and an integer `target`, _return indices of the two numbers such that they add up to `target`_.
+##### Two Sum
+
+Given an array of integers `nums` and an integer `target`, return indices of the two numbers such that they add up to `target`.
 
 You may assume that each input would have **exactly one solution**, and you may not use the same element twice.
 
@@ -764,7 +790,9 @@ To find all pairs of elements with different indices in the array, you can use t
 
 Q:: =============================================  
 
-##### Given an array of integers `nums` and an integer `target`, _return indices of the two numbers such that they add up to `target`_.
+##### Two Sum
+
+Given an array of integers `nums` and an integer `target`, return indices of the two numbers such that they add up to `target`.
 
 You may assume that each input would have **exactly one solution**, and you may not use the same element twice.
 
@@ -799,7 +827,9 @@ The brute-force solution using two nested loops has a time complexity of O(n^2) 
 
 Q:: =============================================  
 
-##### Given an array of integers `nums` and an integer `target`, _return indices of the two numbers such that they add up to `target`_.
+##### Two Sum
+
+Given an array of integers `nums` and an integer `target`, return indices of the two numbers such that they add up to `target`.
 
 You may assume that each input would have **exactly one solution**, and you may not use the same element twice.
 
@@ -834,7 +864,9 @@ We can solve this equation for y: y = target - x. For example, if target=9, and 
 
 Q:: =============================================  
 
-##### Given an array of integers `nums` and an integer `target`, _return indices of the two numbers such that they add up to `target`_.
+##### Two Sum
+
+Given an array of integers `nums` and an integer `target`, return indices of the two numbers such that they add up to `target`.
 
 You may assume that each input would have **exactly one solution**, and you may not use the same element twice.
 
@@ -869,7 +901,9 @@ Yes, you can reduce the time complexity using a hashmap. A hashmap allows you to
 
 Q:: =============================================  
 
-##### Given an array of integers `nums` and an integer `target`, _return indices of the two numbers such that they add up to `target`_.
+##### Two Sum
+
+Given an array of integers `nums` and an integer `target`, return indices of the two numbers such that they add up to `target`.
 
 You may assume that each input would have **exactly one solution**, and you may not use the same element twice.
 
@@ -902,7 +936,9 @@ By storing each element in the array as a key and its index as the corresponding
 
 Q:: =============================================  
 
-##### Given an array of integers `nums` and an integer `target`, _return indices of the two numbers such that they add up to `target`_.
+##### Two Sum
+
+Given an array of integers `nums` and an integer `target`, return indices of the two numbers such that they add up to `target`.
 
 You may assume that each input would have **exactly one solution**, and you may not use the same element twice.
 
@@ -939,7 +975,9 @@ The hashmap solution has a time complexity of O(n) because you need to iterate t
 
 Q:: =============================================  
 
-##### Given an array of strings `strs`, group all _anagrams_ together into sublists. You may return the output in **any order**.
+##### Group Anagrams
+
+Given an array of strings `strs`, group all _anagrams_ together into sublists. You may return the output in **any order**.
 
 An **anagram** is a string that contains the exact same characters as another string, but the order of the characters can be different.
 
@@ -979,22 +1017,24 @@ What is the time complexity of a brute force approach that compares every pair o
 
 A) O(n)
 
-B) O(n * log n)
+B) O(n \* log n)
 
-C) O(n^2 * k), where k is the maximum length of a string
+C) O(n^2 \* k), where k is the maximum length of a string
 
-D) O(n^2 * k * log k), where k is the maximum length of a string
+D) O(n^2 \* k \* log k), where k is the maximum length of a string
 
 ###### ID19
 
 A:: =============================================  
 **Answer**: D
 
-The brute force approach would compare every pair of strings (O(n^2)) and for each comparison, it would need to sort both strings to check if they are anagrams (O(k * log k) for each string, where k is the length of the string). This results in a total time complexity of O(n^2 * k * log k).
+The brute force approach would compare every pair of strings (O(n^2)) and for each comparison, it would need to sort both strings to check if they are anagrams (O(k \* log k) for each string, where k is the length of the string). This results in a total time complexity of O(n^2 \* k \* log k).
 
 Q:: =============================================  
 
-##### Given an array of strings `strs`, group all _anagrams_ together into sublists. You may return the output in **any order**.
+##### Group Anagrams
+
+Given an array of strings `strs`, group all _anagrams_ together into sublists. You may return the output in **any order**.
 
 An **anagram** is a string that contains the exact same characters as another string, but the order of the characters can be different.
 
@@ -1049,7 +1089,9 @@ A HashMap can be used to optimize the approach for grouping anagrams. We can use
 
 Q:: =============================================  
 
-##### Given an array of strings `strs`, group all _anagrams_ together into sublists. You may return the output in **any order**.
+##### Group Anagrams
+
+Given an array of strings `strs`, group all _anagrams_ together into sublists. You may return the output in **any order**.
 
 An **anagram** is a string that contains the exact same characters as another string, but the order of the characters can be different.
 
@@ -1087,24 +1129,26 @@ ___
 
 What is the time complexity of the optimal solution using a HashMap?
 
-A) O(n * k), where k is the maximum length of a string
+A) O(n \* k), where k is the maximum length of a string
 
-B) O(n * k * log k), where k is the maximum length of a string
+B) O(n \* k \* log k), where k is the maximum length of a string
 
 C) O(n^2)
 
-D) O(n * log n)
+D) O(n \* log n)
 
 ###### ID21
 
 A:: =============================================  
 **Answer**: B
 
-The optimal solution using a HashMap has a time complexity of O(n * k * log k), where n is the number of strings and k is the maximum length of a string. For each of the n strings, we need to sort it (O(k * log k)) to create the key for our HashMap. The actual insertion into the HashMap is O(1) on average.
+The optimal solution using a HashMap has a time complexity of O(n \* k \* log k), where n is the number of strings and k is the maximum length of a string. For each of the n strings, we need to sort it (O(k \* log k)) to create the key for our HashMap. The actual insertion into the HashMap is O(1) on average.
 
 Q:: =============================================  
 
-##### Given an array of strings `strs`, group all _anagrams_ together into sublists. You may return the output in **any order**.
+##### Group Anagrams
+
+Given an array of strings `strs`, group all _anagrams_ together into sublists. You may return the output in **any order**.
 
 An **anagram** is a string that contains the exact same characters as another string, but the order of the characters can be different.
 
@@ -1144,7 +1188,7 @@ What is the space complexity of the optimal solution using a HashMap?
 
 A) O(n)
 
-B) O(n * k), where k is the maximum length of a string
+B) O(n \* k), where k is the maximum length of a string
 
 C) O(n^2)
 
@@ -1155,11 +1199,13 @@ D) O(k), where k is the maximum length of a string
 A:: =============================================  
 **Answer**: B
 
-The space complexity of the optimal solution using a HashMap is O(n * k), where n is the number of strings and k is the maximum length of a string. In the worst case, we might need to store all n strings in our HashMap, and each string can be up to k characters long.
+The space complexity of the optimal solution using a HashMap is O(n \* k), where n is the number of strings and k is the maximum length of a string. In the worst case, we might need to store all n strings in our HashMap, and each string can be up to k characters long.
 
 Q:: =============================================  
 
-##### Given an array of strings `strs`, group all _anagrams_ together into sublists. You may return the output in **any order**.
+##### Group Anagrams
+
+Given an array of strings `strs`, group all _anagrams_ together into sublists. You may return the output in **any order**.
 
 An **anagram** is a string that contains the exact same characters as another string, but the order of the characters can be different.
 
@@ -1214,7 +1260,9 @@ Using the original string as is would not be a valid way to generate a key for t
 
 Q:: =============================================  
 
-##### Given an array of strings `strs`, group all _anagrams_ together into sublists. You may return the output in **any order**.
+##### Group Anagrams
+
+Given an array of strings `strs`, group all _anagrams_ together into sublists. You may return the output in **any order**.
 
 An **anagram** is a string that contains the exact same characters as another string, but the order of the characters can be different.
 
@@ -1272,7 +1320,9 @@ Given that the strings are made up of lowercase English letters and the maximum 
 
 Q:: =============================================  
 
-##### Design an algorithm to encode **a list of strings** to **a string**. The encoded string is then sent over the network and is decoded back to the original list of strings.
+##### Encode and Decode Strings
+
+Design an algorithm to encode **a list of strings** to **a string**. The encoded string is then sent over the network and is decoded back to the original list of strings.
 
 Please implement `encode` and `decode`
 
@@ -1324,7 +1374,9 @@ If we use a special character to separate the strings, it could be a problem if 
 
 Q:: =============================================  
 
-##### Design an algorithm to encode **a list of strings** to **a string**. The encoded string is then sent over the network and is decoded back to the original list of strings.
+##### Encode and Decode Strings
+
+Design an algorithm to encode **a list of strings** to **a string**. The encoded string is then sent over the network and is decoded back to the original list of strings.
 
 Please implement `encode` and `decode`
 
@@ -1376,7 +1428,9 @@ Prefixing each string with its own length allows us to know exactly where each s
 
 Q:: =============================================  
 
-##### Design an algorithm to encode **a list of strings** to **a string**. The encoded string is then sent over the network and is decoded back to the original list of strings.
+##### Encode and Decode Strings
+
+Design an algorithm to encode **a list of strings** to **a string**. The encoded string is then sent over the network and is decoded back to the original list of strings.
 
 Please implement `encode` and `decode`
 
@@ -1428,7 +1482,9 @@ If the delimiter is a number, it could lead to confusion during decoding. Hence,
 
 Q:: =============================================  
 
-##### Design an algorithm to encode **a list of strings** to **a string**. The encoded string is then sent over the network and is decoded back to the original list of strings.
+##### Encode and Decode Strings
+
+Design an algorithm to encode **a list of strings** to **a string**. The encoded string is then sent over the network and is decoded back to the original list of strings.
 
 Please implement `encode` and `decode`
 
@@ -1505,7 +1561,9 @@ The overall time complexity of the solution is determined by the number of chara
 
 Q:: =============================================  
 
-##### Given an unsorted array of integers `nums`, return the _length of the longest consecutive elements sequence_.
+##### Longest Consecutive Sequence
+
+Given an unsorted array of integers `nums`, return the length of the longest consecutive elements sequence.
 
 You must write an algorithm that runs in `O(n)` time.
 
@@ -1543,7 +1601,9 @@ Sorting an array generally takes O(n log n) time. Once the array is sorted, you 
 
 Q:: =============================================  
 
-##### Given an unsorted array of integers `nums`, return the _length of the longest consecutive elements sequence_.
+##### Longest Consecutive Sequence
+
+Given an unsorted array of integers `nums`, return the _length of the longest consecutive elements sequence_.
 
 You must write an algorithm that runs in `O(n)` time.
 
@@ -1581,7 +1641,9 @@ A HashSet can be used to efficiently check the existence of elements in O(1) ave
 
 Q:: =============================================  
 
-##### Given an unsorted array of integers `nums`, return the _length of the longest consecutive elements sequence_.
+##### Longest Consecutive Sequence
+
+Given an unsorted array of integers `nums`, return the _length of the longest consecutive elements sequence_.
 
 You must write an algorithm that runs in `O(n)` time.
 
@@ -1619,7 +1681,9 @@ For every element in the array, except for 6, the follow-up element n + 1 does e
 
 Q:: =============================================  
 
-##### Given an unsorted array of integers `nums`, return the _length of the longest consecutive elements sequence_.
+##### Longest Consecutive Sequence
+
+Given an unsorted array of integers `nums`, return the _length of the longest consecutive elements sequence_.
 
 You must write an algorithm that runs in `O(n)` time.
 
@@ -1657,7 +1721,9 @@ The key observation is that for any number 'n' to be the start of a sequence, th
 
 Q:: =============================================  
 
-##### Given an unsorted array of integers `nums`, return the _length of the longest consecutive elements sequence_.
+##### Longest Consecutive Sequence
+
+Given an unsorted array of integers `nums`, return the _length of the longest consecutive elements sequence_.
 
 You must write an algorithm that runs in `O(n)` time.
 
@@ -1691,7 +1757,9 @@ We then iterate through each element 'n' and if (n - 1) is not in the hashset, w
 
 Q:: =============================================  
 
-##### Given an unsorted array of integers `nums`, return the _length of the longest consecutive elements sequence_.
+##### Longest Consecutive Sequence
+
+Given an unsorted array of integers `nums`, return the _length of the longest consecutive elements sequence_.
 
 You must write an algorithm that runs in `O(n)` time.
 
@@ -1734,7 +1802,9 @@ The HashSet solution has a time complexity of O(n) because you need to iterate t
 
 Q:: =============================================  
 
-##### A phrase is a **palindrome** if, after converting all uppercase letters into lowercase letters and removing all non-alphanumeric characters, it reads the same forward and backward. Alphanumeric characters include letters and numbers.
+##### Valid Palindrome
+
+A phrase is a **palindrome** if, after converting all uppercase letters into lowercase letters and removing all non-alphanumeric characters, it reads the same forward and backward. Alphanumeric characters include letters and numbers.
 
 Given a string `s`, return `true` if it is a **palindrome,** or `false` otherwise.
 
@@ -1789,7 +1859,9 @@ A crucial step to check if a string is a palindrome is to convert it to lowercas
 
 Q:: =============================================  
 
-##### A phrase is a **palindrome** if, after converting all uppercase letters into lowercase letters and removing all non-alphanumeric characters, it reads the same forward and backward. Alphanumeric characters include letters and numbers.
+##### Valid Palindrome
+
+A phrase is a **palindrome** if, after converting all uppercase letters into lowercase letters and removing all non-alphanumeric characters, it reads the same forward and backward. Alphanumeric characters include letters and numbers.
 
 Given a string `s`, return `true` if it is a **palindrome,** or `false` otherwise.
 
@@ -1844,7 +1916,9 @@ The next step is to remove all non-alphanumeric characters. This is because pali
 
 Q:: =============================================  
 
-##### A phrase is a **palindrome** if, after converting all uppercase letters into lowercase letters and removing all non-alphanumeric characters, it reads the same forward and backward. Alphanumeric characters include letters and numbers.
+##### Valid Palindrome
+
+A phrase is a **palindrome** if, after converting all uppercase letters into lowercase letters and removing all non-alphanumeric characters, it reads the same forward and backward. Alphanumeric characters include letters and numbers.
 
 Given a string `s`, return `true` if it is a **palindrome,** or `false` otherwise.
 
@@ -1899,7 +1973,9 @@ The final step to check if a string is a palindrome is to compare it to its reve
 
 Q:: =============================================  
 
-##### A phrase is a **palindrome** if, after converting all uppercase letters into lowercase letters and removing all non-alphanumeric characters, it reads the same forward and backward. Alphanumeric characters include letters and numbers.
+##### Valid Palindrome
+
+A phrase is a **palindrome** if, after converting all uppercase letters into lowercase letters and removing all non-alphanumeric characters, it reads the same forward and backward. Alphanumeric characters include letters and numbers.
 
 Given a string `s`, return `true` if it is a **palindrome,** or `false` otherwise.
 
@@ -1954,7 +2030,9 @@ The time complexity is O(n) because all operations (lowercase conversion, removi
 
 Q:: =============================================  
 
-##### A phrase is a **palindrome** if, after converting all uppercase letters into lowercase letters and removing all non-alphanumeric characters, it reads the same forward and backward. Alphanumeric characters include letters and numbers.
+##### Valid Palindrome
+
+A phrase is a **palindrome** if, after converting all uppercase letters into lowercase letters and removing all non-alphanumeric characters, it reads the same forward and backward. Alphanumeric characters include letters and numbers.
 
 Given a string `s`, return `true` if it is a **palindrome,** or `false` otherwise.
 
@@ -2009,7 +2087,9 @@ Yes, it is possible. You can use two pointers: one starting from the beginning o
 
 Q:: =============================================  
 
-##### A phrase is a **palindrome** if, after converting all uppercase letters into lowercase letters and removing all non-alphanumeric characters, it reads the same forward and backward. Alphanumeric characters include letters and numbers.
+##### Valid Palindrome
+
+A phrase is a **palindrome** if, after converting all uppercase letters into lowercase letters and removing all non-alphanumeric characters, it reads the same forward and backward. Alphanumeric characters include letters and numbers.
 
 Given a string `s`, return `true` if it is a **palindrome,** or `false` otherwise.
 
@@ -2067,7 +2147,9 @@ The time complexity is O(n) because in the worst case, we would have to compare 
 
 Q:: =============================================  
 
-##### Given an integer array nums, return all the triplets `[nums[i], nums[j], nums[k]]` such that `i != j`, `i != k`, and `j != k`, and `nums[i] + nums[j] + nums[k] == 0`.
+##### 3Sum
+
+Given an integer array nums, return all the triplets `[nums[i], nums[j], nums[k]]` such that `i != j`, `i != k`, and `j != k`, and `nums[i] + nums[j] + nums[k] == 0`.
 
 Notice that the solution set must not contain duplicate triplets.
 
@@ -2124,7 +2206,9 @@ The brute force approach would be to iterate through all possible triplets in th
 
 Q:: =============================================  
 
-##### Given an integer array nums, return all the triplets `[nums[i], nums[j], nums[k]]` such that `i != j`, `i != k`, and `j != k`, and `nums[i] + nums[j] + nums[k] == 0`.
+##### 3Sum
+
+Given an integer array nums, return all the triplets `[nums[i], nums[j], nums[k]]` such that `i != j`, `i != k`, and `j != k`, and `nums[i] + nums[j] + nums[k] == 0`.
 
 Notice that the solution set must not contain duplicate triplets.
 
@@ -2181,7 +2265,9 @@ By sorting the array, we can iterate through the array once and then use a two-p
 
 Q:: =============================================  
 
-##### Given an integer array nums, return all the triplets `[nums[i], nums[j], nums[k]]` such that `i != j`, `i != k`, and `j != k`, and `nums[i] + nums[j] + nums[k] == 0`.
+##### 3Sum
+
+Given an integer array nums, return all the triplets `[nums[i], nums[j], nums[k]]` such that `i != j`, `i != k`, and `j != k`, and `nums[i] + nums[j] + nums[k] == 0`.
 
 Notice that the solution set must not contain duplicate triplets.
 
@@ -2238,7 +2324,9 @@ Both methods can be used to avoid duplicate triplets. We can check if a triplet 
 
 Q:: =============================================  
 
-##### Given an integer array nums, return all the triplets `[nums[i], nums[j], nums[k]]` such that `i != j`, `i != k`, and `j != k`, and `nums[i] + nums[j] + nums[k] == 0`.
+##### 3Sum
+
+Given an integer array nums, return all the triplets `[nums[i], nums[j], nums[k]]` such that `i != j`, `i != k`, and `j != k`, and `nums[i] + nums[j] + nums[k] == 0`.
 
 Notice that the solution set must not contain duplicate triplets.
 
@@ -2295,7 +2383,9 @@ When we find a valid triplet, we increment the left pointer until we find a new 
 
 Q:: =============================================  
 
-##### Given an integer array nums, return all the triplets `[nums[i], nums[j], nums[k]]` such that `i != j`, `i != k`, and `j != k`, and `nums[i] + nums[j] + nums[k] == 0`.
+##### 3Sum
+
+Given an integer array nums, return all the triplets `[nums[i], nums[j], nums[k]]` such that `i != j`, `i != k`, and `j != k`, and `nums[i] + nums[j] + nums[k] == 0`.
 
 Notice that the solution set must not contain duplicate triplets.
 
@@ -2386,7 +2476,9 @@ The time complexity is O(n^2) because we iterate through the array once (which i
 
 Q:: =============================================  
 
-##### You are given an integer array `height` of length `n`. There are `n` vertical lines drawn such that the two endpoints of the `ith` line are `(i, 0)` and `(i, height[i])`.
+##### Container With Most Water
+
+You are given an integer array `height` of length `n`. There are `n` vertical lines drawn such that the two endpoints of the `ith` line are `(i, 0)` and `(i, height[i])`.
 
 Find two lines that together with the x-axis form a container, such that the container contains the most water.
 
@@ -2439,7 +2531,9 @@ The amount of water a container can hold is determined by the height of the shor
 
 Q:: =============================================  
 
-##### You are given an integer array `height` of length `n`. There are `n` vertical lines drawn such that the two endpoints of the `ith` line are `(i, 0)` and `(i, height[i])`.
+##### Container With Most Water
+
+You are given an integer array `height` of length `n`. There are `n` vertical lines drawn such that the two endpoints of the `ith` line are `(i, 0)` and `(i, height[i])`.
 
 Find two lines that together with the x-axis form a container, such that the container contains the most water.
 
@@ -2492,7 +2586,9 @@ In a brute-force solution, you would have two nested loops to calculate the area
 
 Q:: =============================================  
 
-##### You are given an integer array `height` of length `n`. There are `n` vertical lines drawn such that the two endpoints of the `ith` line are `(i, 0)` and `(i, height[i])`.
+##### Container With Most Water
+
+You are given an integer array `height` of length `n`. There are `n` vertical lines drawn such that the two endpoints of the `ith` line are `(i, 0)` and `(i, height[i])`.
 
 Find two lines that together with the x-axis form a container, such that the container contains the most water.
 
@@ -2545,7 +2641,9 @@ To maximize the initial area, we should start with the widest possible container
 
 Q:: =============================================  
 
-##### You are given an integer array `height` of length `n`. There are `n` vertical lines drawn such that the two endpoints of the `ith` line are `(i, 0)` and `(i, height[i])`.
+##### Container With Most Water
+
+You are given an integer array `height` of length `n`. There are `n` vertical lines drawn such that the two endpoints of the `ith` line are `(i, 0)` and `(i, height[i])`.
 
 Find two lines that together with the x-axis form a container, such that the container contains the most water.
 
@@ -2596,7 +2694,9 @@ The amount of water a container can hold is determined by the height of the shor
 
 Q:: =============================================  
 
-##### You are given an integer array `height` of length `n`. There are `n` vertical lines drawn such that the two endpoints of the `ith` line are `(i, 0)` and `(i, height[i])`.
+##### Container With Most Water
+
+You are given an integer array `height` of length `n`. There are `n` vertical lines drawn such that the two endpoints of the `ith` line are `(i, 0)` and `(i, height[i])`.
 
 Find two lines that together with the x-axis form a container, such that the container contains the most water.
 
@@ -2649,7 +2749,9 @@ The two-pointer technique starts with the widest possible container and moves th
 
 Q:: =============================================  
 
-##### You are given an integer array `height` of length `n`. There are `n` vertical lines drawn such that the two endpoints of the `ith` line are `(i, 0)` and `(i, height[i])`.
+##### Container With Most Water
+
+You are given an integer array `height` of length `n`. There are `n` vertical lines drawn such that the two endpoints of the `ith` line are `(i, 0)` and `(i, height[i])`.
 
 Find two lines that together with the x-axis form a container, such that the container contains the most water.
 
@@ -2708,7 +2810,9 @@ The two-pointer solution has a time complexity of O(n) because you need to itera
 
 Q:: =============================================  
 
-##### Given a string s containing just the characters `'('`, `')'`, `'{'`, `'}'`, `'['` and `']'`, determine if the input string is valid.
+##### Valid Parentheses
+
+Given a string s containing just the characters `'('`, `')'`, `'{'`, `'}'`, `'['` and `']'`, determine if the input string is valid.
 
 An input string is valid if:
 
@@ -2752,7 +2856,9 @@ Although every opening bracket has a matching closing bracket of the same type, 
 
 Q:: =============================================  
 
-##### Given a string s containing just the characters `'('`, `')'`, `'{'`, `'}'`, `'['` and `']'`, determine if the input string is valid.
+##### Valid Parentheses
+
+Given a string s containing just the characters `'('`, `')'`, `'{'`, `'}'`, `'['` and `']'`, determine if the input string is valid.
 
 An input string is valid if:
 
@@ -2800,7 +2906,9 @@ A Stack is a LIFO (Last In First Out) data structure, which aligns well with thi
 
 Q:: =============================================  
 
-##### Given a string s containing just the characters `'('`, `')'`, `'{'`, `'}'`, `'['` and `']'`, determine if the input string is valid.
+##### Valid Parentheses
+
+Given a string s containing just the characters `'('`, `')'`, `'{'`, `'}'`, `'['` and `']'`, determine if the input string is valid.
 
 An input string is valid if:
 
@@ -2848,7 +2956,9 @@ When we encounter an open bracket, we should push it onto the stack. The stack i
 
 Q:: =============================================  
 
-##### Given a string s containing just the characters `'('`, `')'`, `'{'`, `'}'`, `'['` and `']'`, determine if the input string is valid.
+##### Valid Parentheses
+
+Given a string s containing just the characters `'('`, `')'`, `'{'`, `'}'`, `'['` and `']'`, determine if the input string is valid.
 
 An input string is valid if:
 
@@ -2896,7 +3006,9 @@ When we encounter a closing bracket, we should pop the top element from the stac
 
 Q:: =============================================  
 
-##### Given a string s containing just the characters `'('`, `')'`, `'{'`, `'}'`, `'['` and `']'`, determine if the input string is valid.
+##### Valid Parentheses
+
+Given a string s containing just the characters `'('`, `')'`, `'{'`, `'}'`, `'['` and `']'`, determine if the input string is valid.
 
 An input string is valid if:
 
@@ -2944,7 +3056,9 @@ If we have managed to close all open brackets while iterating through the string
 
 Q:: =============================================  
 
-##### Given a string s containing just the characters `'('`, `')'`, `'{'`, `'}'`, `'['` and `']'`, determine if the input string is valid.
+##### Valid Parentheses
+
+Given a string s containing just the characters `'('`, `')'`, `'{'`, `'}'`, `'['` and `']'`, determine if the input string is valid.
 
 An input string is valid if:
 
@@ -3006,7 +3120,9 @@ We are iterating through the string only once, where n is the length of the stri
 
 Q:: =============================================  
 
-##### Suppose an array of length `n` sorted in ascending order is **rotated** between `1` and `n` times. For example, the array `nums = [0, 1, 2, 4, 5, 6, 7]` might become:
+##### Find Minimum In Rotated Sorted Array
+
+Suppose an array of length `n` sorted in ascending order is **rotated** between `1` and `n` times. For example, the array `nums = [0, 1, 2, 4, 5, 6, 7]` might become:
 
 -   `[4, 5, 6, 7, 0, 1, 2]` if it was rotated `4` times.
 -   `[0, 1, 2, 4, 5, 6, 7]` if it was rotated `7` times.  
@@ -3069,7 +3185,9 @@ In a sorted array, the minimum element is always at the beginning, which can be 
 
 Q:: =============================================  
 
-##### Suppose an array of length `n` sorted in ascending order is **rotated** between `1` and `n` times. For example, the array `nums = [0, 1, 2, 4, 5, 6, 7]` might become:
+##### Find Minimum In Rotated Sorted Array
+
+Suppose an array of length `n` sorted in ascending order is **rotated** between `1` and `n` times. For example, the array `nums = [0, 1, 2, 4, 5, 6, 7]` might become:
 
 -   `[4, 5, 6, 7, 0, 1, 2]` if it was rotated `4` times.
 -   `[0, 1, 2, 4, 5, 6, 7]` if it was rotated `7` times.  
@@ -3132,7 +3250,9 @@ The simplest solution would be to perform a linear search, which has a time comp
 
 Q:: =============================================  
 
-##### Suppose an array of length `n` sorted in ascending order is **rotated** between `1` and `n` times. For example, the array `nums = [0, 1, 2, 4, 5, 6, 7]` might become:
+##### Find Minimum In Rotated Sorted Array
+
+Suppose an array of length `n` sorted in ascending order is **rotated** between `1` and `n` times. For example, the array `nums = [0, 1, 2, 4, 5, 6, 7]` might become:
 
 -   `[4, 5, 6, 7, 0, 1, 2]` if it was rotated `4` times.
 -   `[0, 1, 2, 4, 5, 6, 7]` if it was rotated `7` times.  
@@ -3195,7 +3315,9 @@ In a binary search, we first check the middle element of the array. Depending on
 
 Q:: =============================================  
 
-##### Suppose an array of length `n` sorted in ascending order is **rotated** between `1` and `n` times. For example, the array `nums = [0, 1, 2, 4, 5, 6, 7]` might become:
+##### Find Minimum In Rotated Sorted Array
+
+Suppose an array of length `n` sorted in ascending order is **rotated** between `1` and `n` times. For example, the array `nums = [0, 1, 2, 4, 5, 6, 7]` might become:
 
 -   `[4, 5, 6, 7, 0, 1, 2]` if it was rotated `4` times.
 -   `[0, 1, 2, 4, 5, 6, 7]` if it was rotated `7` times.  
@@ -3256,7 +3378,9 @@ The minimum element will be found in the right sorted portion since every elemen
 
 Q:: =============================================  
 
-##### Suppose an array of length `n` sorted in ascending order is **rotated** between `1` and `n` times. For example, the array `nums = [0, 1, 2, 4, 5, 6, 7]` might become:
+##### Find Minimum In Rotated Sorted Array
+
+Suppose an array of length `n` sorted in ascending order is **rotated** between `1` and `n` times. For example, the array `nums = [0, 1, 2, 4, 5, 6, 7]` might become:
 
 -   `[4, 5, 6, 7, 0, 1, 2]` if it was rotated `4` times.
 -   `[0, 1, 2, 4, 5, 6, 7]` if it was rotated `7` times.  
@@ -3321,7 +3445,9 @@ In a normal sorted array, the leftmost element is the minimum. In our case, if t
 
 Q:: =============================================  
 
-##### Suppose an array of length `n` sorted in ascending order is **rotated** between `1` and `n` times. For example, the array `nums = [0, 1, 2, 4, 5, 6, 7]` might become:
+##### Find Minimum In Rotated Sorted Array
+
+Suppose an array of length `n` sorted in ascending order is **rotated** between `1` and `n` times. For example, the array `nums = [0, 1, 2, 4, 5, 6, 7]` might become:
 
 -   `[4, 5, 6, 7, 0, 1, 2]` if it was rotated `4` times.
 -   `[0, 1, 2, 4, 5, 6, 7]` if it was rotated `7` times.  
@@ -3384,7 +3510,9 @@ If the middle element is less than the first element, it means the middle elemen
 
 Q:: =============================================  
 
-##### Suppose an array of length `n` sorted in ascending order is **rotated** between `1` and `n` times. For example, the array `nums = [0, 1, 2, 4, 5, 6, 7]` might become:
+##### Find Minimum In Rotated Sorted Array
+
+Suppose an array of length `n` sorted in ascending order is **rotated** between `1` and `n` times. For example, the array `nums = [0, 1, 2, 4, 5, 6, 7]` might become:
 
 -   `[4, 5, 6, 7, 0, 1, 2]` if it was rotated `4` times.
 -   `[0, 1, 2, 4, 5, 6, 7]` if it was rotated `7` times.  
@@ -3449,7 +3577,9 @@ If the middle element is greater than the first element, it means the middle ele
 
 Q:: =============================================  
 
-##### Suppose an array of length `n` sorted in ascending order is **rotated** between `1` and `n` times. For example, the array `nums = [0, 1, 2, 4, 5, 6, 7]` might become:
+##### Find Minimum In Rotated Sorted Array
+
+Suppose an array of length `n` sorted in ascending order is **rotated** between `1` and `n` times. For example, the array `nums = [0, 1, 2, 4, 5, 6, 7]` might become:
 
 -   `[4, 5, 6, 7, 0, 1, 2]` if it was rotated `4` times.
 -   `[0, 1, 2, 4, 5, 6, 7]` if it was rotated `7` times.  
@@ -3534,7 +3664,9 @@ The binary search approach has a time complexity of O(log n) because in each ste
 
 Q:: =============================================  
 
-##### There is an integer array `nums` sorted in ascending order (with **distinct** values).
+##### Search In Rotated Sorted Array
+
+There is an integer array `nums` sorted in ascending order (with **distinct** values).
 
 Prior to being passed to your function, `nums` is **possibly rotated** at an unknown pivot index `k` (`1 <= k < nums.length`) such that the resulting array is `[nums[k], nums[k+1], ..., nums[n-1], nums[0], nums[1], ..., nums[k-1]]` (**0-indexed**). For example, `[0,1,2,4,5,6,7]` might be rotated at pivot index `3` and become `[4,5,6,7,0,1,2]`.
 
@@ -3585,7 +3717,9 @@ For a sorted array, binary search can be applied to find an element. The time co
 
 Q:: =============================================  
 
-##### There is an integer array `nums` sorted in ascending order (with **distinct** values).
+##### Search In Rotated Sorted Array
+
+There is an integer array `nums` sorted in ascending order (with **distinct** values).
 
 Prior to being passed to your function, `nums` is **possibly rotated** at an unknown pivot index `k` (`1 <= k < nums.length`) such that the resulting array is `[nums[k], nums[k+1], ..., nums[n-1], nums[0], nums[1], ..., nums[k-1]]` (**0-indexed**). For example, `[0,1,2,4,5,6,7]` might be rotated at pivot index `3` and become `[4,5,6,7,0,1,2]`.
 
@@ -3636,7 +3770,9 @@ The simplest solution would be to perform a linear search, which has a time comp
 
 Q:: =============================================  
 
-##### There is an integer array `nums` sorted in ascending order (with **distinct** values).
+##### Search In Rotated Sorted Array
+
+There is an integer array `nums` sorted in ascending order (with **distinct** values).
 
 Prior to being passed to your function, `nums` is **possibly rotated** at an unknown pivot index `k` (`1 <= k < nums.length`) such that the resulting array is `[nums[k], nums[k+1], ..., nums[n-1], nums[0], nums[1], ..., nums[k-1]]` (**0-indexed**). For example, `[0,1,2,4,5,6,7]` might be rotated at pivot index `3` and become `[4,5,6,7,0,1,2]`.
 
@@ -3687,7 +3823,9 @@ In a binary search, we first check the middle element of the array. If the targe
 
 Q:: =============================================  
 
-##### There is an integer array `nums` sorted in ascending order (with **distinct** values).
+##### Search In Rotated Sorted Array
+
+There is an integer array `nums` sorted in ascending order (with **distinct** values).
 
 Prior to being passed to your function, `nums` is **possibly rotated** at an unknown pivot index `k` (`1 <= k < nums.length`) such that the resulting array is `[nums[k], nums[k+1], ..., nums[n-1], nums[0], nums[1], ..., nums[k-1]]` (**0-indexed**). For example, `[0,1,2,4,5,6,7]` might be rotated at pivot index `3` and become `[4,5,6,7,0,1,2]`.
 
@@ -3738,7 +3876,9 @@ We can determine which half of the array we are currently inside by comparing th
 
 Q:: =============================================  
 
-##### There is an integer array `nums` sorted in ascending order (with **distinct** values).
+##### Search In Rotated Sorted Array
+
+There is an integer array `nums` sorted in ascending order (with **distinct** values).
 
 Prior to being passed to your function, `nums` is **possibly rotated** at an unknown pivot index `k` (`1 <= k < nums.length`) such that the resulting array is `[nums[k], nums[k+1], ..., nums[n-1], nums[0], nums[1], ..., nums[k-1]]` (**0-indexed**). For example, `[0,1,2,4,5,6,7]` might be rotated at pivot index `3` and become `[4,5,6,7,0,1,2]`.
 
@@ -3789,7 +3929,9 @@ We can determine if the target element belongs to the left or right portion of t
 
 Q:: =============================================  
 
-##### There is an integer array `nums` sorted in ascending order (with **distinct** values).
+##### Search In Rotated Sorted Array
+
+There is an integer array `nums` sorted in ascending order (with **distinct** values).
 
 Prior to being passed to your function, `nums` is **possibly rotated** at an unknown pivot index `k` (`1 <= k < nums.length`) such that the resulting array is `[nums[k], nums[k+1], ..., nums[n-1], nums[0], nums[1], ..., nums[k-1]]` (**0-indexed**). For example, `[0,1,2,4,5,6,7]` might be rotated at pivot index `3` and become `[4,5,6,7,0,1,2]`.
 
@@ -3842,7 +3984,9 @@ If we are in the left sorted half of the array, but the target element belongs t
 
 Q:: =============================================  
 
-##### There is an integer array `nums` sorted in ascending order (with **distinct** values).
+##### Search In Rotated Sorted Array
+
+There is an integer array `nums` sorted in ascending order (with **distinct** values).
 
 Prior to being passed to your function, `nums` is **possibly rotated** at an unknown pivot index `k` (`1 <= k < nums.length`) such that the resulting array is `[nums[k], nums[k+1], ..., nums[n-1], nums[0], nums[1], ..., nums[k-1]]` (**0-indexed**). For example, `[0,1,2,4,5,6,7]` might be rotated at pivot index `3` and become `[4,5,6,7,0,1,2]`.
 
@@ -3895,7 +4039,9 @@ If we are in the right sorted half of the array, but the target element belongs 
 
 Q:: =============================================  
 
-##### There is an integer array `nums` sorted in ascending order (with **distinct** values).
+##### Search In Rotated Sorted Array
+
+There is an integer array `nums` sorted in ascending order (with **distinct** values).
 
 Prior to being passed to your function, `nums` is **possibly rotated** at an unknown pivot index `k` (`1 <= k < nums.length`) such that the resulting array is `[nums[k], nums[k+1], ..., nums[n-1], nums[0], nums[1], ..., nums[k-1]]` (**0-indexed**). For example, `[0,1,2,4,5,6,7]` might be rotated at pivot index `3` and become `[4,5,6,7,0,1,2]`.
 
@@ -3942,7 +4088,9 @@ Yes, if we are in the appropriate half of the array, we can simply perform a nor
 
 Q:: =============================================  
 
-##### There is an integer array `nums` sorted in ascending order (with **distinct** values).
+##### Search In Rotated Sorted Array
+
+There is an integer array `nums` sorted in ascending order (with **distinct** values).
 
 Prior to being passed to your function, `nums` is **possibly rotated** at an unknown pivot index `k` (`1 <= k < nums.length`) such that the resulting array is `[nums[k], nums[k+1], ..., nums[n-1], nums[0], nums[1], ..., nums[k-1]]` (**0-indexed**). For example, `[0,1,2,4,5,6,7]` might be rotated at pivot index `3` and become `[4,5,6,7,0,1,2]`.
 
@@ -4026,7 +4174,9 @@ The binary search approach has a time complexity of O(log n) because in each ste
 
 Q:: =============================================  
 
-##### You are given an array `prices` where `prices[i]` is the price of a given stock on the `ith` day.
+##### Best Time to Buy And Sell Stock
+
+You are given an array `prices` where `prices[i]` is the price of a given stock on the `ith` day.
 
 You want to maximize your profit by choosing a **single day** to buy one stock and choosing a **different day in the future** to sell that stock.
 
@@ -4062,7 +4212,9 @@ The correct brute-force approach is to calculate the profit for each valid pair 
 
 Q:: =============================================  
 
-##### You are given an array `prices` where `prices[i]` is the price of a given stock on the `ith` day.
+##### Best Time to Buy And Sell Stock
+
+You are given an array `prices` where `prices[i]` is the price of a given stock on the `ith` day.
 
 You want to maximize your profit by choosing a **single day** to buy one stock and choosing a **different day in the future** to sell that stock.
 
@@ -4098,7 +4250,9 @@ We should keep track of the minimum price found so far and the maximum profit fo
 
 Q:: =============================================  
 
-##### You are given an array `prices` where `prices[i]` is the price of a given stock on the `ith` day.
+##### Best Time to Buy And Sell Stock
+
+You are given an array `prices` where `prices[i]` is the price of a given stock on the `ith` day.
 
 You want to maximize your profit by choosing a **single day** to buy one stock and choosing a **different day in the future** to sell that stock.
 
@@ -4132,7 +4286,9 @@ We iterate through the prices, and for each price, if it is lower than the curre
 
 Q:: =============================================  
 
-##### You are given an array `prices` where `prices[i]` is the price of a given stock on the `ith` day.
+##### Best Time to Buy And Sell Stock
+
+You are given an array `prices` where `prices[i]` is the price of a given stock on the `ith` day.
 
 You want to maximize your profit by choosing a **single day** to buy one stock and choosing a **different day in the future** to sell that stock.
 
@@ -4168,7 +4324,9 @@ The optimal solution has a time complexity of O(n), where n is the number of day
 
 Q:: =============================================  
 
-##### You are given an array `prices` where `prices[i]` is the price of a given stock on the `ith` day.
+##### Best Time to Buy And Sell Stock
+
+You are given an array `prices` where `prices[i]` is the price of a given stock on the `ith` day.
 
 You want to maximize your profit by choosing a **single day** to buy one stock and choosing a **different day in the future** to sell that stock.
 
@@ -4206,7 +4364,9 @@ The optimal solution has a constant space complexity, O(1), as we are only keepi
 
 Q:: =============================================  
 
-##### Given a string `s`, find the length of the **longest** **substring** without repeating characters.
+##### Longest Substring Without Repeating Characters
+
+Given a string `s`, find the length of the **longest** **substring** without repeating characters.
 
 **Example 1:**
 
@@ -4255,7 +4415,9 @@ The brute force solution for this problem would be to generate all possible subs
 
 Q:: =============================================  
 
-##### Given a string `s`, find the length of the **longest** **substring** without repeating characters.
+##### Longest Substring Without Repeating Characters
+
+Given a string `s`, find the length of the **longest** **substring** without repeating characters.
 
 **Example 1:**
 
@@ -4308,7 +4470,9 @@ A Set is a data structure that maintains a collection of unique elements. It pro
 
 Q:: =============================================  
 
-##### Given a string `s`, find the length of the **longest** **substring** without repeating characters.
+##### Longest Substring Without Repeating Characters
+
+Given a string `s`, find the length of the **longest** **substring** without repeating characters.
 
 **Example 1:**
 
@@ -4359,7 +4523,9 @@ The sliding window approach allows us to scan through the string once (linear ti
 
 Q:: =============================================  
 
-##### Given a string `s`, find the length of the **longest** **substring** without repeating characters.
+##### Longest Substring Without Repeating Characters
+
+Given a string `s`, find the length of the **longest** **substring** without repeating characters.
 
 **Example 1:**
 
@@ -4410,7 +4576,9 @@ When we encounter a repeating character, it means we need to shrink the window f
 
 Q:: =============================================  
 
-##### Given a string `s`, find the length of the **longest** **substring** without repeating characters.
+##### Longest Substring Without Repeating Characters
+
+Given a string `s`, find the length of the **longest** **substring** without repeating characters.
 
 **Example 1:**
 
@@ -4461,7 +4629,9 @@ In ASCII, there are 95 printable characters: 26 lowercase English letters, 26 up
 
 Q:: =============================================  
 
-##### Given a string `s`, find the length of the **longest** **substring** without repeating characters.
+##### Longest Substring Without Repeating Characters
+
+Given a string `s`, find the length of the **longest** **substring** without repeating characters.
 
 **Example 1:**
 
@@ -4530,7 +4700,9 @@ Using the sliding window approach, we essentially scan through the string once w
 
 Q:: =============================================  
 
-##### You are given a string `s` and an integer `k`. You can choose any character of the string and change it to any other uppercase English character. You can perform this operation at most `k` times.
+##### Longest Repeating Character Replacement
+
+You are given a string `s` and an integer `k`. You can choose any character of the string and change it to any other uppercase English character. You can perform this operation at most `k` times.
 
 Return _the length of the longest substring containing the same letter you can get after performing the above operations_.
 
@@ -4575,7 +4747,9 @@ The brute force solution would be to generate all possible substrings and for ea
 
 Q:: =============================================  
 
-##### You are given a string `s` and an integer `k`. You can choose any character of the string and change it to any other uppercase English character. You can perform this operation at most `k` times.
+##### Longest Repeating Character Replacement
+
+You are given a string `s` and an integer `k`. You can choose any character of the string and change it to any other uppercase English character. You can perform this operation at most `k` times.
 
 Return _the length of the longest substring containing the same letter you can get after performing the above operations_.
 
@@ -4624,7 +4798,9 @@ Both an Array and a Hash Map can be used to efficiently count the frequency of e
 
 Q:: =============================================  
 
-##### You are given a string `s` and an integer `k`. You can choose any character of the string and change it to any other uppercase English character. You can perform this operation at most `k` times.
+##### Longest Repeating Character Replacement
+
+You are given a string `s` and an integer `k`. You can choose any character of the string and change it to any other uppercase English character. You can perform this operation at most `k` times.
 
 Return _the length of the longest substring containing the same letter you can get after performing the above operations_.
 
@@ -4671,7 +4847,9 @@ The two pointers with sliding window strategy allows us to scan through the stri
 
 Q:: =============================================  
 
-##### You are given a string `s` and an integer `k`. You can choose any character of the string and change it to any other uppercase English character. You can perform this operation at most `k` times.
+##### Longest Repeating Character Replacement
+
+You are given a string `s` and an integer `k`. You can choose any character of the string and change it to any other uppercase English character. You can perform this operation at most `k` times.
 
 Return _the length of the longest substring containing the same letter you can get after performing the above operations_.
 
@@ -4720,7 +4898,9 @@ If the window size minus the frequency of the most common character is greater t
 
 Q:: =============================================  
 
-##### You are given a string `s` and an integer `k`. You can choose any character of the string and change it to any other uppercase English character. You can perform this operation at most `k` times.
+##### Longest Repeating Character Replacement
+
+You are given a string `s` and an integer `k`. You can choose any character of the string and change it to any other uppercase English character. You can perform this operation at most `k` times.
 
 Return _the length of the longest substring containing the same letter you can get after performing the above operations_.
 
@@ -4767,7 +4947,9 @@ Since we know that the string only contains uppercase English letters, there can
 
 Q:: =============================================  
 
-##### You are given a string `s` and an integer `k`. You can choose any character of the string and change it to any other uppercase English character. You can perform this operation at most `k` times.
+##### Longest Repeating Character Replacement
+
+You are given a string `s` and an integer `k`. You can choose any character of the string and change it to any other uppercase English character. You can perform this operation at most `k` times.
 
 Return _the length of the longest substring containing the same letter you can get after performing the above operations_.
 
@@ -4832,7 +5014,9 @@ The sliding window approach only scans the string once, and the time complexity 
 
 Q:: =============================================  
 
-##### Given two strings `s` and `t` of lengths `m` and `n` respectively, return the _**minimum window substring**_ of `s` such that every character in `t` (_**including duplicates**_) is included in the window. If there is no such substring, return the empty string `""`.
+##### Minimum Window Substring
+
+Given two strings `s` and `t` of lengths `m` and `n` respectively, return the _**minimum window substring**_ of `s` such that every character in `t` (_**including duplicates**_) is included in the window. If there is no such substring, return the empty string `""`.
 
 The testcases will be generated such that the answer is **unique**.
 
@@ -4887,7 +5071,9 @@ The brute force solution would be to generate all possible substrings of s and f
 
 Q:: =============================================  
 
-##### Given two strings `s` and `t` of lengths `m` and `n` respectively, return the _**minimum window substring**_ of `s` such that every character in `t` (_**including duplicates**_) is included in the window. If there is no such substring, return the empty string `""`.
+##### Minimum Window Substring
+
+Given two strings `s` and `t` of lengths `m` and `n` respectively, return the _**minimum window substring**_ of `s` such that every character in `t` (_**including duplicates**_) is included in the window. If there is no such substring, return the empty string `""`.
 
 The testcases will be generated such that the answer is **unique**.
 
@@ -4942,7 +5128,9 @@ A Hash Map is a good data structure to efficiently track the frequency of each c
 
 Q:: =============================================  
 
-##### Given two strings `s` and `t` of lengths `m` and `n` respectively, return the _**minimum window substring**_ of `s` such that every character in `t` (_**including duplicates**_) is included in the window. If there is no such substring, return the empty string `""`.
+##### Minimum Window Substring
+
+Given two strings `s` and `t` of lengths `m` and `n` respectively, return the _**minimum window substring**_ of `s` such that every character in `t` (_**including duplicates**_) is included in the window. If there is no such substring, return the empty string `""`.
 
 The testcases will be generated such that the answer is **unique**.
 
@@ -4997,7 +5185,9 @@ The Two Pointers with Sliding Window strategy allows us to scan through the stri
 
 Q:: =============================================  
 
-##### Given two strings `s` and `t` of lengths `m` and `n` respectively, return the _**minimum window substring**_ of `s` such that every character in `t` (_**including duplicates**_) is included in the window. If there is no such substring, return the empty string `""`.
+##### Minimum Window Substring
+
+Given two strings `s` and `t` of lengths `m` and `n` respectively, return the _**minimum window substring**_ of `s` such that every character in `t` (_**including duplicates**_) is included in the window. If there is no such substring, return the empty string `""`.
 
 The testcases will be generated such that the answer is **unique**.
 
@@ -5052,7 +5242,9 @@ If our current window does not contain all characters of \`t\`, it means we need
 
 Q:: =============================================  
 
-##### Given two strings `s` and `t` of lengths `m` and `n` respectively, return the _**minimum window substring**_ of `s` such that every character in `t` (_**including duplicates**_) is included in the window. If there is no such substring, return the empty string `""`.
+##### Minimum Window Substring
+
+Given two strings `s` and `t` of lengths `m` and `n` respectively, return the _**minimum window substring**_ of `s` such that every character in `t` (_**including duplicates**_) is included in the window. If there is no such substring, return the empty string `""`.
 
 The testcases will be generated such that the answer is **unique**.
 
@@ -5107,7 +5299,9 @@ If our current window already contains all characters of \`t\`, we try to shrink
 
 Q:: =============================================  
 
-##### Given two strings `s` and `t` of lengths `m` and `n` respectively, return the _**minimum window substring**_ of `s` such that every character in `t` (_**including duplicates**_) is included in the window. If there is no such substring, return the empty string `""`.
+##### Minimum Window Substring
+
+Given two strings `s` and `t` of lengths `m` and `n` respectively, return the _**minimum window substring**_ of `s` such that every character in `t` (_**including duplicates**_) is included in the window. If there is no such substring, return the empty string `""`.
 
 The testcases will be generated such that the answer is **unique**.
 
@@ -5162,7 +5356,9 @@ By maintaining two variables, \`have\` and \`need\`, we can efficiently check if
 
 Q:: =============================================  
 
-##### Given two strings `s` and `t` of lengths `m` and `n` respectively, return the _**minimum window substring**_ of `s` such that every character in `t` (_**including duplicates**_) is included in the window. If there is no such substring, return the empty string `""`.
+##### Minimum Window Substring
+
+Given two strings `s` and `t` of lengths `m` and `n` respectively, return the _**minimum window substring**_ of `s` such that every character in `t` (_**including duplicates**_) is included in the window. If there is no such substring, return the empty string `""`.
 
 The testcases will be generated such that the answer is **unique**.
 
@@ -5254,7 +5450,9 @@ The time complexity is O(n+m) as we go through both s and t once. The space comp
 
 Q:: =============================================  
 
-##### Given the `head` of a singly linked list, reverse the list, and return _the reversed list_.
+##### Reverse Linked List
+
+Given the `head` of a singly linked list, reverse the list, and return _the reversed list_.
 
 **Example 1:**
 
@@ -5305,7 +5503,9 @@ Reversing a linked list with only one node doesn't change anything. It remains t
 
 Q:: =============================================  
 
-##### Given the `head` of a singly linked list, reverse the list, and return _the reversed list_.
+##### Reverse Linked List
+
+Given the `head` of a singly linked list, reverse the list, and return _the reversed list_.
 
 **Example 1:**
 
@@ -5356,7 +5556,9 @@ In a singly linked list, each node has a value and a 'next' reference pointing t
 
 Q:: =============================================  
 
-##### Given the `head` of a singly linked list, reverse the list, and return _the reversed list_.
+##### Reverse Linked List
+
+Given the `head` of a singly linked list, reverse the list, and return _the reversed list_.
 
 **Example 1:**
 
@@ -5409,7 +5611,9 @@ Recursion or using a stack would require additional space and isn't necessary. B
 
 Q:: =============================================  
 
-##### Given the `head` of a singly linked list, reverse the list, and return _the reversed list_.
+##### Reverse Linked List
+
+Given the `head` of a singly linked list, reverse the list, and return _the reversed list_.
 
 **Example 1:**
 
@@ -5483,7 +5687,9 @@ The time complexity is O(n) because we need to traverse the list once, where n i
 
 Q:: =============================================  
 
-##### You are given the heads of two sorted linked lists `list1` and `list2`.
+##### Merge Two Sorted Lists
+
+You are given the heads of two sorted linked lists `list1` and `list2`.
 
 Merge the two lists in a one **sorted** list. The list should be made by splicing together the nodes of the first two lists.
 
@@ -5538,7 +5744,9 @@ As both lists are sorted in non-decreasing order, the smallest elements are at t
 
 Q:: =============================================  
 
-##### You are given the heads of two sorted linked lists `list1` and `list2`.
+##### Merge Two Sorted Lists
+
+You are given the heads of two sorted linked lists `list1` and `list2`.
 
 Merge the two lists in a one **sorted** list. The list should be made by splicing together the nodes of the first two lists.
 
@@ -5593,7 +5801,9 @@ To maintain the sorted order in the output list, we should always insert the nod
 
 Q:: =============================================  
 
-##### You are given the heads of two sorted linked lists `list1` and `list2`.
+##### Merge Two Sorted Lists
+
+You are given the heads of two sorted linked lists `list1` and `list2`.
 
 Merge the two lists in a one **sorted** list. The list should be made by splicing together the nodes of the first two lists.
 
@@ -5648,7 +5858,9 @@ After inserting a node from one of the lists into the output list, we should shi
 
 Q:: =============================================  
 
-##### You are given the heads of two sorted linked lists `list1` and `list2`.
+##### Merge Two Sorted Lists
+
+You are given the heads of two sorted linked lists `list1` and `list2`.
 
 Merge the two lists in a one **sorted** list. The list should be made by splicing together the nodes of the first two lists.
 
@@ -5703,7 +5915,9 @@ If one list becomes empty before the other, we can safely append the remaining n
 
 Q:: =============================================  
 
-##### You are given the heads of two sorted linked lists `list1` and `list2`.
+##### Merge Two Sorted Lists
+
+You are given the heads of two sorted linked lists `list1` and `list2`.
 
 Merge the two lists in a one **sorted** list. The list should be made by splicing together the nodes of the first two lists.
 
@@ -5779,7 +5993,9 @@ The time complexity is O(m+n) because in the worst case, we'll have to traverse 
 
 Q:: =============================================  
 
-##### You are given the head of a singly linked-list. The list can be represented as:
+##### Reorder List
+
+You are given the head of a singly linked-list. The list can be represented as:
 
 ```
 L0 → L1 → … → Ln - 1 → Ln
@@ -5837,7 +6053,9 @@ To get to the required order, we first need to reverse the second half of the li
 
 Q:: =============================================  
 
-##### You are given the head of a singly linked-list. The list can be represented as:
+##### Reorder List
+
+You are given the head of a singly linked-list. The list can be represented as:
 
 ```
 L0 → L1 → … → Ln - 1 → Ln
@@ -5893,7 +6111,9 @@ We use a technique known as the 'tortoise and the hare' to find the middle of a 
 
 Q:: =============================================  
 
-##### You are given the head of a singly linked-list. The list can be represented as:
+##### Reorder List
+
+You are given the head of a singly linked-list. The list can be represented as:
 
 ```
 L0 → L1 → … → Ln - 1 → Ln
@@ -5951,7 +6171,9 @@ After reversing the second half of the list, we reorder the list by alternating 
 
 Q:: =============================================  
 
-##### You are given the head of a singly linked-list. The list can be represented as:
+##### Reorder List
+
+You are given the head of a singly linked-list. The list can be represented as:
 
 ```
 L0 → L1 → … → Ln - 1 → Ln
@@ -6009,7 +6231,9 @@ The provided code merges the two halves by iterating through the first half of t
 
 Q:: =============================================  
 
-##### You are given the head of a singly linked-list. The list can be represented as:
+##### Reorder List
+
+You are given the head of a singly linked-list. The list can be represented as:
 
 ```
 L0 → L1 → … → Ln - 1 → Ln
@@ -6102,7 +6326,9 @@ This approach has a linear time complexity O(n) because we are making a single p
 
 Q:: =============================================  
 
-##### Given the `head` of a linked list, remove the `nth` node from the end of the list and return its head.
+##### Remove Nth Node From End of List
+
+Given the `head` of a linked list, remove the `nth` node from the end of the list and return its head.
 
 **Example 1:**
 
@@ -6156,7 +6382,9 @@ To remove a node x from a singly linked list, we need access to the node before 
 
 Q:: =============================================  
 
-##### Given the `head` of a linked list, remove the `nth` node from the end of the list and return its head.
+##### Remove Nth Node From End of List
+
+Given the `head` of a linked list, remove the `nth` node from the end of the list and return its head.
 
 **Example 1:**
 
@@ -6210,7 +6438,9 @@ To eliminate the edge case of removing the first node in the list, we can add a 
 
 Q:: =============================================  
 
-##### Given the `head` of a linked list, remove the `nth` node from the end of the list and return its head.
+##### Remove Nth Node From End of List
+
+Given the `head` of a linked list, remove the `nth` node from the end of the list and return its head.
 
 **Example 1:**
 
@@ -6266,7 +6496,9 @@ If we are to solve this problem using two pointers without precomputing the leng
 
 Q:: =============================================  
 
-##### Given the `head` of a linked list, remove the `nth` node from the end of the list and return its head.
+##### Remove Nth Node From End of List
+
+Given the `head` of a linked list, remove the `nth` node from the end of the list and return its head.
 
 **Example 1:**
 
@@ -6318,7 +6550,9 @@ After we have created the offset, we should shift each pointer by 1 on each iter
 
 Q:: =============================================  
 
-##### Given the `head` of a linked list, remove the `nth` node from the end of the list and return its head.
+##### Remove Nth Node From End of List
+
+Given the `head` of a linked list, remove the `nth` node from the end of the list and return its head.
 
 **Example 1:**
 
@@ -6398,7 +6632,9 @@ The two-pointer approach has a linear time complexity of O(n). We perform a cons
 
 Q:: =============================================  
 
-##### You are given an array of `k` linked-lists `lists`, each linked-list is sorted in ascending order.
+##### Merge K Sorted Lists
+
+You are given an array of `k` linked-lists `lists`, each linked-list is sorted in ascending order.
 
 _Merge all the linked-lists into one sorted linked-list and return it._
 
@@ -6461,7 +6697,9 @@ A straightforward approach for this problem would involve sequentially merging t
 
 Q:: =============================================  
 
-##### You are given an array of `k` linked-lists `lists`, each linked-list is sorted in ascending order.
+##### Merge K Sorted Lists
+
+You are given an array of `k` linked-lists `lists`, each linked-list is sorted in ascending order.
 
 _Merge all the linked-lists into one sorted linked-list and return it._
 
@@ -6524,7 +6762,9 @@ When you merge two linked lists, the time complexity is proportional to the tota
 
 Q:: =============================================  
 
-##### You are given an array of `k` linked-lists `lists`, each linked-list is sorted in ascending order.
+##### Merge K Sorted Lists
+
+You are given an array of `k` linked-lists `lists`, each linked-list is sorted in ascending order.
 
 _Merge all the linked-lists into one sorted linked-list and return it._
 
@@ -6587,7 +6827,9 @@ Since all individual linked lists are sorted, you can use a priority queue (also
 
 Q:: =============================================  
 
-##### You are given an array of `k` linked-lists `lists`, each linked-list is sorted in ascending order.
+##### Merge K Sorted Lists
+
+You are given an array of `k` linked-lists `lists`, each linked-list is sorted in ascending order.
 
 _Merge all the linked-lists into one sorted linked-list and return it._
 
@@ -6650,7 +6892,9 @@ The time complexity of inserting an element into a priority queue (or min-heap) 
 
 Q:: =============================================  
 
-##### You are given an array of `k` linked-lists `lists`, each linked-list is sorted in ascending order.
+##### Merge K Sorted Lists
+
+You are given an array of `k` linked-lists `lists`, each linked-list is sorted in ascending order.
 
 _Merge all the linked-lists into one sorted linked-list and return it._
 
@@ -6713,7 +6957,9 @@ If you use a priority queue, you are essentially removing the smallest element (
 
 Q:: =============================================  
 
-##### You are given an array of `k` linked-lists `lists`, each linked-list is sorted in ascending order.
+##### Merge K Sorted Lists
+
+You are given an array of `k` linked-lists `lists`, each linked-list is sorted in ascending order.
 
 _Merge all the linked-lists into one sorted linked-list and return it._
 
@@ -6782,7 +7028,9 @@ In this case, the space complexity is O(k) because at any point, you only need t
 
 Q:: =============================================  
 
-##### Given the `root` of a binary tree, invert the tree, and return _its root_.
+##### Invert Binary Tree
+
+Given the `root` of a binary tree, invert the tree, and return _its root_.
 
 ![Binary Tree Inverted](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/9aeb8e98-e369-4a36-2c82-be3efcab4f00/public)
 
@@ -6817,7 +7065,9 @@ Inverting a binary tree means to make all left child nodes become right child no
 
 Q:: =============================================  
 
-##### You are given an array of `k` linked-lists `lists`, each linked-list is sorted in ascending order.
+##### Invert Binary Tree
+
+You are given an array of `k` linked-lists `lists`, each linked-list is sorted in ascending order.
 
 _Merge all the linked-lists into one sorted linked-list and return it._
 
@@ -6880,7 +7130,9 @@ Both Depth-First Search (DFS) and Breadth-First Search (BFS) could be used to so
 
 Q:: =============================================  
 
-##### You are given an array of `k` linked-lists `lists`, each linked-list is sorted in ascending order.
+##### Invert Binary Tree
+
+You are given an array of `k` linked-lists `lists`, each linked-list is sorted in ascending order.
 
 _Merge all the linked-lists into one sorted linked-list and return it._
 
@@ -6943,7 +7195,9 @@ The base case for a recursive approach to this problem could be when we encounte
 
 Q:: =============================================  
 
-##### You are given an array of `k` linked-lists `lists`, each linked-list is sorted in ascending order.
+##### Invert Binary Tree
+
+You are given an array of `k` linked-lists `lists`, each linked-list is sorted in ascending order.
 
 _Merge all the linked-lists into one sorted linked-list and return it._
 
@@ -7006,7 +7260,9 @@ The recursive approach to inverting a binary tree would involve swapping the lef
 
 Q:: =============================================  
 
-##### You are given an array of `k` linked-lists `lists`, each linked-list is sorted in ascending order.
+##### Invert Binary Tree
+
+You are given an array of `k` linked-lists `lists`, each linked-list is sorted in ascending order.
 
 _Merge all the linked-lists into one sorted linked-list and return it._
 
@@ -7071,7 +7327,9 @@ The time complexity of the recursive solution is O(n), where n is the number of 
 
 Q:: =============================================  
 
-##### Given the `root` of a binary tree, return _its maximum depth_.
+##### Maximum Depth of Binary Tree
+
+Given the `root` of a binary tree, return _its maximum depth_.
 
 A binary tree's **maximum depth** is the number of nodes along the longest path from the root node down to the farthest leaf node.
 
@@ -7118,7 +7376,9 @@ A tree with a single node (which is also the root) has a maximum depth of 1. The
 
 Q:: =============================================  
 
-##### You are given an array of `k` linked-lists `lists`, each linked-list is sorted in ascending order.
+##### Maximum Depth of Binary Tree
+
+You are given an array of `k` linked-lists `lists`, each linked-list is sorted in ascending order.
 
 _Merge all the linked-lists into one sorted linked-list and return it._
 
@@ -7181,7 +7441,9 @@ Both DFS and BFS can be used to solve this problem. Both methods would work beca
 
 Q:: =============================================  
 
-##### You are given an array of `k` linked-lists `lists`, each linked-list is sorted in ascending order.
+##### Maximum Depth of Binary Tree
+
+You are given an array of `k` linked-lists `lists`, each linked-list is sorted in ascending order.
 
 _Merge all the linked-lists into one sorted linked-list and return it._
 
@@ -7242,7 +7504,9 @@ A good base case for this problem could be when we encounter a null node. When w
 
 Q:: =============================================  
 
-##### You are given an array of `k` linked-lists `lists`, each linked-list is sorted in ascending order.
+##### Maximum Depth of Binary Tree
+
+You are given an array of `k` linked-lists `lists`, each linked-list is sorted in ascending order.
 
 _Merge all the linked-lists into one sorted linked-list and return it._
 
@@ -7303,7 +7567,9 @@ The maximum depth of a binary tree is one more than the maximum of the depths of
 
 Q:: =============================================  
 
-##### You are given an array of `k` linked-lists `lists`, each linked-list is sorted in ascending order.
+##### Maximum Depth of Binary Tree
+
+You are given an array of `k` linked-lists `lists`, each linked-list is sorted in ascending order.
 
 _Merge all the linked-lists into one sorted linked-list and return it._
 
@@ -7380,7 +7646,9 @@ The time complexity of the recursive solution is O(n), where n is the number of 
 
 Q:: =============================================  
 
-##### Given the roots of two binary trees `p` and `q`, write a function to check if they are the same or not.
+##### Same Tree
+
+Given the roots of two binary trees `p` and `q`, write a function to check if they are the same or not.
 
 Two binary trees are considered the same if they are structurally identical, and the nodes have the same value.
 
@@ -7435,7 +7703,9 @@ Two binary trees are considered the same if they are structurally identical and 
 
 Q:: =============================================  
 
-##### Given the roots of two binary trees `p` and `q`, write a function to check if they are the same or not.
+##### Same Tree
+
+Given the roots of two binary trees `p` and `q`, write a function to check if they are the same or not.
 
 Two binary trees are considered the same if they are structurally identical, and the nodes have the same value.
 
@@ -7488,7 +7758,9 @@ The base case for this problem is when both nodes are null. If both nodes are nu
 
 Q:: =============================================  
 
-##### Given the roots of two binary trees `p` and `q`, write a function to check if they are the same or not.
+##### Same Tree
+
+Given the roots of two binary trees `p` and `q`, write a function to check if they are the same or not.
 
 Two binary trees are considered the same if they are structurally identical, and the nodes have the same value.
 
@@ -7543,7 +7815,9 @@ If only one of them is null, they are not the same. Similarly, if the values of 
 
 Q:: =============================================  
 
-##### Given the roots of two binary trees `p` and `q`, write a function to check if they are the same or not.
+##### Same Tree
+
+Given the roots of two binary trees `p` and `q`, write a function to check if they are the same or not.
 
 Two binary trees are considered the same if they are structurally identical, and the nodes have the same value.
 
@@ -7598,7 +7872,9 @@ If both nodes are not null, we need to check if the values of the nodes are the 
 
 Q:: =============================================  
 
-##### Given the roots of two binary trees `p` and `q`, write a function to check if they are the same or not.
+##### Same Tree
+
+Given the roots of two binary trees `p` and `q`, write a function to check if they are the same or not.
 
 Two binary trees are considered the same if they are structurally identical, and the nodes have the same value.
 
@@ -7668,7 +7944,9 @@ The time complexity of the recursive solution is O(min(n, m)), where n and m are
 
 Q:: =============================================  
 
-##### Given the roots of two binary trees `root` and `subRoot`, return `true` if there is a subtree of `root` with the same structure and node values of `subRoot` and `false` otherwise.
+##### Subtree of Another Tree
+
+Given the roots of two binary trees `root` and `subRoot`, return `true` if there is a subtree of `root` with the same structure and node values of `subRoot` and `false` otherwise.
 
 A subtree of a binary tree `tree` is a tree that consists of a node in `tree` and all of this node's descendants. The tree `tree` could also be considered as a subtree of itself.
 
@@ -7716,7 +7994,9 @@ A subtree of a binary tree is a tree that consists of a node in the original tre
 
 Q:: =============================================  
 
-##### Given the roots of two binary trees `root` and `subRoot`, return `true` if there is a subtree of `root` with the same structure and node values of `subRoot` and `false` otherwise.
+##### Subtree of Another Tree
+
+Given the roots of two binary trees `root` and `subRoot`, return `true` if there is a subtree of `root` with the same structure and node values of `subRoot` and `false` otherwise.
 
 A subtree of a binary tree `tree` is a tree that consists of a node in `tree` and all of this node's descendants. The tree `tree` could also be considered as a subtree of itself.
 
@@ -7764,7 +8044,9 @@ Both DFS and BFS can be used to solve this problem. These tree traversal techniq
 
 Q:: =============================================  
 
-##### Given the roots of two binary trees `root` and `subRoot`, return `true` if there is a subtree of `root` with the same structure and node values of `subRoot` and `false` otherwise.
+##### Subtree of Another Tree
+
+Given the roots of two binary trees `root` and `subRoot`, return `true` if there is a subtree of `root` with the same structure and node values of `subRoot` and `false` otherwise.
 
 A subtree of a binary tree `tree` is a tree that consists of a node in `tree` and all of this node's descendants. The tree `tree` could also be considered as a subtree of itself.
 
@@ -7810,7 +8092,9 @@ A helper function that compares two trees to check if they are identical can be 
 
 Q:: =============================================  
 
-##### Given the roots of two binary trees `root` and `subRoot`, return `true` if there is a subtree of `root` with the same structure and node values of `subRoot` and `false` otherwise.
+##### Subtree of Another Tree
+
+Given the roots of two binary trees `root` and `subRoot`, return `true` if there is a subtree of `root` with the same structure and node values of `subRoot` and `false` otherwise.
 
 A subtree of a binary tree `tree` is a tree that consists of a node in `tree` and all of this node's descendants. The tree `tree` could also be considered as a subtree of itself.
 
@@ -7858,7 +8142,9 @@ Just finding a node with the same value does not confirm the presence of the sub
 
 Q:: =============================================  
 
-##### Given the roots of two binary trees `root` and `subRoot`, return `true` if there is a subtree of `root` with the same structure and node values of `subRoot` and `false` otherwise.
+##### Subtree of Another Tree
+
+Given the roots of two binary trees `root` and `subRoot`, return `true` if there is a subtree of `root` with the same structure and node values of `subRoot` and `false` otherwise.
 
 A subtree of a binary tree `tree` is a tree that consists of a node in `tree` and all of this node's descendants. The tree `tree` could also be considered as a subtree of itself.
 
@@ -7928,7 +8214,9 @@ The time complexity of this solution is O(mn), where m and n are the number of n
 
 Q:: =============================================  
 
-##### Given a binary search tree (BST), find the lowest common ancestor (LCA) node of two given nodes in the BST.
+##### Lowest Common Ancestor of a Binary Search Tree
+
+Given a binary search tree (BST), find the lowest common ancestor (LCA) node of two given nodes in the BST.
 
 According to the [definition of LCA on Wikipedia](https://en.wikipedia.org/wiki/Lowest_common_ancestor): “The lowest common ancestor is defined between two nodes `p` and `q` as the lowest node in `T` that has both `p` and `q` as descendants (where we allow **a node to be a descendant of itself**).”
 
@@ -7984,7 +8272,9 @@ By definition, in a Binary Search Tree, for any given node n, all nodes in the l
 
 Q:: =============================================  
 
-##### Given a binary search tree (BST), find the lowest common ancestor (LCA) node of two given nodes in the BST.
+##### Lowest Common Ancestor of a Binary Search Tree
+
+Given a binary search tree (BST), find the lowest common ancestor (LCA) node of two given nodes in the BST.
 
 According to the [definition of LCA on Wikipedia](https://en.wikipedia.org/wiki/Lowest_common_ancestor): “The lowest common ancestor is defined between two nodes `p` and `q` as the lowest node in `T` that has both `p` and `q` as descendants (where we allow **a node to be a descendant of itself**).”
 
@@ -8044,7 +8334,9 @@ Given the properties of a BST, if both p and q are less than the root, then thei
 
 Q:: =============================================  
 
-##### Given a binary search tree (BST), find the lowest common ancestor (LCA) node of two given nodes in the BST.
+##### Lowest Common Ancestor of a Binary Search Tree
+
+Given a binary search tree (BST), find the lowest common ancestor (LCA) node of two given nodes in the BST.
 
 According to the [definition of LCA on Wikipedia](https://en.wikipedia.org/wiki/Lowest_common_ancestor): “The lowest common ancestor is defined between two nodes `p` and `q` as the lowest node in `T` that has both `p` and `q` as descendants (where we allow **a node to be a descendant of itself**).”
 
@@ -8102,7 +8394,9 @@ Given the properties of a BST, if p and q are on different sides of the root, th
 
 Q:: =============================================  
 
-##### Given a binary search tree (BST), find the lowest common ancestor (LCA) node of two given nodes in the BST.
+##### Lowest Common Ancestor of a Binary Search Tree
+
+Given a binary search tree (BST), find the lowest common ancestor (LCA) node of two given nodes in the BST.
 
 According to the [definition of LCA on Wikipedia](https://en.wikipedia.org/wiki/Lowest_common_ancestor): “The lowest common ancestor is defined between two nodes `p` and `q` as the lowest node in `T` that has both `p` and `q` as descendants (where we allow **a node to be a descendant of itself**).”
 
@@ -8160,7 +8454,9 @@ Given the property of a BST and the definition of LCA, if the current node is ei
 
 Q:: =============================================  
 
-##### Given a binary search tree (BST), find the lowest common ancestor (LCA) node of two given nodes in the BST.
+##### Lowest Common Ancestor of a Binary Search Tree
+
+Given a binary search tree (BST), find the lowest common ancestor (LCA) node of two given nodes in the BST.
 
 According to the [definition of LCA on Wikipedia](https://en.wikipedia.org/wiki/Lowest_common_ancestor): “The lowest common ancestor is defined between two nodes `p` and `q` as the lowest node in `T` that has both `p` and `q` as descendants (where we allow **a node to be a descendant of itself**).”
 
@@ -8235,7 +8531,9 @@ The time complexity of this solution is O(log n), where n is the number of nodes
 
 Q:: =============================================  
 
-##### Given the `root` of a binary tree, return _the level order traversal of its nodes' values_. (i.e., from left to right, level by level).
+##### Binary Tree Level Order Traversal
+
+Given the `root` of a binary tree, return _the level order traversal of its nodes' values_. (i.e., from left to right, level by level).
 
 **Example 1:**
 
@@ -8282,7 +8580,9 @@ Level order traversal of a binary tree is also known as Breadth-First Search (BF
 
 Q:: =============================================  
 
-##### Given the `root` of a binary tree, return _the level order traversal of its nodes' values_. (i.e., from left to right, level by level).
+##### Binary Tree Level Order Traversal
+
+Given the `root` of a binary tree, return _the level order traversal of its nodes' values_. (i.e., from left to right, level by level).
 
 **Example 1:**
 
@@ -8333,7 +8633,9 @@ BFS typically uses a Queue data structure. As you visit a node, you would add it
 
 Q:: =============================================  
 
-##### Given the `root` of a binary tree, return _the level order traversal of its nodes' values_. (i.e., from left to right, level by level).
+##### Binary Tree Level Order Traversal
+
+Given the `root` of a binary tree, return _the level order traversal of its nodes' values_. (i.e., from left to right, level by level).
 
 **Example 1:**
 
@@ -8380,7 +8682,9 @@ We start a new level in the output when we have visited all the nodes in the cur
 
 Q:: =============================================  
 
-##### Given the `root` of a binary tree, return _the level order traversal of its nodes' values_. (i.e., from left to right, level by level).
+##### Binary Tree Level Order Traversal
+
+Given the `root` of a binary tree, return _the level order traversal of its nodes' values_. (i.e., from left to right, level by level).
 
 **Example 1:**
 
@@ -8474,7 +8778,9 @@ The time complexity of a level order traversal (or BFS) is O(n), where n is the 
 
 Q:: =============================================  
 
-##### Given an array of **distinct** integers `candidates` and a target integer `target`, return a list of all **unique combinations** of `candidates` where the chosen numbers sum to `target`. You may return the combinations in **any order**.
+##### Combination Sum
+
+Given an array of **distinct** integers `candidates` and a target integer `target`, return a list of all **unique combinations** of `candidates` where the chosen numbers sum to `target`. You may return the combinations in **any order**.
 
 The **same** number may be chosen from `candidates` an unlimited number of times. Two combinations are unique if the  
 frequency  
@@ -8510,7 +8816,9 @@ Yes, a recursive approach using a decision tree is a suitable method for this pr
 
 Q:: =============================================  
 
-##### Given an array of **distinct** integers `candidates` and a target integer `target`, return a list of all **unique combinations** of `candidates` where the chosen numbers sum to `target`. You may return the combinations in **any order**.
+##### Combination Sum
+
+Given an array of **distinct** integers `candidates` and a target integer `target`, return a list of all **unique combinations** of `candidates` where the chosen numbers sum to `target`. You may return the combinations in **any order**.
 
 The **same** number may be chosen from `candidates` an unlimited number of times. Two combinations are unique if the  
 frequency  
@@ -8550,7 +8858,9 @@ We should stop recursing when the sum is greater than the target or when we reac
 
 Q:: =============================================  
 
-##### Given an array of **distinct** integers `candidates` and a target integer `target`, return a list of all **unique combinations** of `candidates` where the chosen numbers sum to `target`. You may return the combinations in **any order**.
+##### Combination Sum
+
+Given an array of **distinct** integers `candidates` and a target integer `target`, return a list of all **unique combinations** of `candidates` where the chosen numbers sum to `target`. You may return the combinations in **any order**.
 
 The **same** number may be chosen from `candidates` an unlimited number of times. Two combinations are unique if the  
 frequency  
@@ -8586,7 +8896,9 @@ No, this won't find all combinations. Because the same number may be chosen from
 
 Q:: =============================================  
 
-##### Given an array of **distinct** integers `candidates` and a target integer `target`, return a list of all **unique combinations** of `candidates` where the chosen numbers sum to `target`. You may return the combinations in **any order**.
+##### Combination Sum
+
+Given an array of **distinct** integers `candidates` and a target integer `target`, return a list of all **unique combinations** of `candidates` where the chosen numbers sum to `target`. You may return the combinations in **any order**.
 
 The **same** number may be chosen from `candidates` an unlimited number of times. Two combinations are unique if the  
 frequency  
@@ -8622,7 +8934,9 @@ Yes, this will find all combinations. By including each element one or more time
 
 Q:: =============================================  
 
-##### Given an array of **distinct** integers `candidates` and a target integer `target`, return a list of all **unique combinations** of `candidates` where the chosen numbers sum to `target`. You may return the combinations in **any order**.
+##### Combination Sum
+
+Given an array of **distinct** integers `candidates` and a target integer `target`, return a list of all **unique combinations** of `candidates` where the chosen numbers sum to `target`. You may return the combinations in **any order**.
 
 The **same** number may be chosen from `candidates` an unlimited number of times. Two combinations are unique if the  
 frequency  
@@ -8684,7 +8998,9 @@ The time complexity is O(n^(target + n)), where n is the number of candidates an
 
 Q:: =============================================  
 
-##### Given an `m x n` 2D binary grid `grid` which represents a map of '1's (land) and '0's (water), return the number of islands.
+##### Number of Islands
+
+Given an `m x n` 2D binary grid `grid` which represents a map of '1's (land) and '0's (water), return the number of islands.
 
 An **island** is surrounded by water and is formed by connecting adjacent lands horizontally or vertically. You may assume all four edges of the grid are all surrounded by water.
 
@@ -8721,7 +9037,9 @@ Both depth-first search (DFS) and breadth-first search (BFS) can be used to solv
 
 Q:: =============================================  
 
-##### Given an `m x n` 2D binary grid `grid` which represents a map of '1's (land) and '0's (water), return the number of islands.
+##### Number of Islands
+
+Given an `m x n` 2D binary grid `grid` which represents a map of '1's (land) and '0's (water), return the number of islands.
 
 An **island** is surrounded by water and is formed by connecting adjacent lands horizontally or vertically. You may assume all four edges of the grid are all surrounded by water.
 
@@ -8758,7 +9076,9 @@ We should stop the recursion in our search algorithm when we reach a water cell 
 
 Q:: =============================================  
 
-##### Given an `m x n` 2D binary grid `grid` which represents a map of '1's (land) and '0's (water), return the number of islands.
+##### Number of Islands
+
+Given an `m x n` 2D binary grid `grid` which represents a map of '1's (land) and '0's (water), return the number of islands.
 
 An **island** is surrounded by water and is formed by connecting adjacent lands horizontally or vertically. You may assume all four edges of the grid are all surrounded by water.
 
@@ -8793,7 +9113,9 @@ If we don't mark a piece of land as visited after visiting it, our DFS or BFS tr
 
 Q:: =============================================  
 
-##### Given an `m x n` 2D binary grid `grid` which represents a map of '1's (land) and '0's (water), return the number of islands.
+##### Number of Islands
+
+Given an `m x n` 2D binary grid `grid` which represents a map of '1's (land) and '0's (water), return the number of islands.
 
 An **island** is surrounded by water and is formed by connecting adjacent lands horizontally or vertically. You may assume all four edges of the grid are all surrounded by water.
 
@@ -8828,7 +9150,9 @@ We should traverse the entire grid and start a DFS or BFS search from each unvis
 
 Q:: =============================================  
 
-##### Given an `m x n` 2D binary grid `grid` which represents a map of '1's (land) and '0's (water), return the number of islands.
+##### Number of Islands
+
+Given an `m x n` 2D binary grid `grid` which represents a map of '1's (land) and '0's (water), return the number of islands.
 
 An **island** is surrounded by water and is formed by connecting adjacent lands horizontally or vertically. You may assume all four edges of the grid are all surrounded by water.
 
@@ -8865,7 +9189,9 @@ The time complexity of the solution is O(m \* n), where m and n are the number o
 
 Q:: =============================================  
 
-##### Given an `m x n` 2D binary grid `grid` which represents a map of '1's (land) and '0's (water), return the number of islands.
+##### Number of Islands
+
+Given an `m x n` 2D binary grid `grid` which represents a map of '1's (land) and '0's (water), return the number of islands.
 
 An **island** is surrounded by water and is formed by connecting adjacent lands horizontally or vertically. You may assume all four edges of the grid are all surrounded by water.
 
@@ -8921,7 +9247,9 @@ The space complexity of the solution when using DFS is O(m \* n), where m and n 
 
 Q:: =============================================  
 
-##### You are a professional robber planning to rob houses along a street. Each house has a certain amount of money stashed, the only constraint stopping you from robbing each of them is that adjacent houses have security systems connected and **it will automatically contact the police if two adjacent houses were broken into on the same night**.
+##### House Robber
+
+You are a professional robber planning to rob houses along a street. Each house has a certain amount of money stashed, the only constraint stopping you from robbing each of them is that adjacent houses have security systems connected and **it will automatically contact the police if two adjacent houses were broken into on the same night**.
 
 Given an integer array `nums` representing the amount of money of each house, return the maximum amount of money you can rob tonight **without alerting the police**.
 
@@ -8953,7 +9281,9 @@ The correct decision is to rob houses while skipping one or more houses to avoid
 
 Q:: =============================================  
 
-##### You are a professional robber planning to rob houses along a street. Each house has a certain amount of money stashed, the only constraint stopping you from robbing each of them is that adjacent houses have security systems connected and **it will automatically contact the police if two adjacent houses were broken into on the same night**.
+##### House Robber
+
+You are a professional robber planning to rob houses along a street. Each house has a certain amount of money stashed, the only constraint stopping you from robbing each of them is that adjacent houses have security systems connected and **it will automatically contact the police if two adjacent houses were broken into on the same night**.
 
 Given an integer array `nums` representing the amount of money of each house, return the maximum amount of money you can rob tonight **without alerting the police**.
 
@@ -8987,7 +9317,9 @@ The brute-force solution is to try every possible combination of non-adjacent ho
 
 Q:: =============================================  
 
-##### You are a professional robber planning to rob houses along a street. Each house has a certain amount of money stashed, the only constraint stopping you from robbing each of them is that adjacent houses have security systems connected and **it will automatically contact the police if two adjacent houses were broken into on the same night**.
+##### House Robber
+
+You are a professional robber planning to rob houses along a street. Each house has a certain amount of money stashed, the only constraint stopping you from robbing each of them is that adjacent houses have security systems connected and **it will automatically contact the police if two adjacent houses were broken into on the same night**.
 
 Given an integer array `nums` representing the amount of money of each house, return the maximum amount of money you can rob tonight **without alerting the police**.
 
@@ -9017,7 +9349,9 @@ This ensures that we don't rob two adjacent houses.
 
 Q:: =============================================  
 
-##### You are a professional robber planning to rob houses along a street. Each house has a certain amount of money stashed, the only constraint stopping you from robbing each of them is that adjacent houses have security systems connected and **it will automatically contact the police if two adjacent houses were broken into on the same night**.
+##### House Robber
+
+You are a professional robber planning to rob houses along a street. Each house has a certain amount of money stashed, the only constraint stopping you from robbing each of them is that adjacent houses have security systems connected and **it will automatically contact the police if two adjacent houses were broken into on the same night**.
 
 Given an integer array `nums` representing the amount of money of each house, return the maximum amount of money you can rob tonight **without alerting the police**.
 
@@ -9051,7 +9385,9 @@ The time complexity of the recursive solution is O(2^n). In the worst case, we m
 
 Q:: =============================================  
 
-##### You are a professional robber planning to rob houses along a street. Each house has a certain amount of money stashed, the only constraint stopping you from robbing each of them is that adjacent houses have security systems connected and **it will automatically contact the police if two adjacent houses were broken into on the same night**.
+##### House Robber
+
+You are a professional robber planning to rob houses along a street. Each house has a certain amount of money stashed, the only constraint stopping you from robbing each of them is that adjacent houses have security systems connected and **it will automatically contact the police if two adjacent houses were broken into on the same night**.
 
 Given an integer array `nums` representing the amount of money of each house, return the maximum amount of money you can rob tonight **without alerting the police**.
 
@@ -9081,7 +9417,9 @@ If we start at the beginning of the array, each recursive call is a subproblem o
 
 Q:: =============================================  
 
-##### You are a professional robber planning to rob houses along a street. Each house has a certain amount of money stashed, the only constraint stopping you from robbing each of them is that adjacent houses have security systems connected and **it will automatically contact the police if two adjacent houses were broken into on the same night**.
+##### House Robber
+
+You are a professional robber planning to rob houses along a street. Each house has a certain amount of money stashed, the only constraint stopping you from robbing each of them is that adjacent houses have security systems connected and **it will automatically contact the police if two adjacent houses were broken into on the same night**.
 
 Given an integer array `nums` representing the amount of money of each house, return the maximum amount of money you can rob tonight **without alerting the police**.
 
@@ -9115,7 +9453,9 @@ The time complexity of the memoization solution is O(n), where n is the number o
 
 Q:: =============================================  
 
-##### You are a professional robber planning to rob houses along a street. Each house has a certain amount of money stashed, the only constraint stopping you from robbing each of them is that adjacent houses have security systems connected and **it will automatically contact the police if two adjacent houses were broken into on the same night**.
+##### House Robber
+
+You are a professional robber planning to rob houses along a street. Each house has a certain amount of money stashed, the only constraint stopping you from robbing each of them is that adjacent houses have security systems connected and **it will automatically contact the police if two adjacent houses were broken into on the same night**.
 
 Given an integer array `nums` representing the amount of money of each house, return the maximum amount of money you can rob tonight **without alerting the police**.
 
@@ -9145,7 +9485,9 @@ If we start at the beginning of the array, on each iteration we are solving a ne
 
 Q:: =============================================  
 
-##### You are a professional robber planning to rob houses along a street. Each house has a certain amount of money stashed, the only constraint stopping you from robbing each of them is that adjacent houses have security systems connected and **it will automatically contact the police if two adjacent houses were broken into on the same night**.
+##### House Robber
+
+You are a professional robber planning to rob houses along a street. Each house has a certain amount of money stashed, the only constraint stopping you from robbing each of them is that adjacent houses have security systems connected and **it will automatically contact the police if two adjacent houses were broken into on the same night**.
 
 Given an integer array `nums` representing the amount of money of each house, return the maximum amount of money you can rob tonight **without alerting the police**.
 
