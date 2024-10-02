@@ -18,24 +18,22 @@ Output: 1
 
 ---
 
-Which graph algorithm can be used to solve this problem?
+What happens if we don’t mark a piece of land as visited after visiting it?
 
-A) Depth-first search
+A) We will get stuck in an infinite recusive call stack (timeout or stackoverflow).
 
-B) Breadth-first search
+B) We will count the same island multiple times.
 
-C) Both DFS and BFS
-
-D) Neither  
+C) We may miss counting some of the islands.  
 
 ========== Answer ==========  
 
-**Answer**: C
+**Answer**: A
 
-Both depth-first search (DFS) and breadth-first search (BFS) can be used to solve this problem. They can both traverse all the connected '1's (land) starting from any given '1', and thus identify an island.
+If we don't mark a piece of land as visited after visiting it, our DFS or BFS traversal will revisit the same cell again and again. This would eventually result in a timeout or stackoverflow error.
 
 ========== Id ==========  
-153
+160
 
 ---
 
@@ -43,7 +41,7 @@ DECK INFO
 
 TARGET DECK: Data Structures and Algorithms::Leetcode::MNAB - Neetcode 150 and blind 75 - multi-author::Part XI - Graphs::Chapter 1 - Number of Islands - Blind
 
-FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-XI-Graphs::#Chapter-1-Number-of-Islands-Blind::#153-Given-an-m-x-n-2d-binary-grid-grid-whi
+FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-XI-Graphs::#Chapter-1-Number-of-Islands-Blind::#160-Given-an-m-x-n-2d-binary-grid-grid-whi
 
 Tags:
 

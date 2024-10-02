@@ -18,22 +18,24 @@ Output: 1
 
 ---
 
-What happens if we don’t mark a piece of land as visited after visiting it?
+What is the space complexity of the solution for this problem when using DFS?
 
-A) We will get stuck in an infinite recusive call stack (timeout or stackoverflow).
+A) O(m \* n)
 
-B) We will count the same island multiple times.
+B) O(m + n)
 
-C) We may miss counting some of the islands.  
+C) O(min(m, n))
+
+D) O(max(m, n))  
 
 ========== Answer ==========  
 
 **Answer**: A
 
-If we don't mark a piece of land as visited after visiting it, our DFS or BFS traversal will revisit the same cell again and again. This would eventually result in a timeout or stackoverflow error.
+The space complexity of the solution when using DFS is O(m \* n), where m and n are the number of rows and columns in the grid, respectively. This is because in the worst-case scenario, the depth of the recursion (the call stack) could be the number of cells in the grid if every cell is land ('1').
 
 ========== Id ==========  
-155
+163
 
 ---
 
@@ -41,7 +43,7 @@ DECK INFO
 
 TARGET DECK: Data Structures and Algorithms::Leetcode::MNAB - Neetcode 150 and blind 75 - multi-author::Part XI - Graphs::Chapter 1 - Number of Islands - Blind
 
-FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-XI-Graphs::#Chapter-1-Number-of-Islands-Blind::#155-Given-an-m-x-n-2d-binary-grid-grid-whi
+FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-XI-Graphs::#Chapter-1-Number-of-Islands-Blind::#163-Given-an-m-x-n-2d-binary-grid-grid-whi
 
 Tags:
 

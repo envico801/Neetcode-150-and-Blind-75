@@ -190,14 +190,21 @@
 | [150](#id150) | [Given the root of a binary tree return](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%209%20-%20Binary%20Tree%20Level%20Order%20Traversal%20-%20Blind/150%20-%20Given%20the%20root%20of%20a%20binary%20tree%20return.md) | 7 | 9 |
 | [151](#id151) | [Given the root of a binary tree return](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%209%20-%20Binary%20Tree%20Level%20Order%20Traversal%20-%20Blind/151%20-%20Given%20the%20root%20of%20a%20binary%20tree%20return.md) | 7 | 9 |
 | [152](#id152) | [Given the root of a binary tree return](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%209%20-%20Binary%20Tree%20Level%20Order%20Traversal%20-%20Blind/152%20-%20Given%20the%20root%20of%20a%20binary%20tree%20return.md) | 7 | 9 |
+| **-** | **Backtracking** | **9** | **-** |
+| **-** | **Backtracking > Combination Sum** | **9** | **2** |
+| [153](#id153) | [Given an array of distinct integers c](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IX%20-%20Backtracking/Chapter%202%20-%20Combination%20Sum%20-%20Blind/153%20-%20Given%20an%20array%20of%20distinct%20integers%20c.md) | 9 | 2 |
+| [154](#id154) | [Given an array of distinct integers c](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IX%20-%20Backtracking/Chapter%202%20-%20Combination%20Sum%20-%20Blind/154%20-%20Given%20an%20array%20of%20distinct%20integers%20c.md) | 9 | 2 |
+| [155](#id155) | [Given an array of distinct integers c](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IX%20-%20Backtracking/Chapter%202%20-%20Combination%20Sum%20-%20Blind/155%20-%20Given%20an%20array%20of%20distinct%20integers%20c.md) | 9 | 2 |
+| [156](#id156) | [Given an array of distinct integers c](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IX%20-%20Backtracking/Chapter%202%20-%20Combination%20Sum%20-%20Blind/156%20-%20Given%20an%20array%20of%20distinct%20integers%20c.md) | 9 | 2 |
+| [157](#id157) | [Given an array of distinct integers c](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IX%20-%20Backtracking/Chapter%202%20-%20Combination%20Sum%20-%20Blind/157%20-%20Given%20an%20array%20of%20distinct%20integers%20c.md) | 9 | 2 |
 | **-** | **Graphs** | **11** | **-** |
 | **-** | **Graphs > Number of Islands** | **11** | **1** |
-| [153](#id153) | [Given an m x n 2d binary grid grid whi](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XI%20-%20Graphs/Chapter%201%20-%20Number%20of%20Islands%20-%20Blind/153%20-%20Given%20an%20m%20x%20n%202d%20binary%20grid%20grid%20whi.md) | 11 | 1 |
-| [154](#id154) | [Given an m x n 2d binary grid grid whi](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XI%20-%20Graphs/Chapter%201%20-%20Number%20of%20Islands%20-%20Blind/154%20-%20Given%20an%20m%20x%20n%202d%20binary%20grid%20grid%20whi.md) | 11 | 1 |
-| [155](#id155) | [Given an m x n 2d binary grid grid whi](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XI%20-%20Graphs/Chapter%201%20-%20Number%20of%20Islands%20-%20Blind/155%20-%20Given%20an%20m%20x%20n%202d%20binary%20grid%20grid%20whi.md) | 11 | 1 |
-| [156](#id156) | [Given an m x n 2d binary grid grid whi](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XI%20-%20Graphs/Chapter%201%20-%20Number%20of%20Islands%20-%20Blind/156%20-%20Given%20an%20m%20x%20n%202d%20binary%20grid%20grid%20whi.md) | 11 | 1 |
-| [157](#id157) | [Given an m x n 2d binary grid grid whi](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XI%20-%20Graphs/Chapter%201%20-%20Number%20of%20Islands%20-%20Blind/157%20-%20Given%20an%20m%20x%20n%202d%20binary%20grid%20grid%20whi.md) | 11 | 1 |
 | [158](#id158) | [Given an m x n 2d binary grid grid whi](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XI%20-%20Graphs/Chapter%201%20-%20Number%20of%20Islands%20-%20Blind/158%20-%20Given%20an%20m%20x%20n%202d%20binary%20grid%20grid%20whi.md) | 11 | 1 |
+| [159](#id159) | [Given an m x n 2d binary grid grid whi](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XI%20-%20Graphs/Chapter%201%20-%20Number%20of%20Islands%20-%20Blind/159%20-%20Given%20an%20m%20x%20n%202d%20binary%20grid%20grid%20whi.md) | 11 | 1 |
+| [160](#id160) | [Given an m x n 2d binary grid grid whi](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XI%20-%20Graphs/Chapter%201%20-%20Number%20of%20Islands%20-%20Blind/160%20-%20Given%20an%20m%20x%20n%202d%20binary%20grid%20grid%20whi.md) | 11 | 1 |
+| [161](#id161) | [Given an m x n 2d binary grid grid whi](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XI%20-%20Graphs/Chapter%201%20-%20Number%20of%20Islands%20-%20Blind/161%20-%20Given%20an%20m%20x%20n%202d%20binary%20grid%20grid%20whi.md) | 11 | 1 |
+| [162](#id162) | [Given an m x n 2d binary grid grid whi](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XI%20-%20Graphs/Chapter%201%20-%20Number%20of%20Islands%20-%20Blind/162%20-%20Given%20an%20m%20x%20n%202d%20binary%20grid%20grid%20whi.md) | 11 | 1 |
+| [163](#id163) | [Given an m x n 2d binary grid grid whi](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XI%20-%20Graphs/Chapter%201%20-%20Number%20of%20Islands%20-%20Blind/163%20-%20Given%20an%20m%20x%20n%202d%20binary%20grid%20grid%20whi.md) | 11 | 1 |
 
 ### Part I - Arrays & Hashing
 
@@ -8454,6 +8461,195 @@ The time complexity of a level order traversal (or BFS) is O(n), where n is the 
 
 #### Chapter 1 - Subsets
 #### Chapter 2 - Combination Sum - [Blind]
+
+Q:: =============================================  
+
+##### Given an array of **distinct** integers `candidates` and a target integer `target`, return a list of all **unique combinations** of `candidates` where the chosen numbers sum to `target`. You may return the combinations in **any order**.
+
+The **same** number may be chosen from `candidates` an unlimited number of times. Two combinations are unique if the  
+frequency  
+of at least one of the chosen numbers is different.
+
+The test cases are generated such that the number of unique combinations that sum up to `target` is less than `150` combinations for the given input.
+
+**Example 1:**
+
+```
+Input: candidates = [2,3,6,7], target = 7
+Output: [[2,2,3],[7]]
+Explanation:
+2 and 3 are candidates, and 2 + 2 + 3 = 7. Note that 2 can be used multiple times.
+7 is a candidate, and 7 = 7.
+These are the only two combinations.
+```
+
+___
+
+In order to find all distinct combinations that sum to the target, can we solve this recursively using a decision tree?
+
+A) Yes
+
+B) No
+
+###### ID153
+
+A:: =============================================  
+**Answer**: A
+
+Yes, a recursive approach using a decision tree is a suitable method for this problem. Since we must generate each combination, we can not do better than a brute force approach.
+
+Q:: =============================================  
+
+##### Given an array of **distinct** integers `candidates` and a target integer `target`, return a list of all **unique combinations** of `candidates` where the chosen numbers sum to `target`. You may return the combinations in **any order**.
+
+The **same** number may be chosen from `candidates` an unlimited number of times. Two combinations are unique if the  
+frequency  
+of at least one of the chosen numbers is different.
+
+The test cases are generated such that the number of unique combinations that sum up to `target` is less than `150` combinations for the given input.
+
+**Example 1:**
+
+```
+Input: candidates = [2,3,6,7], target = 7
+Output: [[2,2,3],[7]]
+Explanation:
+2 and 3 are candidates, and 2 + 2 + 3 = 7. Note that 2 can be used multiple times.
+7 is a candidate, and 7 = 7.
+These are the only two combinations.
+```
+
+___
+
+Other than when our sum == target, when should we stop recursing?
+
+A) When the sum is greater than the target.
+
+B) When we reach the end of the candidates array.
+
+C) When we have exhausted all possible combinations.
+
+D) Both A and B.
+
+###### ID154
+
+A:: =============================================  
+**Answer**: D
+
+We should stop recursing when the sum is greater than the target or when we reach the end of the candidates array. In the former case, any further recursion will only increase the sum beyond the target. In the latter case, we've exhausted all possible combinations.
+
+Q:: =============================================  
+
+##### Given an array of **distinct** integers `candidates` and a target integer `target`, return a list of all **unique combinations** of `candidates` where the chosen numbers sum to `target`. You may return the combinations in **any order**.
+
+The **same** number may be chosen from `candidates` an unlimited number of times. Two combinations are unique if the  
+frequency  
+of at least one of the chosen numbers is different.
+
+The test cases are generated such that the number of unique combinations that sum up to `target` is less than `150` combinations for the given input.
+
+**Example 1:**
+
+```
+Input: candidates = [2,3,6,7], target = 7
+Output: [[2,2,3],[7]]
+Explanation:
+2 and 3 are candidates, and 2 + 2 + 3 = 7. Note that 2 can be used multiple times.
+7 is a candidate, and 7 = 7.
+These are the only two combinations.
+```
+
+___
+
+In our decision tree, for each element in the array we will create a branch, where we choose to either include that element only once or skip it entirely. Will this find all combinations?
+
+A) Yes
+
+B) No
+
+###### ID155
+
+A:: =============================================  
+**Answer**: B
+
+No, this won't find all combinations. Because the same number may be chosen from candidates an unlimited number of times, we need to consider including each element more than once.
+
+Q:: =============================================  
+
+##### Given an array of **distinct** integers `candidates` and a target integer `target`, return a list of all **unique combinations** of `candidates` where the chosen numbers sum to `target`. You may return the combinations in **any order**.
+
+The **same** number may be chosen from `candidates` an unlimited number of times. Two combinations are unique if the  
+frequency  
+of at least one of the chosen numbers is different.
+
+The test cases are generated such that the number of unique combinations that sum up to `target` is less than `150` combinations for the given input.
+
+**Example 1:**
+
+```
+Input: candidates = [2,3,6,7], target = 7
+Output: [[2,2,3],[7]]
+Explanation:
+2 and 3 are candidates, and 2 + 2 + 3 = 7. Note that 2 can be used multiple times.
+7 is a candidate, and 7 = 7.
+These are the only two combinations.
+```
+
+___
+
+In our decision tree, for each element in the array we will create a branch, where we choose to either include that element one or more times, or skip it entirely. Will this find all combinations?
+
+A) Yes
+
+B) No
+
+###### ID156
+
+A:: =============================================  
+**Answer**: A
+
+Yes, this will find all combinations. By including each element one or more times, we cover all potential combinations that sum up to the target.
+
+Q:: =============================================  
+
+##### Given an array of **distinct** integers `candidates` and a target integer `target`, return a list of all **unique combinations** of `candidates` where the chosen numbers sum to `target`. You may return the combinations in **any order**.
+
+The **same** number may be chosen from `candidates` an unlimited number of times. Two combinations are unique if the  
+frequency  
+of at least one of the chosen numbers is different.
+
+The test cases are generated such that the number of unique combinations that sum up to `target` is less than `150` combinations for the given input.
+
+**Example 1:**
+
+```
+Input: candidates = [2,3,6,7], target = 7
+Output: [[2,2,3],[7]]
+Explanation:
+2 and 3 are candidates, and 2 + 2 + 3 = 7. Note that 2 can be used multiple times.
+7 is a candidate, and 7 = 7.
+These are the only two combinations.
+```
+
+___
+
+What is the time complexity of the previous solution?
+
+A) O(2^target)
+
+B) O(2^(target + n))
+
+C) O(n\*target)
+
+D) O(n^2)
+
+###### ID157
+
+A:: =============================================  
+**Answer**: B
+
+The time complexity is O(n^(target + n)), where n is the number of candidates and target is the target sum. This is because, in the worst case the height of our tree may be n + target, since we have a level in the tree for each element in the array. If we have a '1' value, we may choose it 'target' number of times to sum up to the target value, further adding to the height. There will be 2 branches for each node in the tree, one to include the element and one to skip it. Thus, the time complexity is O(2^(n + target)).
+
 #### Chapter 3 - Permutations
 #### Chapter 4 - Subsets II
 #### Chapter 5 - Combination Sum II
@@ -8506,7 +8702,7 @@ C) Both DFS and BFS
 
 D) Neither
 
-###### ID153
+###### ID158
 
 A:: =============================================  
 **Answer**: C
@@ -8543,7 +8739,7 @@ C) When we reach an unvisited land cell.
 
 D) When we reach a water cell, or reach a visited land cell, or go out of bounds.
 
-###### ID154
+###### ID159
 
 A:: =============================================  
 **Answer**: D
@@ -8578,7 +8774,7 @@ B) We will count the same island multiple times.
 
 C) We may miss counting some of the islands.
 
-###### ID155
+###### ID160
 
 A:: =============================================  
 **Answer**: A
@@ -8613,7 +8809,7 @@ B) Traverse the entire grid and start a DFS or BFS search from each visited land
 
 C) Traverse the entire grid and start a DFS or BFS search from each unvisited land cell.
 
-###### ID156
+###### ID161
 
 A:: =============================================  
 **Answer**: C
@@ -8650,7 +8846,7 @@ C) O(m + n)
 
 D) O(m \* n \* log(m \* n))
 
-###### ID157
+###### ID162
 
 A:: =============================================  
 **Answer**: A
@@ -8687,7 +8883,7 @@ C) O(min(m, n))
 
 D) O(max(m, n))
 
-###### ID158
+###### ID163
 
 A:: =============================================  
 **Answer**: A

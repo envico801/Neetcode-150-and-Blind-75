@@ -18,21 +18,21 @@ Output: 1
 
 ---
 
-What is the space complexity of the solution for this problem when using DFS?
+Which graph algorithm can be used to solve this problem?
 
-A) O(m \* n)
+A) Depth-first search
 
-B) O(m + n)
+B) Breadth-first search
 
-C) O(min(m, n))
+C) Both DFS and BFS
 
-D) O(max(m, n))  
+D) Neither  
 
 ========== Answer ==========  
 
-**Answer**: A
+**Answer**: C
 
-The space complexity of the solution when using DFS is O(m \* n), where m and n are the number of rows and columns in the grid, respectively. This is because in the worst-case scenario, the depth of the recursion (the call stack) could be the number of cells in the grid if every cell is land ('1').
+Both depth-first search (DFS) and breadth-first search (BFS) can be used to solve this problem. They can both traverse all the connected '1's (land) starting from any given '1', and thus identify an island.
 
 ========== Id ==========  
 158

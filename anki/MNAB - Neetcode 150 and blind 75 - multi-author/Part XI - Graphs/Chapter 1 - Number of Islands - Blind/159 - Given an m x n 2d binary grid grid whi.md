@@ -35,7 +35,7 @@ D) When we reach a water cell, or reach a visited land cell, or go out of bounds
 We should stop the recursion in our search algorithm when we reach a water cell ('0'), or reach a cell that has been already visited, or go out of the bounds of the grid. This ensures we only count connected land ('1's) as part of the same island and we don't overcount or go beyond the grid boundaries.
 
 ========== Id ==========  
-154
+159
 
 ---
 
@@ -43,7 +43,7 @@ DECK INFO
 
 TARGET DECK: Data Structures and Algorithms::Leetcode::MNAB - Neetcode 150 and blind 75 - multi-author::Part XI - Graphs::Chapter 1 - Number of Islands - Blind
 
-FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-XI-Graphs::#Chapter-1-Number-of-Islands-Blind::#154-Given-an-m-x-n-2d-binary-grid-grid-whi
+FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-XI-Graphs::#Chapter-1-Number-of-Islands-Blind::#159-Given-an-m-x-n-2d-binary-grid-grid-whi
 
 Tags:
 

@@ -33,7 +33,7 @@ C) Traverse the entire grid and start a DFS or BFS search from each unvisited la
 We should traverse the entire grid and start a DFS or BFS search from each unvisited land cell. This approach ensures that we cover all islands, as each unvisited '1' we encounter would represent a new island.
 
 ========== Id ==========  
-156
+161
 
 ---
 
@@ -41,7 +41,7 @@ DECK INFO
 
 TARGET DECK: Data Structures and Algorithms::Leetcode::MNAB - Neetcode 150 and blind 75 - multi-author::Part XI - Graphs::Chapter 1 - Number of Islands - Blind
 
-FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-XI-Graphs::#Chapter-1-Number-of-Islands-Blind::#156-Given-an-m-x-n-2d-binary-grid-grid-whi
+FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-XI-Graphs::#Chapter-1-Number-of-Islands-Blind::#161-Given-an-m-x-n-2d-binary-grid-grid-whi
 
 Tags:
 

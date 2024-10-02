@@ -35,7 +35,7 @@ D) O(m \* n \* log(m \* n))
 The time complexity of the solution is O(m \* n), where m and n are the number of rows and columns in the grid, respectively. This is because in the worst-case scenario, we might have to visit all cells in the grid.
 
 ========== Id ==========  
-157
+162
 
 ---
 
@@ -43,7 +43,7 @@ DECK INFO
 
 TARGET DECK: Data Structures and Algorithms::Leetcode::MNAB - Neetcode 150 and blind 75 - multi-author::Part XI - Graphs::Chapter 1 - Number of Islands - Blind
 
-FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-XI-Graphs::#Chapter-1-Number-of-Islands-Blind::#157-Given-an-m-x-n-2d-binary-grid-grid-whi
+FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-XI-Graphs::#Chapter-1-Number-of-Islands-Blind::#162-Given-an-m-x-n-2d-binary-grid-grid-whi
 
 Tags:
 
