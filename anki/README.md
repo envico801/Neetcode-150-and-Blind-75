@@ -190,6 +190,14 @@
 | [150](#id150) | [Given the root of a binary tree return](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%209%20-%20Binary%20Tree%20Level%20Order%20Traversal%20-%20Blind/150%20-%20Given%20the%20root%20of%20a%20binary%20tree%20return.md) | 7 | 9 |
 | [151](#id151) | [Given the root of a binary tree return](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%209%20-%20Binary%20Tree%20Level%20Order%20Traversal%20-%20Blind/151%20-%20Given%20the%20root%20of%20a%20binary%20tree%20return.md) | 7 | 9 |
 | [152](#id152) | [Given the root of a binary tree return](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%209%20-%20Binary%20Tree%20Level%20Order%20Traversal%20-%20Blind/152%20-%20Given%20the%20root%20of%20a%20binary%20tree%20return.md) | 7 | 9 |
+| **-** | **Graphs** | **11** | **-** |
+| **-** | **Graphs > Number of Islands** | **11** | **1** |
+| [153](#id153) | [Given an m x n 2d binary grid grid whi](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XI%20-%20Graphs/Chapter%201%20-%20Number%20of%20Islands%20-%20Blind/153%20-%20Given%20an%20m%20x%20n%202d%20binary%20grid%20grid%20whi.md) | 11 | 1 |
+| [154](#id154) | [Given an m x n 2d binary grid grid whi](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XI%20-%20Graphs/Chapter%201%20-%20Number%20of%20Islands%20-%20Blind/154%20-%20Given%20an%20m%20x%20n%202d%20binary%20grid%20grid%20whi.md) | 11 | 1 |
+| [155](#id155) | [Given an m x n 2d binary grid grid whi](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XI%20-%20Graphs/Chapter%201%20-%20Number%20of%20Islands%20-%20Blind/155%20-%20Given%20an%20m%20x%20n%202d%20binary%20grid%20grid%20whi.md) | 11 | 1 |
+| [156](#id156) | [Given an m x n 2d binary grid grid whi](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XI%20-%20Graphs/Chapter%201%20-%20Number%20of%20Islands%20-%20Blind/156%20-%20Given%20an%20m%20x%20n%202d%20binary%20grid%20grid%20whi.md) | 11 | 1 |
+| [157](#id157) | [Given an m x n 2d binary grid grid whi](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XI%20-%20Graphs/Chapter%201%20-%20Number%20of%20Islands%20-%20Blind/157%20-%20Given%20an%20m%20x%20n%202d%20binary%20grid%20grid%20whi.md) | 11 | 1 |
+| [158](#id158) | [Given an m x n 2d binary grid grid whi](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XI%20-%20Graphs/Chapter%201%20-%20Number%20of%20Islands%20-%20Blind/158%20-%20Given%20an%20m%20x%20n%202d%20binary%20grid%20grid%20whi.md) | 11 | 1 |
 
 ### Part I - Arrays & Hashing
 
@@ -8467,6 +8475,225 @@ The time complexity of a level order traversal (or BFS) is O(n), where n is the 
 ### Part XI - Graphs
 
 #### Chapter 1 - Number of Islands - [Blind]
+
+Q:: =============================================  
+
+##### Given an `m x n` 2D binary grid `grid` which represents a map of '1's (land) and '0's (water), return the number of islands.
+
+An **island** is surrounded by water and is formed by connecting adjacent lands horizontally or vertically. You may assume all four edges of the grid are all surrounded by water.
+
+**Example 1:**
+
+```
+Input: grid = [
+  ["1","1","1","1","0"],
+  ["1","1","0","1","0"],
+  ["1","1","0","0","0"],
+  ["0","0","0","0","0"]
+]
+Output: 1
+```
+
+___
+
+Which graph algorithm can be used to solve this problem?
+
+A) Depth-first search
+
+B) Breadth-first search
+
+C) Both DFS and BFS
+
+D) Neither
+
+###### ID153
+
+A:: =============================================  
+**Answer**: C
+
+Both depth-first search (DFS) and breadth-first search (BFS) can be used to solve this problem. They can both traverse all the connected '1's (land) starting from any given '1', and thus identify an island.
+
+Q:: =============================================  
+
+##### Given an `m x n` 2D binary grid `grid` which represents a map of '1's (land) and '0's (water), return the number of islands.
+
+An **island** is surrounded by water and is formed by connecting adjacent lands horizontally or vertically. You may assume all four edges of the grid are all surrounded by water.
+
+**Example 1:**
+
+```
+Input: grid = [
+  ["1","1","1","1","0"],
+  ["1","1","0","1","0"],
+  ["1","1","0","0","0"],
+  ["0","0","0","0","0"]
+]
+Output: 1
+```
+
+___
+
+Assume we are solving this by running a recursive depth-first search on each island. Under what conditions (base cases) should we stop recursing in our search algorithm?
+
+A) When all the cells in the grid have been visited.
+
+B) When we reach a visited land cell.
+
+C) When we reach an unvisited land cell.
+
+D) When we reach a water cell, or reach a visited land cell, or go out of bounds.
+
+###### ID154
+
+A:: =============================================  
+**Answer**: D
+
+We should stop the recursion in our search algorithm when we reach a water cell ('0'), or reach a cell that has been already visited, or go out of the bounds of the grid. This ensures we only count connected land ('1's) as part of the same island and we don't overcount or go beyond the grid boundaries.
+
+Q:: =============================================  
+
+##### Given an `m x n` 2D binary grid `grid` which represents a map of '1's (land) and '0's (water), return the number of islands.
+
+An **island** is surrounded by water and is formed by connecting adjacent lands horizontally or vertically. You may assume all four edges of the grid are all surrounded by water.
+
+**Example 1:**
+
+```
+Input: grid = [
+  ["1","1","1","1","0"],
+  ["1","1","0","1","0"],
+  ["1","1","0","0","0"],
+  ["0","0","0","0","0"]
+]
+Output: 1
+```
+
+___
+
+What happens if we don’t mark a piece of land as visited after visiting it?
+
+A) We will get stuck in an infinite recusive call stack (timeout or stackoverflow).
+
+B) We will count the same island multiple times.
+
+C) We may miss counting some of the islands.
+
+###### ID155
+
+A:: =============================================  
+**Answer**: A
+
+If we don't mark a piece of land as visited after visiting it, our DFS or BFS traversal will revisit the same cell again and again. This would eventually result in a timeout or stackoverflow error.
+
+Q:: =============================================  
+
+##### Given an `m x n` 2D binary grid `grid` which represents a map of '1's (land) and '0's (water), return the number of islands.
+
+An **island** is surrounded by water and is formed by connecting adjacent lands horizontally or vertically. You may assume all four edges of the grid are all surrounded by water.
+
+**Example 1:**
+
+```
+Input: grid = [
+  ["1","1","1","1","0"],
+  ["1","1","0","1","0"],
+  ["1","1","0","0","0"],
+  ["0","0","0","0","0"]
+]
+Output: 1
+```
+
+___
+
+What should be our approach to traverse the grid to find the number of islands?
+
+A) Traverse the entire grid and start a DFS or BFS search from each land cell.
+
+B) Traverse the entire grid and start a DFS or BFS search from each visited land cell.
+
+C) Traverse the entire grid and start a DFS or BFS search from each unvisited land cell.
+
+###### ID156
+
+A:: =============================================  
+**Answer**: C
+
+We should traverse the entire grid and start a DFS or BFS search from each unvisited land cell. This approach ensures that we cover all islands, as each unvisited '1' we encounter would represent a new island.
+
+Q:: =============================================  
+
+##### Given an `m x n` 2D binary grid `grid` which represents a map of '1's (land) and '0's (water), return the number of islands.
+
+An **island** is surrounded by water and is formed by connecting adjacent lands horizontally or vertically. You may assume all four edges of the grid are all surrounded by water.
+
+**Example 1:**
+
+```
+Input: grid = [
+  ["1","1","1","1","0"],
+  ["1","1","0","1","0"],
+  ["1","1","0","0","0"],
+  ["0","0","0","0","0"]
+]
+Output: 1
+```
+
+___
+
+What is the time complexity of the solution for this problem?
+
+A) O(m \* n)
+
+B) O(m^2 \* n^2)
+
+C) O(m + n)
+
+D) O(m \* n \* log(m \* n))
+
+###### ID157
+
+A:: =============================================  
+**Answer**: A
+
+The time complexity of the solution is O(m \* n), where m and n are the number of rows and columns in the grid, respectively. This is because in the worst-case scenario, we might have to visit all cells in the grid.
+
+Q:: =============================================  
+
+##### Given an `m x n` 2D binary grid `grid` which represents a map of '1's (land) and '0's (water), return the number of islands.
+
+An **island** is surrounded by water and is formed by connecting adjacent lands horizontally or vertically. You may assume all four edges of the grid are all surrounded by water.
+
+**Example 1:**
+
+```
+Input: grid = [
+  ["1","1","1","1","0"],
+  ["1","1","0","1","0"],
+  ["1","1","0","0","0"],
+  ["0","0","0","0","0"]
+]
+Output: 1
+```
+
+___
+
+What is the space complexity of the solution for this problem when using DFS?
+
+A) O(m \* n)
+
+B) O(m + n)
+
+C) O(min(m, n))
+
+D) O(max(m, n))
+
+###### ID158
+
+A:: =============================================  
+**Answer**: A
+
+The space complexity of the solution when using DFS is O(m \* n), where m and n are the number of rows and columns in the grid, respectively. This is because in the worst-case scenario, the depth of the recursion (the call stack) could be the number of cells in the grid if every cell is land ('1').
+
 #### Chapter 2 - Max Area of Island
 #### Chapter 3 - Clone Graph - [Blind]
 #### Chapter 4 - Walls And Gates
