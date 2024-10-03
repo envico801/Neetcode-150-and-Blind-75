@@ -6,26 +6,26 @@
 | --- | --- | --- | --- |
 | **-** | **Arrays Hashing** | **1** | **-** |
 | **-** | **Arrays Hashing > Contains Duplicate** | **1** | **1** |
-| [1](#id1) | [Contains duplicate given an integer array](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%201%20-%20Contains%20Duplicate%20-%20Blind/1%20-%20Contains%20duplicate%20given%20an%20integer%20array.md) | 1 | 1 |
-| [2](#id2) | [Contains duplicate given an integer array](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%201%20-%20Contains%20Duplicate%20-%20Blind/2%20-%20Contains%20duplicate%20given%20an%20integer%20array.md) | 1 | 1 |
-| [3](#id3) | [Contains duplicate given an integer array](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%201%20-%20Contains%20Duplicate%20-%20Blind/3%20-%20Contains%20duplicate%20given%20an%20integer%20array.md) | 1 | 1 |
-| [4](#id4) | [Contains duplicate given an integer array](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%201%20-%20Contains%20Duplicate%20-%20Blind/4%20-%20Contains%20duplicate%20given%20an%20integer%20array.md) | 1 | 1 |
-| [5](#id5) | [Contains duplicate given an integer array](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%201%20-%20Contains%20Duplicate%20-%20Blind/5%20-%20Contains%20duplicate%20given%20an%20integer%20array.md) | 1 | 1 |
+| [1](#id1) | [Duplicate integer given an integer array](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%201%20-%20Contains%20Duplicate%20-%20Blind/1%20-%20Duplicate%20integer%20given%20an%20integer%20array.md) | 1 | 1 |
+| [2](#id2) | [Duplicate integer given an integer array](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%201%20-%20Contains%20Duplicate%20-%20Blind/2%20-%20Duplicate%20integer%20given%20an%20integer%20array.md) | 1 | 1 |
+| [3](#id3) | [Duplicate integer given an integer array](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%201%20-%20Contains%20Duplicate%20-%20Blind/3%20-%20Duplicate%20integer%20given%20an%20integer%20array.md) | 1 | 1 |
+| [4](#id4) | [Duplicate integer given an integer array](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%201%20-%20Contains%20Duplicate%20-%20Blind/4%20-%20Duplicate%20integer%20given%20an%20integer%20array.md) | 1 | 1 |
+| [5](#id5) | [Duplicate integer given an integer array](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%201%20-%20Contains%20Duplicate%20-%20Blind/5%20-%20Duplicate%20integer%20given%20an%20integer%20array.md) | 1 | 1 |
 | **-** | **Arrays Hashing > Valid Anagram** | **1** | **2** |
-| [6](#id6) | [Valid anagram given two strings s and t](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%202%20-%20Valid%20Anagram%20-%20Blind/6%20-%20Valid%20anagram%20given%20two%20strings%20s%20and%20t.md) | 1 | 2 |
-| [7](#id7) | [Valid anagram given two strings s and t](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%202%20-%20Valid%20Anagram%20-%20Blind/7%20-%20Valid%20anagram%20given%20two%20strings%20s%20and%20t.md) | 1 | 2 |
-| [8](#id8) | [Valid anagram given two strings s and t](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%202%20-%20Valid%20Anagram%20-%20Blind/8%20-%20Valid%20anagram%20given%20two%20strings%20s%20and%20t.md) | 1 | 2 |
-| [9](#id9) | [Valid anagram given two strings s and t](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%202%20-%20Valid%20Anagram%20-%20Blind/9%20-%20Valid%20anagram%20given%20two%20strings%20s%20and%20t.md) | 1 | 2 |
-| [10](#id10) | [Valid anagram given two strings s and t](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%202%20-%20Valid%20Anagram%20-%20Blind/10%20-%20Valid%20anagram%20given%20two%20strings%20s%20and%20t.md) | 1 | 2 |
-| [11](#id11) | [Valid anagram given two strings s and t](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%202%20-%20Valid%20Anagram%20-%20Blind/11%20-%20Valid%20anagram%20given%20two%20strings%20s%20and%20t.md) | 1 | 2 |
+| [6](#id6) | [Is anagram given two strings s and t](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%202%20-%20Valid%20Anagram%20-%20Blind/6%20-%20Is%20anagram%20given%20two%20strings%20s%20and%20t.md) | 1 | 2 |
+| [7](#id7) | [Is anagram given two strings s and t](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%202%20-%20Valid%20Anagram%20-%20Blind/7%20-%20Is%20anagram%20given%20two%20strings%20s%20and%20t.md) | 1 | 2 |
+| [8](#id8) | [Is anagram given two strings s and t](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%202%20-%20Valid%20Anagram%20-%20Blind/8%20-%20Is%20anagram%20given%20two%20strings%20s%20and%20t.md) | 1 | 2 |
+| [9](#id9) | [Is anagram given two strings s and t](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%202%20-%20Valid%20Anagram%20-%20Blind/9%20-%20Is%20anagram%20given%20two%20strings%20s%20and%20t.md) | 1 | 2 |
+| [10](#id10) | [Is anagram given two strings s and t](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%202%20-%20Valid%20Anagram%20-%20Blind/10%20-%20Is%20anagram%20given%20two%20strings%20s%20and%20t.md) | 1 | 2 |
+| [11](#id11) | [Is anagram given two strings s and t](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%202%20-%20Valid%20Anagram%20-%20Blind/11%20-%20Is%20anagram%20given%20two%20strings%20s%20and%20t.md) | 1 | 2 |
 | **-** | **Arrays Hashing > Two Sum** | **1** | **3** |
-| [12](#id12) | [Two sum given an array of integers nums](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%203%20-%20Two%20Sum%20-%20Blind/12%20-%20Two%20sum%20given%20an%20array%20of%20integers%20nums.md) | 1 | 3 |
-| [13](#id13) | [Two sum given an array of integers nums](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%203%20-%20Two%20Sum%20-%20Blind/13%20-%20Two%20sum%20given%20an%20array%20of%20integers%20nums.md) | 1 | 3 |
-| [14](#id14) | [Two sum given an array of integers nums](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%203%20-%20Two%20Sum%20-%20Blind/14%20-%20Two%20sum%20given%20an%20array%20of%20integers%20nums.md) | 1 | 3 |
-| [15](#id15) | [Two sum given an array of integers nums](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%203%20-%20Two%20Sum%20-%20Blind/15%20-%20Two%20sum%20given%20an%20array%20of%20integers%20nums.md) | 1 | 3 |
-| [16](#id16) | [Two sum given an array of integers nums](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%203%20-%20Two%20Sum%20-%20Blind/16%20-%20Two%20sum%20given%20an%20array%20of%20integers%20nums.md) | 1 | 3 |
-| [17](#id17) | [Two sum given an array of integers nums](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%203%20-%20Two%20Sum%20-%20Blind/17%20-%20Two%20sum%20given%20an%20array%20of%20integers%20nums.md) | 1 | 3 |
-| [18](#id18) | [Two sum given an array of integers nums](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%203%20-%20Two%20Sum%20-%20Blind/18%20-%20Two%20sum%20given%20an%20array%20of%20integers%20nums.md) | 1 | 3 |
+| [12](#id12) | [Two integer sum given an array of integers](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%203%20-%20Two%20Sum%20-%20Blind/12%20-%20Two%20integer%20sum%20given%20an%20array%20of%20integers.md) | 1 | 3 |
+| [13](#id13) | [Two integer sum given an array of integers](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%203%20-%20Two%20Sum%20-%20Blind/13%20-%20Two%20integer%20sum%20given%20an%20array%20of%20integers.md) | 1 | 3 |
+| [14](#id14) | [Two integer sum given an array of integers](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%203%20-%20Two%20Sum%20-%20Blind/14%20-%20Two%20integer%20sum%20given%20an%20array%20of%20integers.md) | 1 | 3 |
+| [15](#id15) | [Two integer sum given an array of integers](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%203%20-%20Two%20Sum%20-%20Blind/15%20-%20Two%20integer%20sum%20given%20an%20array%20of%20integers.md) | 1 | 3 |
+| [16](#id16) | [Two integer sum given an array of integers](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%203%20-%20Two%20Sum%20-%20Blind/16%20-%20Two%20integer%20sum%20given%20an%20array%20of%20integers.md) | 1 | 3 |
+| [17](#id17) | [Two integer sum given an array of integers](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%203%20-%20Two%20Sum%20-%20Blind/17%20-%20Two%20integer%20sum%20given%20an%20array%20of%20integers.md) | 1 | 3 |
+| [18](#id18) | [Two integer sum given an array of integers](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%203%20-%20Two%20Sum%20-%20Blind/18%20-%20Two%20integer%20sum%20given%20an%20array%20of%20integers.md) | 1 | 3 |
 | **-** | **Arrays Hashing > Group Anagrams** | **1** | **4** |
 | [19](#id19) | [Group anagrams given an array of strings](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%204%20-%20Group%20Anagrams%20-%20Blind/19%20-%20Group%20anagrams%20given%20an%20array%20of%20strings.md) | 1 | 4 |
 | [20](#id20) | [Group anagrams given an array of strings](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%204%20-%20Group%20Anagrams%20-%20Blind/20%20-%20Group%20anagrams%20given%20an%20array%20of%20strings.md) | 1 | 4 |
@@ -34,139 +34,139 @@
 | [23](#id23) | [Group anagrams given an array of strings](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%204%20-%20Group%20Anagrams%20-%20Blind/23%20-%20Group%20anagrams%20given%20an%20array%20of%20strings.md) | 1 | 4 |
 | [24](#id24) | [Group anagrams given an array of strings](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%204%20-%20Group%20Anagrams%20-%20Blind/24%20-%20Group%20anagrams%20given%20an%20array%20of%20strings.md) | 1 | 4 |
 | **-** | **Arrays Hashing > Encode and Decode Strings** | **1** | **6** |
-| [25](#id25) | [Encode and decode strings design an algori](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%206%20-%20Encode%20and%20Decode%20Strings%20-%20Blind/25%20-%20Encode%20and%20decode%20strings%20design%20an%20algori.md) | 1 | 6 |
-| [26](#id26) | [Encode and decode strings design an algori](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%206%20-%20Encode%20and%20Decode%20Strings%20-%20Blind/26%20-%20Encode%20and%20decode%20strings%20design%20an%20algori.md) | 1 | 6 |
-| [27](#id27) | [Encode and decode strings design an algori](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%206%20-%20Encode%20and%20Decode%20Strings%20-%20Blind/27%20-%20Encode%20and%20decode%20strings%20design%20an%20algori.md) | 1 | 6 |
-| [28](#id28) | [Encode and decode strings design an algori](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%206%20-%20Encode%20and%20Decode%20Strings%20-%20Blind/28%20-%20Encode%20and%20decode%20strings%20design%20an%20algori.md) | 1 | 6 |
+| [25](#id25) | [String encode and decode design an algorit](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%206%20-%20Encode%20and%20Decode%20Strings%20-%20Blind/25%20-%20String%20encode%20and%20decode%20design%20an%20algorit.md) | 1 | 6 |
+| [26](#id26) | [String encode and decode design an algorit](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%206%20-%20Encode%20and%20Decode%20Strings%20-%20Blind/26%20-%20String%20encode%20and%20decode%20design%20an%20algorit.md) | 1 | 6 |
+| [27](#id27) | [String encode and decode design an algorit](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%206%20-%20Encode%20and%20Decode%20Strings%20-%20Blind/27%20-%20String%20encode%20and%20decode%20design%20an%20algorit.md) | 1 | 6 |
+| [28](#id28) | [String encode and decode design an algorit](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%206%20-%20Encode%20and%20Decode%20Strings%20-%20Blind/28%20-%20String%20encode%20and%20decode%20design%20an%20algorit.md) | 1 | 6 |
 | **-** | **Arrays Hashing > Longest Consecutive Sequence** | **1** | **9** |
-| [29](#id29) | [Longest consecutive sequence given an unso](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%209%20-%20Longest%20Consecutive%20Sequence%20-%20Blind/29%20-%20Longest%20consecutive%20sequence%20given%20an%20unso.md) | 1 | 9 |
-| [30](#id30) | [Longest consecutive sequence given an unso](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%209%20-%20Longest%20Consecutive%20Sequence%20-%20Blind/30%20-%20Longest%20consecutive%20sequence%20given%20an%20unso.md) | 1 | 9 |
-| [31](#id31) | [Longest consecutive sequence given an unso](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%209%20-%20Longest%20Consecutive%20Sequence%20-%20Blind/31%20-%20Longest%20consecutive%20sequence%20given%20an%20unso.md) | 1 | 9 |
-| [32](#id32) | [Longest consecutive sequence given an unso](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%209%20-%20Longest%20Consecutive%20Sequence%20-%20Blind/32%20-%20Longest%20consecutive%20sequence%20given%20an%20unso.md) | 1 | 9 |
-| [33](#id33) | [Longest consecutive sequence given an unso](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%209%20-%20Longest%20Consecutive%20Sequence%20-%20Blind/33%20-%20Longest%20consecutive%20sequence%20given%20an%20unso.md) | 1 | 9 |
-| [34](#id34) | [Longest consecutive sequence given an unso](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%209%20-%20Longest%20Consecutive%20Sequence%20-%20Blind/34%20-%20Longest%20consecutive%20sequence%20given%20an%20unso.md) | 1 | 9 |
+| [29](#id29) | [Longest consecutive sequence given an arra](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%209%20-%20Longest%20Consecutive%20Sequence%20-%20Blind/29%20-%20Longest%20consecutive%20sequence%20given%20an%20arra.md) | 1 | 9 |
+| [30](#id30) | [Longest consecutive sequence given an arra](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%209%20-%20Longest%20Consecutive%20Sequence%20-%20Blind/30%20-%20Longest%20consecutive%20sequence%20given%20an%20arra.md) | 1 | 9 |
+| [31](#id31) | [Longest consecutive sequence given an arra](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%209%20-%20Longest%20Consecutive%20Sequence%20-%20Blind/31%20-%20Longest%20consecutive%20sequence%20given%20an%20arra.md) | 1 | 9 |
+| [32](#id32) | [Longest consecutive sequence given an arra](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%209%20-%20Longest%20Consecutive%20Sequence%20-%20Blind/32%20-%20Longest%20consecutive%20sequence%20given%20an%20arra.md) | 1 | 9 |
+| [33](#id33) | [Longest consecutive sequence given an arra](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%209%20-%20Longest%20Consecutive%20Sequence%20-%20Blind/33%20-%20Longest%20consecutive%20sequence%20given%20an%20arra.md) | 1 | 9 |
+| [34](#id34) | [Longest consecutive sequence given an arra](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20I%20-%20Arrays%20Hashing/Chapter%209%20-%20Longest%20Consecutive%20Sequence%20-%20Blind/34%20-%20Longest%20consecutive%20sequence%20given%20an%20arra.md) | 1 | 9 |
 | **-** | **Two Pointers** | **2** | **-** |
 | **-** | **Two Pointers > Valid Palindrome** | **2** | **1** |
-| [35](#id35) | [Valid palindrome a phrase is a palindrom](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%201%20-%20Valid%20Palindrome%20-%20Blind/35%20-%20Valid%20palindrome%20a%20phrase%20is%20a%20palindrom.md) | 2 | 1 |
-| [36](#id36) | [Valid palindrome a phrase is a palindrom](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%201%20-%20Valid%20Palindrome%20-%20Blind/36%20-%20Valid%20palindrome%20a%20phrase%20is%20a%20palindrom.md) | 2 | 1 |
-| [37](#id37) | [Valid palindrome a phrase is a palindrom](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%201%20-%20Valid%20Palindrome%20-%20Blind/37%20-%20Valid%20palindrome%20a%20phrase%20is%20a%20palindrom.md) | 2 | 1 |
-| [38](#id38) | [Valid palindrome a phrase is a palindrom](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%201%20-%20Valid%20Palindrome%20-%20Blind/38%20-%20Valid%20palindrome%20a%20phrase%20is%20a%20palindrom.md) | 2 | 1 |
-| [39](#id39) | [Valid palindrome a phrase is a palindrom](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%201%20-%20Valid%20Palindrome%20-%20Blind/39%20-%20Valid%20palindrome%20a%20phrase%20is%20a%20palindrom.md) | 2 | 1 |
-| [40](#id40) | [Valid palindrome a phrase is a palindrom](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%201%20-%20Valid%20Palindrome%20-%20Blind/40%20-%20Valid%20palindrome%20a%20phrase%20is%20a%20palindrom.md) | 2 | 1 |
+| [35](#id35) | [Is palindrome given a string s return](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%201%20-%20Valid%20Palindrome%20-%20Blind/35%20-%20Is%20palindrome%20given%20a%20string%20s%20return.md) | 2 | 1 |
+| [36](#id36) | [Is palindrome given a string s return](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%201%20-%20Valid%20Palindrome%20-%20Blind/36%20-%20Is%20palindrome%20given%20a%20string%20s%20return.md) | 2 | 1 |
+| [37](#id37) | [Is palindrome given a string s return](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%201%20-%20Valid%20Palindrome%20-%20Blind/37%20-%20Is%20palindrome%20given%20a%20string%20s%20return.md) | 2 | 1 |
+| [38](#id38) | [Is palindrome given a string s return](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%201%20-%20Valid%20Palindrome%20-%20Blind/38%20-%20Is%20palindrome%20given%20a%20string%20s%20return.md) | 2 | 1 |
+| [39](#id39) | [Is palindrome given a string s return](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%201%20-%20Valid%20Palindrome%20-%20Blind/39%20-%20Is%20palindrome%20given%20a%20string%20s%20return.md) | 2 | 1 |
+| [40](#id40) | [Is palindrome given a string s return](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%201%20-%20Valid%20Palindrome%20-%20Blind/40%20-%20Is%20palindrome%20given%20a%20string%20s%20return.md) | 2 | 1 |
 | **-** | **Two Pointers > 3Sum** | **2** | **3** |
-| [41](#id41) | [3sum given an integer array nums return a](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%203%20-%203Sum%20-%20Blind/41%20-%203sum%20given%20an%20integer%20array%20nums%20return%20a.md) | 2 | 3 |
-| [42](#id42) | [3sum given an integer array nums return a](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%203%20-%203Sum%20-%20Blind/42%20-%203sum%20given%20an%20integer%20array%20nums%20return%20a.md) | 2 | 3 |
-| [43](#id43) | [3sum given an integer array nums return a](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%203%20-%203Sum%20-%20Blind/43%20-%203sum%20given%20an%20integer%20array%20nums%20return%20a.md) | 2 | 3 |
-| [44](#id44) | [3sum given an integer array nums return a](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%203%20-%203Sum%20-%20Blind/44%20-%203sum%20given%20an%20integer%20array%20nums%20return%20a.md) | 2 | 3 |
-| [45](#id45) | [3sum given an integer array nums return a](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%203%20-%203Sum%20-%20Blind/45%20-%203sum%20given%20an%20integer%20array%20nums%20return%20a.md) | 2 | 3 |
+| [41](#id41) | [Three integer sum given an integer array](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%203%20-%203Sum%20-%20Blind/41%20-%20Three%20integer%20sum%20given%20an%20integer%20array.md) | 2 | 3 |
+| [42](#id42) | [Three integer sum given an integer array](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%203%20-%203Sum%20-%20Blind/42%20-%20Three%20integer%20sum%20given%20an%20integer%20array.md) | 2 | 3 |
+| [43](#id43) | [Three integer sum given an integer array](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%203%20-%203Sum%20-%20Blind/43%20-%20Three%20integer%20sum%20given%20an%20integer%20array.md) | 2 | 3 |
+| [44](#id44) | [Three integer sum given an integer array](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%203%20-%203Sum%20-%20Blind/44%20-%20Three%20integer%20sum%20given%20an%20integer%20array.md) | 2 | 3 |
+| [45](#id45) | [Three integer sum given an integer array](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%203%20-%203Sum%20-%20Blind/45%20-%20Three%20integer%20sum%20given%20an%20integer%20array.md) | 2 | 3 |
 | **-** | **Two Pointers > Container With Most Water** | **2** | **4** |
-| [46](#id46) | [Container with most water you are given an](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%204%20-%20Container%20With%20Most%20Water%20-%20Blind/46%20-%20Container%20with%20most%20water%20you%20are%20given%20an.md) | 2 | 4 |
-| [47](#id47) | [Container with most water you are given an](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%204%20-%20Container%20With%20Most%20Water%20-%20Blind/47%20-%20Container%20with%20most%20water%20you%20are%20given%20an.md) | 2 | 4 |
-| [48](#id48) | [Container with most water you are given an](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%204%20-%20Container%20With%20Most%20Water%20-%20Blind/48%20-%20Container%20with%20most%20water%20you%20are%20given%20an.md) | 2 | 4 |
-| [49](#id49) | [Container with most water you are given an](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%204%20-%20Container%20With%20Most%20Water%20-%20Blind/49%20-%20Container%20with%20most%20water%20you%20are%20given%20an.md) | 2 | 4 |
-| [50](#id50) | [Container with most water you are given an](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%204%20-%20Container%20With%20Most%20Water%20-%20Blind/50%20-%20Container%20with%20most%20water%20you%20are%20given%20an.md) | 2 | 4 |
-| [51](#id51) | [Container with most water you are given an](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%204%20-%20Container%20With%20Most%20Water%20-%20Blind/51%20-%20Container%20with%20most%20water%20you%20are%20given%20an.md) | 2 | 4 |
+| [46](#id46) | [Max water container you are given an integ](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%204%20-%20Container%20With%20Most%20Water%20-%20Blind/46%20-%20Max%20water%20container%20you%20are%20given%20an%20integ.md) | 2 | 4 |
+| [47](#id47) | [Max water container you are given an integ](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%204%20-%20Container%20With%20Most%20Water%20-%20Blind/47%20-%20Max%20water%20container%20you%20are%20given%20an%20integ.md) | 2 | 4 |
+| [48](#id48) | [Max water container you are given an integ](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%204%20-%20Container%20With%20Most%20Water%20-%20Blind/48%20-%20Max%20water%20container%20you%20are%20given%20an%20integ.md) | 2 | 4 |
+| [49](#id49) | [Max water container you are given an integ](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%204%20-%20Container%20With%20Most%20Water%20-%20Blind/49%20-%20Max%20water%20container%20you%20are%20given%20an%20integ.md) | 2 | 4 |
+| [50](#id50) | [Max water container you are given an integ](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%204%20-%20Container%20With%20Most%20Water%20-%20Blind/50%20-%20Max%20water%20container%20you%20are%20given%20an%20integ.md) | 2 | 4 |
+| [51](#id51) | [Max water container you are given an integ](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20II%20-%20Two%20Pointers/Chapter%204%20-%20Container%20With%20Most%20Water%20-%20Blind/51%20-%20Max%20water%20container%20you%20are%20given%20an%20integ.md) | 2 | 4 |
 | **-** | **Stack** | **3** | **-** |
 | **-** | **Stack > Valid Parentheses** | **3** | **1** |
-| [52](#id52) | [Valid parentheses given a string s contain](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Stack/Chapter%201%20-%20Valid%20Parentheses%20-%20Blind/52%20-%20Valid%20parentheses%20given%20a%20string%20s%20contain.md) | 3 | 1 |
-| [53](#id53) | [Valid parentheses given a string s contain](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Stack/Chapter%201%20-%20Valid%20Parentheses%20-%20Blind/53%20-%20Valid%20parentheses%20given%20a%20string%20s%20contain.md) | 3 | 1 |
-| [54](#id54) | [Valid parentheses given a string s contain](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Stack/Chapter%201%20-%20Valid%20Parentheses%20-%20Blind/54%20-%20Valid%20parentheses%20given%20a%20string%20s%20contain.md) | 3 | 1 |
-| [55](#id55) | [Valid parentheses given a string s contain](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Stack/Chapter%201%20-%20Valid%20Parentheses%20-%20Blind/55%20-%20Valid%20parentheses%20given%20a%20string%20s%20contain.md) | 3 | 1 |
-| [56](#id56) | [Valid parentheses given a string s contain](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Stack/Chapter%201%20-%20Valid%20Parentheses%20-%20Blind/56%20-%20Valid%20parentheses%20given%20a%20string%20s%20contain.md) | 3 | 1 |
-| [57](#id57) | [Valid parentheses given a string s contain](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Stack/Chapter%201%20-%20Valid%20Parentheses%20-%20Blind/57%20-%20Valid%20parentheses%20given%20a%20string%20s%20contain.md) | 3 | 1 |
+| [52](#id52) | [Validate parentheses you are given a strin](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Stack/Chapter%201%20-%20Valid%20Parentheses%20-%20Blind/52%20-%20Validate%20parentheses%20you%20are%20given%20a%20strin.md) | 3 | 1 |
+| [53](#id53) | [Validate parentheses you are given a strin](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Stack/Chapter%201%20-%20Valid%20Parentheses%20-%20Blind/53%20-%20Validate%20parentheses%20you%20are%20given%20a%20strin.md) | 3 | 1 |
+| [54](#id54) | [Validate parentheses you are given a strin](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Stack/Chapter%201%20-%20Valid%20Parentheses%20-%20Blind/54%20-%20Validate%20parentheses%20you%20are%20given%20a%20strin.md) | 3 | 1 |
+| [55](#id55) | [Validate parentheses you are given a strin](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Stack/Chapter%201%20-%20Valid%20Parentheses%20-%20Blind/55%20-%20Validate%20parentheses%20you%20are%20given%20a%20strin.md) | 3 | 1 |
+| [56](#id56) | [Validate parentheses you are given a strin](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Stack/Chapter%201%20-%20Valid%20Parentheses%20-%20Blind/56%20-%20Validate%20parentheses%20you%20are%20given%20a%20strin.md) | 3 | 1 |
+| [57](#id57) | [Validate parentheses you are given a strin](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20III%20-%20Stack/Chapter%201%20-%20Valid%20Parentheses%20-%20Blind/57%20-%20Validate%20parentheses%20you%20are%20given%20a%20strin.md) | 3 | 1 |
 | **-** | **Binary Search** | **4** | **-** |
 | **-** | **Binary Search > Find Minimum In Rotated Sorted Array** | **4** | **4** |
-| [58](#id58) | [Find minimum in rotated sorted array suppo](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%204%20-%20Find%20Minimum%20In%20Rotated%20Sorted%20Array%20-%20Blind/58%20-%20Find%20minimum%20in%20rotated%20sorted%20array%20suppo.md) | 4 | 4 |
-| [59](#id59) | [Find minimum in rotated sorted array suppo](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%204%20-%20Find%20Minimum%20In%20Rotated%20Sorted%20Array%20-%20Blind/59%20-%20Find%20minimum%20in%20rotated%20sorted%20array%20suppo.md) | 4 | 4 |
-| [60](#id60) | [Find minimum in rotated sorted array suppo](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%204%20-%20Find%20Minimum%20In%20Rotated%20Sorted%20Array%20-%20Blind/60%20-%20Find%20minimum%20in%20rotated%20sorted%20array%20suppo.md) | 4 | 4 |
-| [61](#id61) | [Find minimum in rotated sorted array suppo](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%204%20-%20Find%20Minimum%20In%20Rotated%20Sorted%20Array%20-%20Blind/61%20-%20Find%20minimum%20in%20rotated%20sorted%20array%20suppo.md) | 4 | 4 |
-| [62](#id62) | [Find minimum in rotated sorted array suppo](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%204%20-%20Find%20Minimum%20In%20Rotated%20Sorted%20Array%20-%20Blind/62%20-%20Find%20minimum%20in%20rotated%20sorted%20array%20suppo.md) | 4 | 4 |
-| [63](#id63) | [Find minimum in rotated sorted array suppo](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%204%20-%20Find%20Minimum%20In%20Rotated%20Sorted%20Array%20-%20Blind/63%20-%20Find%20minimum%20in%20rotated%20sorted%20array%20suppo.md) | 4 | 4 |
-| [64](#id64) | [Find minimum in rotated sorted array suppo](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%204%20-%20Find%20Minimum%20In%20Rotated%20Sorted%20Array%20-%20Blind/64%20-%20Find%20minimum%20in%20rotated%20sorted%20array%20suppo.md) | 4 | 4 |
-| [65](#id65) | [Find minimum in rotated sorted array suppo](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%204%20-%20Find%20Minimum%20In%20Rotated%20Sorted%20Array%20-%20Blind/65%20-%20Find%20minimum%20in%20rotated%20sorted%20array%20suppo.md) | 4 | 4 |
+| [58](#id58) | [Find minimum in rotated sorted array you a](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%204%20-%20Find%20Minimum%20In%20Rotated%20Sorted%20Array%20-%20Blind/58%20-%20Find%20minimum%20in%20rotated%20sorted%20array%20you%20a.md) | 4 | 4 |
+| [59](#id59) | [Find minimum in rotated sorted array you a](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%204%20-%20Find%20Minimum%20In%20Rotated%20Sorted%20Array%20-%20Blind/59%20-%20Find%20minimum%20in%20rotated%20sorted%20array%20you%20a.md) | 4 | 4 |
+| [60](#id60) | [Find minimum in rotated sorted array you a](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%204%20-%20Find%20Minimum%20In%20Rotated%20Sorted%20Array%20-%20Blind/60%20-%20Find%20minimum%20in%20rotated%20sorted%20array%20you%20a.md) | 4 | 4 |
+| [61](#id61) | [Find minimum in rotated sorted array you a](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%204%20-%20Find%20Minimum%20In%20Rotated%20Sorted%20Array%20-%20Blind/61%20-%20Find%20minimum%20in%20rotated%20sorted%20array%20you%20a.md) | 4 | 4 |
+| [62](#id62) | [Find minimum in rotated sorted array you a](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%204%20-%20Find%20Minimum%20In%20Rotated%20Sorted%20Array%20-%20Blind/62%20-%20Find%20minimum%20in%20rotated%20sorted%20array%20you%20a.md) | 4 | 4 |
+| [63](#id63) | [Find minimum in rotated sorted array you a](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%204%20-%20Find%20Minimum%20In%20Rotated%20Sorted%20Array%20-%20Blind/63%20-%20Find%20minimum%20in%20rotated%20sorted%20array%20you%20a.md) | 4 | 4 |
+| [64](#id64) | [Find minimum in rotated sorted array you a](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%204%20-%20Find%20Minimum%20In%20Rotated%20Sorted%20Array%20-%20Blind/64%20-%20Find%20minimum%20in%20rotated%20sorted%20array%20you%20a.md) | 4 | 4 |
+| [65](#id65) | [Find minimum in rotated sorted array you a](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%204%20-%20Find%20Minimum%20In%20Rotated%20Sorted%20Array%20-%20Blind/65%20-%20Find%20minimum%20in%20rotated%20sorted%20array%20you%20a.md) | 4 | 4 |
 | **-** | **Binary Search > Search In Rotated Sorted Array** | **4** | **5** |
-| [66](#id66) | [Search in rotated sorted array there is an](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%205%20-%20Search%20In%20Rotated%20Sorted%20Array%20-%20Blind/66%20-%20Search%20in%20rotated%20sorted%20array%20there%20is%20an.md) | 4 | 5 |
-| [67](#id67) | [Search in rotated sorted array there is an](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%205%20-%20Search%20In%20Rotated%20Sorted%20Array%20-%20Blind/67%20-%20Search%20in%20rotated%20sorted%20array%20there%20is%20an.md) | 4 | 5 |
-| [68](#id68) | [Search in rotated sorted array there is an](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%205%20-%20Search%20In%20Rotated%20Sorted%20Array%20-%20Blind/68%20-%20Search%20in%20rotated%20sorted%20array%20there%20is%20an.md) | 4 | 5 |
-| [69](#id69) | [Search in rotated sorted array there is an](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%205%20-%20Search%20In%20Rotated%20Sorted%20Array%20-%20Blind/69%20-%20Search%20in%20rotated%20sorted%20array%20there%20is%20an.md) | 4 | 5 |
-| [70](#id70) | [Search in rotated sorted array there is an](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%205%20-%20Search%20In%20Rotated%20Sorted%20Array%20-%20Blind/70%20-%20Search%20in%20rotated%20sorted%20array%20there%20is%20an.md) | 4 | 5 |
-| [71](#id71) | [Search in rotated sorted array there is an](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%205%20-%20Search%20In%20Rotated%20Sorted%20Array%20-%20Blind/71%20-%20Search%20in%20rotated%20sorted%20array%20there%20is%20an.md) | 4 | 5 |
-| [72](#id72) | [Search in rotated sorted array there is an](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%205%20-%20Search%20In%20Rotated%20Sorted%20Array%20-%20Blind/72%20-%20Search%20in%20rotated%20sorted%20array%20there%20is%20an.md) | 4 | 5 |
-| [73](#id73) | [Search in rotated sorted array there is an](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%205%20-%20Search%20In%20Rotated%20Sorted%20Array%20-%20Blind/73%20-%20Search%20in%20rotated%20sorted%20array%20there%20is%20an.md) | 4 | 5 |
-| [74](#id74) | [Search in rotated sorted array there is an](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%205%20-%20Search%20In%20Rotated%20Sorted%20Array%20-%20Blind/74%20-%20Search%20in%20rotated%20sorted%20array%20there%20is%20an.md) | 4 | 5 |
+| [66](#id66) | [Find target in rotated sorted array you ar](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%205%20-%20Search%20In%20Rotated%20Sorted%20Array%20-%20Blind/66%20-%20Find%20target%20in%20rotated%20sorted%20array%20you%20ar.md) | 4 | 5 |
+| [67](#id67) | [Find target in rotated sorted array you ar](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%205%20-%20Search%20In%20Rotated%20Sorted%20Array%20-%20Blind/67%20-%20Find%20target%20in%20rotated%20sorted%20array%20you%20ar.md) | 4 | 5 |
+| [68](#id68) | [Find target in rotated sorted array you ar](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%205%20-%20Search%20In%20Rotated%20Sorted%20Array%20-%20Blind/68%20-%20Find%20target%20in%20rotated%20sorted%20array%20you%20ar.md) | 4 | 5 |
+| [69](#id69) | [Find target in rotated sorted array you ar](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%205%20-%20Search%20In%20Rotated%20Sorted%20Array%20-%20Blind/69%20-%20Find%20target%20in%20rotated%20sorted%20array%20you%20ar.md) | 4 | 5 |
+| [70](#id70) | [Find target in rotated sorted array you ar](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%205%20-%20Search%20In%20Rotated%20Sorted%20Array%20-%20Blind/70%20-%20Find%20target%20in%20rotated%20sorted%20array%20you%20ar.md) | 4 | 5 |
+| [71](#id71) | [Find target in rotated sorted array you ar](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%205%20-%20Search%20In%20Rotated%20Sorted%20Array%20-%20Blind/71%20-%20Find%20target%20in%20rotated%20sorted%20array%20you%20ar.md) | 4 | 5 |
+| [72](#id72) | [Find target in rotated sorted array you ar](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%205%20-%20Search%20In%20Rotated%20Sorted%20Array%20-%20Blind/72%20-%20Find%20target%20in%20rotated%20sorted%20array%20you%20ar.md) | 4 | 5 |
+| [73](#id73) | [Find target in rotated sorted array you ar](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%205%20-%20Search%20In%20Rotated%20Sorted%20Array%20-%20Blind/73%20-%20Find%20target%20in%20rotated%20sorted%20array%20you%20ar.md) | 4 | 5 |
+| [74](#id74) | [Find target in rotated sorted array you ar](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20IV%20-%20Binary%20Search/Chapter%205%20-%20Search%20In%20Rotated%20Sorted%20Array%20-%20Blind/74%20-%20Find%20target%20in%20rotated%20sorted%20array%20you%20ar.md) | 4 | 5 |
 | **-** | **Sliding Window** | **5** | **-** |
 | **-** | **Sliding Window > Best Time to Buy And Sell Stock** | **5** | **1** |
-| [75](#id75) | [Best time to buy and sell stock you are gi](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%201%20-%20Best%20Time%20to%20Buy%20And%20Sell%20Stock%20-%20Blind/75%20-%20Best%20time%20to%20buy%20and%20sell%20stock%20you%20are%20gi.md) | 5 | 1 |
-| [76](#id76) | [Best time to buy and sell stock you are gi](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%201%20-%20Best%20Time%20to%20Buy%20And%20Sell%20Stock%20-%20Blind/76%20-%20Best%20time%20to%20buy%20and%20sell%20stock%20you%20are%20gi.md) | 5 | 1 |
-| [77](#id77) | [Best time to buy and sell stock you are gi](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%201%20-%20Best%20Time%20to%20Buy%20And%20Sell%20Stock%20-%20Blind/77%20-%20Best%20time%20to%20buy%20and%20sell%20stock%20you%20are%20gi.md) | 5 | 1 |
-| [78](#id78) | [Best time to buy and sell stock you are gi](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%201%20-%20Best%20Time%20to%20Buy%20And%20Sell%20Stock%20-%20Blind/78%20-%20Best%20time%20to%20buy%20and%20sell%20stock%20you%20are%20gi.md) | 5 | 1 |
-| [79](#id79) | [Best time to buy and sell stock you are gi](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%201%20-%20Best%20Time%20to%20Buy%20And%20Sell%20Stock%20-%20Blind/79%20-%20Best%20time%20to%20buy%20and%20sell%20stock%20you%20are%20gi.md) | 5 | 1 |
+| [75](#id75) | [Buy and sell crypto you are given an integ](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%201%20-%20Best%20Time%20to%20Buy%20And%20Sell%20Stock%20-%20Blind/75%20-%20Buy%20and%20sell%20crypto%20you%20are%20given%20an%20integ.md) | 5 | 1 |
+| [76](#id76) | [Buy and sell crypto you are given an integ](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%201%20-%20Best%20Time%20to%20Buy%20And%20Sell%20Stock%20-%20Blind/76%20-%20Buy%20and%20sell%20crypto%20you%20are%20given%20an%20integ.md) | 5 | 1 |
+| [77](#id77) | [Buy and sell crypto you are given an integ](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%201%20-%20Best%20Time%20to%20Buy%20And%20Sell%20Stock%20-%20Blind/77%20-%20Buy%20and%20sell%20crypto%20you%20are%20given%20an%20integ.md) | 5 | 1 |
+| [78](#id78) | [Buy and sell crypto you are given an integ](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%201%20-%20Best%20Time%20to%20Buy%20And%20Sell%20Stock%20-%20Blind/78%20-%20Buy%20and%20sell%20crypto%20you%20are%20given%20an%20integ.md) | 5 | 1 |
+| [79](#id79) | [Buy and sell crypto you are given an integ](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%201%20-%20Best%20Time%20to%20Buy%20And%20Sell%20Stock%20-%20Blind/79%20-%20Buy%20and%20sell%20crypto%20you%20are%20given%20an%20integ.md) | 5 | 1 |
 | **-** | **Sliding Window > Longest Substring Without Repeating Characters** | **5** | **2** |
-| [80](#id80) | [Longest substring without repeating charac](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%202%20-%20Longest%20Substring%20Without%20Repeating%20Characters%20-%20Blind/80%20-%20Longest%20substring%20without%20repeating%20charac.md) | 5 | 2 |
-| [81](#id81) | [Longest substring without repeating charac](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%202%20-%20Longest%20Substring%20Without%20Repeating%20Characters%20-%20Blind/81%20-%20Longest%20substring%20without%20repeating%20charac.md) | 5 | 2 |
-| [82](#id82) | [Longest substring without repeating charac](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%202%20-%20Longest%20Substring%20Without%20Repeating%20Characters%20-%20Blind/82%20-%20Longest%20substring%20without%20repeating%20charac.md) | 5 | 2 |
-| [83](#id83) | [Longest substring without repeating charac](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%202%20-%20Longest%20Substring%20Without%20Repeating%20Characters%20-%20Blind/83%20-%20Longest%20substring%20without%20repeating%20charac.md) | 5 | 2 |
-| [84](#id84) | [Longest substring without repeating charac](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%202%20-%20Longest%20Substring%20Without%20Repeating%20Characters%20-%20Blind/84%20-%20Longest%20substring%20without%20repeating%20charac.md) | 5 | 2 |
-| [85](#id85) | [Longest substring without repeating charac](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%202%20-%20Longest%20Substring%20Without%20Repeating%20Characters%20-%20Blind/85%20-%20Longest%20substring%20without%20repeating%20charac.md) | 5 | 2 |
+| [80](#id80) | [Longest substring without duplicates given](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%202%20-%20Longest%20Substring%20Without%20Repeating%20Characters%20-%20Blind/80%20-%20Longest%20substring%20without%20duplicates%20given.md) | 5 | 2 |
+| [81](#id81) | [Longest substring without duplicates given](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%202%20-%20Longest%20Substring%20Without%20Repeating%20Characters%20-%20Blind/81%20-%20Longest%20substring%20without%20duplicates%20given.md) | 5 | 2 |
+| [82](#id82) | [Longest substring without duplicates given](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%202%20-%20Longest%20Substring%20Without%20Repeating%20Characters%20-%20Blind/82%20-%20Longest%20substring%20without%20duplicates%20given.md) | 5 | 2 |
+| [83](#id83) | [Longest substring without duplicates given](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%202%20-%20Longest%20Substring%20Without%20Repeating%20Characters%20-%20Blind/83%20-%20Longest%20substring%20without%20duplicates%20given.md) | 5 | 2 |
+| [84](#id84) | [Longest substring without duplicates given](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%202%20-%20Longest%20Substring%20Without%20Repeating%20Characters%20-%20Blind/84%20-%20Longest%20substring%20without%20duplicates%20given.md) | 5 | 2 |
+| [85](#id85) | [Longest substring without duplicates given](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%202%20-%20Longest%20Substring%20Without%20Repeating%20Characters%20-%20Blind/85%20-%20Longest%20substring%20without%20duplicates%20given.md) | 5 | 2 |
 | **-** | **Sliding Window > Longest Repeating Character Replacement** | **5** | **3** |
-| [86](#id86) | [Longest repeating character replacement yo](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%203%20-%20Longest%20Repeating%20Character%20Replacement%20-%20Blind/86%20-%20Longest%20repeating%20character%20replacement%20yo.md) | 5 | 3 |
-| [87](#id87) | [Longest repeating character replacement yo](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%203%20-%20Longest%20Repeating%20Character%20Replacement%20-%20Blind/87%20-%20Longest%20repeating%20character%20replacement%20yo.md) | 5 | 3 |
-| [88](#id88) | [Longest repeating character replacement yo](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%203%20-%20Longest%20Repeating%20Character%20Replacement%20-%20Blind/88%20-%20Longest%20repeating%20character%20replacement%20yo.md) | 5 | 3 |
-| [89](#id89) | [Longest repeating character replacement yo](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%203%20-%20Longest%20Repeating%20Character%20Replacement%20-%20Blind/89%20-%20Longest%20repeating%20character%20replacement%20yo.md) | 5 | 3 |
-| [90](#id90) | [Longest repeating character replacement yo](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%203%20-%20Longest%20Repeating%20Character%20Replacement%20-%20Blind/90%20-%20Longest%20repeating%20character%20replacement%20yo.md) | 5 | 3 |
-| [91](#id91) | [Longest repeating character replacement yo](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%203%20-%20Longest%20Repeating%20Character%20Replacement%20-%20Blind/91%20-%20Longest%20repeating%20character%20replacement%20yo.md) | 5 | 3 |
+| [86](#id86) | [Longest repeating substring with replaceme](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%203%20-%20Longest%20Repeating%20Character%20Replacement%20-%20Blind/86%20-%20Longest%20repeating%20substring%20with%20replaceme.md) | 5 | 3 |
+| [87](#id87) | [Longest repeating substring with replaceme](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%203%20-%20Longest%20Repeating%20Character%20Replacement%20-%20Blind/87%20-%20Longest%20repeating%20substring%20with%20replaceme.md) | 5 | 3 |
+| [88](#id88) | [Longest repeating substring with replaceme](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%203%20-%20Longest%20Repeating%20Character%20Replacement%20-%20Blind/88%20-%20Longest%20repeating%20substring%20with%20replaceme.md) | 5 | 3 |
+| [89](#id89) | [Longest repeating substring with replaceme](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%203%20-%20Longest%20Repeating%20Character%20Replacement%20-%20Blind/89%20-%20Longest%20repeating%20substring%20with%20replaceme.md) | 5 | 3 |
+| [90](#id90) | [Longest repeating substring with replaceme](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%203%20-%20Longest%20Repeating%20Character%20Replacement%20-%20Blind/90%20-%20Longest%20repeating%20substring%20with%20replaceme.md) | 5 | 3 |
+| [91](#id91) | [Longest repeating substring with replaceme](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%203%20-%20Longest%20Repeating%20Character%20Replacement%20-%20Blind/91%20-%20Longest%20repeating%20substring%20with%20replaceme.md) | 5 | 3 |
 | **-** | **Sliding Window > Minimum Window Substring** | **5** | **5** |
-| [92](#id92) | [Minimum window substring given two strings](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%205%20-%20Minimum%20Window%20Substring%20-%20Blind/92%20-%20Minimum%20window%20substring%20given%20two%20strings.md) | 5 | 5 |
-| [93](#id93) | [Minimum window substring given two strings](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%205%20-%20Minimum%20Window%20Substring%20-%20Blind/93%20-%20Minimum%20window%20substring%20given%20two%20strings.md) | 5 | 5 |
-| [94](#id94) | [Minimum window substring given two strings](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%205%20-%20Minimum%20Window%20Substring%20-%20Blind/94%20-%20Minimum%20window%20substring%20given%20two%20strings.md) | 5 | 5 |
-| [95](#id95) | [Minimum window substring given two strings](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%205%20-%20Minimum%20Window%20Substring%20-%20Blind/95%20-%20Minimum%20window%20substring%20given%20two%20strings.md) | 5 | 5 |
-| [96](#id96) | [Minimum window substring given two strings](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%205%20-%20Minimum%20Window%20Substring%20-%20Blind/96%20-%20Minimum%20window%20substring%20given%20two%20strings.md) | 5 | 5 |
-| [97](#id97) | [Minimum window substring given two strings](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%205%20-%20Minimum%20Window%20Substring%20-%20Blind/97%20-%20Minimum%20window%20substring%20given%20two%20strings.md) | 5 | 5 |
-| [98](#id98) | [Minimum window substring given two strings](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%205%20-%20Minimum%20Window%20Substring%20-%20Blind/98%20-%20Minimum%20window%20substring%20given%20two%20strings.md) | 5 | 5 |
+| [92](#id92) | [Minimum window with characters given two s](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%205%20-%20Minimum%20Window%20Substring%20-%20Blind/92%20-%20Minimum%20window%20with%20characters%20given%20two%20s.md) | 5 | 5 |
+| [93](#id93) | [Minimum window with characters given two s](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%205%20-%20Minimum%20Window%20Substring%20-%20Blind/93%20-%20Minimum%20window%20with%20characters%20given%20two%20s.md) | 5 | 5 |
+| [94](#id94) | [Minimum window with characters given two s](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%205%20-%20Minimum%20Window%20Substring%20-%20Blind/94%20-%20Minimum%20window%20with%20characters%20given%20two%20s.md) | 5 | 5 |
+| [95](#id95) | [Minimum window with characters given two s](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%205%20-%20Minimum%20Window%20Substring%20-%20Blind/95%20-%20Minimum%20window%20with%20characters%20given%20two%20s.md) | 5 | 5 |
+| [96](#id96) | [Minimum window with characters given two s](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%205%20-%20Minimum%20Window%20Substring%20-%20Blind/96%20-%20Minimum%20window%20with%20characters%20given%20two%20s.md) | 5 | 5 |
+| [97](#id97) | [Minimum window with characters given two s](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%205%20-%20Minimum%20Window%20Substring%20-%20Blind/97%20-%20Minimum%20window%20with%20characters%20given%20two%20s.md) | 5 | 5 |
+| [98](#id98) | [Minimum window with characters given two s](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20V%20-%20Sliding%20Window/Chapter%205%20-%20Minimum%20Window%20Substring%20-%20Blind/98%20-%20Minimum%20window%20with%20characters%20given%20two%20s.md) | 5 | 5 |
 | **-** | **Linked List** | **6** | **-** |
 | **-** | **Linked List > Reverse Linked List** | **6** | **1** |
-| [99](#id99) | [Reverse linked list given the head of a](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%201%20-%20Reverse%20Linked%20List%20-%20Blind/99%20-%20Reverse%20linked%20list%20given%20the%20head%20of%20a.md) | 6 | 1 |
-| [100](#id100) | [Reverse linked list given the head of a](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%201%20-%20Reverse%20Linked%20List%20-%20Blind/100%20-%20Reverse%20linked%20list%20given%20the%20head%20of%20a.md) | 6 | 1 |
-| [101](#id101) | [Reverse linked list given the head of a](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%201%20-%20Reverse%20Linked%20List%20-%20Blind/101%20-%20Reverse%20linked%20list%20given%20the%20head%20of%20a.md) | 6 | 1 |
-| [102](#id102) | [Reverse linked list given the head of a](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%201%20-%20Reverse%20Linked%20List%20-%20Blind/102%20-%20Reverse%20linked%20list%20given%20the%20head%20of%20a.md) | 6 | 1 |
+| [99](#id99) | [Reverse a linked list given the beginning](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%201%20-%20Reverse%20Linked%20List%20-%20Blind/99%20-%20Reverse%20a%20linked%20list%20given%20the%20beginning.md) | 6 | 1 |
+| [100](#id100) | [Reverse a linked list given the beginning](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%201%20-%20Reverse%20Linked%20List%20-%20Blind/100%20-%20Reverse%20a%20linked%20list%20given%20the%20beginning.md) | 6 | 1 |
+| [101](#id101) | [Reverse a linked list given the beginning](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%201%20-%20Reverse%20Linked%20List%20-%20Blind/101%20-%20Reverse%20a%20linked%20list%20given%20the%20beginning.md) | 6 | 1 |
+| [102](#id102) | [Reverse a linked list given the beginning](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%201%20-%20Reverse%20Linked%20List%20-%20Blind/102%20-%20Reverse%20a%20linked%20list%20given%20the%20beginning.md) | 6 | 1 |
 | **-** | **Linked List > Merge Two Sorted Lists** | **6** | **2** |
-| [103](#id103) | [Merge two sorted lists you are given the h](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%202%20-%20Merge%20Two%20Sorted%20Lists%20-%20Blind/103%20-%20Merge%20two%20sorted%20lists%20you%20are%20given%20the%20h.md) | 6 | 2 |
-| [104](#id104) | [Merge two sorted lists you are given the h](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%202%20-%20Merge%20Two%20Sorted%20Lists%20-%20Blind/104%20-%20Merge%20two%20sorted%20lists%20you%20are%20given%20the%20h.md) | 6 | 2 |
-| [105](#id105) | [Merge two sorted lists you are given the h](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%202%20-%20Merge%20Two%20Sorted%20Lists%20-%20Blind/105%20-%20Merge%20two%20sorted%20lists%20you%20are%20given%20the%20h.md) | 6 | 2 |
-| [106](#id106) | [Merge two sorted lists you are given the h](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%202%20-%20Merge%20Two%20Sorted%20Lists%20-%20Blind/106%20-%20Merge%20two%20sorted%20lists%20you%20are%20given%20the%20h.md) | 6 | 2 |
-| [107](#id107) | [Merge two sorted lists you are given the h](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%202%20-%20Merge%20Two%20Sorted%20Lists%20-%20Blind/107%20-%20Merge%20two%20sorted%20lists%20you%20are%20given%20the%20h.md) | 6 | 2 |
+| [103](#id103) | [Merge two sorted linked lists you are give](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%202%20-%20Merge%20Two%20Sorted%20Lists%20-%20Blind/103%20-%20Merge%20two%20sorted%20linked%20lists%20you%20are%20give.md) | 6 | 2 |
+| [104](#id104) | [Merge two sorted linked lists you are give](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%202%20-%20Merge%20Two%20Sorted%20Lists%20-%20Blind/104%20-%20Merge%20two%20sorted%20linked%20lists%20you%20are%20give.md) | 6 | 2 |
+| [105](#id105) | [Merge two sorted linked lists you are give](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%202%20-%20Merge%20Two%20Sorted%20Lists%20-%20Blind/105%20-%20Merge%20two%20sorted%20linked%20lists%20you%20are%20give.md) | 6 | 2 |
+| [106](#id106) | [Merge two sorted linked lists you are give](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%202%20-%20Merge%20Two%20Sorted%20Lists%20-%20Blind/106%20-%20Merge%20two%20sorted%20linked%20lists%20you%20are%20give.md) | 6 | 2 |
+| [107](#id107) | [Merge two sorted linked lists you are give](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%202%20-%20Merge%20Two%20Sorted%20Lists%20-%20Blind/107%20-%20Merge%20two%20sorted%20linked%20lists%20you%20are%20give.md) | 6 | 2 |
 | **-** | **Linked List > Reorder List** | **6** | **3** |
-| [108](#id108) | [Reorder list you are given the head of a s](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%203%20-%20Reorder%20List%20-%20Blind/108%20-%20Reorder%20list%20you%20are%20given%20the%20head%20of%20a%20s.md) | 6 | 3 |
-| [109](#id109) | [Reorder list you are given the head of a s](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%203%20-%20Reorder%20List%20-%20Blind/109%20-%20Reorder%20list%20you%20are%20given%20the%20head%20of%20a%20s.md) | 6 | 3 |
-| [110](#id110) | [Reorder list you are given the head of a s](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%203%20-%20Reorder%20List%20-%20Blind/110%20-%20Reorder%20list%20you%20are%20given%20the%20head%20of%20a%20s.md) | 6 | 3 |
-| [111](#id111) | [Reorder list you are given the head of a s](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%203%20-%20Reorder%20List%20-%20Blind/111%20-%20Reorder%20list%20you%20are%20given%20the%20head%20of%20a%20s.md) | 6 | 3 |
-| [112](#id112) | [Reorder list you are given the head of a s](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%203%20-%20Reorder%20List%20-%20Blind/112%20-%20Reorder%20list%20you%20are%20given%20the%20head%20of%20a%20s.md) | 6 | 3 |
+| [108](#id108) | [Reorder linked list you are given the head](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%203%20-%20Reorder%20List%20-%20Blind/108%20-%20Reorder%20linked%20list%20you%20are%20given%20the%20head.md) | 6 | 3 |
+| [109](#id109) | [Reorder linked list you are given the head](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%203%20-%20Reorder%20List%20-%20Blind/109%20-%20Reorder%20linked%20list%20you%20are%20given%20the%20head.md) | 6 | 3 |
+| [110](#id110) | [Reorder linked list you are given the head](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%203%20-%20Reorder%20List%20-%20Blind/110%20-%20Reorder%20linked%20list%20you%20are%20given%20the%20head.md) | 6 | 3 |
+| [111](#id111) | [Reorder linked list you are given the head](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%203%20-%20Reorder%20List%20-%20Blind/111%20-%20Reorder%20linked%20list%20you%20are%20given%20the%20head.md) | 6 | 3 |
+| [112](#id112) | [Reorder linked list you are given the head](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%203%20-%20Reorder%20List%20-%20Blind/112%20-%20Reorder%20linked%20list%20you%20are%20given%20the%20head.md) | 6 | 3 |
 | **-** | **Linked List > Remove Nth Node From End of List** | **6** | **4** |
-| [113](#id113) | [Remove nth node from end of list given the](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%204%20-%20Remove%20Nth%20Node%20From%20End%20of%20List%20-%20Blind/113%20-%20Remove%20nth%20node%20from%20end%20of%20list%20given%20the.md) | 6 | 4 |
-| [114](#id114) | [Remove nth node from end of list given the](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%204%20-%20Remove%20Nth%20Node%20From%20End%20of%20List%20-%20Blind/114%20-%20Remove%20nth%20node%20from%20end%20of%20list%20given%20the.md) | 6 | 4 |
-| [115](#id115) | [Remove nth node from end of list given the](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%204%20-%20Remove%20Nth%20Node%20From%20End%20of%20List%20-%20Blind/115%20-%20Remove%20nth%20node%20from%20end%20of%20list%20given%20the.md) | 6 | 4 |
-| [116](#id116) | [Remove nth node from end of list given the](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%204%20-%20Remove%20Nth%20Node%20From%20End%20of%20List%20-%20Blind/116%20-%20Remove%20nth%20node%20from%20end%20of%20list%20given%20the.md) | 6 | 4 |
-| [117](#id117) | [Remove nth node from end of list given the](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%204%20-%20Remove%20Nth%20Node%20From%20End%20of%20List%20-%20Blind/117%20-%20Remove%20nth%20node%20from%20end%20of%20list%20given%20the.md) | 6 | 4 |
+| [113](#id113) | [Remove node from end of linked list you ar](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%204%20-%20Remove%20Nth%20Node%20From%20End%20of%20List%20-%20Blind/113%20-%20Remove%20node%20from%20end%20of%20linked%20list%20you%20ar.md) | 6 | 4 |
+| [114](#id114) | [Remove node from end of linked list you ar](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%204%20-%20Remove%20Nth%20Node%20From%20End%20of%20List%20-%20Blind/114%20-%20Remove%20node%20from%20end%20of%20linked%20list%20you%20ar.md) | 6 | 4 |
+| [115](#id115) | [Remove node from end of linked list you ar](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%204%20-%20Remove%20Nth%20Node%20From%20End%20of%20List%20-%20Blind/115%20-%20Remove%20node%20from%20end%20of%20linked%20list%20you%20ar.md) | 6 | 4 |
+| [116](#id116) | [Remove node from end of linked list you ar](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%204%20-%20Remove%20Nth%20Node%20From%20End%20of%20List%20-%20Blind/116%20-%20Remove%20node%20from%20end%20of%20linked%20list%20you%20ar.md) | 6 | 4 |
+| [117](#id117) | [Remove node from end of linked list you ar](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%204%20-%20Remove%20Nth%20Node%20From%20End%20of%20List%20-%20Blind/117%20-%20Remove%20node%20from%20end%20of%20linked%20list%20you%20ar.md) | 6 | 4 |
 | **-** | **Linked List > Merge K Sorted Lists** | **6** | **10** |
-| [118](#id118) | [Merge k sorted lists you are given an arra](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%2010%20-%20Merge%20K%20Sorted%20Lists%20-%20Blind/118%20-%20Merge%20k%20sorted%20lists%20you%20are%20given%20an%20arra.md) | 6 | 10 |
-| [119](#id119) | [Merge k sorted lists you are given an arra](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%2010%20-%20Merge%20K%20Sorted%20Lists%20-%20Blind/119%20-%20Merge%20k%20sorted%20lists%20you%20are%20given%20an%20arra.md) | 6 | 10 |
-| [120](#id120) | [Merge k sorted lists you are given an arra](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%2010%20-%20Merge%20K%20Sorted%20Lists%20-%20Blind/120%20-%20Merge%20k%20sorted%20lists%20you%20are%20given%20an%20arra.md) | 6 | 10 |
-| [121](#id121) | [Merge k sorted lists you are given an arra](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%2010%20-%20Merge%20K%20Sorted%20Lists%20-%20Blind/121%20-%20Merge%20k%20sorted%20lists%20you%20are%20given%20an%20arra.md) | 6 | 10 |
-| [122](#id122) | [Merge k sorted lists you are given an arra](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%2010%20-%20Merge%20K%20Sorted%20Lists%20-%20Blind/122%20-%20Merge%20k%20sorted%20lists%20you%20are%20given%20an%20arra.md) | 6 | 10 |
-| [123](#id123) | [Merge k sorted lists you are given an arra](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%2010%20-%20Merge%20K%20Sorted%20Lists%20-%20Blind/123%20-%20Merge%20k%20sorted%20lists%20you%20are%20given%20an%20arra.md) | 6 | 10 |
+| [118](#id118) | [Merge k sorted linked lists you are given](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%2010%20-%20Merge%20K%20Sorted%20Lists%20-%20Blind/118%20-%20Merge%20k%20sorted%20linked%20lists%20you%20are%20given.md) | 6 | 10 |
+| [119](#id119) | [Merge k sorted linked lists you are given](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%2010%20-%20Merge%20K%20Sorted%20Lists%20-%20Blind/119%20-%20Merge%20k%20sorted%20linked%20lists%20you%20are%20given.md) | 6 | 10 |
+| [120](#id120) | [Merge k sorted linked lists you are given](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%2010%20-%20Merge%20K%20Sorted%20Lists%20-%20Blind/120%20-%20Merge%20k%20sorted%20linked%20lists%20you%20are%20given.md) | 6 | 10 |
+| [121](#id121) | [Merge k sorted linked lists you are given](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%2010%20-%20Merge%20K%20Sorted%20Lists%20-%20Blind/121%20-%20Merge%20k%20sorted%20linked%20lists%20you%20are%20given.md) | 6 | 10 |
+| [122](#id122) | [Merge k sorted linked lists you are given](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%2010%20-%20Merge%20K%20Sorted%20Lists%20-%20Blind/122%20-%20Merge%20k%20sorted%20linked%20lists%20you%20are%20given.md) | 6 | 10 |
+| [123](#id123) | [Merge k sorted linked lists you are given](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VI%20-%20Linked%20List/Chapter%2010%20-%20Merge%20K%20Sorted%20Lists%20-%20Blind/123%20-%20Merge%20k%20sorted%20linked%20lists%20you%20are%20given.md) | 6 | 10 |
 | **-** | **Trees** | **7** | **-** |
 | **-** | **Trees > Invert Binary Tree** | **7** | **1** |
-| [124](#id124) | [Invert binary tree given the root of a b](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%201%20-%20Invert%20Binary%20Tree%20-%20Blind/124%20-%20Invert%20binary%20tree%20given%20the%20root%20of%20a%20b.md) | 7 | 1 |
-| [125](#id125) | [Invert binary tree you are given an array](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%201%20-%20Invert%20Binary%20Tree%20-%20Blind/125%20-%20Invert%20binary%20tree%20you%20are%20given%20an%20array.md) | 7 | 1 |
-| [126](#id126) | [Invert binary tree you are given an array](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%201%20-%20Invert%20Binary%20Tree%20-%20Blind/126%20-%20Invert%20binary%20tree%20you%20are%20given%20an%20array.md) | 7 | 1 |
-| [127](#id127) | [Invert binary tree you are given an array](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%201%20-%20Invert%20Binary%20Tree%20-%20Blind/127%20-%20Invert%20binary%20tree%20you%20are%20given%20an%20array.md) | 7 | 1 |
-| [128](#id128) | [Invert binary tree you are given an array](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%201%20-%20Invert%20Binary%20Tree%20-%20Blind/128%20-%20Invert%20binary%20tree%20you%20are%20given%20an%20array.md) | 7 | 1 |
+| [124](#id124) | [Invert a binary tree you are given the roo](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%201%20-%20Invert%20Binary%20Tree%20-%20Blind/124%20-%20Invert%20a%20binary%20tree%20you%20are%20given%20the%20roo.md) | 7 | 1 |
+| [125](#id125) | [Invert a binary tree you are given the roo](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%201%20-%20Invert%20Binary%20Tree%20-%20Blind/125%20-%20Invert%20a%20binary%20tree%20you%20are%20given%20the%20roo.md) | 7 | 1 |
+| [126](#id126) | [Invert a binary tree you are given the roo](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%201%20-%20Invert%20Binary%20Tree%20-%20Blind/126%20-%20Invert%20a%20binary%20tree%20you%20are%20given%20the%20roo.md) | 7 | 1 |
+| [127](#id127) | [Invert a binary tree you are given the roo](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%201%20-%20Invert%20Binary%20Tree%20-%20Blind/127%20-%20Invert%20a%20binary%20tree%20you%20are%20given%20the%20roo.md) | 7 | 1 |
+| [128](#id128) | [Invert a binary tree you are given the roo](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%201%20-%20Invert%20Binary%20Tree%20-%20Blind/128%20-%20Invert%20a%20binary%20tree%20you%20are%20given%20the%20roo.md) | 7 | 1 |
 | **-** | **Trees > Maximum Depth of Binary Tree** | **7** | **2** |
-| [129](#id129) | [Maximum depth of binary tree given the ro](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%202%20-%20Maximum%20Depth%20of%20Binary%20Tree%20-%20Blind/129%20-%20Maximum%20depth%20of%20binary%20tree%20given%20the%20ro.md) | 7 | 2 |
-| [130](#id130) | [Maximum depth of binary tree you are given](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%202%20-%20Maximum%20Depth%20of%20Binary%20Tree%20-%20Blind/130%20-%20Maximum%20depth%20of%20binary%20tree%20you%20are%20given.md) | 7 | 2 |
-| [131](#id131) | [Maximum depth of binary tree you are given](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%202%20-%20Maximum%20Depth%20of%20Binary%20Tree%20-%20Blind/131%20-%20Maximum%20depth%20of%20binary%20tree%20you%20are%20given.md) | 7 | 2 |
-| [132](#id132) | [Maximum depth of binary tree you are given](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%202%20-%20Maximum%20Depth%20of%20Binary%20Tree%20-%20Blind/132%20-%20Maximum%20depth%20of%20binary%20tree%20you%20are%20given.md) | 7 | 2 |
-| [133](#id133) | [Maximum depth of binary tree you are given](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%202%20-%20Maximum%20Depth%20of%20Binary%20Tree%20-%20Blind/133%20-%20Maximum%20depth%20of%20binary%20tree%20you%20are%20given.md) | 7 | 2 |
+| [129](#id129) | [Depth of binary tree given the root of a](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%202%20-%20Maximum%20Depth%20of%20Binary%20Tree%20-%20Blind/129%20-%20Depth%20of%20binary%20tree%20given%20the%20root%20of%20a.md) | 7 | 2 |
+| [130](#id130) | [Depth of binary tree given the root of a](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%202%20-%20Maximum%20Depth%20of%20Binary%20Tree%20-%20Blind/130%20-%20Depth%20of%20binary%20tree%20given%20the%20root%20of%20a.md) | 7 | 2 |
+| [131](#id131) | [Depth of binary tree given the root of a](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%202%20-%20Maximum%20Depth%20of%20Binary%20Tree%20-%20Blind/131%20-%20Depth%20of%20binary%20tree%20given%20the%20root%20of%20a.md) | 7 | 2 |
+| [132](#id132) | [Depth of binary tree given the root of a](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%202%20-%20Maximum%20Depth%20of%20Binary%20Tree%20-%20Blind/132%20-%20Depth%20of%20binary%20tree%20given%20the%20root%20of%20a.md) | 7 | 2 |
+| [133](#id133) | [Depth of binary tree given the root of a](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%202%20-%20Maximum%20Depth%20of%20Binary%20Tree%20-%20Blind/133%20-%20Depth%20of%20binary%20tree%20given%20the%20root%20of%20a.md) | 7 | 2 |
 | **-** | **Trees > Same Tree** | **7** | **5** |
 | [134](#id134) | [Same tree given the roots of two binary tr](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%205%20-%20Same%20Tree%20-%20Blind/134%20-%20Same%20tree%20given%20the%20roots%20of%20two%20binary%20tr.md) | 7 | 5 |
 | [135](#id135) | [Same tree given the roots of two binary tr](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20VII%20-%20Trees/Chapter%205%20-%20Same%20Tree%20-%20Blind/135%20-%20Same%20tree%20given%20the%20roots%20of%20two%20binary%20tr.md) | 7 | 5 |
@@ -222,28 +222,25 @@
 
 Q:: =============================================  
 
-##### Contains Duplicate
+##### Duplicate Integer
 
-Given an integer array `nums`, return `true` if any value appears at least twice in the array, and return `false` if every element is distinct.
+Given an integer array `nums`, return `true` if any value appears **more than once** in the array, otherwise return `false`.
 
 **Example 1:**
 
 ```
-Input: nums = [1,2,3,1]
+Input: nums = [1, 2, 3, 3]
+
 Output: true
 ```
 
 **Example 2:**
 
 ```
-Input: nums = [1,2,3,4]
+Input: nums = [1, 2, 3, 4]
+
 Output: false
 ```
-
-**Constraints:**
-
--   `1 <= nums.length <= 10^5`
--   `10^9 <= nums[i] <= 10^9`
 
 ___
 
@@ -266,28 +263,25 @@ There are exactly n \* (n - 1) / 2 distinct pairs of integers in the array. This
 
 Q:: =============================================  
 
-##### Contains Duplicate
+##### Duplicate Integer
 
-Given an integer array `nums`, return `true` if any value appears at least twice in the array, and return `false` if every element is distinct.
+Given an integer array `nums`, return `true` if any value appears **more than once** in the array, otherwise return `false`.
 
 **Example 1:**
 
 ```
-Input: nums = [1,2,3,1]
+Input: nums = [1, 2, 3, 3]
+
 Output: true
 ```
 
 **Example 2:**
 
 ```
-Input: nums = [1,2,3,4]
+Input: nums = [1, 2, 3, 4]
+
 Output: false
 ```
-
-**Constraints:**
-
--   `1 <= nums.length <= 10^5`
--   `10^9 <= nums[i] <= 10^9`
 
 ___
 
@@ -310,28 +304,25 @@ The brute-force solution using two nested loops has a time complexity of O(n^2) 
 
 Q:: =============================================  
 
-##### Contains Duplicate
+##### Duplicate Integer
 
-Given an integer array `nums`, return `true` if any value appears at least twice in the array, and return `false` if every element is distinct.
+Given an integer array `nums`, return `true` if any value appears **more than once** in the array, otherwise return `false`.
 
 **Example 1:**
 
 ```
-Input: nums = [1,2,3,1]
+Input: nums = [1, 2, 3, 3]
+
 Output: true
 ```
 
 **Example 2:**
 
 ```
-Input: nums = [1,2,3,4]
+Input: nums = [1, 2, 3, 4]
+
 Output: false
 ```
-
-**Constraints:**
-
--   `1 <= nums.length <= 10^5`
--   `10^9 <= nums[i] <= 10^9`
 
 ___
 
@@ -354,28 +345,25 @@ A Hashmap (or Hashtable) and a HashSet allow us to store and retrieve values in 
 
 Q:: =============================================  
 
-##### Contains Duplicate
+##### Duplicate Integer
 
-Given an integer array `nums`, return `true` if any value appears at least twice in the array, and return `false` if every element is distinct.
+Given an integer array `nums`, return `true` if any value appears **more than once** in the array, otherwise return `false`.
 
 **Example 1:**
 
 ```
-Input: nums = [1,2,3,1]
+Input: nums = [1, 2, 3, 3]
+
 Output: true
 ```
 
 **Example 2:**
 
 ```
-Input: nums = [1,2,3,4]
+Input: nums = [1, 2, 3, 4]
+
 Output: false
 ```
-
-**Constraints:**
-
--   `1 <= nums.length <= 10^5`
--   `10^9 <= nums[i] <= 10^9`
 
 ___
 
@@ -396,28 +384,25 @@ A HashSet does not allow duplicate values. So, if you try to insert an element t
 
 Q:: =============================================  
 
-##### Contains Duplicate
+##### Duplicate Integer
 
-Given an integer array `nums`, return `true` if any value appears at least twice in the array, and return `false` if every element is distinct.
+Given an integer array `nums`, return `true` if any value appears **more than once** in the array, otherwise return `false`.
 
 **Example 1:**
 
 ```
-Input: nums = [1,2,3,1]
+Input: nums = [1, 2, 3, 3]
+
 Output: true
 ```
 
 **Example 2:**
 
 ```
-Input: nums = [1,2,3,4]
+Input: nums = [1, 2, 3, 4]
+
 Output: false
 ```
-
-**Constraints:**
-
--   `1 <= nums.length <= 10^5`
--   `10^9 <= nums[i] <= 10^9`
 
 ___
 
@@ -446,29 +431,30 @@ The hashmap solution has a time complexity of O(n) because you need to iterate t
 
 Q:: =============================================  
 
-##### Valid Anagram
+##### Is Anagram
 
-Given two strings `s` and `t`, return `true` if `t` is an anagram of `s`, and `false` otherwise.
+Given two strings `s` and `t`, return `true` if the two strings are anagrams of each other, otherwise return `false`.
 
-An **Anagram** is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once.
+An **anagram** is a string that contains the exact same characters as another string, but the order of the characters can be different.
 
 **Example 1:**
 
 ```
-Input: s = "anagram", t = "nagaram"
+Input: s = "racecar", t = "carrace"
+
 Output: true
 ```
 
 **Example 2:**
 
 ```
-Input: s = "rat", t = "car"
+Input: s = "jar", t = "jam"
+
 Output: false
 ```
 
 **Constraints:**
 
--   `1 <= s.length, t.length <= 5 * 10^4`
 -   `s` and `t` consist of lowercase English letters.
 
 ___
@@ -492,29 +478,30 @@ An anagram is a word or phrase formed by rearranging the letters of a different 
 
 Q:: =============================================  
 
-##### Valid Anagram
+##### Is Anagram
 
-Given two strings `s` and `t`, return `true` if `t` is an anagram of `s`, and `false` otherwise.
+Given two strings `s` and `t`, return `true` if the two strings are anagrams of each other, otherwise return `false`.
 
-An **Anagram** is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once.
+An **anagram** is a string that contains the exact same characters as another string, but the order of the characters can be different.
 
 **Example 1:**
 
 ```
-Input: s = "anagram", t = "nagaram"
+Input: s = "racecar", t = "carrace"
+
 Output: true
 ```
 
 **Example 2:**
 
 ```
-Input: s = "rat", t = "car"
+Input: s = "jar", t = "jam"
+
 Output: false
 ```
 
 **Constraints:**
 
--   `1 <= s.length, t.length <= 5 * 10^4`
 -   `s` and `t` consist of lowercase English letters.
 
 ___
@@ -536,29 +523,30 @@ By converting each word to an array, sorting the arrays, and then comparing them
 
 Q:: =============================================  
 
-##### Valid Anagram
+##### Is Anagram
 
-Given two strings `s` and `t`, return `true` if `t` is an anagram of `s`, and `false` otherwise.
+Given two strings `s` and `t`, return `true` if the two strings are anagrams of each other, otherwise return `false`.
 
-An **Anagram** is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once.
+An **anagram** is a string that contains the exact same characters as another string, but the order of the characters can be different.
 
 **Example 1:**
 
 ```
-Input: s = "anagram", t = "nagaram"
+Input: s = "racecar", t = "carrace"
+
 Output: true
 ```
 
 **Example 2:**
 
 ```
-Input: s = "rat", t = "car"
+Input: s = "jar", t = "jam"
+
 Output: false
 ```
 
 **Constraints:**
 
--   `1 <= s.length, t.length <= 5 * 10^4`
 -   `s` and `t` consist of lowercase English letters.
 
 ___
@@ -582,29 +570,30 @@ The time complexity of sorting an array of n elements is O(n log n), and the tim
 
 Q:: =============================================  
 
-##### Valid Anagram
+##### Is Anagram
 
-Given two strings `s` and `t`, return `true` if `t` is an anagram of `s`, and `false` otherwise.
+Given two strings `s` and `t`, return `true` if the two strings are anagrams of each other, otherwise return `false`.
 
-An **Anagram** is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once.
+An **anagram** is a string that contains the exact same characters as another string, but the order of the characters can be different.
 
 **Example 1:**
 
 ```
-Input: s = "anagram", t = "nagaram"
+Input: s = "racecar", t = "carrace"
+
 Output: true
 ```
 
 **Example 2:**
 
 ```
-Input: s = "rat", t = "car"
+Input: s = "jar", t = "jam"
+
 Output: false
 ```
 
 **Constraints:**
 
--   `1 <= s.length, t.length <= 5 * 10^4`
 -   `s` and `t` consist of lowercase English letters.
 
 ___
@@ -626,29 +615,30 @@ Given the constraints of the problem and the nature of anagrams, we can use a ha
 
 Q:: =============================================  
 
-##### Valid Anagram
+##### Is Anagram
 
-Given two strings `s` and `t`, return `true` if `t` is an anagram of `s`, and `false` otherwise.
+Given two strings `s` and `t`, return `true` if the two strings are anagrams of each other, otherwise return `false`.
 
-An **Anagram** is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once.
+An **anagram** is a string that contains the exact same characters as another string, but the order of the characters can be different.
 
 **Example 1:**
 
 ```
-Input: s = "anagram", t = "nagaram"
+Input: s = "racecar", t = "carrace"
+
 Output: true
 ```
 
 **Example 2:**
 
 ```
-Input: s = "rat", t = "car"
+Input: s = "jar", t = "jam"
+
 Output: false
 ```
 
 **Constraints:**
 
--   `1 <= s.length, t.length <= 5 * 10^4`
 -   `s` and `t` consist of lowercase English letters.
 
 ___
@@ -670,29 +660,30 @@ In this case, the keys would be the letters, and the values would be the count o
 
 Q:: =============================================  
 
-##### Valid Anagram
+##### Is Anagram
 
-Given two strings `s` and `t`, return `true` if `t` is an anagram of `s`, and `false` otherwise.
+Given two strings `s` and `t`, return `true` if the two strings are anagrams of each other, otherwise return `false`.
 
-An **Anagram** is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once.
+An **anagram** is a string that contains the exact same characters as another string, but the order of the characters can be different.
 
 **Example 1:**
 
 ```
-Input: s = "anagram", t = "nagaram"
+Input: s = "racecar", t = "carrace"
+
 Output: true
 ```
 
 **Example 2:**
 
 ```
-Input: s = "rat", t = "car"
+Input: s = "jar", t = "jam"
+
 Output: false
 ```
 
 **Constraints:**
 
--   `1 <= s.length, t.length <= 5 * 10^4`
 -   `s` and `t` consist of lowercase English letters.
 
 ___
@@ -718,21 +709,46 @@ The time complexity of this solution is O(n) because we iterate over the input s
 
 Q:: =============================================  
 
-##### Two Sum
+##### Two Integer Sum
 
-Given an array of integers `nums` and an integer `target`, return indices of the two numbers such that they add up to `target`.
+Given an array of integers `nums` and an integer `target`, return the indices `i` and `j` such that `nums[i] + nums[j] == target` and `i != j`.
 
-You may assume that each input would have **exactly one solution**, and you may not use the same element twice.
+You may assume that _every_ input has exactly one pair of indices `i` and `j` that satisfy the condition.
 
-You can return the answer in any order.
+Return the answer with the smaller index first.
 
-Example 1:
+**Example 1:**
 
 ```
-Input: nums = [2,7,11,15], target = 9
+Input: 
+nums = [3,4,5,6], target = 7
+
 Output: [0,1]
-Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
 ```
+
+Explanation: `nums[0] + nums[1] == 7`, so we return `[0, 1]`.
+
+**Example 2:**
+
+```
+Input: nums = [4,5,6], target = 10
+
+Output: [0,2]
+```
+
+**Example 3:**
+
+```
+Input: nums = [5,5], target = 10
+
+Output: [0,1]
+```
+
+**Constraints:**
+
+-   `2 <= nums.length <= 1000`
+-   `-10,000,000 <= nums[i] <= 10,000,000`
+-   `-10,000,000 <= target <= 10,000,000`
 
 ___
 
@@ -755,21 +771,46 @@ There are exactly n \* (n - 1) / 2 distinct pairs of integers in the array. This
 
 Q:: =============================================  
 
-##### Two Sum
+##### Two Integer Sum
 
-Given an array of integers `nums` and an integer `target`, return indices of the two numbers such that they add up to `target`.
+Given an array of integers `nums` and an integer `target`, return the indices `i` and `j` such that `nums[i] + nums[j] == target` and `i != j`.
 
-You may assume that each input would have **exactly one solution**, and you may not use the same element twice.
+You may assume that _every_ input has exactly one pair of indices `i` and `j` that satisfy the condition.
 
-You can return the answer in any order.
+Return the answer with the smaller index first.
 
-Example 1:
+**Example 1:**
 
 ```
-Input: nums = [2,7,11,15], target = 9
+Input: 
+nums = [3,4,5,6], target = 7
+
 Output: [0,1]
-Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
 ```
+
+Explanation: `nums[0] + nums[1] == 7`, so we return `[0, 1]`.
+
+**Example 2:**
+
+```
+Input: nums = [4,5,6], target = 10
+
+Output: [0,2]
+```
+
+**Example 3:**
+
+```
+Input: nums = [5,5], target = 10
+
+Output: [0,1]
+```
+
+**Constraints:**
+
+-   `2 <= nums.length <= 1000`
+-   `-10,000,000 <= nums[i] <= 10,000,000`
+-   `-10,000,000 <= target <= 10,000,000`
 
 ___
 
@@ -790,21 +831,46 @@ To find all pairs of elements with different indices in the array, you can use t
 
 Q:: =============================================  
 
-##### Two Sum
+##### Two Integer Sum
 
-Given an array of integers `nums` and an integer `target`, return indices of the two numbers such that they add up to `target`.
+Given an array of integers `nums` and an integer `target`, return the indices `i` and `j` such that `nums[i] + nums[j] == target` and `i != j`.
 
-You may assume that each input would have **exactly one solution**, and you may not use the same element twice.
+You may assume that _every_ input has exactly one pair of indices `i` and `j` that satisfy the condition.
 
-You can return the answer in any order.
+Return the answer with the smaller index first.
 
-Example 1:
+**Example 1:**
 
 ```
-Input: nums = [2,7,11,15], target = 9
+Input: 
+nums = [3,4,5,6], target = 7
+
 Output: [0,1]
-Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
 ```
+
+Explanation: `nums[0] + nums[1] == 7`, so we return `[0, 1]`.
+
+**Example 2:**
+
+```
+Input: nums = [4,5,6], target = 10
+
+Output: [0,2]
+```
+
+**Example 3:**
+
+```
+Input: nums = [5,5], target = 10
+
+Output: [0,1]
+```
+
+**Constraints:**
+
+-   `2 <= nums.length <= 1000`
+-   `-10,000,000 <= nums[i] <= 10,000,000`
+-   `-10,000,000 <= target <= 10,000,000`
 
 ___
 
@@ -827,21 +893,46 @@ The brute-force solution using two nested loops has a time complexity of O(n^2) 
 
 Q:: =============================================  
 
-##### Two Sum
+##### Two Integer Sum
 
-Given an array of integers `nums` and an integer `target`, return indices of the two numbers such that they add up to `target`.
+Given an array of integers `nums` and an integer `target`, return the indices `i` and `j` such that `nums[i] + nums[j] == target` and `i != j`.
 
-You may assume that each input would have **exactly one solution**, and you may not use the same element twice.
+You may assume that _every_ input has exactly one pair of indices `i` and `j` that satisfy the condition.
 
-You can return the answer in any order.
+Return the answer with the smaller index first.
 
-Example 1:
+**Example 1:**
 
 ```
-Input: nums = [2,7,11,15], target = 9
+Input: 
+nums = [3,4,5,6], target = 7
+
 Output: [0,1]
-Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
 ```
+
+Explanation: `nums[0] + nums[1] == 7`, so we return `[0, 1]`.
+
+**Example 2:**
+
+```
+Input: nums = [4,5,6], target = 10
+
+Output: [0,2]
+```
+
+**Example 3:**
+
+```
+Input: nums = [5,5], target = 10
+
+Output: [0,1]
+```
+
+**Constraints:**
+
+-   `2 <= nums.length <= 1000`
+-   `-10,000,000 <= nums[i] <= 10,000,000`
+-   `-10,000,000 <= target <= 10,000,000`
 
 ___
 
@@ -864,21 +955,46 @@ We can solve this equation for y: y = target - x. For example, if target=9, and 
 
 Q:: =============================================  
 
-##### Two Sum
+##### Two Integer Sum
 
-Given an array of integers `nums` and an integer `target`, return indices of the two numbers such that they add up to `target`.
+Given an array of integers `nums` and an integer `target`, return the indices `i` and `j` such that `nums[i] + nums[j] == target` and `i != j`.
 
-You may assume that each input would have **exactly one solution**, and you may not use the same element twice.
+You may assume that _every_ input has exactly one pair of indices `i` and `j` that satisfy the condition.
 
-You can return the answer in any order.
+Return the answer with the smaller index first.
 
-Example 1:
+**Example 1:**
 
 ```
-Input: nums = [2,7,11,15], target = 9
+Input: 
+nums = [3,4,5,6], target = 7
+
 Output: [0,1]
-Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
 ```
+
+Explanation: `nums[0] + nums[1] == 7`, so we return `[0, 1]`.
+
+**Example 2:**
+
+```
+Input: nums = [4,5,6], target = 10
+
+Output: [0,2]
+```
+
+**Example 3:**
+
+```
+Input: nums = [5,5], target = 10
+
+Output: [0,1]
+```
+
+**Constraints:**
+
+-   `2 <= nums.length <= 1000`
+-   `-10,000,000 <= nums[i] <= 10,000,000`
+-   `-10,000,000 <= target <= 10,000,000`
 
 ___
 
@@ -901,21 +1017,46 @@ Yes, you can reduce the time complexity using a hashmap. A hashmap allows you to
 
 Q:: =============================================  
 
-##### Two Sum
+##### Two Integer Sum
 
-Given an array of integers `nums` and an integer `target`, return indices of the two numbers such that they add up to `target`.
+Given an array of integers `nums` and an integer `target`, return the indices `i` and `j` such that `nums[i] + nums[j] == target` and `i != j`.
 
-You may assume that each input would have **exactly one solution**, and you may not use the same element twice.
+You may assume that _every_ input has exactly one pair of indices `i` and `j` that satisfy the condition.
 
-You can return the answer in any order.
+Return the answer with the smaller index first.
 
-Example 1:
+**Example 1:**
 
 ```
-Input: nums = [2,7,11,15], target = 9
+Input: 
+nums = [3,4,5,6], target = 7
+
 Output: [0,1]
-Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
 ```
+
+Explanation: `nums[0] + nums[1] == 7`, so we return `[0, 1]`.
+
+**Example 2:**
+
+```
+Input: nums = [4,5,6], target = 10
+
+Output: [0,2]
+```
+
+**Example 3:**
+
+```
+Input: nums = [5,5], target = 10
+
+Output: [0,1]
+```
+
+**Constraints:**
+
+-   `2 <= nums.length <= 1000`
+-   `-10,000,000 <= nums[i] <= 10,000,000`
+-   `-10,000,000 <= target <= 10,000,000`
 
 ___
 
@@ -936,21 +1077,46 @@ By storing each element in the array as a key and its index as the corresponding
 
 Q:: =============================================  
 
-##### Two Sum
+##### Two Integer Sum
 
-Given an array of integers `nums` and an integer `target`, return indices of the two numbers such that they add up to `target`.
+Given an array of integers `nums` and an integer `target`, return the indices `i` and `j` such that `nums[i] + nums[j] == target` and `i != j`.
 
-You may assume that each input would have **exactly one solution**, and you may not use the same element twice.
+You may assume that _every_ input has exactly one pair of indices `i` and `j` that satisfy the condition.
 
-You can return the answer in any order.
+Return the answer with the smaller index first.
 
-Example 1:
+**Example 1:**
 
 ```
-Input: nums = [2,7,11,15], target = 9
+Input: 
+nums = [3,4,5,6], target = 7
+
 Output: [0,1]
-Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
 ```
+
+Explanation: `nums[0] + nums[1] == 7`, so we return `[0, 1]`.
+
+**Example 2:**
+
+```
+Input: nums = [4,5,6], target = 10
+
+Output: [0,2]
+```
+
+**Example 3:**
+
+```
+Input: nums = [5,5], target = 10
+
+Output: [0,1]
+```
+
+**Constraints:**
+
+-   `2 <= nums.length <= 1000`
+-   `-10,000,000 <= nums[i] <= 10,000,000`
+-   `-10,000,000 <= target <= 10,000,000`
 
 ___
 
@@ -1320,40 +1486,33 @@ Given that the strings are made up of lowercase English letters and the maximum 
 
 Q:: =============================================  
 
-##### Encode and Decode Strings
+##### String Encode and Decode
 
-Design an algorithm to encode **a list of strings** to **a string**. The encoded string is then sent over the network and is decoded back to the original list of strings.
+Design an algorithm to encode a list of strings to a single string. The encoded string is then decoded back to the original list of strings.
 
 Please implement `encode` and `decode`
 
-**Example1**
+**Example 1:**
 
 ```
-Input: dummy_input = ["Hello", "World"]
-Output: ["Hello", "World"]
-Explanation:
-Machine 1:
-Codec encoder = new Codec();
-String msg = encoder.encode(strs);
-Machine 1 ---msg---&gt; Machine 2
+Input: ["neet","code","love","you"]
 
-Machine 2:
-Codec decoder = new Codec();
-String[] strs = decoder.decode(msg);
+Output:["neet","code","love","you"]
 ```
 
-**Example2**
+**Example 2:**
 
 ```
-Input: dummy_input = [""]
-Output: [""]
+Input: ["we","say",":","yes"]
+
+Output: ["we","say",":","yes"]
 ```
 
 **Constraints:**
 
--   `1 <= strs.length <= 200`
--   `0 <= strs[i].length <= 200`
--   `strs[i] contains any possible characters out of 256 valid ASCII characters`
+-   `0 <= strs.length < 100`
+-   `0 <= strs[i].length < 200`
+-   `strs[i]` contains only UTF-8 characters.
 
 ___
 
@@ -1374,40 +1533,33 @@ If we use a special character to separate the strings, it could be a problem if 
 
 Q:: =============================================  
 
-##### Encode and Decode Strings
+##### String Encode and Decode
 
-Design an algorithm to encode **a list of strings** to **a string**. The encoded string is then sent over the network and is decoded back to the original list of strings.
+Design an algorithm to encode a list of strings to a single string. The encoded string is then decoded back to the original list of strings.
 
 Please implement `encode` and `decode`
 
-**Example1**
+**Example 1:**
 
 ```
-Input: dummy_input = ["Hello", "World"]
-Output: ["Hello", "World"]
-Explanation:
-Machine 1:
-Codec encoder = new Codec();
-String msg = encoder.encode(strs);
-Machine 1 ---msg---&gt; Machine 2
+Input: ["neet","code","love","you"]
 
-Machine 2:
-Codec decoder = new Codec();
-String[] strs = decoder.decode(msg);
+Output:["neet","code","love","you"]
 ```
 
-**Example2**
+**Example 2:**
 
 ```
-Input: dummy_input = [""]
-Output: [""]
+Input: ["we","say",":","yes"]
+
+Output: ["we","say",":","yes"]
 ```
 
 **Constraints:**
 
--   `1 <= strs.length <= 200`
--   `0 <= strs[i].length <= 200`
--   `strs[i] contains any possible characters out of 256 valid ASCII characters`
+-   `0 <= strs.length < 100`
+-   `0 <= strs[i].length < 200`
+-   `strs[i]` contains only UTF-8 characters.
 
 ___
 
@@ -1428,40 +1580,33 @@ Prefixing each string with its own length allows us to know exactly where each s
 
 Q:: =============================================  
 
-##### Encode and Decode Strings
+##### String Encode and Decode
 
-Design an algorithm to encode **a list of strings** to **a string**. The encoded string is then sent over the network and is decoded back to the original list of strings.
+Design an algorithm to encode a list of strings to a single string. The encoded string is then decoded back to the original list of strings.
 
 Please implement `encode` and `decode`
 
-**Example1**
+**Example 1:**
 
 ```
-Input: dummy_input = ["Hello", "World"]
-Output: ["Hello", "World"]
-Explanation:
-Machine 1:
-Codec encoder = new Codec();
-String msg = encoder.encode(strs);
-Machine 1 ---msg---&gt; Machine 2
+Input: ["neet","code","love","you"]
 
-Machine 2:
-Codec decoder = new Codec();
-String[] strs = decoder.decode(msg);
+Output:["neet","code","love","you"]
 ```
 
-**Example2**
+**Example 2:**
 
 ```
-Input: dummy_input = [""]
-Output: [""]
+Input: ["we","say",":","yes"]
+
+Output: ["we","say",":","yes"]
 ```
 
 **Constraints:**
 
--   `1 <= strs.length <= 200`
--   `0 <= strs[i].length <= 200`
--   `strs[i] contains any possible characters out of 256 valid ASCII characters`
+-   `0 <= strs.length < 100`
+-   `0 <= strs[i].length < 200`
+-   `strs[i]` contains only UTF-8 characters.
 
 ___
 
@@ -1482,40 +1627,33 @@ If the delimiter is a number, it could lead to confusion during decoding. Hence,
 
 Q:: =============================================  
 
-##### Encode and Decode Strings
+##### String Encode and Decode
 
-Design an algorithm to encode **a list of strings** to **a string**. The encoded string is then sent over the network and is decoded back to the original list of strings.
+Design an algorithm to encode a list of strings to a single string. The encoded string is then decoded back to the original list of strings.
 
 Please implement `encode` and `decode`
 
-**Example1**
+**Example 1:**
 
 ```
-Input: dummy_input = ["Hello", "World"]
-Output: ["Hello", "World"]
-Explanation:
-Machine 1:
-Codec encoder = new Codec();
-String msg = encoder.encode(strs);
-Machine 1 ---msg---&gt; Machine 2
+Input: ["neet","code","love","you"]
 
-Machine 2:
-Codec decoder = new Codec();
-String[] strs = decoder.decode(msg);
+Output:["neet","code","love","you"]
 ```
 
-**Example2**
+**Example 2:**
 
 ```
-Input: dummy_input = [""]
-Output: [""]
+Input: ["we","say",":","yes"]
+
+Output: ["we","say",":","yes"]
 ```
 
 **Constraints:**
 
--   `1 <= strs.length <= 200`
--   `0 <= strs[i].length <= 200`
--   `strs[i] contains any possible characters out of 256 valid ASCII characters`
+-   `0 <= strs.length < 100`
+-   `0 <= strs[i].length < 200`
+-   `strs[i]` contains only UTF-8 characters.
 
 ___
 
@@ -1563,21 +1701,33 @@ Q:: =============================================
 
 ##### Longest Consecutive Sequence
 
-Given an unsorted array of integers `nums`, return the length of the longest consecutive elements sequence.
+Given an array of integers `nums`, return _the length_ of the longest consecutive sequence of elements.
+
+A _consecutive sequence_ is a sequence of elements in which each element is exactly `1` greater than the previous element.
 
 You must write an algorithm that runs in `O(n)` time.
 
 **Example 1:**
 
 ```
-Input: nums = [100,4,200,1,3,2]
+Input: nums = [2,20,4,10,3,4,5]
+
 Output: 4
-Explanation: The longest consecutive elements sequence is [1, 2, 3, 4]. Therefore its length is 4.
+```
+
+Explanation: The longest consecutive sequence is `[2, 3, 4, 5]`.
+
+**Example 2:**
+
+```
+Input: nums = [0,3,2,5,4,6,1,1]
+
+Output: 7
 ```
 
 **Constraints:**
 
--   `0 <= nums.length <= 10^5`
+-   `0 <= nums.length <= 1000`
 -   `-10^9 <= nums[i] <= 10^9`
 
 ___
@@ -1603,21 +1753,33 @@ Q:: =============================================
 
 ##### Longest Consecutive Sequence
 
-Given an unsorted array of integers `nums`, return the _length of the longest consecutive elements sequence_.
+Given an array of integers `nums`, return _the length_ of the longest consecutive sequence of elements.
+
+A _consecutive sequence_ is a sequence of elements in which each element is exactly `1` greater than the previous element.
 
 You must write an algorithm that runs in `O(n)` time.
 
 **Example 1:**
 
 ```
-Input: nums = [100,4,200,1,3,2]
+Input: nums = [2,20,4,10,3,4,5]
+
 Output: 4
-Explanation: The longest consecutive elements sequence is [1, 2, 3, 4]. Therefore its length is 4.
+```
+
+Explanation: The longest consecutive sequence is `[2, 3, 4, 5]`.
+
+**Example 2:**
+
+```
+Input: nums = [0,3,2,5,4,6,1,1]
+
+Output: 7
 ```
 
 **Constraints:**
 
--   `0 <= nums.length <= 10^5`
+-   `0 <= nums.length <= 1000`
 -   `-10^9 <= nums[i] <= 10^9`
 
 ___
@@ -1643,21 +1805,33 @@ Q:: =============================================
 
 ##### Longest Consecutive Sequence
 
-Given an unsorted array of integers `nums`, return the _length of the longest consecutive elements sequence_.
+Given an array of integers `nums`, return _the length_ of the longest consecutive sequence of elements.
+
+A _consecutive sequence_ is a sequence of elements in which each element is exactly `1` greater than the previous element.
 
 You must write an algorithm that runs in `O(n)` time.
 
 **Example 1:**
 
 ```
-Input: nums = [100,4,200,1,3,2]
+Input: nums = [2,20,4,10,3,4,5]
+
 Output: 4
-Explanation: The longest consecutive elements sequence is [1, 2, 3, 4]. Therefore its length is 4.
+```
+
+Explanation: The longest consecutive sequence is `[2, 3, 4, 5]`.
+
+**Example 2:**
+
+```
+Input: nums = [0,3,2,5,4,6,1,1]
+
+Output: 7
 ```
 
 **Constraints:**
 
--   `0 <= nums.length <= 10^5`
+-   `0 <= nums.length <= 1000`
 -   `-10^9 <= nums[i] <= 10^9`
 
 ___
@@ -1683,21 +1857,33 @@ Q:: =============================================
 
 ##### Longest Consecutive Sequence
 
-Given an unsorted array of integers `nums`, return the _length of the longest consecutive elements sequence_.
+Given an array of integers `nums`, return _the length_ of the longest consecutive sequence of elements.
+
+A _consecutive sequence_ is a sequence of elements in which each element is exactly `1` greater than the previous element.
 
 You must write an algorithm that runs in `O(n)` time.
 
 **Example 1:**
 
 ```
-Input: nums = [100,4,200,1,3,2]
+Input: nums = [2,20,4,10,3,4,5]
+
 Output: 4
-Explanation: The longest consecutive elements sequence is [1, 2, 3, 4]. Therefore its length is 4.
+```
+
+Explanation: The longest consecutive sequence is `[2, 3, 4, 5]`.
+
+**Example 2:**
+
+```
+Input: nums = [0,3,2,5,4,6,1,1]
+
+Output: 7
 ```
 
 **Constraints:**
 
--   `0 <= nums.length <= 10^5`
+-   `0 <= nums.length <= 1000`
 -   `-10^9 <= nums[i] <= 10^9`
 
 ___
@@ -1723,21 +1909,33 @@ Q:: =============================================
 
 ##### Longest Consecutive Sequence
 
-Given an unsorted array of integers `nums`, return the _length of the longest consecutive elements sequence_.
+Given an array of integers `nums`, return _the length_ of the longest consecutive sequence of elements.
+
+A _consecutive sequence_ is a sequence of elements in which each element is exactly `1` greater than the previous element.
 
 You must write an algorithm that runs in `O(n)` time.
 
 **Example 1:**
 
 ```
-Input: nums = [100,4,200,1,3,2]
+Input: nums = [2,20,4,10,3,4,5]
+
 Output: 4
-Explanation: The longest consecutive elements sequence is [1, 2, 3, 4]. Therefore its length is 4.
+```
+
+Explanation: The longest consecutive sequence is `[2, 3, 4, 5]`.
+
+**Example 2:**
+
+```
+Input: nums = [0,3,2,5,4,6,1,1]
+
+Output: 7
 ```
 
 **Constraints:**
 
--   `0 <= nums.length <= 10^5`
+-   `0 <= nums.length <= 1000`
 -   `-10^9 <= nums[i] <= 10^9`
 
 ___
@@ -1759,21 +1957,33 @@ Q:: =============================================
 
 ##### Longest Consecutive Sequence
 
-Given an unsorted array of integers `nums`, return the _length of the longest consecutive elements sequence_.
+Given an array of integers `nums`, return _the length_ of the longest consecutive sequence of elements.
+
+A _consecutive sequence_ is a sequence of elements in which each element is exactly `1` greater than the previous element.
 
 You must write an algorithm that runs in `O(n)` time.
 
 **Example 1:**
 
 ```
-Input: nums = [100,4,200,1,3,2]
+Input: nums = [2,20,4,10,3,4,5]
+
 Output: 4
-Explanation: The longest consecutive elements sequence is [1, 2, 3, 4]. Therefore its length is 4.
+```
+
+Explanation: The longest consecutive sequence is `[2, 3, 4, 5]`.
+
+**Example 2:**
+
+```
+Input: nums = [0,3,2,5,4,6,1,1]
+
+Output: 7
 ```
 
 **Constraints:**
 
--   `0 <= nums.length <= 10^5`
+-   `0 <= nums.length <= 1000`
 -   `-10^9 <= nums[i] <= 10^9`
 
 ___
@@ -1802,41 +2012,36 @@ The HashSet solution has a time complexity of O(n) because you need to iterate t
 
 Q:: =============================================  
 
-##### Valid Palindrome
+##### Is Palindrome
 
-A phrase is a **palindrome** if, after converting all uppercase letters into lowercase letters and removing all non-alphanumeric characters, it reads the same forward and backward. Alphanumeric characters include letters and numbers.
+Given a string `s`, return `true` if it is a **palindrome**, otherwise return `false`.
 
-Given a string `s`, return `true` if it is a **palindrome,** or `false` otherwise.
+A **palindrome** is a string that reads the same forward and backward. It is also case-insensitive and ignores all non-alphanumeric characters.
 
 **Example 1:**
 
 ```
-Input: s = "A man, a plan, a canal: Panama"
+Input: s = "Was it a car or a cat I saw?"
+
 Output: true
-Explanation: "amanaplanacanalpanama" is a palindrome.
 ```
+
+Explanation: After considering only alphanumerical characters we have "wasitacaroracatisaw", which is a palindrome.
 
 **Example 2:**
 
 ```
-Input: s = "race a car"
+Input: s = "tab a cat"
+
 Output: false
-Explanation: "raceacar" is not a palindrome.
 ```
 
-**Example 3:**
-
-```
-Input: s = " "
-Output: true
-Explanation: s is an empty string "" after removing non-alphanumeric characters.
-Since an empty string reads the same forward and backward, it is a palindrome.
-```
+Explanation: "tabacat" is not a palindrome.
 
 **Constraints:**
 
-`1 <= s.length <= 2 * 10^5`  
-`s consists only of printable ASCII characters.`
+-   `1 <= s.length <= 1000`
+-   `s` is made up of only printable ASCII characters.
 
 ___
 
@@ -1859,41 +2064,36 @@ A crucial step to check if a string is a palindrome is to convert it to lowercas
 
 Q:: =============================================  
 
-##### Valid Palindrome
+##### Is Palindrome
 
-A phrase is a **palindrome** if, after converting all uppercase letters into lowercase letters and removing all non-alphanumeric characters, it reads the same forward and backward. Alphanumeric characters include letters and numbers.
+Given a string `s`, return `true` if it is a **palindrome**, otherwise return `false`.
 
-Given a string `s`, return `true` if it is a **palindrome,** or `false` otherwise.
+A **palindrome** is a string that reads the same forward and backward. It is also case-insensitive and ignores all non-alphanumeric characters.
 
 **Example 1:**
 
 ```
-Input: s = "A man, a plan, a canal: Panama"
+Input: s = "Was it a car or a cat I saw?"
+
 Output: true
-Explanation: "amanaplanacanalpanama" is a palindrome.
 ```
+
+Explanation: After considering only alphanumerical characters we have "wasitacaroracatisaw", which is a palindrome.
 
 **Example 2:**
 
 ```
-Input: s = "race a car"
+Input: s = "tab a cat"
+
 Output: false
-Explanation: "raceacar" is not a palindrome.
 ```
 
-**Example 3:**
-
-```
-Input: s = " "
-Output: true
-Explanation: s is an empty string "" after removing non-alphanumeric characters.
-Since an empty string reads the same forward and backward, it is a palindrome.
-```
+Explanation: "tabacat" is not a palindrome.
 
 **Constraints:**
 
-`1 <= s.length <= 2 * 10^5`  
-`s consists only of printable ASCII characters.`
+-   `1 <= s.length <= 1000`
+-   `s` is made up of only printable ASCII characters.
 
 ___
 
@@ -1916,41 +2116,36 @@ The next step is to remove all non-alphanumeric characters. This is because pali
 
 Q:: =============================================  
 
-##### Valid Palindrome
+##### Is Palindrome
 
-A phrase is a **palindrome** if, after converting all uppercase letters into lowercase letters and removing all non-alphanumeric characters, it reads the same forward and backward. Alphanumeric characters include letters and numbers.
+Given a string `s`, return `true` if it is a **palindrome**, otherwise return `false`.
 
-Given a string `s`, return `true` if it is a **palindrome,** or `false` otherwise.
+A **palindrome** is a string that reads the same forward and backward. It is also case-insensitive and ignores all non-alphanumeric characters.
 
 **Example 1:**
 
 ```
-Input: s = "A man, a plan, a canal: Panama"
+Input: s = "Was it a car or a cat I saw?"
+
 Output: true
-Explanation: "amanaplanacanalpanama" is a palindrome.
 ```
+
+Explanation: After considering only alphanumerical characters we have "wasitacaroracatisaw", which is a palindrome.
 
 **Example 2:**
 
 ```
-Input: s = "race a car"
+Input: s = "tab a cat"
+
 Output: false
-Explanation: "raceacar" is not a palindrome.
 ```
 
-**Example 3:**
-
-```
-Input: s = " "
-Output: true
-Explanation: s is an empty string "" after removing non-alphanumeric characters.
-Since an empty string reads the same forward and backward, it is a palindrome.
-```
+Explanation: "tabacat" is not a palindrome.
 
 **Constraints:**
 
-`1 <= s.length <= 2 * 10^5`  
-`s consists only of printable ASCII characters.`
+-   `1 <= s.length <= 1000`
+-   `s` is made up of only printable ASCII characters.
 
 ___
 
@@ -1973,41 +2168,36 @@ The final step to check if a string is a palindrome is to compare it to its reve
 
 Q:: =============================================  
 
-##### Valid Palindrome
+##### Is Palindrome
 
-A phrase is a **palindrome** if, after converting all uppercase letters into lowercase letters and removing all non-alphanumeric characters, it reads the same forward and backward. Alphanumeric characters include letters and numbers.
+Given a string `s`, return `true` if it is a **palindrome**, otherwise return `false`.
 
-Given a string `s`, return `true` if it is a **palindrome,** or `false` otherwise.
+A **palindrome** is a string that reads the same forward and backward. It is also case-insensitive and ignores all non-alphanumeric characters.
 
 **Example 1:**
 
 ```
-Input: s = "A man, a plan, a canal: Panama"
+Input: s = "Was it a car or a cat I saw?"
+
 Output: true
-Explanation: "amanaplanacanalpanama" is a palindrome.
 ```
+
+Explanation: After considering only alphanumerical characters we have "wasitacaroracatisaw", which is a palindrome.
 
 **Example 2:**
 
 ```
-Input: s = "race a car"
+Input: s = "tab a cat"
+
 Output: false
-Explanation: "raceacar" is not a palindrome.
 ```
 
-**Example 3:**
-
-```
-Input: s = " "
-Output: true
-Explanation: s is an empty string "" after removing non-alphanumeric characters.
-Since an empty string reads the same forward and backward, it is a palindrome.
-```
+Explanation: "tabacat" is not a palindrome.
 
 **Constraints:**
 
-`1 <= s.length <= 2 * 10^5`  
-`s consists only of printable ASCII characters.`
+-   `1 <= s.length <= 1000`
+-   `s` is made up of only printable ASCII characters.
 
 ___
 
@@ -2030,41 +2220,36 @@ The time complexity is O(n) because all operations (lowercase conversion, removi
 
 Q:: =============================================  
 
-##### Valid Palindrome
+##### Is Palindrome
 
-A phrase is a **palindrome** if, after converting all uppercase letters into lowercase letters and removing all non-alphanumeric characters, it reads the same forward and backward. Alphanumeric characters include letters and numbers.
+Given a string `s`, return `true` if it is a **palindrome**, otherwise return `false`.
 
-Given a string `s`, return `true` if it is a **palindrome,** or `false` otherwise.
+A **palindrome** is a string that reads the same forward and backward. It is also case-insensitive and ignores all non-alphanumeric characters.
 
 **Example 1:**
 
 ```
-Input: s = "A man, a plan, a canal: Panama"
+Input: s = "Was it a car or a cat I saw?"
+
 Output: true
-Explanation: "amanaplanacanalpanama" is a palindrome.
 ```
+
+Explanation: After considering only alphanumerical characters we have "wasitacaroracatisaw", which is a palindrome.
 
 **Example 2:**
 
 ```
-Input: s = "race a car"
+Input: s = "tab a cat"
+
 Output: false
-Explanation: "raceacar" is not a palindrome.
 ```
 
-**Example 3:**
-
-```
-Input: s = " "
-Output: true
-Explanation: s is an empty string "" after removing non-alphanumeric characters.
-Since an empty string reads the same forward and backward, it is a palindrome.
-```
+Explanation: "tabacat" is not a palindrome.
 
 **Constraints:**
 
-`1 <= s.length <= 2 * 10^5`  
-`s consists only of printable ASCII characters.`
+-   `1 <= s.length <= 1000`
+-   `s` is made up of only printable ASCII characters.
 
 ___
 
@@ -2087,41 +2272,36 @@ Yes, it is possible. You can use two pointers: one starting from the beginning o
 
 Q:: =============================================  
 
-##### Valid Palindrome
+##### Is Palindrome
 
-A phrase is a **palindrome** if, after converting all uppercase letters into lowercase letters and removing all non-alphanumeric characters, it reads the same forward and backward. Alphanumeric characters include letters and numbers.
+Given a string `s`, return `true` if it is a **palindrome**, otherwise return `false`.
 
-Given a string `s`, return `true` if it is a **palindrome,** or `false` otherwise.
+A **palindrome** is a string that reads the same forward and backward. It is also case-insensitive and ignores all non-alphanumeric characters.
 
 **Example 1:**
 
 ```
-Input: s = "A man, a plan, a canal: Panama"
+Input: s = "Was it a car or a cat I saw?"
+
 Output: true
-Explanation: "amanaplanacanalpanama" is a palindrome.
 ```
+
+Explanation: After considering only alphanumerical characters we have "wasitacaroracatisaw", which is a palindrome.
 
 **Example 2:**
 
 ```
-Input: s = "race a car"
+Input: s = "tab a cat"
+
 Output: false
-Explanation: "raceacar" is not a palindrome.
 ```
 
-**Example 3:**
-
-```
-Input: s = " "
-Output: true
-Explanation: s is an empty string "" after removing non-alphanumeric characters.
-Since an empty string reads the same forward and backward, it is a palindrome.
-```
+Explanation: "tabacat" is not a palindrome.
 
 **Constraints:**
 
-`1 <= s.length <= 2 * 10^5`  
-`s consists only of printable ASCII characters.`
+-   `1 <= s.length <= 1000`
+-   `s` is made up of only printable ASCII characters.
 
 ___
 
@@ -2147,45 +2327,50 @@ The time complexity is O(n) because in the worst case, we would have to compare 
 
 Q:: =============================================  
 
-##### 3Sum
+##### Three Integer Sum
 
-Given an integer array nums, return all the triplets `[nums[i], nums[j], nums[k]]` such that `i != j`, `i != k`, and `j != k`, and `nums[i] + nums[j] + nums[k] == 0`.
+Given an integer array `nums`, return all the triplets `[nums[i], nums[j], nums[k]]` where `nums[i] + nums[j] + nums[k] == 0`, and the indices `i`, `j` and `k` are all distinct.
 
-Notice that the solution set must not contain duplicate triplets.
+The output should _not_ contain any duplicate triplets. You may return the output and the triplets in **any order**.
 
 **Example 1:**
 
 ```
 Input: nums = [-1,0,1,2,-1,-4]
+
 Output: [[-1,-1,2],[-1,0,1]]
-Explanation:
-nums[0] + nums[1] + nums[2] = (-1) + 0 + 1 = 0.
-nums[1] + nums[2] + nums[4] = 0 + 1 + (-1) = 0.
-nums[0] + nums[3] + nums[4] = (-1) + 2 + (-1) = 0.
-The distinct triplets are [-1,0,1] and [-1,-1,2].
-Notice that the order of the output and the order of the triplets does not matter.
 ```
+
+Explanation:  
+`nums[0] + nums[1] + nums[2] = (-1) + 0 + 1 = 0.`  
+`nums[1] + nums[2] + nums[4] = 0 + 1 + (-1) = 0.`  
+`nums[0] + nums[3] + nums[4] = (-1) + 2 + (-1) = 0.`  
+The distinct triplets are `[-1,0,1]` and `[-1,-1,2]`.
 
 **Example 2:**
 
 ```
 Input: nums = [0,1,1]
+
 Output: []
-Explanation: The only possible triplet does not sum up to 0.
 ```
+
+Explanation: The only possible triplet does not sum up to 0.
 
 **Example 3:**
 
 ```
 Input: nums = [0,0,0]
+
 Output: [[0,0,0]]
-Explanation: The only possible triplet sums up to 0.
 ```
+
+Explanation: The only possible triplet sums up to 0.
 
 **Constraints:**
 
--   `3 <= nums.length <= 3000`
--   `10^5 <= nums[i] <= 10^5`
+-   `3 <= nums.length <= 1000`
+-   `-10^5 <= nums[i] <= 10^5`
 
 ___
 
@@ -2206,45 +2391,50 @@ The brute force approach would be to iterate through all possible triplets in th
 
 Q:: =============================================  
 
-##### 3Sum
+##### Three Integer Sum
 
-Given an integer array nums, return all the triplets `[nums[i], nums[j], nums[k]]` such that `i != j`, `i != k`, and `j != k`, and `nums[i] + nums[j] + nums[k] == 0`.
+Given an integer array `nums`, return all the triplets `[nums[i], nums[j], nums[k]]` where `nums[i] + nums[j] + nums[k] == 0`, and the indices `i`, `j` and `k` are all distinct.
 
-Notice that the solution set must not contain duplicate triplets.
+The output should _not_ contain any duplicate triplets. You may return the output and the triplets in **any order**.
 
 **Example 1:**
 
 ```
 Input: nums = [-1,0,1,2,-1,-4]
+
 Output: [[-1,-1,2],[-1,0,1]]
-Explanation:
-nums[0] + nums[1] + nums[2] = (-1) + 0 + 1 = 0.
-nums[1] + nums[2] + nums[4] = 0 + 1 + (-1) = 0.
-nums[0] + nums[3] + nums[4] = (-1) + 2 + (-1) = 0.
-The distinct triplets are [-1,0,1] and [-1,-1,2].
-Notice that the order of the output and the order of the triplets does not matter.
 ```
+
+Explanation:  
+`nums[0] + nums[1] + nums[2] = (-1) + 0 + 1 = 0.`  
+`nums[1] + nums[2] + nums[4] = 0 + 1 + (-1) = 0.`  
+`nums[0] + nums[3] + nums[4] = (-1) + 2 + (-1) = 0.`  
+The distinct triplets are `[-1,0,1]` and `[-1,-1,2]`.
 
 **Example 2:**
 
 ```
 Input: nums = [0,1,1]
+
 Output: []
-Explanation: The only possible triplet does not sum up to 0.
 ```
+
+Explanation: The only possible triplet does not sum up to 0.
 
 **Example 3:**
 
 ```
 Input: nums = [0,0,0]
+
 Output: [[0,0,0]]
-Explanation: The only possible triplet sums up to 0.
 ```
+
+Explanation: The only possible triplet sums up to 0.
 
 **Constraints:**
 
--   `3 <= nums.length <= 3000`
--   `10^5 <= nums[i] <= 10^5`
+-   `3 <= nums.length <= 1000`
+-   `-10^5 <= nums[i] <= 10^5`
 
 ___
 
@@ -2265,45 +2455,50 @@ By sorting the array, we can iterate through the array once and then use a two-p
 
 Q:: =============================================  
 
-##### 3Sum
+##### Three Integer Sum
 
-Given an integer array nums, return all the triplets `[nums[i], nums[j], nums[k]]` such that `i != j`, `i != k`, and `j != k`, and `nums[i] + nums[j] + nums[k] == 0`.
+Given an integer array `nums`, return all the triplets `[nums[i], nums[j], nums[k]]` where `nums[i] + nums[j] + nums[k] == 0`, and the indices `i`, `j` and `k` are all distinct.
 
-Notice that the solution set must not contain duplicate triplets.
+The output should _not_ contain any duplicate triplets. You may return the output and the triplets in **any order**.
 
 **Example 1:**
 
 ```
 Input: nums = [-1,0,1,2,-1,-4]
+
 Output: [[-1,-1,2],[-1,0,1]]
-Explanation:
-nums[0] + nums[1] + nums[2] = (-1) + 0 + 1 = 0.
-nums[1] + nums[2] + nums[4] = 0 + 1 + (-1) = 0.
-nums[0] + nums[3] + nums[4] = (-1) + 2 + (-1) = 0.
-The distinct triplets are [-1,0,1] and [-1,-1,2].
-Notice that the order of the output and the order of the triplets does not matter.
 ```
+
+Explanation:  
+`nums[0] + nums[1] + nums[2] = (-1) + 0 + 1 = 0.`  
+`nums[1] + nums[2] + nums[4] = 0 + 1 + (-1) = 0.`  
+`nums[0] + nums[3] + nums[4] = (-1) + 2 + (-1) = 0.`  
+The distinct triplets are `[-1,0,1]` and `[-1,-1,2]`.
 
 **Example 2:**
 
 ```
 Input: nums = [0,1,1]
+
 Output: []
-Explanation: The only possible triplet does not sum up to 0.
 ```
+
+Explanation: The only possible triplet does not sum up to 0.
 
 **Example 3:**
 
 ```
 Input: nums = [0,0,0]
+
 Output: [[0,0,0]]
-Explanation: The only possible triplet sums up to 0.
 ```
+
+Explanation: The only possible triplet sums up to 0.
 
 **Constraints:**
 
--   `3 <= nums.length <= 3000`
--   `10^5 <= nums[i] <= 10^5`
+-   `3 <= nums.length <= 1000`
+-   `-10^5 <= nums[i] <= 10^5`
 
 ___
 
@@ -2324,45 +2519,50 @@ Both methods can be used to avoid duplicate triplets. We can check if a triplet 
 
 Q:: =============================================  
 
-##### 3Sum
+##### Three Integer Sum
 
-Given an integer array nums, return all the triplets `[nums[i], nums[j], nums[k]]` such that `i != j`, `i != k`, and `j != k`, and `nums[i] + nums[j] + nums[k] == 0`.
+Given an integer array `nums`, return all the triplets `[nums[i], nums[j], nums[k]]` where `nums[i] + nums[j] + nums[k] == 0`, and the indices `i`, `j` and `k` are all distinct.
 
-Notice that the solution set must not contain duplicate triplets.
+The output should _not_ contain any duplicate triplets. You may return the output and the triplets in **any order**.
 
 **Example 1:**
 
 ```
 Input: nums = [-1,0,1,2,-1,-4]
+
 Output: [[-1,-1,2],[-1,0,1]]
-Explanation:
-nums[0] + nums[1] + nums[2] = (-1) + 0 + 1 = 0.
-nums[1] + nums[2] + nums[4] = 0 + 1 + (-1) = 0.
-nums[0] + nums[3] + nums[4] = (-1) + 2 + (-1) = 0.
-The distinct triplets are [-1,0,1] and [-1,-1,2].
-Notice that the order of the output and the order of the triplets does not matter.
 ```
+
+Explanation:  
+`nums[0] + nums[1] + nums[2] = (-1) + 0 + 1 = 0.`  
+`nums[1] + nums[2] + nums[4] = 0 + 1 + (-1) = 0.`  
+`nums[0] + nums[3] + nums[4] = (-1) + 2 + (-1) = 0.`  
+The distinct triplets are `[-1,0,1]` and `[-1,-1,2]`.
 
 **Example 2:**
 
 ```
 Input: nums = [0,1,1]
+
 Output: []
-Explanation: The only possible triplet does not sum up to 0.
 ```
+
+Explanation: The only possible triplet does not sum up to 0.
 
 **Example 3:**
 
 ```
 Input: nums = [0,0,0]
+
 Output: [[0,0,0]]
-Explanation: The only possible triplet sums up to 0.
 ```
+
+Explanation: The only possible triplet sums up to 0.
 
 **Constraints:**
 
--   `3 <= nums.length <= 3000`
--   `10^5 <= nums[i] <= 10^5`
+-   `3 <= nums.length <= 1000`
+-   `-10^5 <= nums[i] <= 10^5`
 
 ___
 
@@ -2383,45 +2583,50 @@ When we find a valid triplet, we increment the left pointer until we find a new 
 
 Q:: =============================================  
 
-##### 3Sum
+##### Three Integer Sum
 
-Given an integer array nums, return all the triplets `[nums[i], nums[j], nums[k]]` such that `i != j`, `i != k`, and `j != k`, and `nums[i] + nums[j] + nums[k] == 0`.
+Given an integer array `nums`, return all the triplets `[nums[i], nums[j], nums[k]]` where `nums[i] + nums[j] + nums[k] == 0`, and the indices `i`, `j` and `k` are all distinct.
 
-Notice that the solution set must not contain duplicate triplets.
+The output should _not_ contain any duplicate triplets. You may return the output and the triplets in **any order**.
 
 **Example 1:**
 
 ```
 Input: nums = [-1,0,1,2,-1,-4]
+
 Output: [[-1,-1,2],[-1,0,1]]
-Explanation:
-nums[0] + nums[1] + nums[2] = (-1) + 0 + 1 = 0.
-nums[1] + nums[2] + nums[4] = 0 + 1 + (-1) = 0.
-nums[0] + nums[3] + nums[4] = (-1) + 2 + (-1) = 0.
-The distinct triplets are [-1,0,1] and [-1,-1,2].
-Notice that the order of the output and the order of the triplets does not matter.
 ```
+
+Explanation:  
+`nums[0] + nums[1] + nums[2] = (-1) + 0 + 1 = 0.`  
+`nums[1] + nums[2] + nums[4] = 0 + 1 + (-1) = 0.`  
+`nums[0] + nums[3] + nums[4] = (-1) + 2 + (-1) = 0.`  
+The distinct triplets are `[-1,0,1]` and `[-1,-1,2]`.
 
 **Example 2:**
 
 ```
 Input: nums = [0,1,1]
+
 Output: []
-Explanation: The only possible triplet does not sum up to 0.
 ```
+
+Explanation: The only possible triplet does not sum up to 0.
 
 **Example 3:**
 
 ```
 Input: nums = [0,0,0]
+
 Output: [[0,0,0]]
-Explanation: The only possible triplet sums up to 0.
 ```
+
+Explanation: The only possible triplet sums up to 0.
 
 **Constraints:**
 
--   `3 <= nums.length <= 3000`
--   `10^5 <= nums[i] <= 10^5`
+-   `3 <= nums.length <= 1000`
+-   `-10^5 <= nums[i] <= 10^5`
 
 ___
 
@@ -2476,39 +2681,34 @@ The time complexity is O(n^2) because we iterate through the array once (which i
 
 Q:: =============================================  
 
-##### Container With Most Water
+##### Max Water Container
 
-You are given an integer array `height` of length `n`. There are `n` vertical lines drawn such that the two endpoints of the `ith` line are `(i, 0)` and `(i, height[i])`.
+You are given an integer array `heights` where `heights[i]` represents the height of the ithi^{th}ith bar.
 
-Find two lines that together with the x-axis form a container, such that the container contains the most water.
-
-Return _the maximum amount of water a container can store_.
-
-**Notice** that you may not slant the container.
-
-![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/abc2d8fd-6012-4f88-7674-f6302aaf4200/public)
-
+You may choose any two bars to form a container. Return the _maximum_ amount of water a container can store.
 
 **Example 1:**
 
+![](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/77f004c6-e773-4e63-7b99-a2309303c700/public)
+
 ```
-Input: height = [1,8,6,2,5,4,8,3,7]
-Output: 49
-Explanation: The above vertical lines are represented by array [1,8,6,2,5,4,8,3,7]. In this case, the max area of water (blue section) the container can contain is 49.
+Input: height = [1,7,2,5,4,7,3,6]
+
+Output: 36
 ```
 
 **Example 2:**
 
 ```
-Input: height = [1,1]
-Output: 1
+Input: height = [2,2,2]
+
+Output: 4
 ```
 
 **Constraints:**
 
--   `n == height.length`
--   `2 <= n <= 10^5`
--   `0 <= height[i] <= 10^4`
+-   `2 <= height.length <= 1000`
+-   `0 <= height[i] <= 1000`
 
 ___
 
@@ -2531,39 +2731,34 @@ The amount of water a container can hold is determined by the height of the shor
 
 Q:: =============================================  
 
-##### Container With Most Water
+##### Max Water Container
 
-You are given an integer array `height` of length `n`. There are `n` vertical lines drawn such that the two endpoints of the `ith` line are `(i, 0)` and `(i, height[i])`.
+You are given an integer array `heights` where `heights[i]` represents the height of the ithi^{th}ith bar.
 
-Find two lines that together with the x-axis form a container, such that the container contains the most water.
-
-Return _the maximum amount of water a container can store_.
-
-**Notice** that you may not slant the container.
-
-![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/abc2d8fd-6012-4f88-7674-f6302aaf4200/public)
-
+You may choose any two bars to form a container. Return the _maximum_ amount of water a container can store.
 
 **Example 1:**
 
+![](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/77f004c6-e773-4e63-7b99-a2309303c700/public)
+
 ```
-Input: height = [1,8,6,2,5,4,8,3,7]
-Output: 49
-Explanation: The above vertical lines are represented by array [1,8,6,2,5,4,8,3,7]. In this case, the max area of water (blue section) the container can contain is 49.
+Input: height = [1,7,2,5,4,7,3,6]
+
+Output: 36
 ```
 
 **Example 2:**
 
 ```
-Input: height = [1,1]
-Output: 1
+Input: height = [2,2,2]
+
+Output: 4
 ```
 
 **Constraints:**
 
--   `n == height.length`
--   `2 <= n <= 10^5`
--   `0 <= height[i] <= 10^4`
+-   `2 <= height.length <= 1000`
+-   `0 <= height[i] <= 1000`
 
 ___
 
@@ -2586,39 +2781,34 @@ In a brute-force solution, you would have two nested loops to calculate the area
 
 Q:: =============================================  
 
-##### Container With Most Water
+##### Max Water Container
 
-You are given an integer array `height` of length `n`. There are `n` vertical lines drawn such that the two endpoints of the `ith` line are `(i, 0)` and `(i, height[i])`.
+You are given an integer array `heights` where `heights[i]` represents the height of the ithi^{th}ith bar.
 
-Find two lines that together with the x-axis form a container, such that the container contains the most water.
-
-Return _the maximum amount of water a container can store_.
-
-**Notice** that you may not slant the container.
-
-![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/abc2d8fd-6012-4f88-7674-f6302aaf4200/public)
-
+You may choose any two bars to form a container. Return the _maximum_ amount of water a container can store.
 
 **Example 1:**
 
+![](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/77f004c6-e773-4e63-7b99-a2309303c700/public)
+
 ```
-Input: height = [1,8,6,2,5,4,8,3,7]
-Output: 49
-Explanation: The above vertical lines are represented by array [1,8,6,2,5,4,8,3,7]. In this case, the max area of water (blue section) the container can contain is 49.
+Input: height = [1,7,2,5,4,7,3,6]
+
+Output: 36
 ```
 
 **Example 2:**
 
 ```
-Input: height = [1,1]
-Output: 1
+Input: height = [2,2,2]
+
+Output: 4
 ```
 
 **Constraints:**
 
--   `n == height.length`
--   `2 <= n <= 10^5`
--   `0 <= height[i] <= 10^4`
+-   `2 <= height.length <= 1000`
+-   `0 <= height[i] <= 1000`
 
 ___
 
@@ -2641,39 +2831,34 @@ To maximize the initial area, we should start with the widest possible container
 
 Q:: =============================================  
 
-##### Container With Most Water
+##### Max Water Container
 
-You are given an integer array `height` of length `n`. There are `n` vertical lines drawn such that the two endpoints of the `ith` line are `(i, 0)` and `(i, height[i])`.
+You are given an integer array `heights` where `heights[i]` represents the height of the ithi^{th}ith bar.
 
-Find two lines that together with the x-axis form a container, such that the container contains the most water.
-
-Return _the maximum amount of water a container can store_.
-
-**Notice** that you may not slant the container.
-
-![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/abc2d8fd-6012-4f88-7674-f6302aaf4200/public)
-
+You may choose any two bars to form a container. Return the _maximum_ amount of water a container can store.
 
 **Example 1:**
 
+![](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/77f004c6-e773-4e63-7b99-a2309303c700/public)
+
 ```
-Input: height = [1,8,6,2,5,4,8,3,7]
-Output: 49
-Explanation: The above vertical lines are represented by array [1,8,6,2,5,4,8,3,7]. In this case, the max area of water (blue section) the container can contain is 49.
+Input: height = [1,7,2,5,4,7,3,6]
+
+Output: 36
 ```
 
 **Example 2:**
 
 ```
-Input: height = [1,1]
-Output: 1
+Input: height = [2,2,2]
+
+Output: 4
 ```
 
 **Constraints:**
 
--   `n == height.length`
--   `2 <= n <= 10^5`
--   `0 <= height[i] <= 10^4`
+-   `2 <= height.length <= 1000`
+-   `0 <= height[i] <= 1000`
 
 ___
 
@@ -2694,39 +2879,34 @@ The amount of water a container can hold is determined by the height of the shor
 
 Q:: =============================================  
 
-##### Container With Most Water
+##### Max Water Container
 
-You are given an integer array `height` of length `n`. There are `n` vertical lines drawn such that the two endpoints of the `ith` line are `(i, 0)` and `(i, height[i])`.
+You are given an integer array `heights` where `heights[i]` represents the height of the ithi^{th}ith bar.
 
-Find two lines that together with the x-axis form a container, such that the container contains the most water.
-
-Return _the maximum amount of water a container can store_.
-
-**Notice** that you may not slant the container.
-
-![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/abc2d8fd-6012-4f88-7674-f6302aaf4200/public)
-
+You may choose any two bars to form a container. Return the _maximum_ amount of water a container can store.
 
 **Example 1:**
 
+![](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/77f004c6-e773-4e63-7b99-a2309303c700/public)
+
 ```
-Input: height = [1,8,6,2,5,4,8,3,7]
-Output: 49
-Explanation: The above vertical lines are represented by array [1,8,6,2,5,4,8,3,7]. In this case, the max area of water (blue section) the container can contain is 49.
+Input: height = [1,7,2,5,4,7,3,6]
+
+Output: 36
 ```
 
 **Example 2:**
 
 ```
-Input: height = [1,1]
-Output: 1
+Input: height = [2,2,2]
+
+Output: 4
 ```
 
 **Constraints:**
 
--   `n == height.length`
--   `2 <= n <= 10^5`
--   `0 <= height[i] <= 10^4`
+-   `2 <= height.length <= 1000`
+-   `0 <= height[i] <= 1000`
 
 ___
 
@@ -2749,39 +2929,34 @@ The two-pointer technique starts with the widest possible container and moves th
 
 Q:: =============================================  
 
-##### Container With Most Water
+##### Max Water Container
 
-You are given an integer array `height` of length `n`. There are `n` vertical lines drawn such that the two endpoints of the `ith` line are `(i, 0)` and `(i, height[i])`.
+You are given an integer array `heights` where `heights[i]` represents the height of the ithi^{th}ith bar.
 
-Find two lines that together with the x-axis form a container, such that the container contains the most water.
-
-Return _the maximum amount of water a container can store_.
-
-**Notice** that you may not slant the container.
-
-![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/abc2d8fd-6012-4f88-7674-f6302aaf4200/public)
-
+You may choose any two bars to form a container. Return the _maximum_ amount of water a container can store.
 
 **Example 1:**
 
+![](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/77f004c6-e773-4e63-7b99-a2309303c700/public)
+
 ```
-Input: height = [1,8,6,2,5,4,8,3,7]
-Output: 49
-Explanation: The above vertical lines are represented by array [1,8,6,2,5,4,8,3,7]. In this case, the max area of water (blue section) the container can contain is 49.
+Input: height = [1,7,2,5,4,7,3,6]
+
+Output: 36
 ```
 
 **Example 2:**
 
 ```
-Input: height = [1,1]
-Output: 1
+Input: height = [2,2,2]
+
+Output: 4
 ```
 
 **Constraints:**
 
--   `n == height.length`
--   `2 <= n <= 10^5`
--   `0 <= height[i] <= 10^4`
+-   `2 <= height.length <= 1000`
+-   `0 <= height[i] <= 1000`
 
 ___
 
@@ -2810,34 +2985,47 @@ The two-pointer solution has a time complexity of O(n) because you need to itera
 
 Q:: =============================================  
 
-##### Valid Parentheses
+##### Validate Parentheses
 
-Given a string s containing just the characters `'('`, `')'`, `'{'`, `'}'`, `'['` and `']'`, determine if the input string is valid.
+You are given a string `s` consisting of the following characters: `'('`, `')'`, `'{'`, `'}'`, `'['` and `']'`.
 
-An input string is valid if:
+The input string `s` is valid if and only if:
 
-Open brackets must be closed by the same type of brackets.  
-Open brackets must be closed in the correct order.  
-Every close bracket has a corresponding open bracket of the same type.
+1.  Every open bracket is closed by the same type of close bracket.
+2.  Open brackets are closed in the correct order.
+3.  Every close bracket has a corresponding open bracket of the same type.
+
+Return `true` if `s` is a valid string, and `false` otherwise.
 
 **Example 1:**
 
 ```
-Input: s = "()[]{}"
+Input: s = "[]"
+
 Output: true
 ```
 
 **Example 2:**
 
 ```
-Input: s = "(]"
+Input: s = "([{}])"
+
+Output: true
+```
+
+**Example 3:**
+
+```
+Input: s = "[(])"
+
 Output: false
 ```
 
+Explanation: The brackets are not closed in the correct order.
+
 **Constraints:**
 
--   `1 <= s.length <= 10^4`
--   `s` consists of parentheses only `'()[]{}'`
+-   `1 <= s.length <= 1000`
 
 ___
 
@@ -2856,34 +3044,47 @@ Although every opening bracket has a matching closing bracket of the same type, 
 
 Q:: =============================================  
 
-##### Valid Parentheses
+##### Validate Parentheses
 
-Given a string s containing just the characters `'('`, `')'`, `'{'`, `'}'`, `'['` and `']'`, determine if the input string is valid.
+You are given a string `s` consisting of the following characters: `'('`, `')'`, `'{'`, `'}'`, `'['` and `']'`.
 
-An input string is valid if:
+The input string `s` is valid if and only if:
 
-Open brackets must be closed by the same type of brackets.  
-Open brackets must be closed in the correct order.  
-Every close bracket has a corresponding open bracket of the same type.
+1.  Every open bracket is closed by the same type of close bracket.
+2.  Open brackets are closed in the correct order.
+3.  Every close bracket has a corresponding open bracket of the same type.
+
+Return `true` if `s` is a valid string, and `false` otherwise.
 
 **Example 1:**
 
 ```
-Input: s = "()[]{}"
+Input: s = "[]"
+
 Output: true
 ```
 
 **Example 2:**
 
 ```
-Input: s = "(]"
+Input: s = "([{}])"
+
+Output: true
+```
+
+**Example 3:**
+
+```
+Input: s = "[(])"
+
 Output: false
 ```
 
+Explanation: The brackets are not closed in the correct order.
+
 **Constraints:**
 
--   `1 <= s.length <= 10^4`
--   `s` consists of parentheses only `'()[]{}'`
+-   `1 <= s.length <= 1000`
 
 ___
 
@@ -2906,34 +3107,47 @@ A Stack is a LIFO (Last In First Out) data structure, which aligns well with thi
 
 Q:: =============================================  
 
-##### Valid Parentheses
+##### Validate Parentheses
 
-Given a string s containing just the characters `'('`, `')'`, `'{'`, `'}'`, `'['` and `']'`, determine if the input string is valid.
+You are given a string `s` consisting of the following characters: `'('`, `')'`, `'{'`, `'}'`, `'['` and `']'`.
 
-An input string is valid if:
+The input string `s` is valid if and only if:
 
-Open brackets must be closed by the same type of brackets.  
-Open brackets must be closed in the correct order.  
-Every close bracket has a corresponding open bracket of the same type.
+1.  Every open bracket is closed by the same type of close bracket.
+2.  Open brackets are closed in the correct order.
+3.  Every close bracket has a corresponding open bracket of the same type.
+
+Return `true` if `s` is a valid string, and `false` otherwise.
 
 **Example 1:**
 
 ```
-Input: s = "()[]{}"
+Input: s = "[]"
+
 Output: true
 ```
 
 **Example 2:**
 
 ```
-Input: s = "(]"
+Input: s = "([{}])"
+
+Output: true
+```
+
+**Example 3:**
+
+```
+Input: s = "[(])"
+
 Output: false
 ```
 
+Explanation: The brackets are not closed in the correct order.
+
 **Constraints:**
 
--   `1 <= s.length <= 10^4`
--   `s` consists of parentheses only `'()[]{}'`
+-   `1 <= s.length <= 1000`
 
 ___
 
@@ -2956,34 +3170,47 @@ When we encounter an open bracket, we should push it onto the stack. The stack i
 
 Q:: =============================================  
 
-##### Valid Parentheses
+##### Validate Parentheses
 
-Given a string s containing just the characters `'('`, `')'`, `'{'`, `'}'`, `'['` and `']'`, determine if the input string is valid.
+You are given a string `s` consisting of the following characters: `'('`, `')'`, `'{'`, `'}'`, `'['` and `']'`.
 
-An input string is valid if:
+The input string `s` is valid if and only if:
 
-Open brackets must be closed by the same type of brackets.  
-Open brackets must be closed in the correct order.  
-Every close bracket has a corresponding open bracket of the same type.
+1.  Every open bracket is closed by the same type of close bracket.
+2.  Open brackets are closed in the correct order.
+3.  Every close bracket has a corresponding open bracket of the same type.
+
+Return `true` if `s` is a valid string, and `false` otherwise.
 
 **Example 1:**
 
 ```
-Input: s = "()[]{}"
+Input: s = "[]"
+
 Output: true
 ```
 
 **Example 2:**
 
 ```
-Input: s = "(]"
+Input: s = "([{}])"
+
+Output: true
+```
+
+**Example 3:**
+
+```
+Input: s = "[(])"
+
 Output: false
 ```
 
+Explanation: The brackets are not closed in the correct order.
+
 **Constraints:**
 
--   `1 <= s.length <= 10^4`
--   `s` consists of parentheses only `'()[]{}'`
+-   `1 <= s.length <= 1000`
 
 ___
 
@@ -3006,34 +3233,47 @@ When we encounter a closing bracket, we should pop the top element from the stac
 
 Q:: =============================================  
 
-##### Valid Parentheses
+##### Validate Parentheses
 
-Given a string s containing just the characters `'('`, `')'`, `'{'`, `'}'`, `'['` and `']'`, determine if the input string is valid.
+You are given a string `s` consisting of the following characters: `'('`, `')'`, `'{'`, `'}'`, `'['` and `']'`.
 
-An input string is valid if:
+The input string `s` is valid if and only if:
 
-Open brackets must be closed by the same type of brackets.  
-Open brackets must be closed in the correct order.  
-Every close bracket has a corresponding open bracket of the same type.
+1.  Every open bracket is closed by the same type of close bracket.
+2.  Open brackets are closed in the correct order.
+3.  Every close bracket has a corresponding open bracket of the same type.
+
+Return `true` if `s` is a valid string, and `false` otherwise.
 
 **Example 1:**
 
 ```
-Input: s = "()[]{}"
+Input: s = "[]"
+
 Output: true
 ```
 
 **Example 2:**
 
 ```
-Input: s = "(]"
+Input: s = "([{}])"
+
+Output: true
+```
+
+**Example 3:**
+
+```
+Input: s = "[(])"
+
 Output: false
 ```
 
+Explanation: The brackets are not closed in the correct order.
+
 **Constraints:**
 
--   `1 <= s.length <= 10^4`
--   `s` consists of parentheses only `'()[]{}'`
+-   `1 <= s.length <= 1000`
 
 ___
 
@@ -3056,34 +3296,47 @@ If we have managed to close all open brackets while iterating through the string
 
 Q:: =============================================  
 
-##### Valid Parentheses
+##### Validate Parentheses
 
-Given a string s containing just the characters `'('`, `')'`, `'{'`, `'}'`, `'['` and `']'`, determine if the input string is valid.
+You are given a string `s` consisting of the following characters: `'('`, `')'`, `'{'`, `'}'`, `'['` and `']'`.
 
-An input string is valid if:
+The input string `s` is valid if and only if:
 
-Open brackets must be closed by the same type of brackets.  
-Open brackets must be closed in the correct order.  
-Every close bracket has a corresponding open bracket of the same type.
+1.  Every open bracket is closed by the same type of close bracket.
+2.  Open brackets are closed in the correct order.
+3.  Every close bracket has a corresponding open bracket of the same type.
+
+Return `true` if `s` is a valid string, and `false` otherwise.
 
 **Example 1:**
 
 ```
-Input: s = "()[]{}"
+Input: s = "[]"
+
 Output: true
 ```
 
 **Example 2:**
 
 ```
-Input: s = "(]"
+Input: s = "([{}])"
+
+Output: true
+```
+
+**Example 3:**
+
+```
+Input: s = "[(])"
+
 Output: false
 ```
 
+Explanation: The brackets are not closed in the correct order.
+
 **Constraints:**
 
--   `1 <= s.length <= 10^4`
--   `s` consists of parentheses only `'()[]{}'`
+-   `1 <= s.length <= 1000`
 
 ___
 
@@ -3120,49 +3373,47 @@ We are iterating through the string only once, where n is the length of the stri
 
 Q:: =============================================  
 
-##### Find Minimum In Rotated Sorted Array
+##### Find Minimum in Rotated Sorted Array
 
-Suppose an array of length `n` sorted in ascending order is **rotated** between `1` and `n` times. For example, the array `nums = [0, 1, 2, 4, 5, 6, 7]` might become:
+You are given an array of length `n` which was originally sorted in ascending order. It has now been **rotated** between `1` and `n` times. For example, the array `nums = [1,2,3,4,5,6]` might become:
 
--   `[4, 5, 6, 7, 0, 1, 2]` if it was rotated `4` times.
--   `[0, 1, 2, 4, 5, 6, 7]` if it was rotated `7` times.  
-    Notice that **rotating** an array `[a[0], a[1], a[2], ..., a[n-1]]` 1 time results in the array `[a[n-1], a[0], a[1], a[2], ..., a[n-2]]`.
+-   `[3,4,5,6,1,2]` if it was rotated `4` times.
+-   `[1,2,3,4,5,6]` if it was rotated `6` times.
 
-Given the sorted rotated array `nums` of **unique** elements, return _the minimum element of this array_.
+Notice that rotating the array `4` times moves the last four elements of the array to the beginning. Rotating the array `6` times produces the original array.
 
-You must write an algorithm that runs in `O(log n)` time.
+Assuming all elements in the rotated sorted array `nums` are **unique**, return the minimum element of this array.
+
+A solution that runs in `O(n)` time is trivial, can you write an algorithm that runs in `O(log n) time`?
 
 **Example 1:**
 
 ```
-Input: nums = [3,4,5,1,2]
+Input: nums = [3,4,5,6,1,2]
+
 Output: 1
-Explanation: The original array was [1,2,3,4,5] rotated 3 times.
 ```
 
 **Example 2:**
 
 ```
-Input: nums = [4,5,6,7,0,1,2]
+Input: nums = [4,5,0,1,2,3]
+
 Output: 0
-Explanation: The original array was [0,1,2,4,5,6,7] and it was rotated 4 times.
 ```
 
 **Example 3:**
 
 ```
-Input: nums = [11,13,15,17]
-Output: 11
-Explanation: The original array was [11,13,15,17] and it was rotated 4 times. 
+Input: nums = [4,5,6,7]
+
+Output: 4
 ```
 
 **Constraints:**
 
--   `n == nums.length`
--   `1 <= n <= 5000`
--   `-5000 <= nums[i] <= 5000`
--   All the integers of `nums` are unique.
--   `nums` is sorted and rotated between `1` and `n` times.
+-   `1 <= nums.length <= 1000`
+-   `-1000 <= nums[i] <= 1000`
 
 ___
 
@@ -3185,49 +3436,47 @@ In a sorted array, the minimum element is always at the beginning, which can be 
 
 Q:: =============================================  
 
-##### Find Minimum In Rotated Sorted Array
+##### Find Minimum in Rotated Sorted Array
 
-Suppose an array of length `n` sorted in ascending order is **rotated** between `1` and `n` times. For example, the array `nums = [0, 1, 2, 4, 5, 6, 7]` might become:
+You are given an array of length `n` which was originally sorted in ascending order. It has now been **rotated** between `1` and `n` times. For example, the array `nums = [1,2,3,4,5,6]` might become:
 
--   `[4, 5, 6, 7, 0, 1, 2]` if it was rotated `4` times.
--   `[0, 1, 2, 4, 5, 6, 7]` if it was rotated `7` times.  
-    Notice that **rotating** an array `[a[0], a[1], a[2], ..., a[n-1]]` 1 time results in the array `[a[n-1], a[0], a[1], a[2], ..., a[n-2]]`.
+-   `[3,4,5,6,1,2]` if it was rotated `4` times.
+-   `[1,2,3,4,5,6]` if it was rotated `6` times.
 
-Given the sorted rotated array `nums` of **unique** elements, return _the minimum element of this array_.
+Notice that rotating the array `4` times moves the last four elements of the array to the beginning. Rotating the array `6` times produces the original array.
 
-You must write an algorithm that runs in `O(log n)` time.
+Assuming all elements in the rotated sorted array `nums` are **unique**, return the minimum element of this array.
+
+A solution that runs in `O(n)` time is trivial, can you write an algorithm that runs in `O(log n) time`?
 
 **Example 1:**
 
 ```
-Input: nums = [3,4,5,1,2]
+Input: nums = [3,4,5,6,1,2]
+
 Output: 1
-Explanation: The original array was [1,2,3,4,5] rotated 3 times.
 ```
 
 **Example 2:**
 
 ```
-Input: nums = [4,5,6,7,0,1,2]
+Input: nums = [4,5,0,1,2,3]
+
 Output: 0
-Explanation: The original array was [0,1,2,4,5,6,7] and it was rotated 4 times.
 ```
 
 **Example 3:**
 
 ```
-Input: nums = [11,13,15,17]
-Output: 11
-Explanation: The original array was [11,13,15,17] and it was rotated 4 times. 
+Input: nums = [4,5,6,7]
+
+Output: 4
 ```
 
 **Constraints:**
 
--   `n == nums.length`
--   `1 <= n <= 5000`
--   `-5000 <= nums[i] <= 5000`
--   All the integers of `nums` are unique.
--   `nums` is sorted and rotated between `1` and `n` times.
+-   `1 <= nums.length <= 1000`
+-   `-1000 <= nums[i] <= 1000`
 
 ___
 
@@ -3250,49 +3499,47 @@ The simplest solution would be to perform a linear search, which has a time comp
 
 Q:: =============================================  
 
-##### Find Minimum In Rotated Sorted Array
+##### Find Minimum in Rotated Sorted Array
 
-Suppose an array of length `n` sorted in ascending order is **rotated** between `1` and `n` times. For example, the array `nums = [0, 1, 2, 4, 5, 6, 7]` might become:
+You are given an array of length `n` which was originally sorted in ascending order. It has now been **rotated** between `1` and `n` times. For example, the array `nums = [1,2,3,4,5,6]` might become:
 
--   `[4, 5, 6, 7, 0, 1, 2]` if it was rotated `4` times.
--   `[0, 1, 2, 4, 5, 6, 7]` if it was rotated `7` times.  
-    Notice that **rotating** an array `[a[0], a[1], a[2], ..., a[n-1]]` 1 time results in the array `[a[n-1], a[0], a[1], a[2], ..., a[n-2]]`.
+-   `[3,4,5,6,1,2]` if it was rotated `4` times.
+-   `[1,2,3,4,5,6]` if it was rotated `6` times.
 
-Given the sorted rotated array `nums` of **unique** elements, return _the minimum element of this array_.
+Notice that rotating the array `4` times moves the last four elements of the array to the beginning. Rotating the array `6` times produces the original array.
 
-You must write an algorithm that runs in `O(log n)` time.
+Assuming all elements in the rotated sorted array `nums` are **unique**, return the minimum element of this array.
+
+A solution that runs in `O(n)` time is trivial, can you write an algorithm that runs in `O(log n) time`?
 
 **Example 1:**
 
 ```
-Input: nums = [3,4,5,1,2]
+Input: nums = [3,4,5,6,1,2]
+
 Output: 1
-Explanation: The original array was [1,2,3,4,5] rotated 3 times.
 ```
 
 **Example 2:**
 
 ```
-Input: nums = [4,5,6,7,0,1,2]
+Input: nums = [4,5,0,1,2,3]
+
 Output: 0
-Explanation: The original array was [0,1,2,4,5,6,7] and it was rotated 4 times.
 ```
 
 **Example 3:**
 
 ```
-Input: nums = [11,13,15,17]
-Output: 11
-Explanation: The original array was [11,13,15,17] and it was rotated 4 times. 
+Input: nums = [4,5,6,7]
+
+Output: 4
 ```
 
 **Constraints:**
 
--   `n == nums.length`
--   `1 <= n <= 5000`
--   `-5000 <= nums[i] <= 5000`
--   All the integers of `nums` are unique.
--   `nums` is sorted and rotated between `1` and `n` times.
+-   `1 <= nums.length <= 1000`
+-   `-1000 <= nums[i] <= 1000`
 
 ___
 
@@ -3315,49 +3562,47 @@ In a binary search, we first check the middle element of the array. Depending on
 
 Q:: =============================================  
 
-##### Find Minimum In Rotated Sorted Array
+##### Find Minimum in Rotated Sorted Array
 
-Suppose an array of length `n` sorted in ascending order is **rotated** between `1` and `n` times. For example, the array `nums = [0, 1, 2, 4, 5, 6, 7]` might become:
+You are given an array of length `n` which was originally sorted in ascending order. It has now been **rotated** between `1` and `n` times. For example, the array `nums = [1,2,3,4,5,6]` might become:
 
--   `[4, 5, 6, 7, 0, 1, 2]` if it was rotated `4` times.
--   `[0, 1, 2, 4, 5, 6, 7]` if it was rotated `7` times.  
-    Notice that **rotating** an array `[a[0], a[1], a[2], ..., a[n-1]]` 1 time results in the array `[a[n-1], a[0], a[1], a[2], ..., a[n-2]]`.
+-   `[3,4,5,6,1,2]` if it was rotated `4` times.
+-   `[1,2,3,4,5,6]` if it was rotated `6` times.
 
-Given the sorted rotated array `nums` of **unique** elements, return _the minimum element of this array_.
+Notice that rotating the array `4` times moves the last four elements of the array to the beginning. Rotating the array `6` times produces the original array.
 
-You must write an algorithm that runs in `O(log n)` time.
+Assuming all elements in the rotated sorted array `nums` are **unique**, return the minimum element of this array.
+
+A solution that runs in `O(n)` time is trivial, can you write an algorithm that runs in `O(log n) time`?
 
 **Example 1:**
 
 ```
-Input: nums = [3,4,5,1,2]
+Input: nums = [3,4,5,6,1,2]
+
 Output: 1
-Explanation: The original array was [1,2,3,4,5] rotated 3 times.
 ```
 
 **Example 2:**
 
 ```
-Input: nums = [4,5,6,7,0,1,2]
+Input: nums = [4,5,0,1,2,3]
+
 Output: 0
-Explanation: The original array was [0,1,2,4,5,6,7] and it was rotated 4 times.
 ```
 
 **Example 3:**
 
 ```
-Input: nums = [11,13,15,17]
-Output: 11
-Explanation: The original array was [11,13,15,17] and it was rotated 4 times. 
+Input: nums = [4,5,6,7]
+
+Output: 4
 ```
 
 **Constraints:**
 
--   `n == nums.length`
--   `1 <= n <= 5000`
--   `-5000 <= nums[i] <= 5000`
--   All the integers of `nums` are unique.
--   `nums` is sorted and rotated between `1` and `n` times.
+-   `1 <= nums.length <= 1000`
+-   `-1000 <= nums[i] <= 1000`
 
 ___
 
@@ -3378,49 +3623,47 @@ The minimum element will be found in the right sorted portion since every elemen
 
 Q:: =============================================  
 
-##### Find Minimum In Rotated Sorted Array
+##### Find Minimum in Rotated Sorted Array
 
-Suppose an array of length `n` sorted in ascending order is **rotated** between `1` and `n` times. For example, the array `nums = [0, 1, 2, 4, 5, 6, 7]` might become:
+You are given an array of length `n` which was originally sorted in ascending order. It has now been **rotated** between `1` and `n` times. For example, the array `nums = [1,2,3,4,5,6]` might become:
 
--   `[4, 5, 6, 7, 0, 1, 2]` if it was rotated `4` times.
--   `[0, 1, 2, 4, 5, 6, 7]` if it was rotated `7` times.  
-    Notice that **rotating** an array `[a[0], a[1], a[2], ..., a[n-1]]` 1 time results in the array `[a[n-1], a[0], a[1], a[2], ..., a[n-2]]`.
+-   `[3,4,5,6,1,2]` if it was rotated `4` times.
+-   `[1,2,3,4,5,6]` if it was rotated `6` times.
 
-Given the sorted rotated array `nums` of **unique** elements, return _the minimum element of this array_.
+Notice that rotating the array `4` times moves the last four elements of the array to the beginning. Rotating the array `6` times produces the original array.
 
-You must write an algorithm that runs in `O(log n)` time.
+Assuming all elements in the rotated sorted array `nums` are **unique**, return the minimum element of this array.
+
+A solution that runs in `O(n)` time is trivial, can you write an algorithm that runs in `O(log n) time`?
 
 **Example 1:**
 
 ```
-Input: nums = [3,4,5,1,2]
+Input: nums = [3,4,5,6,1,2]
+
 Output: 1
-Explanation: The original array was [1,2,3,4,5] rotated 3 times.
 ```
 
 **Example 2:**
 
 ```
-Input: nums = [4,5,6,7,0,1,2]
+Input: nums = [4,5,0,1,2,3]
+
 Output: 0
-Explanation: The original array was [0,1,2,4,5,6,7] and it was rotated 4 times.
 ```
 
 **Example 3:**
 
 ```
-Input: nums = [11,13,15,17]
-Output: 11
-Explanation: The original array was [11,13,15,17] and it was rotated 4 times. 
+Input: nums = [4,5,6,7]
+
+Output: 4
 ```
 
 **Constraints:**
 
--   `n == nums.length`
--   `1 <= n <= 5000`
--   `-5000 <= nums[i] <= 5000`
--   All the integers of `nums` are unique.
--   `nums` is sorted and rotated between `1` and `n` times.
+-   `1 <= nums.length <= 1000`
+-   `-1000 <= nums[i] <= 1000`
 
 ___
 
@@ -3445,49 +3688,47 @@ In a normal sorted array, the leftmost element is the minimum. In our case, if t
 
 Q:: =============================================  
 
-##### Find Minimum In Rotated Sorted Array
+##### Find Minimum in Rotated Sorted Array
 
-Suppose an array of length `n` sorted in ascending order is **rotated** between `1` and `n` times. For example, the array `nums = [0, 1, 2, 4, 5, 6, 7]` might become:
+You are given an array of length `n` which was originally sorted in ascending order. It has now been **rotated** between `1` and `n` times. For example, the array `nums = [1,2,3,4,5,6]` might become:
 
--   `[4, 5, 6, 7, 0, 1, 2]` if it was rotated `4` times.
--   `[0, 1, 2, 4, 5, 6, 7]` if it was rotated `7` times.  
-    Notice that **rotating** an array `[a[0], a[1], a[2], ..., a[n-1]]` 1 time results in the array `[a[n-1], a[0], a[1], a[2], ..., a[n-2]]`.
+-   `[3,4,5,6,1,2]` if it was rotated `4` times.
+-   `[1,2,3,4,5,6]` if it was rotated `6` times.
 
-Given the sorted rotated array `nums` of **unique** elements, return _the minimum element of this array_.
+Notice that rotating the array `4` times moves the last four elements of the array to the beginning. Rotating the array `6` times produces the original array.
 
-You must write an algorithm that runs in `O(log n)` time.
+Assuming all elements in the rotated sorted array `nums` are **unique**, return the minimum element of this array.
+
+A solution that runs in `O(n)` time is trivial, can you write an algorithm that runs in `O(log n) time`?
 
 **Example 1:**
 
 ```
-Input: nums = [3,4,5,1,2]
+Input: nums = [3,4,5,6,1,2]
+
 Output: 1
-Explanation: The original array was [1,2,3,4,5] rotated 3 times.
 ```
 
 **Example 2:**
 
 ```
-Input: nums = [4,5,6,7,0,1,2]
+Input: nums = [4,5,0,1,2,3]
+
 Output: 0
-Explanation: The original array was [0,1,2,4,5,6,7] and it was rotated 4 times.
 ```
 
 **Example 3:**
 
 ```
-Input: nums = [11,13,15,17]
-Output: 11
-Explanation: The original array was [11,13,15,17] and it was rotated 4 times. 
+Input: nums = [4,5,6,7]
+
+Output: 4
 ```
 
 **Constraints:**
 
--   `n == nums.length`
--   `1 <= n <= 5000`
--   `-5000 <= nums[i] <= 5000`
--   All the integers of `nums` are unique.
--   `nums` is sorted and rotated between `1` and `n` times.
+-   `1 <= nums.length <= 1000`
+-   `-1000 <= nums[i] <= 1000`
 
 ___
 
@@ -3510,49 +3751,47 @@ If the middle element is less than the first element, it means the middle elemen
 
 Q:: =============================================  
 
-##### Find Minimum In Rotated Sorted Array
+##### Find Minimum in Rotated Sorted Array
 
-Suppose an array of length `n` sorted in ascending order is **rotated** between `1` and `n` times. For example, the array `nums = [0, 1, 2, 4, 5, 6, 7]` might become:
+You are given an array of length `n` which was originally sorted in ascending order. It has now been **rotated** between `1` and `n` times. For example, the array `nums = [1,2,3,4,5,6]` might become:
 
--   `[4, 5, 6, 7, 0, 1, 2]` if it was rotated `4` times.
--   `[0, 1, 2, 4, 5, 6, 7]` if it was rotated `7` times.  
-    Notice that **rotating** an array `[a[0], a[1], a[2], ..., a[n-1]]` 1 time results in the array `[a[n-1], a[0], a[1], a[2], ..., a[n-2]]`.
+-   `[3,4,5,6,1,2]` if it was rotated `4` times.
+-   `[1,2,3,4,5,6]` if it was rotated `6` times.
 
-Given the sorted rotated array `nums` of **unique** elements, return _the minimum element of this array_.
+Notice that rotating the array `4` times moves the last four elements of the array to the beginning. Rotating the array `6` times produces the original array.
 
-You must write an algorithm that runs in `O(log n)` time.
+Assuming all elements in the rotated sorted array `nums` are **unique**, return the minimum element of this array.
+
+A solution that runs in `O(n)` time is trivial, can you write an algorithm that runs in `O(log n) time`?
 
 **Example 1:**
 
 ```
-Input: nums = [3,4,5,1,2]
+Input: nums = [3,4,5,6,1,2]
+
 Output: 1
-Explanation: The original array was [1,2,3,4,5] rotated 3 times.
 ```
 
 **Example 2:**
 
 ```
-Input: nums = [4,5,6,7,0,1,2]
+Input: nums = [4,5,0,1,2,3]
+
 Output: 0
-Explanation: The original array was [0,1,2,4,5,6,7] and it was rotated 4 times.
 ```
 
 **Example 3:**
 
 ```
-Input: nums = [11,13,15,17]
-Output: 11
-Explanation: The original array was [11,13,15,17] and it was rotated 4 times. 
+Input: nums = [4,5,6,7]
+
+Output: 4
 ```
 
 **Constraints:**
 
--   `n == nums.length`
--   `1 <= n <= 5000`
--   `-5000 <= nums[i] <= 5000`
--   All the integers of `nums` are unique.
--   `nums` is sorted and rotated between `1` and `n` times.
+-   `1 <= nums.length <= 1000`
+-   `-1000 <= nums[i] <= 1000`
 
 ___
 
@@ -3577,49 +3816,47 @@ If the middle element is greater than the first element, it means the middle ele
 
 Q:: =============================================  
 
-##### Find Minimum In Rotated Sorted Array
+##### Find Minimum in Rotated Sorted Array
 
-Suppose an array of length `n` sorted in ascending order is **rotated** between `1` and `n` times. For example, the array `nums = [0, 1, 2, 4, 5, 6, 7]` might become:
+You are given an array of length `n` which was originally sorted in ascending order. It has now been **rotated** between `1` and `n` times. For example, the array `nums = [1,2,3,4,5,6]` might become:
 
--   `[4, 5, 6, 7, 0, 1, 2]` if it was rotated `4` times.
--   `[0, 1, 2, 4, 5, 6, 7]` if it was rotated `7` times.  
-    Notice that **rotating** an array `[a[0], a[1], a[2], ..., a[n-1]]` 1 time results in the array `[a[n-1], a[0], a[1], a[2], ..., a[n-2]]`.
+-   `[3,4,5,6,1,2]` if it was rotated `4` times.
+-   `[1,2,3,4,5,6]` if it was rotated `6` times.
 
-Given the sorted rotated array `nums` of **unique** elements, return _the minimum element of this array_.
+Notice that rotating the array `4` times moves the last four elements of the array to the beginning. Rotating the array `6` times produces the original array.
 
-You must write an algorithm that runs in `O(log n)` time.
+Assuming all elements in the rotated sorted array `nums` are **unique**, return the minimum element of this array.
+
+A solution that runs in `O(n)` time is trivial, can you write an algorithm that runs in `O(log n) time`?
 
 **Example 1:**
 
 ```
-Input: nums = [3,4,5,1,2]
+Input: nums = [3,4,5,6,1,2]
+
 Output: 1
-Explanation: The original array was [1,2,3,4,5] rotated 3 times.
 ```
 
 **Example 2:**
 
 ```
-Input: nums = [4,5,6,7,0,1,2]
+Input: nums = [4,5,0,1,2,3]
+
 Output: 0
-Explanation: The original array was [0,1,2,4,5,6,7] and it was rotated 4 times.
 ```
 
 **Example 3:**
 
 ```
-Input: nums = [11,13,15,17]
-Output: 11
-Explanation: The original array was [11,13,15,17] and it was rotated 4 times. 
+Input: nums = [4,5,6,7]
+
+Output: 4
 ```
 
 **Constraints:**
 
--   `n == nums.length`
--   `1 <= n <= 5000`
--   `-5000 <= nums[i] <= 5000`
--   All the integers of `nums` are unique.
--   `nums` is sorted and rotated between `1` and `n` times.
+-   `1 <= nums.length <= 1000`
+-   `-1000 <= nums[i] <= 1000`
 
 ___
 
@@ -3664,37 +3901,40 @@ The binary search approach has a time complexity of O(log n) because in each ste
 
 Q:: =============================================  
 
-##### Search In Rotated Sorted Array
+##### Find Target in Rotated Sorted Array
 
-There is an integer array `nums` sorted in ascending order (with **distinct** values).
+You are given an array of length `n` which was originally sorted in ascending order. It has now been **rotated** between `1` and `n` times. For example, the array `nums = [1,2,3,4,5,6]` might become:
 
-Prior to being passed to your function, `nums` is **possibly rotated** at an unknown pivot index `k` (`1 <= k < nums.length`) such that the resulting array is `[nums[k], nums[k+1], ..., nums[n-1], nums[0], nums[1], ..., nums[k-1]]` (**0-indexed**). For example, `[0,1,2,4,5,6,7]` might be rotated at pivot index `3` and become `[4,5,6,7,0,1,2]`.
+-   `[3,4,5,6,1,2]` if it was rotated `4` times.
+-   `[1,2,3,4,5,6]` if it was rotated `6` times.
 
-Given the array `nums` after the possible rotation and an integer `target`, return the index of `target` if it is in `nums`, or `-1` if it is not in `nums`.
+Given the rotated sorted array `nums` and an integer `target`, return the index of `target` within `nums`, or `-1` if it is not present.
 
-You must write an algorithm with `O(log n)` runtime complexity.
+You may assume all elements in the sorted rotated array `nums` are **unique**,
+
+A solution that runs in `O(n)` time is trivial, can you write an algorithm that runs in `O(log n) time`?
 
 **Example 1:**
 
 ```
-Input: nums = [4,5,6,7,0,1,2], target = 0
+Input: nums = [3,4,5,6,1,2], target = 1
+
 Output: 4
 ```
 
 **Example 2:**
 
 ```
-Input: nums = [4,5,6,7,0,1,2], target = 3
+Input: nums = [3,5,6,0,1,2], target = 4
+
 Output: -1
 ```
 
 **Constraints:**
 
--   `1 <= nums.length <= 5000`
--   `-10^4 <= nums[i] <= 10^4`
--   `All values of nums are unique.`
--   `nums is an ascending array that is possibly rotated.`
--   `-10^4 <= target <= 10^4`
+-   `1 <= nums.length <= 1000`
+-   `-1000 <= nums[i] <= 1000`
+-   `-1000 <= target <= 1000`
 
 ___
 
@@ -3717,37 +3957,40 @@ For a sorted array, binary search can be applied to find an element. The time co
 
 Q:: =============================================  
 
-##### Search In Rotated Sorted Array
+##### Find Target in Rotated Sorted Array
 
-There is an integer array `nums` sorted in ascending order (with **distinct** values).
+You are given an array of length `n` which was originally sorted in ascending order. It has now been **rotated** between `1` and `n` times. For example, the array `nums = [1,2,3,4,5,6]` might become:
 
-Prior to being passed to your function, `nums` is **possibly rotated** at an unknown pivot index `k` (`1 <= k < nums.length`) such that the resulting array is `[nums[k], nums[k+1], ..., nums[n-1], nums[0], nums[1], ..., nums[k-1]]` (**0-indexed**). For example, `[0,1,2,4,5,6,7]` might be rotated at pivot index `3` and become `[4,5,6,7,0,1,2]`.
+-   `[3,4,5,6,1,2]` if it was rotated `4` times.
+-   `[1,2,3,4,5,6]` if it was rotated `6` times.
 
-Given the array `nums` after the possible rotation and an integer `target`, return the index of `target` if it is in `nums`, or `-1` if it is not in `nums`.
+Given the rotated sorted array `nums` and an integer `target`, return the index of `target` within `nums`, or `-1` if it is not present.
 
-You must write an algorithm with `O(log n)` runtime complexity.
+You may assume all elements in the sorted rotated array `nums` are **unique**,
+
+A solution that runs in `O(n)` time is trivial, can you write an algorithm that runs in `O(log n) time`?
 
 **Example 1:**
 
 ```
-Input: nums = [4,5,6,7,0,1,2], target = 0
+Input: nums = [3,4,5,6,1,2], target = 1
+
 Output: 4
 ```
 
 **Example 2:**
 
 ```
-Input: nums = [4,5,6,7,0,1,2], target = 3
+Input: nums = [3,5,6,0,1,2], target = 4
+
 Output: -1
 ```
 
 **Constraints:**
 
--   `1 <= nums.length <= 5000`
--   `-10^4 <= nums[i] <= 10^4`
--   `All values of nums are unique.`
--   `nums is an ascending array that is possibly rotated.`
--   `-10^4 <= target <= 10^4`
+-   `1 <= nums.length <= 1000`
+-   `-1000 <= nums[i] <= 1000`
+-   `-1000 <= target <= 1000`
 
 ___
 
@@ -3770,37 +4013,40 @@ The simplest solution would be to perform a linear search, which has a time comp
 
 Q:: =============================================  
 
-##### Search In Rotated Sorted Array
+##### Find Target in Rotated Sorted Array
 
-There is an integer array `nums` sorted in ascending order (with **distinct** values).
+You are given an array of length `n` which was originally sorted in ascending order. It has now been **rotated** between `1` and `n` times. For example, the array `nums = [1,2,3,4,5,6]` might become:
 
-Prior to being passed to your function, `nums` is **possibly rotated** at an unknown pivot index `k` (`1 <= k < nums.length`) such that the resulting array is `[nums[k], nums[k+1], ..., nums[n-1], nums[0], nums[1], ..., nums[k-1]]` (**0-indexed**). For example, `[0,1,2,4,5,6,7]` might be rotated at pivot index `3` and become `[4,5,6,7,0,1,2]`.
+-   `[3,4,5,6,1,2]` if it was rotated `4` times.
+-   `[1,2,3,4,5,6]` if it was rotated `6` times.
 
-Given the array `nums` after the possible rotation and an integer `target`, return the index of `target` if it is in `nums`, or `-1` if it is not in `nums`.
+Given the rotated sorted array `nums` and an integer `target`, return the index of `target` within `nums`, or `-1` if it is not present.
 
-You must write an algorithm with `O(log n)` runtime complexity.
+You may assume all elements in the sorted rotated array `nums` are **unique**,
+
+A solution that runs in `O(n)` time is trivial, can you write an algorithm that runs in `O(log n) time`?
 
 **Example 1:**
 
 ```
-Input: nums = [4,5,6,7,0,1,2], target = 0
+Input: nums = [3,4,5,6,1,2], target = 1
+
 Output: 4
 ```
 
 **Example 2:**
 
 ```
-Input: nums = [4,5,6,7,0,1,2], target = 3
+Input: nums = [3,5,6,0,1,2], target = 4
+
 Output: -1
 ```
 
 **Constraints:**
 
--   `1 <= nums.length <= 5000`
--   `-10^4 <= nums[i] <= 10^4`
--   `All values of nums are unique.`
--   `nums is an ascending array that is possibly rotated.`
--   `-10^4 <= target <= 10^4`
+-   `1 <= nums.length <= 1000`
+-   `-1000 <= nums[i] <= 1000`
+-   `-1000 <= target <= 1000`
 
 ___
 
@@ -3823,37 +4069,40 @@ In a binary search, we first check the middle element of the array. If the targe
 
 Q:: =============================================  
 
-##### Search In Rotated Sorted Array
+##### Find Target in Rotated Sorted Array
 
-There is an integer array `nums` sorted in ascending order (with **distinct** values).
+You are given an array of length `n` which was originally sorted in ascending order. It has now been **rotated** between `1` and `n` times. For example, the array `nums = [1,2,3,4,5,6]` might become:
 
-Prior to being passed to your function, `nums` is **possibly rotated** at an unknown pivot index `k` (`1 <= k < nums.length`) such that the resulting array is `[nums[k], nums[k+1], ..., nums[n-1], nums[0], nums[1], ..., nums[k-1]]` (**0-indexed**). For example, `[0,1,2,4,5,6,7]` might be rotated at pivot index `3` and become `[4,5,6,7,0,1,2]`.
+-   `[3,4,5,6,1,2]` if it was rotated `4` times.
+-   `[1,2,3,4,5,6]` if it was rotated `6` times.
 
-Given the array `nums` after the possible rotation and an integer `target`, return the index of `target` if it is in `nums`, or `-1` if it is not in `nums`.
+Given the rotated sorted array `nums` and an integer `target`, return the index of `target` within `nums`, or `-1` if it is not present.
 
-You must write an algorithm with `O(log n)` runtime complexity.
+You may assume all elements in the sorted rotated array `nums` are **unique**,
+
+A solution that runs in `O(n)` time is trivial, can you write an algorithm that runs in `O(log n) time`?
 
 **Example 1:**
 
 ```
-Input: nums = [4,5,6,7,0,1,2], target = 0
+Input: nums = [3,4,5,6,1,2], target = 1
+
 Output: 4
 ```
 
 **Example 2:**
 
 ```
-Input: nums = [4,5,6,7,0,1,2], target = 3
+Input: nums = [3,5,6,0,1,2], target = 4
+
 Output: -1
 ```
 
 **Constraints:**
 
--   `1 <= nums.length <= 5000`
--   `-10^4 <= nums[i] <= 10^4`
--   `All values of nums are unique.`
--   `nums is an ascending array that is possibly rotated.`
--   `-10^4 <= target <= 10^4`
+-   `1 <= nums.length <= 1000`
+-   `-1000 <= nums[i] <= 1000`
+-   `-1000 <= target <= 1000`
 
 ___
 
@@ -3876,37 +4125,40 @@ We can determine which half of the array we are currently inside by comparing th
 
 Q:: =============================================  
 
-##### Search In Rotated Sorted Array
+##### Find Target in Rotated Sorted Array
 
-There is an integer array `nums` sorted in ascending order (with **distinct** values).
+You are given an array of length `n` which was originally sorted in ascending order. It has now been **rotated** between `1` and `n` times. For example, the array `nums = [1,2,3,4,5,6]` might become:
 
-Prior to being passed to your function, `nums` is **possibly rotated** at an unknown pivot index `k` (`1 <= k < nums.length`) such that the resulting array is `[nums[k], nums[k+1], ..., nums[n-1], nums[0], nums[1], ..., nums[k-1]]` (**0-indexed**). For example, `[0,1,2,4,5,6,7]` might be rotated at pivot index `3` and become `[4,5,6,7,0,1,2]`.
+-   `[3,4,5,6,1,2]` if it was rotated `4` times.
+-   `[1,2,3,4,5,6]` if it was rotated `6` times.
 
-Given the array `nums` after the possible rotation and an integer `target`, return the index of `target` if it is in `nums`, or `-1` if it is not in `nums`.
+Given the rotated sorted array `nums` and an integer `target`, return the index of `target` within `nums`, or `-1` if it is not present.
 
-You must write an algorithm with `O(log n)` runtime complexity.
+You may assume all elements in the sorted rotated array `nums` are **unique**,
+
+A solution that runs in `O(n)` time is trivial, can you write an algorithm that runs in `O(log n) time`?
 
 **Example 1:**
 
 ```
-Input: nums = [4,5,6,7,0,1,2], target = 0
+Input: nums = [3,4,5,6,1,2], target = 1
+
 Output: 4
 ```
 
 **Example 2:**
 
 ```
-Input: nums = [4,5,6,7,0,1,2], target = 3
+Input: nums = [3,5,6,0,1,2], target = 4
+
 Output: -1
 ```
 
 **Constraints:**
 
--   `1 <= nums.length <= 5000`
--   `-10^4 <= nums[i] <= 10^4`
--   `All values of nums are unique.`
--   `nums is an ascending array that is possibly rotated.`
--   `-10^4 <= target <= 10^4`
+-   `1 <= nums.length <= 1000`
+-   `-1000 <= nums[i] <= 1000`
+-   `-1000 <= target <= 1000`
 
 ___
 
@@ -3929,37 +4181,40 @@ We can determine if the target element belongs to the left or right portion of t
 
 Q:: =============================================  
 
-##### Search In Rotated Sorted Array
+##### Find Target in Rotated Sorted Array
 
-There is an integer array `nums` sorted in ascending order (with **distinct** values).
+You are given an array of length `n` which was originally sorted in ascending order. It has now been **rotated** between `1` and `n` times. For example, the array `nums = [1,2,3,4,5,6]` might become:
 
-Prior to being passed to your function, `nums` is **possibly rotated** at an unknown pivot index `k` (`1 <= k < nums.length`) such that the resulting array is `[nums[k], nums[k+1], ..., nums[n-1], nums[0], nums[1], ..., nums[k-1]]` (**0-indexed**). For example, `[0,1,2,4,5,6,7]` might be rotated at pivot index `3` and become `[4,5,6,7,0,1,2]`.
+-   `[3,4,5,6,1,2]` if it was rotated `4` times.
+-   `[1,2,3,4,5,6]` if it was rotated `6` times.
 
-Given the array `nums` after the possible rotation and an integer `target`, return the index of `target` if it is in `nums`, or `-1` if it is not in `nums`.
+Given the rotated sorted array `nums` and an integer `target`, return the index of `target` within `nums`, or `-1` if it is not present.
 
-You must write an algorithm with `O(log n)` runtime complexity.
+You may assume all elements in the sorted rotated array `nums` are **unique**,
+
+A solution that runs in `O(n)` time is trivial, can you write an algorithm that runs in `O(log n) time`?
 
 **Example 1:**
 
 ```
-Input: nums = [4,5,6,7,0,1,2], target = 0
+Input: nums = [3,4,5,6,1,2], target = 1
+
 Output: 4
 ```
 
 **Example 2:**
 
 ```
-Input: nums = [4,5,6,7,0,1,2], target = 3
+Input: nums = [3,5,6,0,1,2], target = 4
+
 Output: -1
 ```
 
 **Constraints:**
 
--   `1 <= nums.length <= 5000`
--   `-10^4 <= nums[i] <= 10^4`
--   `All values of nums are unique.`
--   `nums is an ascending array that is possibly rotated.`
--   `-10^4 <= target <= 10^4`
+-   `1 <= nums.length <= 1000`
+-   `-1000 <= nums[i] <= 1000`
+-   `-1000 <= target <= 1000`
 
 ___
 
@@ -3984,37 +4239,40 @@ If we are in the left sorted half of the array, but the target element belongs t
 
 Q:: =============================================  
 
-##### Search In Rotated Sorted Array
+##### Find Target in Rotated Sorted Array
 
-There is an integer array `nums` sorted in ascending order (with **distinct** values).
+You are given an array of length `n` which was originally sorted in ascending order. It has now been **rotated** between `1` and `n` times. For example, the array `nums = [1,2,3,4,5,6]` might become:
 
-Prior to being passed to your function, `nums` is **possibly rotated** at an unknown pivot index `k` (`1 <= k < nums.length`) such that the resulting array is `[nums[k], nums[k+1], ..., nums[n-1], nums[0], nums[1], ..., nums[k-1]]` (**0-indexed**). For example, `[0,1,2,4,5,6,7]` might be rotated at pivot index `3` and become `[4,5,6,7,0,1,2]`.
+-   `[3,4,5,6,1,2]` if it was rotated `4` times.
+-   `[1,2,3,4,5,6]` if it was rotated `6` times.
 
-Given the array `nums` after the possible rotation and an integer `target`, return the index of `target` if it is in `nums`, or `-1` if it is not in `nums`.
+Given the rotated sorted array `nums` and an integer `target`, return the index of `target` within `nums`, or `-1` if it is not present.
 
-You must write an algorithm with `O(log n)` runtime complexity.
+You may assume all elements in the sorted rotated array `nums` are **unique**,
+
+A solution that runs in `O(n)` time is trivial, can you write an algorithm that runs in `O(log n) time`?
 
 **Example 1:**
 
 ```
-Input: nums = [4,5,6,7,0,1,2], target = 0
+Input: nums = [3,4,5,6,1,2], target = 1
+
 Output: 4
 ```
 
 **Example 2:**
 
 ```
-Input: nums = [4,5,6,7,0,1,2], target = 3
+Input: nums = [3,5,6,0,1,2], target = 4
+
 Output: -1
 ```
 
 **Constraints:**
 
--   `1 <= nums.length <= 5000`
--   `-10^4 <= nums[i] <= 10^4`
--   `All values of nums are unique.`
--   `nums is an ascending array that is possibly rotated.`
--   `-10^4 <= target <= 10^4`
+-   `1 <= nums.length <= 1000`
+-   `-1000 <= nums[i] <= 1000`
+-   `-1000 <= target <= 1000`
 
 ___
 
@@ -4039,37 +4297,40 @@ If we are in the right sorted half of the array, but the target element belongs 
 
 Q:: =============================================  
 
-##### Search In Rotated Sorted Array
+##### Find Target in Rotated Sorted Array
 
-There is an integer array `nums` sorted in ascending order (with **distinct** values).
+You are given an array of length `n` which was originally sorted in ascending order. It has now been **rotated** between `1` and `n` times. For example, the array `nums = [1,2,3,4,5,6]` might become:
 
-Prior to being passed to your function, `nums` is **possibly rotated** at an unknown pivot index `k` (`1 <= k < nums.length`) such that the resulting array is `[nums[k], nums[k+1], ..., nums[n-1], nums[0], nums[1], ..., nums[k-1]]` (**0-indexed**). For example, `[0,1,2,4,5,6,7]` might be rotated at pivot index `3` and become `[4,5,6,7,0,1,2]`.
+-   `[3,4,5,6,1,2]` if it was rotated `4` times.
+-   `[1,2,3,4,5,6]` if it was rotated `6` times.
 
-Given the array `nums` after the possible rotation and an integer `target`, return the index of `target` if it is in `nums`, or `-1` if it is not in `nums`.
+Given the rotated sorted array `nums` and an integer `target`, return the index of `target` within `nums`, or `-1` if it is not present.
 
-You must write an algorithm with `O(log n)` runtime complexity.
+You may assume all elements in the sorted rotated array `nums` are **unique**,
+
+A solution that runs in `O(n)` time is trivial, can you write an algorithm that runs in `O(log n) time`?
 
 **Example 1:**
 
 ```
-Input: nums = [4,5,6,7,0,1,2], target = 0
+Input: nums = [3,4,5,6,1,2], target = 1
+
 Output: 4
 ```
 
 **Example 2:**
 
 ```
-Input: nums = [4,5,6,7,0,1,2], target = 3
+Input: nums = [3,5,6,0,1,2], target = 4
+
 Output: -1
 ```
 
 **Constraints:**
 
--   `1 <= nums.length <= 5000`
--   `-10^4 <= nums[i] <= 10^4`
--   `All values of nums are unique.`
--   `nums is an ascending array that is possibly rotated.`
--   `-10^4 <= target <= 10^4`
+-   `1 <= nums.length <= 1000`
+-   `-1000 <= nums[i] <= 1000`
+-   `-1000 <= target <= 1000`
 
 ___
 
@@ -4088,37 +4349,40 @@ Yes, if we are in the appropriate half of the array, we can simply perform a nor
 
 Q:: =============================================  
 
-##### Search In Rotated Sorted Array
+##### Find Target in Rotated Sorted Array
 
-There is an integer array `nums` sorted in ascending order (with **distinct** values).
+You are given an array of length `n` which was originally sorted in ascending order. It has now been **rotated** between `1` and `n` times. For example, the array `nums = [1,2,3,4,5,6]` might become:
 
-Prior to being passed to your function, `nums` is **possibly rotated** at an unknown pivot index `k` (`1 <= k < nums.length`) such that the resulting array is `[nums[k], nums[k+1], ..., nums[n-1], nums[0], nums[1], ..., nums[k-1]]` (**0-indexed**). For example, `[0,1,2,4,5,6,7]` might be rotated at pivot index `3` and become `[4,5,6,7,0,1,2]`.
+-   `[3,4,5,6,1,2]` if it was rotated `4` times.
+-   `[1,2,3,4,5,6]` if it was rotated `6` times.
 
-Given the array `nums` after the possible rotation and an integer `target`, return the index of `target` if it is in `nums`, or `-1` if it is not in `nums`.
+Given the rotated sorted array `nums` and an integer `target`, return the index of `target` within `nums`, or `-1` if it is not present.
 
-You must write an algorithm with `O(log n)` runtime complexity.
+You may assume all elements in the sorted rotated array `nums` are **unique**,
+
+A solution that runs in `O(n)` time is trivial, can you write an algorithm that runs in `O(log n) time`?
 
 **Example 1:**
 
 ```
-Input: nums = [4,5,6,7,0,1,2], target = 0
+Input: nums = [3,4,5,6,1,2], target = 1
+
 Output: 4
 ```
 
 **Example 2:**
 
 ```
-Input: nums = [4,5,6,7,0,1,2], target = 3
+Input: nums = [3,5,6,0,1,2], target = 4
+
 Output: -1
 ```
 
 **Constraints:**
 
--   `1 <= nums.length <= 5000`
--   `-10^4 <= nums[i] <= 10^4`
--   `All values of nums are unique.`
--   `nums is an ascending array that is possibly rotated.`
--   `-10^4 <= target <= 10^4`
+-   `1 <= nums.length <= 1000`
+-   `-1000 <= nums[i] <= 1000`
+-   `-1000 <= target <= 1000`
 
 ___
 
@@ -4174,22 +4438,38 @@ The binary search approach has a time complexity of O(log n) because in each ste
 
 Q:: =============================================  
 
-##### Best Time to Buy And Sell Stock
+##### Buy and Sell Crypto
 
-You are given an array `prices` where `prices[i]` is the price of a given stock on the `ith` day.
+You are given an integer array `prices` where `prices[i]` is the price of NeetCoin on the `ith` day.
 
-You want to maximize your profit by choosing a **single day** to buy one stock and choosing a **different day in the future** to sell that stock.
+You may choose a **single day** to buy one NeetCoin and choose a **different day in the future** to sell it.
 
-_Return the maximum profit you can achieve from this transaction. If you cannot achieve any profit, return `0`._
+Return the maximum profit you can achieve. You may choose to **not make any transactions**, in which case the profit would be `0`.
 
-Example 1:
+**Example 1:**
 
 ```
-Input: prices = [7,1,5,3,6,4]
-Output: 5
-Explanation: Buy on day 2 (price = 1) and sell on day 5 (price = 6), profit = 6-1 = 5.
-Note that buying on day 2 and selling on day 1 is not allowed because you must buy before you sell.
+Input: prices = [10,1,5,6,7,1]
+
+Output: 6
 ```
+
+Explanation: Buy `prices[1]` and sell `prices[4]`, `profit = 7 - 1 = 6`.
+
+**Example 2:**
+
+```
+Input: prices = [10,8,7,5,2]
+
+Output: 0
+```
+
+Explanation: No profitable transactions can be made, thus the max profit is 0.
+
+**Constraints:**
+
+-   `1 <= prices.length <= 100`
+-   `0 <= prices[i] <= 100`
 
 ___
 
@@ -4212,22 +4492,38 @@ The correct brute-force approach is to calculate the profit for each valid pair 
 
 Q:: =============================================  
 
-##### Best Time to Buy And Sell Stock
+##### Buy and Sell Crypto
 
-You are given an array `prices` where `prices[i]` is the price of a given stock on the `ith` day.
+You are given an integer array `prices` where `prices[i]` is the price of NeetCoin on the `ith` day.
 
-You want to maximize your profit by choosing a **single day** to buy one stock and choosing a **different day in the future** to sell that stock.
+You may choose a **single day** to buy one NeetCoin and choose a **different day in the future** to sell it.
 
-_Return the maximum profit you can achieve from this transaction. If you cannot achieve any profit, return `0`._
+Return the maximum profit you can achieve. You may choose to **not make any transactions**, in which case the profit would be `0`.
 
-Example 1:
+**Example 1:**
 
 ```
-Input: prices = [7,1,5,3,6,4]
-Output: 5
-Explanation: Buy on day 2 (price = 1) and sell on day 5 (price = 6), profit = 6-1 = 5.
-Note that buying on day 2 and selling on day 1 is not allowed because you must buy before you sell.
+Input: prices = [10,1,5,6,7,1]
+
+Output: 6
 ```
+
+Explanation: Buy `prices[1]` and sell `prices[4]`, `profit = 7 - 1 = 6`.
+
+**Example 2:**
+
+```
+Input: prices = [10,8,7,5,2]
+
+Output: 0
+```
+
+Explanation: No profitable transactions can be made, thus the max profit is 0.
+
+**Constraints:**
+
+-   `1 <= prices.length <= 100`
+-   `0 <= prices[i] <= 100`
 
 ___
 
@@ -4250,22 +4546,38 @@ We should keep track of the minimum price found so far and the maximum profit fo
 
 Q:: =============================================  
 
-##### Best Time to Buy And Sell Stock
+##### Buy and Sell Crypto
 
-You are given an array `prices` where `prices[i]` is the price of a given stock on the `ith` day.
+You are given an integer array `prices` where `prices[i]` is the price of NeetCoin on the `ith` day.
 
-You want to maximize your profit by choosing a **single day** to buy one stock and choosing a **different day in the future** to sell that stock.
+You may choose a **single day** to buy one NeetCoin and choose a **different day in the future** to sell it.
 
-_Return the maximum profit you can achieve from this transaction. If you cannot achieve any profit, return `0`._
+Return the maximum profit you can achieve. You may choose to **not make any transactions**, in which case the profit would be `0`.
 
-Example 1:
+**Example 1:**
 
 ```
-Input: prices = [7,1,5,3,6,4]
-Output: 5
-Explanation: Buy on day 2 (price = 1) and sell on day 5 (price = 6), profit = 6-1 = 5.
-Note that buying on day 2 and selling on day 1 is not allowed because you must buy before you sell.
+Input: prices = [10,1,5,6,7,1]
+
+Output: 6
 ```
+
+Explanation: Buy `prices[1]` and sell `prices[4]`, `profit = 7 - 1 = 6`.
+
+**Example 2:**
+
+```
+Input: prices = [10,8,7,5,2]
+
+Output: 0
+```
+
+Explanation: No profitable transactions can be made, thus the max profit is 0.
+
+**Constraints:**
+
+-   `1 <= prices.length <= 100`
+-   `0 <= prices[i] <= 100`
 
 ___
 
@@ -4286,22 +4598,38 @@ We iterate through the prices, and for each price, if it is lower than the curre
 
 Q:: =============================================  
 
-##### Best Time to Buy And Sell Stock
+##### Buy and Sell Crypto
 
-You are given an array `prices` where `prices[i]` is the price of a given stock on the `ith` day.
+You are given an integer array `prices` where `prices[i]` is the price of NeetCoin on the `ith` day.
 
-You want to maximize your profit by choosing a **single day** to buy one stock and choosing a **different day in the future** to sell that stock.
+You may choose a **single day** to buy one NeetCoin and choose a **different day in the future** to sell it.
 
-_Return the maximum profit you can achieve from this transaction. If you cannot achieve any profit, return `0`._
+Return the maximum profit you can achieve. You may choose to **not make any transactions**, in which case the profit would be `0`.
 
-Example 1:
+**Example 1:**
 
 ```
-Input: prices = [7,1,5,3,6,4]
-Output: 5
-Explanation: Buy on day 2 (price = 1) and sell on day 5 (price = 6), profit = 6-1 = 5.
-Note that buying on day 2 and selling on day 1 is not allowed because you must buy before you sell.
+Input: prices = [10,1,5,6,7,1]
+
+Output: 6
 ```
+
+Explanation: Buy `prices[1]` and sell `prices[4]`, `profit = 7 - 1 = 6`.
+
+**Example 2:**
+
+```
+Input: prices = [10,8,7,5,2]
+
+Output: 0
+```
+
+Explanation: No profitable transactions can be made, thus the max profit is 0.
+
+**Constraints:**
+
+-   `1 <= prices.length <= 100`
+-   `0 <= prices[i] <= 100`
 
 ___
 
@@ -4324,22 +4652,38 @@ The optimal solution has a time complexity of O(n), where n is the number of day
 
 Q:: =============================================  
 
-##### Best Time to Buy And Sell Stock
+##### Buy and Sell Crypto
 
-You are given an array `prices` where `prices[i]` is the price of a given stock on the `ith` day.
+You are given an integer array `prices` where `prices[i]` is the price of NeetCoin on the `ith` day.
 
-You want to maximize your profit by choosing a **single day** to buy one stock and choosing a **different day in the future** to sell that stock.
+You may choose a **single day** to buy one NeetCoin and choose a **different day in the future** to sell it.
 
-_Return the maximum profit you can achieve from this transaction. If you cannot achieve any profit, return `0`._
+Return the maximum profit you can achieve. You may choose to **not make any transactions**, in which case the profit would be `0`.
 
-Example 1:
+**Example 1:**
 
 ```
-Input: prices = [7,1,5,3,6,4]
-Output: 5
-Explanation: Buy on day 2 (price = 1) and sell on day 5 (price = 6), profit = 6-1 = 5.
-Note that buying on day 2 and selling on day 1 is not allowed because you must buy before you sell.
+Input: prices = [10,1,5,6,7,1]
+
+Output: 6
 ```
+
+Explanation: Buy `prices[1]` and sell `prices[4]`, `profit = 7 - 1 = 6`.
+
+**Example 2:**
+
+```
+Input: prices = [10,8,7,5,2]
+
+Output: 0
+```
+
+Explanation: No profitable transactions can be made, thus the max profit is 0.
+
+**Constraints:**
+
+-   `1 <= prices.length <= 100`
+-   `0 <= prices[i] <= 100`
 
 ___
 
@@ -4364,39 +4708,34 @@ The optimal solution has a constant space complexity, O(1), as we are only keepi
 
 Q:: =============================================  
 
-##### Longest Substring Without Repeating Characters
+##### Longest Substring Without Duplicates
 
-Given a string `s`, find the length of the **longest** **substring** without repeating characters.
+Given a string `s`, find the _length of the longest substring_ without duplicate characters.
+
+A **substring** is a contiguous sequence of characters within a string.
 
 **Example 1:**
 
 ```
-Input: s = "abcabcbb"
+Input: s = "zxyzxyz"
+
 Output: 3
-Explanation: The answer is "abc", with the length of 3.
 ```
+
+Explanation: The string "xyz" is the longest without duplicate characters.
 
 **Example 2:**
 
 ```
-Input: s = "bbbbb"
+Input: s = "xxxx"
+
 Output: 1
-Explanation: The answer is "b", with the length of 1.
-```
-
-**Example 3:**
-
-```
-Input: s = "pwwkew"
-Output: 3
-Explanation: The answer is "wke", with the length of 3.
-Notice that the answer must be a substring, "pwke" is a subsequence and not a substring.
 ```
 
 **Constraints:**
 
--   `0 <= s.length <= 5 * 104`
--   `s` consists of English letters, digits, symbols and spaces.
+-   `0 <= s.length <= 1000`
+-   `s` may consist of printable ASCII characters.
 
 ___
 
@@ -4415,39 +4754,34 @@ The brute force solution for this problem would be to generate all possible subs
 
 Q:: =============================================  
 
-##### Longest Substring Without Repeating Characters
+##### Longest Substring Without Duplicates
 
-Given a string `s`, find the length of the **longest** **substring** without repeating characters.
+Given a string `s`, find the _length of the longest substring_ without duplicate characters.
+
+A **substring** is a contiguous sequence of characters within a string.
 
 **Example 1:**
 
 ```
-Input: s = "abcabcbb"
+Input: s = "zxyzxyz"
+
 Output: 3
-Explanation: The answer is "abc", with the length of 3.
 ```
+
+Explanation: The string "xyz" is the longest without duplicate characters.
 
 **Example 2:**
 
 ```
-Input: s = "bbbbb"
+Input: s = "xxxx"
+
 Output: 1
-Explanation: The answer is "b", with the length of 1.
-```
-
-**Example 3:**
-
-```
-Input: s = "pwwkew"
-Output: 3
-Explanation: The answer is "wke", with the length of 3.
-Notice that the answer must be a substring, "pwke" is a subsequence and not a substring.
 ```
 
 **Constraints:**
 
--   `0 <= s.length <= 5 * 104`
--   `s` consists of English letters, digits, symbols and spaces.
+-   `0 <= s.length <= 1000`
+-   `s` may consist of printable ASCII characters.
 
 ___
 
@@ -4470,39 +4804,34 @@ A Set is a data structure that maintains a collection of unique elements. It pro
 
 Q:: =============================================  
 
-##### Longest Substring Without Repeating Characters
+##### Longest Substring Without Duplicates
 
-Given a string `s`, find the length of the **longest** **substring** without repeating characters.
+Given a string `s`, find the _length of the longest substring_ without duplicate characters.
+
+A **substring** is a contiguous sequence of characters within a string.
 
 **Example 1:**
 
 ```
-Input: s = "abcabcbb"
+Input: s = "zxyzxyz"
+
 Output: 3
-Explanation: The answer is "abc", with the length of 3.
 ```
+
+Explanation: The string "xyz" is the longest without duplicate characters.
 
 **Example 2:**
 
 ```
-Input: s = "bbbbb"
+Input: s = "xxxx"
+
 Output: 1
-Explanation: The answer is "b", with the length of 1.
-```
-
-**Example 3:**
-
-```
-Input: s = "pwwkew"
-Output: 3
-Explanation: The answer is "wke", with the length of 3.
-Notice that the answer must be a substring, "pwke" is a subsequence and not a substring.
 ```
 
 **Constraints:**
 
--   `0 <= s.length <= 5 * 104`
--   `s` consists of English letters, digits, symbols and spaces.
+-   `0 <= s.length <= 1000`
+-   `s` may consist of printable ASCII characters.
 
 ___
 
@@ -4523,39 +4852,34 @@ The sliding window approach allows us to scan through the string once (linear ti
 
 Q:: =============================================  
 
-##### Longest Substring Without Repeating Characters
+##### Longest Substring Without Duplicates
 
-Given a string `s`, find the length of the **longest** **substring** without repeating characters.
+Given a string `s`, find the _length of the longest substring_ without duplicate characters.
+
+A **substring** is a contiguous sequence of characters within a string.
 
 **Example 1:**
 
 ```
-Input: s = "abcabcbb"
+Input: s = "zxyzxyz"
+
 Output: 3
-Explanation: The answer is "abc", with the length of 3.
 ```
+
+Explanation: The string "xyz" is the longest without duplicate characters.
 
 **Example 2:**
 
 ```
-Input: s = "bbbbb"
+Input: s = "xxxx"
+
 Output: 1
-Explanation: The answer is "b", with the length of 1.
-```
-
-**Example 3:**
-
-```
-Input: s = "pwwkew"
-Output: 3
-Explanation: The answer is "wke", with the length of 3.
-Notice that the answer must be a substring, "pwke" is a subsequence and not a substring.
 ```
 
 **Constraints:**
 
--   `0 <= s.length <= 5 * 104`
--   `s` consists of English letters, digits, symbols and spaces.
+-   `0 <= s.length <= 1000`
+-   `s` may consist of printable ASCII characters.
 
 ___
 
@@ -4576,39 +4900,34 @@ When we encounter a repeating character, it means we need to shrink the window f
 
 Q:: =============================================  
 
-##### Longest Substring Without Repeating Characters
+##### Longest Substring Without Duplicates
 
-Given a string `s`, find the length of the **longest** **substring** without repeating characters.
+Given a string `s`, find the _length of the longest substring_ without duplicate characters.
+
+A **substring** is a contiguous sequence of characters within a string.
 
 **Example 1:**
 
 ```
-Input: s = "abcabcbb"
+Input: s = "zxyzxyz"
+
 Output: 3
-Explanation: The answer is "abc", with the length of 3.
 ```
+
+Explanation: The string "xyz" is the longest without duplicate characters.
 
 **Example 2:**
 
 ```
-Input: s = "bbbbb"
+Input: s = "xxxx"
+
 Output: 1
-Explanation: The answer is "b", with the length of 1.
-```
-
-**Example 3:**
-
-```
-Input: s = "pwwkew"
-Output: 3
-Explanation: The answer is "wke", with the length of 3.
-Notice that the answer must be a substring, "pwke" is a subsequence and not a substring.
 ```
 
 **Constraints:**
 
--   `0 <= s.length <= 5 * 104`
--   `s` consists of English letters, digits, symbols and spaces.
+-   `0 <= s.length <= 1000`
+-   `s` may consist of printable ASCII characters.
 
 ___
 
@@ -4629,39 +4948,34 @@ In ASCII, there are 95 printable characters: 26 lowercase English letters, 26 up
 
 Q:: =============================================  
 
-##### Longest Substring Without Repeating Characters
+##### Longest Substring Without Duplicates
 
-Given a string `s`, find the length of the **longest** **substring** without repeating characters.
+Given a string `s`, find the _length of the longest substring_ without duplicate characters.
+
+A **substring** is a contiguous sequence of characters within a string.
 
 **Example 1:**
 
 ```
-Input: s = "abcabcbb"
+Input: s = "zxyzxyz"
+
 Output: 3
-Explanation: The answer is "abc", with the length of 3.
 ```
+
+Explanation: The string "xyz" is the longest without duplicate characters.
 
 **Example 2:**
 
 ```
-Input: s = "bbbbb"
+Input: s = "xxxx"
+
 Output: 1
-Explanation: The answer is "b", with the length of 1.
-```
-
-**Example 3:**
-
-```
-Input: s = "pwwkew"
-Output: 3
-Explanation: The answer is "wke", with the length of 3.
-Notice that the answer must be a substring, "pwke" is a subsequence and not a substring.
 ```
 
 **Constraints:**
 
--   `0 <= s.length <= 5 * 104`
--   `s` consists of English letters, digits, symbols and spaces.
+-   `0 <= s.length <= 1000`
+-   `s` may consist of printable ASCII characters.
 
 ___
 
@@ -4700,34 +5014,33 @@ Using the sliding window approach, we essentially scan through the string once w
 
 Q:: =============================================  
 
-##### Longest Repeating Character Replacement
+##### Longest Repeating Substring With Replacement
 
-You are given a string `s` and an integer `k`. You can choose any character of the string and change it to any other uppercase English character. You can perform this operation at most `k` times.
+You are given a string `s` consisting of only uppercase english characters and an integer `k`. You can choose up to `k` characters of the string and replace them with any other uppercase English character.
 
-Return _the length of the longest substring containing the same letter you can get after performing the above operations_.
+After performing at most `k` replacements, return the length of the longest substring which contains only one distinct character.
 
 **Example 1:**
 
 ```
-Input: s = "ABAB", k = 2
+Input: s = "XYYX", k = 2
+
 Output: 4
-Explanation: Replace the two 'A's with two 'B's or vice versa.
 ```
+
+Explanation: Either replace the 'X's with 'Y's, or replace the 'Y's with 'X's.
 
 **Example 2:**
 
 ```
-Input: s = "AABABBA", k = 1
-Output: 4
-Explanation: Replace the one 'A' in the middle with 'B' and form "AABBBBA".
-The substring "BBBB" has the longest repeating letters, which is 4.
-There may exists other ways to achive this answer too.
+Input: s = "AAABABB", k = 1
+
+Output: 5
 ```
 
 **Constraints:**
 
--   `1 <= s.length <= 105`
--   `s` consists of only uppercase English letters.
+-   `1 <= s.length <= 1000`
 -   `0 <= k <= s.length`
 
 ___
@@ -4747,34 +5060,33 @@ The brute force solution would be to generate all possible substrings and for ea
 
 Q:: =============================================  
 
-##### Longest Repeating Character Replacement
+##### Longest Repeating Substring With Replacement
 
-You are given a string `s` and an integer `k`. You can choose any character of the string and change it to any other uppercase English character. You can perform this operation at most `k` times.
+You are given a string `s` consisting of only uppercase english characters and an integer `k`. You can choose up to `k` characters of the string and replace them with any other uppercase English character.
 
-Return _the length of the longest substring containing the same letter you can get after performing the above operations_.
+After performing at most `k` replacements, return the length of the longest substring which contains only one distinct character.
 
 **Example 1:**
 
 ```
-Input: s = "ABAB", k = 2
+Input: s = "XYYX", k = 2
+
 Output: 4
-Explanation: Replace the two 'A's with two 'B's or vice versa.
 ```
+
+Explanation: Either replace the 'X's with 'Y's, or replace the 'Y's with 'X's.
 
 **Example 2:**
 
 ```
-Input: s = "AABABBA", k = 1
-Output: 4
-Explanation: Replace the one 'A' in the middle with 'B' and form "AABBBBA".
-The substring "BBBB" has the longest repeating letters, which is 4.
-There may exists other ways to achive this answer too.
+Input: s = "AAABABB", k = 1
+
+Output: 5
 ```
 
 **Constraints:**
 
--   `1 <= s.length <= 105`
--   `s` consists of only uppercase English letters.
+-   `1 <= s.length <= 1000`
 -   `0 <= k <= s.length`
 
 ___
@@ -4798,34 +5110,33 @@ Both an Array and a Hash Map can be used to efficiently count the frequency of e
 
 Q:: =============================================  
 
-##### Longest Repeating Character Replacement
+##### Longest Repeating Substring With Replacement
 
-You are given a string `s` and an integer `k`. You can choose any character of the string and change it to any other uppercase English character. You can perform this operation at most `k` times.
+You are given a string `s` consisting of only uppercase english characters and an integer `k`. You can choose up to `k` characters of the string and replace them with any other uppercase English character.
 
-Return _the length of the longest substring containing the same letter you can get after performing the above operations_.
+After performing at most `k` replacements, return the length of the longest substring which contains only one distinct character.
 
 **Example 1:**
 
 ```
-Input: s = "ABAB", k = 2
+Input: s = "XYYX", k = 2
+
 Output: 4
-Explanation: Replace the two 'A's with two 'B's or vice versa.
 ```
+
+Explanation: Either replace the 'X's with 'Y's, or replace the 'Y's with 'X's.
 
 **Example 2:**
 
 ```
-Input: s = "AABABBA", k = 1
-Output: 4
-Explanation: Replace the one 'A' in the middle with 'B' and form "AABBBBA".
-The substring "BBBB" has the longest repeating letters, which is 4.
-There may exists other ways to achive this answer too.
+Input: s = "AAABABB", k = 1
+
+Output: 5
 ```
 
 **Constraints:**
 
--   `1 <= s.length <= 105`
--   `s` consists of only uppercase English letters.
+-   `1 <= s.length <= 1000`
 -   `0 <= k <= s.length`
 
 ___
@@ -4847,34 +5158,33 @@ The two pointers with sliding window strategy allows us to scan through the stri
 
 Q:: =============================================  
 
-##### Longest Repeating Character Replacement
+##### Longest Repeating Substring With Replacement
 
-You are given a string `s` and an integer `k`. You can choose any character of the string and change it to any other uppercase English character. You can perform this operation at most `k` times.
+You are given a string `s` consisting of only uppercase english characters and an integer `k`. You can choose up to `k` characters of the string and replace them with any other uppercase English character.
 
-Return _the length of the longest substring containing the same letter you can get after performing the above operations_.
+After performing at most `k` replacements, return the length of the longest substring which contains only one distinct character.
 
 **Example 1:**
 
 ```
-Input: s = "ABAB", k = 2
+Input: s = "XYYX", k = 2
+
 Output: 4
-Explanation: Replace the two 'A's with two 'B's or vice versa.
 ```
+
+Explanation: Either replace the 'X's with 'Y's, or replace the 'Y's with 'X's.
 
 **Example 2:**
 
 ```
-Input: s = "AABABBA", k = 1
-Output: 4
-Explanation: Replace the one 'A' in the middle with 'B' and form "AABBBBA".
-The substring "BBBB" has the longest repeating letters, which is 4.
-There may exists other ways to achive this answer too.
+Input: s = "AAABABB", k = 1
+
+Output: 5
 ```
 
 **Constraints:**
 
--   `1 <= s.length <= 105`
--   `s` consists of only uppercase English letters.
+-   `1 <= s.length <= 1000`
 -   `0 <= k <= s.length`
 
 ___
@@ -4898,34 +5208,33 @@ If the window size minus the frequency of the most common character is greater t
 
 Q:: =============================================  
 
-##### Longest Repeating Character Replacement
+##### Longest Repeating Substring With Replacement
 
-You are given a string `s` and an integer `k`. You can choose any character of the string and change it to any other uppercase English character. You can perform this operation at most `k` times.
+You are given a string `s` consisting of only uppercase english characters and an integer `k`. You can choose up to `k` characters of the string and replace them with any other uppercase English character.
 
-Return _the length of the longest substring containing the same letter you can get after performing the above operations_.
+After performing at most `k` replacements, return the length of the longest substring which contains only one distinct character.
 
 **Example 1:**
 
 ```
-Input: s = "ABAB", k = 2
+Input: s = "XYYX", k = 2
+
 Output: 4
-Explanation: Replace the two 'A's with two 'B's or vice versa.
 ```
+
+Explanation: Either replace the 'X's with 'Y's, or replace the 'Y's with 'X's.
 
 **Example 2:**
 
 ```
-Input: s = "AABABBA", k = 1
-Output: 4
-Explanation: Replace the one 'A' in the middle with 'B' and form "AABBBBA".
-The substring "BBBB" has the longest repeating letters, which is 4.
-There may exists other ways to achive this answer too.
+Input: s = "AAABABB", k = 1
+
+Output: 5
 ```
 
 **Constraints:**
 
--   `1 <= s.length <= 105`
--   `s` consists of only uppercase English letters.
+-   `1 <= s.length <= 1000`
 -   `0 <= k <= s.length`
 
 ___
@@ -4947,34 +5256,33 @@ Since we know that the string only contains uppercase English letters, there can
 
 Q:: =============================================  
 
-##### Longest Repeating Character Replacement
+##### Longest Repeating Substring With Replacement
 
-You are given a string `s` and an integer `k`. You can choose any character of the string and change it to any other uppercase English character. You can perform this operation at most `k` times.
+You are given a string `s` consisting of only uppercase english characters and an integer `k`. You can choose up to `k` characters of the string and replace them with any other uppercase English character.
 
-Return _the length of the longest substring containing the same letter you can get after performing the above operations_.
+After performing at most `k` replacements, return the length of the longest substring which contains only one distinct character.
 
 **Example 1:**
 
 ```
-Input: s = "ABAB", k = 2
+Input: s = "XYYX", k = 2
+
 Output: 4
-Explanation: Replace the two 'A's with two 'B's or vice versa.
 ```
+
+Explanation: Either replace the 'X's with 'Y's, or replace the 'Y's with 'X's.
 
 **Example 2:**
 
 ```
-Input: s = "AABABBA", k = 1
-Output: 4
-Explanation: Replace the one 'A' in the middle with 'B' and form "AABBBBA".
-The substring "BBBB" has the longest repeating letters, which is 4.
-There may exists other ways to achive this answer too.
+Input: s = "AAABABB", k = 1
+
+Output: 5
 ```
 
 **Constraints:**
 
--   `1 <= s.length <= 105`
--   `s` consists of only uppercase English letters.
+-   `1 <= s.length <= 1000`
 -   `0 <= k <= s.length`
 
 ___
@@ -5014,42 +5322,42 @@ The sliding window approach only scans the string once, and the time complexity 
 
 Q:: =============================================  
 
-##### Minimum Window Substring
+##### Minimum Window With Characters
 
-Given two strings `s` and `t` of lengths `m` and `n` respectively, return the _**minimum window substring**_ of `s` such that every character in `t` (_**including duplicates**_) is included in the window. If there is no such substring, return the empty string `""`.
+Given two strings `s` and `t`, return the shortest **substring** of `s` such that every character in `t`, including duplicates, is present in the substring. If such a substring does not exist, return an empty string `""`.
 
-The testcases will be generated such that the answer is **unique**.
+You may assume that the correct output is always unique.
 
 **Example 1:**
 
 ```
-Input: s = "ADOBECODEBANC", t = "ABC"
-Output: "BANC"
-Explanation: The minimum window substring "BANC" includes 'A', 'B', and 'C' from string t.
+Input: s = "OUZODYXAZV", t = "XYZ"
+
+Output: "YXAZ"
 ```
+
+Explanation: `"YXAZ"` is the shortest substring that includes `"X"`, `"Y"`, and `"Z"` from string `t`.
 
 **Example 2:**
 
 ```
-Input: s = "a", t = "a"
-Output: "a"
-Explanation: The entire string s is the minimum window.
+Input: s = "xyz", t = "xyz"
+
+Output: "xyz"
 ```
 
 **Example 3:**
 
 ```
-Input: s <span class="token operator">=</span> <span class="token string">"a"</span><span class="token punctuation">,</span> t <span class="token operator">=</span> <span class="token string">"aa"</span>
-Output: <span class="token string">""</span>
-Explanation: Both <span class="token string">'a'</span>s <span class="token keyword">from</span> t must be included <span class="token operator">in</span> the window<span class="token punctuation">.</span>
-Since the largest window <span class="token keyword">of</span> s only has one <span class="token string">'a'</span><span class="token punctuation">,</span> <span class="token keyword">return</span> empty string<span class="token punctuation">.</span>
+Input: s = "x", t = "xy"
+
+Output: ""
 ```
 
 **Constraints:**
 
--   `m == s.length`
--   `n == t.length`
--   `1 <= m, n <= 10^5`
+-   `1 <= s.length <= 1000`
+-   `1 <= t.length <= 1000`
 -   `s` and `t` consist of uppercase and lowercase English letters.
 
 ___
@@ -5071,42 +5379,42 @@ The brute force solution would be to generate all possible substrings of s and f
 
 Q:: =============================================  
 
-##### Minimum Window Substring
+##### Minimum Window With Characters
 
-Given two strings `s` and `t` of lengths `m` and `n` respectively, return the _**minimum window substring**_ of `s` such that every character in `t` (_**including duplicates**_) is included in the window. If there is no such substring, return the empty string `""`.
+Given two strings `s` and `t`, return the shortest **substring** of `s` such that every character in `t`, including duplicates, is present in the substring. If such a substring does not exist, return an empty string `""`.
 
-The testcases will be generated such that the answer is **unique**.
+You may assume that the correct output is always unique.
 
 **Example 1:**
 
 ```
-Input: s = "ADOBECODEBANC", t = "ABC"
-Output: "BANC"
-Explanation: The minimum window substring "BANC" includes 'A', 'B', and 'C' from string t.
+Input: s = "OUZODYXAZV", t = "XYZ"
+
+Output: "YXAZ"
 ```
+
+Explanation: `"YXAZ"` is the shortest substring that includes `"X"`, `"Y"`, and `"Z"` from string `t`.
 
 **Example 2:**
 
 ```
-Input: s = "a", t = "a"
-Output: "a"
-Explanation: The entire string s is the minimum window.
+Input: s = "xyz", t = "xyz"
+
+Output: "xyz"
 ```
 
 **Example 3:**
 
 ```
-Input: s <span class="token operator">=</span> <span class="token string">"a"</span><span class="token punctuation">,</span> t <span class="token operator">=</span> <span class="token string">"aa"</span>
-Output: <span class="token string">""</span>
-Explanation: Both <span class="token string">'a'</span>s <span class="token keyword">from</span> t must be included <span class="token operator">in</span> the window<span class="token punctuation">.</span>
-Since the largest window <span class="token keyword">of</span> s only has one <span class="token string">'a'</span><span class="token punctuation">,</span> <span class="token keyword">return</span> empty string<span class="token punctuation">.</span>
+Input: s = "x", t = "xy"
+
+Output: ""
 ```
 
 **Constraints:**
 
--   `m == s.length`
--   `n == t.length`
--   `1 <= m, n <= 10^5`
+-   `1 <= s.length <= 1000`
+-   `1 <= t.length <= 1000`
 -   `s` and `t` consist of uppercase and lowercase English letters.
 
 ___
@@ -5128,42 +5436,42 @@ A Hash Map is a good data structure to efficiently track the frequency of each c
 
 Q:: =============================================  
 
-##### Minimum Window Substring
+##### Minimum Window With Characters
 
-Given two strings `s` and `t` of lengths `m` and `n` respectively, return the _**minimum window substring**_ of `s` such that every character in `t` (_**including duplicates**_) is included in the window. If there is no such substring, return the empty string `""`.
+Given two strings `s` and `t`, return the shortest **substring** of `s` such that every character in `t`, including duplicates, is present in the substring. If such a substring does not exist, return an empty string `""`.
 
-The testcases will be generated such that the answer is **unique**.
+You may assume that the correct output is always unique.
 
 **Example 1:**
 
 ```
-Input: s = "ADOBECODEBANC", t = "ABC"
-Output: "BANC"
-Explanation: The minimum window substring "BANC" includes 'A', 'B', and 'C' from string t.
+Input: s = "OUZODYXAZV", t = "XYZ"
+
+Output: "YXAZ"
 ```
+
+Explanation: `"YXAZ"` is the shortest substring that includes `"X"`, `"Y"`, and `"Z"` from string `t`.
 
 **Example 2:**
 
 ```
-Input: s = "a", t = "a"
-Output: "a"
-Explanation: The entire string s is the minimum window.
+Input: s = "xyz", t = "xyz"
+
+Output: "xyz"
 ```
 
 **Example 3:**
 
 ```
-Input: s <span class="token operator">=</span> <span class="token string">"a"</span><span class="token punctuation">,</span> t <span class="token operator">=</span> <span class="token string">"aa"</span>
-Output: <span class="token string">""</span>
-Explanation: Both <span class="token string">'a'</span>s <span class="token keyword">from</span> t must be included <span class="token operator">in</span> the window<span class="token punctuation">.</span>
-Since the largest window <span class="token keyword">of</span> s only has one <span class="token string">'a'</span><span class="token punctuation">,</span> <span class="token keyword">return</span> empty string<span class="token punctuation">.</span>
+Input: s = "x", t = "xy"
+
+Output: ""
 ```
 
 **Constraints:**
 
--   `m == s.length`
--   `n == t.length`
--   `1 <= m, n <= 10^5`
+-   `1 <= s.length <= 1000`
+-   `1 <= t.length <= 1000`
 -   `s` and `t` consist of uppercase and lowercase English letters.
 
 ___
@@ -5185,42 +5493,42 @@ The Two Pointers with Sliding Window strategy allows us to scan through the stri
 
 Q:: =============================================  
 
-##### Minimum Window Substring
+##### Minimum Window With Characters
 
-Given two strings `s` and `t` of lengths `m` and `n` respectively, return the _**minimum window substring**_ of `s` such that every character in `t` (_**including duplicates**_) is included in the window. If there is no such substring, return the empty string `""`.
+Given two strings `s` and `t`, return the shortest **substring** of `s` such that every character in `t`, including duplicates, is present in the substring. If such a substring does not exist, return an empty string `""`.
 
-The testcases will be generated such that the answer is **unique**.
+You may assume that the correct output is always unique.
 
 **Example 1:**
 
 ```
-Input: s = "ADOBECODEBANC", t = "ABC"
-Output: "BANC"
-Explanation: The minimum window substring "BANC" includes 'A', 'B', and 'C' from string t.
+Input: s = "OUZODYXAZV", t = "XYZ"
+
+Output: "YXAZ"
 ```
+
+Explanation: `"YXAZ"` is the shortest substring that includes `"X"`, `"Y"`, and `"Z"` from string `t`.
 
 **Example 2:**
 
 ```
-Input: s = "a", t = "a"
-Output: "a"
-Explanation: The entire string s is the minimum window.
+Input: s = "xyz", t = "xyz"
+
+Output: "xyz"
 ```
 
 **Example 3:**
 
 ```
-Input: s <span class="token operator">=</span> <span class="token string">"a"</span><span class="token punctuation">,</span> t <span class="token operator">=</span> <span class="token string">"aa"</span>
-Output: <span class="token string">""</span>
-Explanation: Both <span class="token string">'a'</span>s <span class="token keyword">from</span> t must be included <span class="token operator">in</span> the window<span class="token punctuation">.</span>
-Since the largest window <span class="token keyword">of</span> s only has one <span class="token string">'a'</span><span class="token punctuation">,</span> <span class="token keyword">return</span> empty string<span class="token punctuation">.</span>
+Input: s = "x", t = "xy"
+
+Output: ""
 ```
 
 **Constraints:**
 
--   `m == s.length`
--   `n == t.length`
--   `1 <= m, n <= 10^5`
+-   `1 <= s.length <= 1000`
+-   `1 <= t.length <= 1000`
 -   `s` and `t` consist of uppercase and lowercase English letters.
 
 ___
@@ -5242,42 +5550,42 @@ If our current window does not contain all characters of \`t\`, it means we need
 
 Q:: =============================================  
 
-##### Minimum Window Substring
+##### Minimum Window With Characters
 
-Given two strings `s` and `t` of lengths `m` and `n` respectively, return the _**minimum window substring**_ of `s` such that every character in `t` (_**including duplicates**_) is included in the window. If there is no such substring, return the empty string `""`.
+Given two strings `s` and `t`, return the shortest **substring** of `s` such that every character in `t`, including duplicates, is present in the substring. If such a substring does not exist, return an empty string `""`.
 
-The testcases will be generated such that the answer is **unique**.
+You may assume that the correct output is always unique.
 
 **Example 1:**
 
 ```
-Input: s = "ADOBECODEBANC", t = "ABC"
-Output: "BANC"
-Explanation: The minimum window substring "BANC" includes 'A', 'B', and 'C' from string t.
+Input: s = "OUZODYXAZV", t = "XYZ"
+
+Output: "YXAZ"
 ```
+
+Explanation: `"YXAZ"` is the shortest substring that includes `"X"`, `"Y"`, and `"Z"` from string `t`.
 
 **Example 2:**
 
 ```
-Input: s = "a", t = "a"
-Output: "a"
-Explanation: The entire string s is the minimum window.
+Input: s = "xyz", t = "xyz"
+
+Output: "xyz"
 ```
 
 **Example 3:**
 
 ```
-Input: s <span class="token operator">=</span> <span class="token string">"a"</span><span class="token punctuation">,</span> t <span class="token operator">=</span> <span class="token string">"aa"</span>
-Output: <span class="token string">""</span>
-Explanation: Both <span class="token string">'a'</span>s <span class="token keyword">from</span> t must be included <span class="token operator">in</span> the window<span class="token punctuation">.</span>
-Since the largest window <span class="token keyword">of</span> s only has one <span class="token string">'a'</span><span class="token punctuation">,</span> <span class="token keyword">return</span> empty string<span class="token punctuation">.</span>
+Input: s = "x", t = "xy"
+
+Output: ""
 ```
 
 **Constraints:**
 
--   `m == s.length`
--   `n == t.length`
--   `1 <= m, n <= 10^5`
+-   `1 <= s.length <= 1000`
+-   `1 <= t.length <= 1000`
 -   `s` and `t` consist of uppercase and lowercase English letters.
 
 ___
@@ -5299,42 +5607,42 @@ If our current window already contains all characters of \`t\`, we try to shrink
 
 Q:: =============================================  
 
-##### Minimum Window Substring
+##### Minimum Window With Characters
 
-Given two strings `s` and `t` of lengths `m` and `n` respectively, return the _**minimum window substring**_ of `s` such that every character in `t` (_**including duplicates**_) is included in the window. If there is no such substring, return the empty string `""`.
+Given two strings `s` and `t`, return the shortest **substring** of `s` such that every character in `t`, including duplicates, is present in the substring. If such a substring does not exist, return an empty string `""`.
 
-The testcases will be generated such that the answer is **unique**.
+You may assume that the correct output is always unique.
 
 **Example 1:**
 
 ```
-Input: s = "ADOBECODEBANC", t = "ABC"
-Output: "BANC"
-Explanation: The minimum window substring "BANC" includes 'A', 'B', and 'C' from string t.
+Input: s = "OUZODYXAZV", t = "XYZ"
+
+Output: "YXAZ"
 ```
+
+Explanation: `"YXAZ"` is the shortest substring that includes `"X"`, `"Y"`, and `"Z"` from string `t`.
 
 **Example 2:**
 
 ```
-Input: s = "a", t = "a"
-Output: "a"
-Explanation: The entire string s is the minimum window.
+Input: s = "xyz", t = "xyz"
+
+Output: "xyz"
 ```
 
 **Example 3:**
 
 ```
-Input: s <span class="token operator">=</span> <span class="token string">"a"</span><span class="token punctuation">,</span> t <span class="token operator">=</span> <span class="token string">"aa"</span>
-Output: <span class="token string">""</span>
-Explanation: Both <span class="token string">'a'</span>s <span class="token keyword">from</span> t must be included <span class="token operator">in</span> the window<span class="token punctuation">.</span>
-Since the largest window <span class="token keyword">of</span> s only has one <span class="token string">'a'</span><span class="token punctuation">,</span> <span class="token keyword">return</span> empty string<span class="token punctuation">.</span>
+Input: s = "x", t = "xy"
+
+Output: ""
 ```
 
 **Constraints:**
 
--   `m == s.length`
--   `n == t.length`
--   `1 <= m, n <= 10^5`
+-   `1 <= s.length <= 1000`
+-   `1 <= t.length <= 1000`
 -   `s` and `t` consist of uppercase and lowercase English letters.
 
 ___
@@ -5356,42 +5664,42 @@ By maintaining two variables, \`have\` and \`need\`, we can efficiently check if
 
 Q:: =============================================  
 
-##### Minimum Window Substring
+##### Minimum Window With Characters
 
-Given two strings `s` and `t` of lengths `m` and `n` respectively, return the _**minimum window substring**_ of `s` such that every character in `t` (_**including duplicates**_) is included in the window. If there is no such substring, return the empty string `""`.
+Given two strings `s` and `t`, return the shortest **substring** of `s` such that every character in `t`, including duplicates, is present in the substring. If such a substring does not exist, return an empty string `""`.
 
-The testcases will be generated such that the answer is **unique**.
+You may assume that the correct output is always unique.
 
 **Example 1:**
 
 ```
-Input: s = "ADOBECODEBANC", t = "ABC"
-Output: "BANC"
-Explanation: The minimum window substring "BANC" includes 'A', 'B', and 'C' from string t.
+Input: s = "OUZODYXAZV", t = "XYZ"
+
+Output: "YXAZ"
 ```
+
+Explanation: `"YXAZ"` is the shortest substring that includes `"X"`, `"Y"`, and `"Z"` from string `t`.
 
 **Example 2:**
 
 ```
-Input: s = "a", t = "a"
-Output: "a"
-Explanation: The entire string s is the minimum window.
+Input: s = "xyz", t = "xyz"
+
+Output: "xyz"
 ```
 
 **Example 3:**
 
 ```
-Input: s <span class="token operator">=</span> <span class="token string">"a"</span><span class="token punctuation">,</span> t <span class="token operator">=</span> <span class="token string">"aa"</span>
-Output: <span class="token string">""</span>
-Explanation: Both <span class="token string">'a'</span>s <span class="token keyword">from</span> t must be included <span class="token operator">in</span> the window<span class="token punctuation">.</span>
-Since the largest window <span class="token keyword">of</span> s only has one <span class="token string">'a'</span><span class="token punctuation">,</span> <span class="token keyword">return</span> empty string<span class="token punctuation">.</span>
+Input: s = "x", t = "xy"
+
+Output: ""
 ```
 
 **Constraints:**
 
--   `m == s.length`
--   `n == t.length`
--   `1 <= m, n <= 10^5`
+-   `1 <= s.length <= 1000`
+-   `1 <= t.length <= 1000`
 -   `s` and `t` consist of uppercase and lowercase English letters.
 
 ___
@@ -5450,41 +5758,30 @@ The time complexity is O(n+m) as we go through both s and t once. The space comp
 
 Q:: =============================================  
 
-##### Reverse Linked List
+##### Reverse a Linked List
 
-Given the `head` of a singly linked list, reverse the list, and return _the reversed list_.
+Given the beginning of a singly linked list `head`, reverse the list, and return the new beginning of the list.
 
 **Example 1:**
 
-![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/b57f05e4-bd0a-4d71-2066-bfad19f84300/public)
-
-
 ```
-Input: head = [1,2,3,4,5]
-Output: [5,4,3,2,1]
+Input: head = [0,1,2,3]
+
+Output: [3,2,1,0]
 ```
 
 **Example 2:**
 
-![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/21b14354-6a3a-45e0-8d02-ecc7ec7f7300/public)
-
-
-```
-Input: head = [1,2]
-Output: [2,1]
-```
-
-**Example 3:**
-
 ```
 Input: head = []
+
 Output: []
 ```
 
 **Constraints:**
 
--   The number of nodes in the list is the range `[0, 5000]`.
--   `5000 <= Node.val <= 5000`
+-   `0 <= The length of the list <= 1000`.
+-   `-1000 <= Node.val <= 1000`
 
 ___
 
@@ -5503,41 +5800,30 @@ Reversing a linked list with only one node doesn't change anything. It remains t
 
 Q:: =============================================  
 
-##### Reverse Linked List
+##### Reverse a Linked List
 
-Given the `head` of a singly linked list, reverse the list, and return _the reversed list_.
+Given the beginning of a singly linked list `head`, reverse the list, and return the new beginning of the list.
 
 **Example 1:**
 
-![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/b57f05e4-bd0a-4d71-2066-bfad19f84300/public)
-
-
 ```
-Input: head = [1,2,3,4,5]
-Output: [5,4,3,2,1]
+Input: head = [0,1,2,3]
+
+Output: [3,2,1,0]
 ```
 
 **Example 2:**
 
-![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/21b14354-6a3a-45e0-8d02-ecc7ec7f7300/public)
-
-
-```
-Input: head = [1,2]
-Output: [2,1]
-```
-
-**Example 3:**
-
 ```
 Input: head = []
+
 Output: []
 ```
 
 **Constraints:**
 
--   The number of nodes in the list is the range `[0, 5000]`.
--   `5000 <= Node.val <= 5000`
+-   `0 <= The length of the list <= 1000`.
+-   `-1000 <= Node.val <= 1000`
 
 ___
 
@@ -5556,41 +5842,30 @@ In a singly linked list, each node has a value and a 'next' reference pointing t
 
 Q:: =============================================  
 
-##### Reverse Linked List
+##### Reverse a Linked List
 
-Given the `head` of a singly linked list, reverse the list, and return _the reversed list_.
+Given the beginning of a singly linked list `head`, reverse the list, and return the new beginning of the list.
 
 **Example 1:**
 
-![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/b57f05e4-bd0a-4d71-2066-bfad19f84300/public)
-
-
 ```
-Input: head = [1,2,3,4,5]
-Output: [5,4,3,2,1]
+Input: head = [0,1,2,3]
+
+Output: [3,2,1,0]
 ```
 
 **Example 2:**
 
-![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/21b14354-6a3a-45e0-8d02-ecc7ec7f7300/public)
-
-
-```
-Input: head = [1,2]
-Output: [2,1]
-```
-
-**Example 3:**
-
 ```
 Input: head = []
+
 Output: []
 ```
 
 **Constraints:**
 
--   The number of nodes in the list is the range `[0, 5000]`.
--   `5000 <= Node.val <= 5000`
+-   `0 <= The length of the list <= 1000`.
+-   `-1000 <= Node.val <= 1000`
 
 ___
 
@@ -5611,41 +5886,30 @@ Recursion or using a stack would require additional space and isn't necessary. B
 
 Q:: =============================================  
 
-##### Reverse Linked List
+##### Reverse a Linked List
 
-Given the `head` of a singly linked list, reverse the list, and return _the reversed list_.
+Given the beginning of a singly linked list `head`, reverse the list, and return the new beginning of the list.
 
 **Example 1:**
 
-![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/b57f05e4-bd0a-4d71-2066-bfad19f84300/public)
-
-
 ```
-Input: head = [1,2,3,4,5]
-Output: [5,4,3,2,1]
+Input: head = [0,1,2,3]
+
+Output: [3,2,1,0]
 ```
 
 **Example 2:**
 
-![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/21b14354-6a3a-45e0-8d02-ecc7ec7f7300/public)
-
-
-```
-Input: head = [1,2]
-Output: [2,1]
-```
-
-**Example 3:**
-
 ```
 Input: head = []
+
 Output: []
 ```
 
 **Constraints:**
 
--   The number of nodes in the list is the range `[0, 5000]`.
--   `5000 <= Node.val <= 5000`
+-   `0 <= The length of the list <= 1000`.
+-   `-1000 <= Node.val <= 1000`
 
 ___
 
@@ -5687,43 +5951,44 @@ The time complexity is O(n) because we need to traverse the list once, where n i
 
 Q:: =============================================  
 
-##### Merge Two Sorted Lists
+##### Merge Two Sorted Linked Lists
 
 You are given the heads of two sorted linked lists `list1` and `list2`.
 
-Merge the two lists in a one **sorted** list. The list should be made by splicing together the nodes of the first two lists.
+Merge the two lists into one **sorted** linked list and return the head of the new sorted linked list.
 
-Return _the head of the merged linked list_.
+The new list should be made up of nodes from `list1` and `list2`.
 
 **Example 1:**
 
-![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/6bafdf72-dfb3-4085-9372-f34e7361d700/public)
-
+![](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/51adfea9-493a-4abb-ece7-fbb359d1c800/public)
 
 ```
-Input: list1 = [1,2,4], list2 = [1,3,4]
-Output: [1,1,2,3,4,4]
+Input: list1 = [1,2,4], list2 = [1,3,5]
+
+Output: [1,1,2,3,4,5]
 ```
 
 **Example 2:**
 
 ```
-Input: list1 = [], list2 = []
-Output: []
+Input: list1 = [], list2 = [1,2]
+
+Output: [1,2]
 ```
 
 **Example 3:**
 
 ```
-Input: list1 = [], list2 = [0]
-Output: [0]
+Input: list1 = [], list2 = []
+
+Output: []
 ```
 
 **Constraints:**
 
--   The number of nodes in both lists is in the range `[0, 50]`.
--   `100 <= Node.val <= 100`
--   Both `list1` and `list2` are sorted in **non-decreasing** order.
+-   `0 <= The length of the each list <= 100`.
+-   `-100 <= Node.val <= 100`
 
 ___
 
@@ -5744,43 +6009,44 @@ As both lists are sorted in non-decreasing order, the smallest elements are at t
 
 Q:: =============================================  
 
-##### Merge Two Sorted Lists
+##### Merge Two Sorted Linked Lists
 
 You are given the heads of two sorted linked lists `list1` and `list2`.
 
-Merge the two lists in a one **sorted** list. The list should be made by splicing together the nodes of the first two lists.
+Merge the two lists into one **sorted** linked list and return the head of the new sorted linked list.
 
-Return _the head of the merged linked list_.
+The new list should be made up of nodes from `list1` and `list2`.
 
 **Example 1:**
 
-![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/6bafdf72-dfb3-4085-9372-f34e7361d700/public)
-
+![](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/51adfea9-493a-4abb-ece7-fbb359d1c800/public)
 
 ```
-Input: list1 = [1,2,4], list2 = [1,3,4]
-Output: [1,1,2,3,4,4]
+Input: list1 = [1,2,4], list2 = [1,3,5]
+
+Output: [1,1,2,3,4,5]
 ```
 
 **Example 2:**
 
 ```
-Input: list1 = [], list2 = []
-Output: []
+Input: list1 = [], list2 = [1,2]
+
+Output: [1,2]
 ```
 
 **Example 3:**
 
 ```
-Input: list1 = [], list2 = [0]
-Output: [0]
+Input: list1 = [], list2 = []
+
+Output: []
 ```
 
 **Constraints:**
 
--   The number of nodes in both lists is in the range `[0, 50]`.
--   `100 <= Node.val <= 100`
--   Both `list1` and `list2` are sorted in **non-decreasing** order.
+-   `0 <= The length of the each list <= 100`.
+-   `-100 <= Node.val <= 100`
 
 ___
 
@@ -5801,43 +6067,44 @@ To maintain the sorted order in the output list, we should always insert the nod
 
 Q:: =============================================  
 
-##### Merge Two Sorted Lists
+##### Merge Two Sorted Linked Lists
 
 You are given the heads of two sorted linked lists `list1` and `list2`.
 
-Merge the two lists in a one **sorted** list. The list should be made by splicing together the nodes of the first two lists.
+Merge the two lists into one **sorted** linked list and return the head of the new sorted linked list.
 
-Return _the head of the merged linked list_.
+The new list should be made up of nodes from `list1` and `list2`.
 
 **Example 1:**
 
-![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/6bafdf72-dfb3-4085-9372-f34e7361d700/public)
-
+![](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/51adfea9-493a-4abb-ece7-fbb359d1c800/public)
 
 ```
-Input: list1 = [1,2,4], list2 = [1,3,4]
-Output: [1,1,2,3,4,4]
+Input: list1 = [1,2,4], list2 = [1,3,5]
+
+Output: [1,1,2,3,4,5]
 ```
 
 **Example 2:**
 
 ```
-Input: list1 = [], list2 = []
-Output: []
+Input: list1 = [], list2 = [1,2]
+
+Output: [1,2]
 ```
 
 **Example 3:**
 
 ```
-Input: list1 = [], list2 = [0]
-Output: [0]
+Input: list1 = [], list2 = []
+
+Output: []
 ```
 
 **Constraints:**
 
--   The number of nodes in both lists is in the range `[0, 50]`.
--   `100 <= Node.val <= 100`
--   Both `list1` and `list2` are sorted in **non-decreasing** order.
+-   `0 <= The length of the each list <= 100`.
+-   `-100 <= Node.val <= 100`
 
 ___
 
@@ -5858,43 +6125,44 @@ After inserting a node from one of the lists into the output list, we should shi
 
 Q:: =============================================  
 
-##### Merge Two Sorted Lists
+##### Merge Two Sorted Linked Lists
 
 You are given the heads of two sorted linked lists `list1` and `list2`.
 
-Merge the two lists in a one **sorted** list. The list should be made by splicing together the nodes of the first two lists.
+Merge the two lists into one **sorted** linked list and return the head of the new sorted linked list.
 
-Return _the head of the merged linked list_.
+The new list should be made up of nodes from `list1` and `list2`.
 
 **Example 1:**
 
-![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/6bafdf72-dfb3-4085-9372-f34e7361d700/public)
-
+![](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/51adfea9-493a-4abb-ece7-fbb359d1c800/public)
 
 ```
-Input: list1 = [1,2,4], list2 = [1,3,4]
-Output: [1,1,2,3,4,4]
+Input: list1 = [1,2,4], list2 = [1,3,5]
+
+Output: [1,1,2,3,4,5]
 ```
 
 **Example 2:**
 
 ```
-Input: list1 = [], list2 = []
-Output: []
+Input: list1 = [], list2 = [1,2]
+
+Output: [1,2]
 ```
 
 **Example 3:**
 
 ```
-Input: list1 = [], list2 = [0]
-Output: [0]
+Input: list1 = [], list2 = []
+
+Output: []
 ```
 
 **Constraints:**
 
--   The number of nodes in both lists is in the range `[0, 50]`.
--   `100 <= Node.val <= 100`
--   Both `list1` and `list2` are sorted in **non-decreasing** order.
+-   `0 <= The length of the each list <= 100`.
+-   `-100 <= Node.val <= 100`
 
 ___
 
@@ -5915,43 +6183,44 @@ If one list becomes empty before the other, we can safely append the remaining n
 
 Q:: =============================================  
 
-##### Merge Two Sorted Lists
+##### Merge Two Sorted Linked Lists
 
 You are given the heads of two sorted linked lists `list1` and `list2`.
 
-Merge the two lists in a one **sorted** list. The list should be made by splicing together the nodes of the first two lists.
+Merge the two lists into one **sorted** linked list and return the head of the new sorted linked list.
 
-Return _the head of the merged linked list_.
+The new list should be made up of nodes from `list1` and `list2`.
 
 **Example 1:**
 
-![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/6bafdf72-dfb3-4085-9372-f34e7361d700/public)
-
+![](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/51adfea9-493a-4abb-ece7-fbb359d1c800/public)
 
 ```
-Input: list1 = [1,2,4], list2 = [1,3,4]
-Output: [1,1,2,3,4,4]
+Input: list1 = [1,2,4], list2 = [1,3,5]
+
+Output: [1,1,2,3,4,5]
 ```
 
 **Example 2:**
 
 ```
-Input: list1 = [], list2 = []
-Output: []
+Input: list1 = [], list2 = [1,2]
+
+Output: [1,2]
 ```
 
 **Example 3:**
 
 ```
-Input: list1 = [], list2 = [0]
-Output: [0]
+Input: list1 = [], list2 = []
+
+Output: []
 ```
 
 **Constraints:**
 
--   The number of nodes in both lists is in the range `[0, 50]`.
--   `100 <= Node.val <= 100`
--   Both `list1` and `list2` are sorted in **non-decreasing** order.
+-   `0 <= The length of the each list <= 100`.
+-   `-100 <= Node.val <= 100`
 
 ___
 
@@ -5993,45 +6262,43 @@ The time complexity is O(m+n) because in the worst case, we'll have to traverse 
 
 Q:: =============================================  
 
-##### Reorder List
+##### Reorder Linked List
 
-You are given the head of a singly linked-list. The list can be represented as:
+You are given the head of a singly linked-list.
 
-```
-L0 → L1 → … → Ln - 1 → Ln
-```
+The positions of a linked list of `length = 7` for example, can intially be represented as:
 
-_Reorder the list to be on the following form:_
+`[0, 1, 2, 3, 4, 5, 6]`
 
-```
-L0 → Ln → L1 → Ln - 1 → L2 → Ln - 2 → …
-```
+Reorder the nodes of the linked list to be in the following order:
 
-You may not modify the values in the list's nodes. Only nodes themselves may be changed.
+`[0, 6, 1, 5, 2, 4, 3]`
+
+Notice that in the general case for a list of `length = n` the nodes are reordered to be in the following order:
+
+`[0, n-1, 1, n-2, 2, n-3, ...]`
+
+You may not modify the values in the list's nodes, but instead you must reorder the nodes themselves.
 
 **Example 1:**
 
-![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/034d3a04-1ca6-4c81-8a7a-648658944600/public)
-
-
 ```
-Input: head = [1,2,3,4]
-Output: [1,4,2,3]
+Input: head = [2,4,6,8]
+
+Output: [2,8,4,6]
 ```
 
 **Example 2:**
 
-![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/80f9be46-c7d9-43bb-b072-3bbfd7942500/public)
-
-
 ```
-Input: head = [1,2,3,4,5]
-Output: [1,5,2,4,3]
+Input: head = [2,4,6,8,10]
+
+Output: [2,10,4,8,6]
 ```
 
 **Constraints:**
 
--   The number of nodes in the list is in the range `[1, 5 * 10^4]`.
+-   `1 <= Length of the list <= 1000`.
 -   `1 <= Node.val <= 1000`
 
 ___
@@ -6053,45 +6320,43 @@ To get to the required order, we first need to reverse the second half of the li
 
 Q:: =============================================  
 
-##### Reorder List
+##### Reorder Linked List
 
-You are given the head of a singly linked-list. The list can be represented as:
+You are given the head of a singly linked-list.
 
-```
-L0 → L1 → … → Ln - 1 → Ln
-```
+The positions of a linked list of `length = 7` for example, can intially be represented as:
 
-_Reorder the list to be on the following form:_
+`[0, 1, 2, 3, 4, 5, 6]`
 
-```
-L0 → Ln → L1 → Ln - 1 → L2 → Ln - 2 → …
-```
+Reorder the nodes of the linked list to be in the following order:
 
-You may not modify the values in the list's nodes. Only nodes themselves may be changed.
+`[0, 6, 1, 5, 2, 4, 3]`
+
+Notice that in the general case for a list of `length = n` the nodes are reordered to be in the following order:
+
+`[0, n-1, 1, n-2, 2, n-3, ...]`
+
+You may not modify the values in the list's nodes, but instead you must reorder the nodes themselves.
 
 **Example 1:**
 
-![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/034d3a04-1ca6-4c81-8a7a-648658944600/public)
-
-
 ```
-Input: head = [1,2,3,4]
-Output: [1,4,2,3]
+Input: head = [2,4,6,8]
+
+Output: [2,8,4,6]
 ```
 
 **Example 2:**
 
-![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/80f9be46-c7d9-43bb-b072-3bbfd7942500/public)
-
-
 ```
-Input: head = [1,2,3,4,5]
-Output: [1,5,2,4,3]
+Input: head = [2,4,6,8,10]
+
+Output: [2,10,4,8,6]
 ```
 
 **Constraints:**
 
--   The number of nodes in the list is in the range `[1, 5 * 10^4]`.
+-   `1 <= Length of the list <= 1000`.
 -   `1 <= Node.val <= 1000`
 
 ___
@@ -6111,45 +6376,43 @@ We use a technique known as the 'tortoise and the hare' to find the middle of a 
 
 Q:: =============================================  
 
-##### Reorder List
+##### Reorder Linked List
 
-You are given the head of a singly linked-list. The list can be represented as:
+You are given the head of a singly linked-list.
 
-```
-L0 → L1 → … → Ln - 1 → Ln
-```
+The positions of a linked list of `length = 7` for example, can intially be represented as:
 
-_Reorder the list to be on the following form:_
+`[0, 1, 2, 3, 4, 5, 6]`
 
-```
-L0 → Ln → L1 → Ln - 1 → L2 → Ln - 2 → …
-```
+Reorder the nodes of the linked list to be in the following order:
 
-You may not modify the values in the list's nodes. Only nodes themselves may be changed.
+`[0, 6, 1, 5, 2, 4, 3]`
+
+Notice that in the general case for a list of `length = n` the nodes are reordered to be in the following order:
+
+`[0, n-1, 1, n-2, 2, n-3, ...]`
+
+You may not modify the values in the list's nodes, but instead you must reorder the nodes themselves.
 
 **Example 1:**
 
-![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/034d3a04-1ca6-4c81-8a7a-648658944600/public)
-
-
 ```
-Input: head = [1,2,3,4]
-Output: [1,4,2,3]
+Input: head = [2,4,6,8]
+
+Output: [2,8,4,6]
 ```
 
 **Example 2:**
 
-![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/80f9be46-c7d9-43bb-b072-3bbfd7942500/public)
-
-
 ```
-Input: head = [1,2,3,4,5]
-Output: [1,5,2,4,3]
+Input: head = [2,4,6,8,10]
+
+Output: [2,10,4,8,6]
 ```
 
 **Constraints:**
 
--   The number of nodes in the list is in the range `[1, 5 * 10^4]`.
+-   `1 <= Length of the list <= 1000`.
 -   `1 <= Node.val <= 1000`
 
 ___
@@ -6171,45 +6434,43 @@ After reversing the second half of the list, we reorder the list by alternating 
 
 Q:: =============================================  
 
-##### Reorder List
+##### Reorder Linked List
 
-You are given the head of a singly linked-list. The list can be represented as:
+You are given the head of a singly linked-list.
 
-```
-L0 → L1 → … → Ln - 1 → Ln
-```
+The positions of a linked list of `length = 7` for example, can intially be represented as:
 
-_Reorder the list to be on the following form:_
+`[0, 1, 2, 3, 4, 5, 6]`
 
-```
-L0 → Ln → L1 → Ln - 1 → L2 → Ln - 2 → …
-```
+Reorder the nodes of the linked list to be in the following order:
 
-You may not modify the values in the list's nodes. Only nodes themselves may be changed.
+`[0, 6, 1, 5, 2, 4, 3]`
+
+Notice that in the general case for a list of `length = n` the nodes are reordered to be in the following order:
+
+`[0, n-1, 1, n-2, 2, n-3, ...]`
+
+You may not modify the values in the list's nodes, but instead you must reorder the nodes themselves.
 
 **Example 1:**
 
-![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/034d3a04-1ca6-4c81-8a7a-648658944600/public)
-
-
 ```
-Input: head = [1,2,3,4]
-Output: [1,4,2,3]
+Input: head = [2,4,6,8]
+
+Output: [2,8,4,6]
 ```
 
 **Example 2:**
 
-![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/80f9be46-c7d9-43bb-b072-3bbfd7942500/public)
-
-
 ```
-Input: head = [1,2,3,4,5]
-Output: [1,5,2,4,3]
+Input: head = [2,4,6,8,10]
+
+Output: [2,10,4,8,6]
 ```
 
 **Constraints:**
 
--   The number of nodes in the list is in the range `[1, 5 * 10^4]`.
+-   `1 <= Length of the list <= 1000`.
 -   `1 <= Node.val <= 1000`
 
 ___
@@ -6231,45 +6492,43 @@ The provided code merges the two halves by iterating through the first half of t
 
 Q:: =============================================  
 
-##### Reorder List
+##### Reorder Linked List
 
-You are given the head of a singly linked-list. The list can be represented as:
+You are given the head of a singly linked-list.
 
-```
-L0 → L1 → … → Ln - 1 → Ln
-```
+The positions of a linked list of `length = 7` for example, can intially be represented as:
 
-_Reorder the list to be on the following form:_
+`[0, 1, 2, 3, 4, 5, 6]`
 
-```
-L0 → Ln → L1 → Ln - 1 → L2 → Ln - 2 → …
-```
+Reorder the nodes of the linked list to be in the following order:
 
-You may not modify the values in the list's nodes. Only nodes themselves may be changed.
+`[0, 6, 1, 5, 2, 4, 3]`
+
+Notice that in the general case for a list of `length = n` the nodes are reordered to be in the following order:
+
+`[0, n-1, 1, n-2, 2, n-3, ...]`
+
+You may not modify the values in the list's nodes, but instead you must reorder the nodes themselves.
 
 **Example 1:**
 
-![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/034d3a04-1ca6-4c81-8a7a-648658944600/public)
-
-
 ```
-Input: head = [1,2,3,4]
-Output: [1,4,2,3]
+Input: head = [2,4,6,8]
+
+Output: [2,8,4,6]
 ```
 
 **Example 2:**
 
-![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/80f9be46-c7d9-43bb-b072-3bbfd7942500/public)
-
-
 ```
-Input: head = [1,2,3,4,5]
-Output: [1,5,2,4,3]
+Input: head = [2,4,6,8,10]
+
+Output: [2,10,4,8,6]
 ```
 
 **Constraints:**
 
--   The number of nodes in the list is in the range `[1, 5 * 10^4]`.
+-   `1 <= Length of the list <= 1000`.
 -   `1 <= Node.val <= 1000`
 
 ___
@@ -6326,32 +6585,34 @@ This approach has a linear time complexity O(n) because we are making a single p
 
 Q:: =============================================  
 
-##### Remove Nth Node From End of List
+##### Remove Node From End of Linked List
 
-Given the `head` of a linked list, remove the `nth` node from the end of the list and return its head.
+You are given the beginning of a linked list `head`, and an integer `n`.
+
+Remove the `nth` node from the end of the list and return the beginning of the list.
 
 **Example 1:**
 
-![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/23a28313-7f20-49b4-9781-fcf45a598100/public)
-
-
 ```
-Input: head = [1,2,3,4,5], n = 2
-Output: [1,2,3,5]
+Input: head = [1,2,3,4], n = 2
+
+Output: [1,2,4]
 ```
 
 **Example 2:**
 
 ```
-Input: head = [1], n = 1
+Input: head = [5], n = 1
+
 Output: []
 ```
 
 **Example 3:**
 
 ```
-Input: head = [1,2], n = 1
-Output: [1]
+Input: head = [1,2], n = 2
+
+Output: [2]
 ```
 
 **Constraints:**
@@ -6360,8 +6621,6 @@ Output: [1]
 -   `1 <= sz <= 30`
 -   `0 <= Node.val <= 100`
 -   `1 <= n <= sz`
-
-**Follow up:** Could you do this in one pass?
 
 ___
 
@@ -6382,32 +6641,34 @@ To remove a node x from a singly linked list, we need access to the node before 
 
 Q:: =============================================  
 
-##### Remove Nth Node From End of List
+##### Remove Node From End of Linked List
 
-Given the `head` of a linked list, remove the `nth` node from the end of the list and return its head.
+You are given the beginning of a linked list `head`, and an integer `n`.
+
+Remove the `nth` node from the end of the list and return the beginning of the list.
 
 **Example 1:**
 
-![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/23a28313-7f20-49b4-9781-fcf45a598100/public)
-
-
 ```
-Input: head = [1,2,3,4,5], n = 2
-Output: [1,2,3,5]
+Input: head = [1,2,3,4], n = 2
+
+Output: [1,2,4]
 ```
 
 **Example 2:**
 
 ```
-Input: head = [1], n = 1
+Input: head = [5], n = 1
+
 Output: []
 ```
 
 **Example 3:**
 
 ```
-Input: head = [1,2], n = 1
-Output: [1]
+Input: head = [1,2], n = 2
+
+Output: [2]
 ```
 
 **Constraints:**
@@ -6416,8 +6677,6 @@ Output: [1]
 -   `1 <= sz <= 30`
 -   `0 <= Node.val <= 100`
 -   `1 <= n <= sz`
-
-**Follow up:** Could you do this in one pass?
 
 ___
 
@@ -6438,32 +6697,34 @@ To eliminate the edge case of removing the first node in the list, we can add a 
 
 Q:: =============================================  
 
-##### Remove Nth Node From End of List
+##### Remove Node From End of Linked List
 
-Given the `head` of a linked list, remove the `nth` node from the end of the list and return its head.
+You are given the beginning of a linked list `head`, and an integer `n`.
+
+Remove the `nth` node from the end of the list and return the beginning of the list.
 
 **Example 1:**
 
-![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/23a28313-7f20-49b4-9781-fcf45a598100/public)
-
-
 ```
-Input: head = [1,2,3,4,5], n = 2
-Output: [1,2,3,5]
+Input: head = [1,2,3,4], n = 2
+
+Output: [1,2,4]
 ```
 
 **Example 2:**
 
 ```
-Input: head = [1], n = 1
+Input: head = [5], n = 1
+
 Output: []
 ```
 
 **Example 3:**
 
 ```
-Input: head = [1,2], n = 1
-Output: [1]
+Input: head = [1,2], n = 2
+
+Output: [2]
 ```
 
 **Constraints:**
@@ -6472,8 +6733,6 @@ Output: [1]
 -   `1 <= sz <= 30`
 -   `0 <= Node.val <= 100`
 -   `1 <= n <= sz`
-
-**Follow up:** Could you do this in one pass?
 
 ___
 
@@ -6496,32 +6755,34 @@ If we are to solve this problem using two pointers without precomputing the leng
 
 Q:: =============================================  
 
-##### Remove Nth Node From End of List
+##### Remove Node From End of Linked List
 
-Given the `head` of a linked list, remove the `nth` node from the end of the list and return its head.
+You are given the beginning of a linked list `head`, and an integer `n`.
+
+Remove the `nth` node from the end of the list and return the beginning of the list.
 
 **Example 1:**
 
-![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/23a28313-7f20-49b4-9781-fcf45a598100/public)
-
-
 ```
-Input: head = [1,2,3,4,5], n = 2
-Output: [1,2,3,5]
+Input: head = [1,2,3,4], n = 2
+
+Output: [1,2,4]
 ```
 
 **Example 2:**
 
 ```
-Input: head = [1], n = 1
+Input: head = [5], n = 1
+
 Output: []
 ```
 
 **Example 3:**
 
 ```
-Input: head = [1,2], n = 1
-Output: [1]
+Input: head = [1,2], n = 2
+
+Output: [2]
 ```
 
 **Constraints:**
@@ -6530,8 +6791,6 @@ Output: [1]
 -   `1 <= sz <= 30`
 -   `0 <= Node.val <= 100`
 -   `1 <= n <= sz`
-
-**Follow up:** Could you do this in one pass?
 
 ___
 
@@ -6550,32 +6809,34 @@ After we have created the offset, we should shift each pointer by 1 on each iter
 
 Q:: =============================================  
 
-##### Remove Nth Node From End of List
+##### Remove Node From End of Linked List
 
-Given the `head` of a linked list, remove the `nth` node from the end of the list and return its head.
+You are given the beginning of a linked list `head`, and an integer `n`.
+
+Remove the `nth` node from the end of the list and return the beginning of the list.
 
 **Example 1:**
 
-![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/23a28313-7f20-49b4-9781-fcf45a598100/public)
-
-
 ```
-Input: head = [1,2,3,4,5], n = 2
-Output: [1,2,3,5]
+Input: head = [1,2,3,4], n = 2
+
+Output: [1,2,4]
 ```
 
 **Example 2:**
 
 ```
-Input: head = [1], n = 1
+Input: head = [5], n = 1
+
 Output: []
 ```
 
 **Example 3:**
 
 ```
-Input: head = [1,2], n = 1
-Output: [1]
+Input: head = [1,2], n = 2
+
+Output: [2]
 ```
 
 **Constraints:**
@@ -6584,8 +6845,6 @@ Output: [1]
 -   `1 <= sz <= 30`
 -   `0 <= Node.val <= 100`
 -   `1 <= n <= sz`
-
-**Follow up:** Could you do this in one pass?
 
 ___
 
@@ -6632,31 +6891,25 @@ The two-pointer approach has a linear time complexity of O(n). We perform a cons
 
 Q:: =============================================  
 
-##### Merge K Sorted Lists
+##### Merge K Sorted Linked Lists
 
-You are given an array of `k` linked-lists `lists`, each linked-list is sorted in ascending order.
+You are given an array of `k` linked lists `lists`, where each list is sorted in ascending order.
 
-_Merge all the linked-lists into one sorted linked-list and return it._
+Return the **sorted** linked list that is the result of merging all of the individual linked lists.
 
 **Example 1:**
 
 ```
-Input: lists = [[1,4,5],[1,3,4],[2,6]]
-Output: [1,1,2,3,4,4,5,6]
-Explanation: The linked-lists are:
-[
-  1-&gt;4-&gt;5,
-  1-&gt;3-&gt;4,
-  2-&gt;6
-]
-merging them into one sorted list:
-1-&gt;1-&gt;2-&gt;3-&gt;4-&gt;4-&gt;5-&gt;6
+Input: lists = [[1,2,4],[1,3,5],[3,6]]
+
+Output: [1,1,2,3,3,4,5,6]
 ```
 
 **Example 2:**
 
 ```
 Input: lists = []
+
 Output: []
 ```
 
@@ -6664,17 +6917,15 @@ Output: []
 
 ```
 Input: lists = [[]]
+
 Output: []
 ```
 
 **Constraints:**
 
--   `k == lists.length`
--   `0 <= k <= 10^4`
--   `0 <= lists[i].length <= 500`
--   `10^4 <= lists[i][j] <= 10^4`
--   `lists[i]` is sorted in **ascending order**.
--   The sum of `lists[i].length` will not exceed `10^4`.
+-   `0 <= lists.length <= 1000`
+-   `0 <= lists[i].length <= 100`
+-   `-1000 <= lists[i][j] <= 1000`
 
 ___
 
@@ -6697,31 +6948,25 @@ A straightforward approach for this problem would involve sequentially merging t
 
 Q:: =============================================  
 
-##### Merge K Sorted Lists
+##### Merge K Sorted Linked Lists
 
-You are given an array of `k` linked-lists `lists`, each linked-list is sorted in ascending order.
+You are given an array of `k` linked lists `lists`, where each list is sorted in ascending order.
 
-_Merge all the linked-lists into one sorted linked-list and return it._
+Return the **sorted** linked list that is the result of merging all of the individual linked lists.
 
 **Example 1:**
 
 ```
-Input: lists = [[1,4,5],[1,3,4],[2,6]]
-Output: [1,1,2,3,4,4,5,6]
-Explanation: The linked-lists are:
-[
-  1-&gt;4-&gt;5,
-  1-&gt;3-&gt;4,
-  2-&gt;6
-]
-merging them into one sorted list:
-1-&gt;1-&gt;2-&gt;3-&gt;4-&gt;4-&gt;5-&gt;6
+Input: lists = [[1,2,4],[1,3,5],[3,6]]
+
+Output: [1,1,2,3,3,4,5,6]
 ```
 
 **Example 2:**
 
 ```
 Input: lists = []
+
 Output: []
 ```
 
@@ -6729,17 +6974,15 @@ Output: []
 
 ```
 Input: lists = [[]]
+
 Output: []
 ```
 
 **Constraints:**
 
--   `k == lists.length`
--   `0 <= k <= 10^4`
--   `0 <= lists[i].length <= 500`
--   `10^4 <= lists[i][j] <= 10^4`
--   `lists[i]` is sorted in **ascending order**.
--   The sum of `lists[i].length` will not exceed `10^4`.
+-   `0 <= lists.length <= 1000`
+-   `0 <= lists[i].length <= 100`
+-   `-1000 <= lists[i][j] <= 1000`
 
 ___
 
@@ -6762,31 +7005,25 @@ When you merge two linked lists, the time complexity is proportional to the tota
 
 Q:: =============================================  
 
-##### Merge K Sorted Lists
+##### Merge K Sorted Linked Lists
 
-You are given an array of `k` linked-lists `lists`, each linked-list is sorted in ascending order.
+You are given an array of `k` linked lists `lists`, where each list is sorted in ascending order.
 
-_Merge all the linked-lists into one sorted linked-list and return it._
+Return the **sorted** linked list that is the result of merging all of the individual linked lists.
 
 **Example 1:**
 
 ```
-Input: lists = [[1,4,5],[1,3,4],[2,6]]
-Output: [1,1,2,3,4,4,5,6]
-Explanation: The linked-lists are:
-[
-  1-&gt;4-&gt;5,
-  1-&gt;3-&gt;4,
-  2-&gt;6
-]
-merging them into one sorted list:
-1-&gt;1-&gt;2-&gt;3-&gt;4-&gt;4-&gt;5-&gt;6
+Input: lists = [[1,2,4],[1,3,5],[3,6]]
+
+Output: [1,1,2,3,3,4,5,6]
 ```
 
 **Example 2:**
 
 ```
 Input: lists = []
+
 Output: []
 ```
 
@@ -6794,17 +7031,15 @@ Output: []
 
 ```
 Input: lists = [[]]
+
 Output: []
 ```
 
 **Constraints:**
 
--   `k == lists.length`
--   `0 <= k <= 10^4`
--   `0 <= lists[i].length <= 500`
--   `10^4 <= lists[i][j] <= 10^4`
--   `lists[i]` is sorted in **ascending order**.
--   The sum of `lists[i].length` will not exceed `10^4`.
+-   `0 <= lists.length <= 1000`
+-   `0 <= lists[i].length <= 100`
+-   `-1000 <= lists[i][j] <= 1000`
 
 ___
 
@@ -6827,31 +7062,25 @@ Since all individual linked lists are sorted, you can use a priority queue (also
 
 Q:: =============================================  
 
-##### Merge K Sorted Lists
+##### Merge K Sorted Linked Lists
 
-You are given an array of `k` linked-lists `lists`, each linked-list is sorted in ascending order.
+You are given an array of `k` linked lists `lists`, where each list is sorted in ascending order.
 
-_Merge all the linked-lists into one sorted linked-list and return it._
+Return the **sorted** linked list that is the result of merging all of the individual linked lists.
 
 **Example 1:**
 
 ```
-Input: lists = [[1,4,5],[1,3,4],[2,6]]
-Output: [1,1,2,3,4,4,5,6]
-Explanation: The linked-lists are:
-[
-  1-&gt;4-&gt;5,
-  1-&gt;3-&gt;4,
-  2-&gt;6
-]
-merging them into one sorted list:
-1-&gt;1-&gt;2-&gt;3-&gt;4-&gt;4-&gt;5-&gt;6
+Input: lists = [[1,2,4],[1,3,5],[3,6]]
+
+Output: [1,1,2,3,3,4,5,6]
 ```
 
 **Example 2:**
 
 ```
 Input: lists = []
+
 Output: []
 ```
 
@@ -6859,17 +7088,15 @@ Output: []
 
 ```
 Input: lists = [[]]
+
 Output: []
 ```
 
 **Constraints:**
 
--   `k == lists.length`
--   `0 <= k <= 10^4`
--   `0 <= lists[i].length <= 500`
--   `10^4 <= lists[i][j] <= 10^4`
--   `lists[i]` is sorted in **ascending order**.
--   The sum of `lists[i].length` will not exceed `10^4`.
+-   `0 <= lists.length <= 1000`
+-   `0 <= lists[i].length <= 100`
+-   `-1000 <= lists[i][j] <= 1000`
 
 ___
 
@@ -6892,31 +7119,25 @@ The time complexity of inserting an element into a priority queue (or min-heap) 
 
 Q:: =============================================  
 
-##### Merge K Sorted Lists
+##### Merge K Sorted Linked Lists
 
-You are given an array of `k` linked-lists `lists`, each linked-list is sorted in ascending order.
+You are given an array of `k` linked lists `lists`, where each list is sorted in ascending order.
 
-_Merge all the linked-lists into one sorted linked-list and return it._
+Return the **sorted** linked list that is the result of merging all of the individual linked lists.
 
 **Example 1:**
 
 ```
-Input: lists = [[1,4,5],[1,3,4],[2,6]]
-Output: [1,1,2,3,4,4,5,6]
-Explanation: The linked-lists are:
-[
-  1-&gt;4-&gt;5,
-  1-&gt;3-&gt;4,
-  2-&gt;6
-]
-merging them into one sorted list:
-1-&gt;1-&gt;2-&gt;3-&gt;4-&gt;4-&gt;5-&gt;6
+Input: lists = [[1,2,4],[1,3,5],[3,6]]
+
+Output: [1,1,2,3,3,4,5,6]
 ```
 
 **Example 2:**
 
 ```
 Input: lists = []
+
 Output: []
 ```
 
@@ -6924,17 +7145,15 @@ Output: []
 
 ```
 Input: lists = [[]]
+
 Output: []
 ```
 
 **Constraints:**
 
--   `k == lists.length`
--   `0 <= k <= 10^4`
--   `0 <= lists[i].length <= 500`
--   `10^4 <= lists[i][j] <= 10^4`
--   `lists[i]` is sorted in **ascending order**.
--   The sum of `lists[i].length` will not exceed `10^4`.
+-   `0 <= lists.length <= 1000`
+-   `0 <= lists[i].length <= 100`
+-   `-1000 <= lists[i][j] <= 1000`
 
 ___
 
@@ -6957,31 +7176,25 @@ If you use a priority queue, you are essentially removing the smallest element (
 
 Q:: =============================================  
 
-##### Merge K Sorted Lists
+##### Merge K Sorted Linked Lists
 
-You are given an array of `k` linked-lists `lists`, each linked-list is sorted in ascending order.
+You are given an array of `k` linked lists `lists`, where each list is sorted in ascending order.
 
-_Merge all the linked-lists into one sorted linked-list and return it._
+Return the **sorted** linked list that is the result of merging all of the individual linked lists.
 
 **Example 1:**
 
 ```
-Input: lists = [[1,4,5],[1,3,4],[2,6]]
-Output: [1,1,2,3,4,4,5,6]
-Explanation: The linked-lists are:
-[
-  1-&gt;4-&gt;5,
-  1-&gt;3-&gt;4,
-  2-&gt;6
-]
-merging them into one sorted list:
-1-&gt;1-&gt;2-&gt;3-&gt;4-&gt;4-&gt;5-&gt;6
+Input: lists = [[1,2,4],[1,3,5],[3,6]]
+
+Output: [1,1,2,3,3,4,5,6]
 ```
 
 **Example 2:**
 
 ```
 Input: lists = []
+
 Output: []
 ```
 
@@ -6989,17 +7202,15 @@ Output: []
 
 ```
 Input: lists = [[]]
+
 Output: []
 ```
 
 **Constraints:**
 
--   `k == lists.length`
--   `0 <= k <= 10^4`
--   `0 <= lists[i].length <= 500`
--   `10^4 <= lists[i][j] <= 10^4`
--   `lists[i]` is sorted in **ascending order**.
--   The sum of `lists[i].length` will not exceed `10^4`.
+-   `0 <= lists.length <= 1000`
+-   `0 <= lists[i].length <= 100`
+-   `-1000 <= lists[i][j] <= 1000`
 
 ___
 
@@ -7028,29 +7239,48 @@ In this case, the space complexity is O(k) because at any point, you only need t
 
 Q:: =============================================  
 
-##### Invert Binary Tree
+##### Invert a Binary Tree
 
-Given the `root` of a binary tree, invert the tree, and return _its root_.
-
-![Binary Tree Inverted](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/9aeb8e98-e369-4a36-2c82-be3efcab4f00/public)
-
+You are given the root of a binary tree `root`. Invert the binary tree and return its root.
 
 **Example 1:**
 
+![](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/ac124ee6-207f-41f6-3aaa-dfb35815f200/public)
+
 ```
-Input: root = [4,2,7,1,3,6,9]
-Output: [4,7,2,9,6,3,1]
+Input: root = [1,2,3,4,5,6,7]
+
+Output: [1,3,2,7,6,5,4]
+```
+
+**Example 2:**
+
+![](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/e39e8d4f-9946-4f99-ee3d-0d4df08d4d00/public)
+
+```
+Input: root = [3,2,1]
+
+Output: [3,1,2]
+```
+
+**Example 3:**
+
+```
+Input: root = []
+
+Output: []
 ```
 
 **Constraints:**
 
--   The number of nodes in the tree is in the range `[0, 100]`.
+-   `0 <= The number of nodes in the tree <= 100`.
 -   `-100 <= Node.val <= 100`
 
 ___
 
-What does this binary tree look like after it has been inverted? ![](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/3632af86-32d0-4224-fd47-1a9f311a8f00/public)
+What does this binary tree look like after it has been inverted? 
 
+![](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/3632af86-32d0-4224-fd47-1a9f311a8f00/public)
 
 A) ![](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/00d65115-0868-4312-8050-b1b039ecda00/public)
 
@@ -7065,49 +7295,42 @@ Inverting a binary tree means to make all left child nodes become right child no
 
 Q:: =============================================  
 
-##### Invert Binary Tree
+##### Invert a Binary Tree
 
-You are given an array of `k` linked-lists `lists`, each linked-list is sorted in ascending order.
-
-_Merge all the linked-lists into one sorted linked-list and return it._
+You are given the root of a binary tree `root`. Invert the binary tree and return its root.
 
 **Example 1:**
 
+![](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/ac124ee6-207f-41f6-3aaa-dfb35815f200/public)
+
 ```
-Input: lists = [[1,4,5],[1,3,4],[2,6]]
-Output: [1,1,2,3,4,4,5,6]
-Explanation: The linked-lists are:
-[
-  1-&gt;4-&gt;5,
-  1-&gt;3-&gt;4,
-  2-&gt;6
-]
-merging them into one sorted list:
-1-&gt;1-&gt;2-&gt;3-&gt;4-&gt;4-&gt;5-&gt;6
+Input: root = [1,2,3,4,5,6,7]
+
+Output: [1,3,2,7,6,5,4]
 ```
 
 **Example 2:**
 
+![](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/e39e8d4f-9946-4f99-ee3d-0d4df08d4d00/public)
+
 ```
-Input: lists = []
-Output: []
+Input: root = [3,2,1]
+
+Output: [3,1,2]
 ```
 
 **Example 3:**
 
 ```
-Input: lists = [[]]
+Input: root = []
+
 Output: []
 ```
 
 **Constraints:**
 
--   `k == lists.length`
--   `0 <= k <= 10^4`
--   `0 <= lists[i].length <= 500`
--   `10^4 <= lists[i][j] <= 10^4`
--   `lists[i]` is sorted in **ascending order**.
--   The sum of `lists[i].length` will not exceed `10^4`.
+-   `0 <= The number of nodes in the tree <= 100`.
+-   `-100 <= Node.val <= 100`
 
 ___
 
@@ -7130,49 +7353,42 @@ Both Depth-First Search (DFS) and Breadth-First Search (BFS) could be used to so
 
 Q:: =============================================  
 
-##### Invert Binary Tree
+##### Invert a Binary Tree
 
-You are given an array of `k` linked-lists `lists`, each linked-list is sorted in ascending order.
-
-_Merge all the linked-lists into one sorted linked-list and return it._
+You are given the root of a binary tree `root`. Invert the binary tree and return its root.
 
 **Example 1:**
 
+![](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/ac124ee6-207f-41f6-3aaa-dfb35815f200/public)
+
 ```
-Input: lists = [[1,4,5],[1,3,4],[2,6]]
-Output: [1,1,2,3,4,4,5,6]
-Explanation: The linked-lists are:
-[
-  1-&gt;4-&gt;5,
-  1-&gt;3-&gt;4,
-  2-&gt;6
-]
-merging them into one sorted list:
-1-&gt;1-&gt;2-&gt;3-&gt;4-&gt;4-&gt;5-&gt;6
+Input: root = [1,2,3,4,5,6,7]
+
+Output: [1,3,2,7,6,5,4]
 ```
 
 **Example 2:**
 
+![](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/e39e8d4f-9946-4f99-ee3d-0d4df08d4d00/public)
+
 ```
-Input: lists = []
-Output: []
+Input: root = [3,2,1]
+
+Output: [3,1,2]
 ```
 
 **Example 3:**
 
 ```
-Input: lists = [[]]
+Input: root = []
+
 Output: []
 ```
 
 **Constraints:**
 
--   `k == lists.length`
--   `0 <= k <= 10^4`
--   `0 <= lists[i].length <= 500`
--   `10^4 <= lists[i][j] <= 10^4`
--   `lists[i]` is sorted in **ascending order**.
--   The sum of `lists[i].length` will not exceed `10^4`.
+-   `0 <= The number of nodes in the tree <= 100`.
+-   `-100 <= Node.val <= 100`
 
 ___
 
@@ -7195,49 +7411,42 @@ The base case for a recursive approach to this problem could be when we encounte
 
 Q:: =============================================  
 
-##### Invert Binary Tree
+##### Invert a Binary Tree
 
-You are given an array of `k` linked-lists `lists`, each linked-list is sorted in ascending order.
-
-_Merge all the linked-lists into one sorted linked-list and return it._
+You are given the root of a binary tree `root`. Invert the binary tree and return its root.
 
 **Example 1:**
 
+![](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/ac124ee6-207f-41f6-3aaa-dfb35815f200/public)
+
 ```
-Input: lists = [[1,4,5],[1,3,4],[2,6]]
-Output: [1,1,2,3,4,4,5,6]
-Explanation: The linked-lists are:
-[
-  1-&gt;4-&gt;5,
-  1-&gt;3-&gt;4,
-  2-&gt;6
-]
-merging them into one sorted list:
-1-&gt;1-&gt;2-&gt;3-&gt;4-&gt;4-&gt;5-&gt;6
+Input: root = [1,2,3,4,5,6,7]
+
+Output: [1,3,2,7,6,5,4]
 ```
 
 **Example 2:**
 
+![](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/e39e8d4f-9946-4f99-ee3d-0d4df08d4d00/public)
+
 ```
-Input: lists = []
-Output: []
+Input: root = [3,2,1]
+
+Output: [3,1,2]
 ```
 
 **Example 3:**
 
 ```
-Input: lists = [[]]
+Input: root = []
+
 Output: []
 ```
 
 **Constraints:**
 
--   `k == lists.length`
--   `0 <= k <= 10^4`
--   `0 <= lists[i].length <= 500`
--   `10^4 <= lists[i][j] <= 10^4`
--   `lists[i]` is sorted in **ascending order**.
--   The sum of `lists[i].length` will not exceed `10^4`.
+-   `0 <= The number of nodes in the tree <= 100`.
+-   `-100 <= Node.val <= 100`
 
 ___
 
@@ -7260,49 +7469,42 @@ The recursive approach to inverting a binary tree would involve swapping the lef
 
 Q:: =============================================  
 
-##### Invert Binary Tree
+##### Invert a Binary Tree
 
-You are given an array of `k` linked-lists `lists`, each linked-list is sorted in ascending order.
-
-_Merge all the linked-lists into one sorted linked-list and return it._
+You are given the root of a binary tree `root`. Invert the binary tree and return its root.
 
 **Example 1:**
 
+![](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/ac124ee6-207f-41f6-3aaa-dfb35815f200/public)
+
 ```
-Input: lists = [[1,4,5],[1,3,4],[2,6]]
-Output: [1,1,2,3,4,4,5,6]
-Explanation: The linked-lists are:
-[
-  1-&gt;4-&gt;5,
-  1-&gt;3-&gt;4,
-  2-&gt;6
-]
-merging them into one sorted list:
-1-&gt;1-&gt;2-&gt;3-&gt;4-&gt;4-&gt;5-&gt;6
+Input: root = [1,2,3,4,5,6,7]
+
+Output: [1,3,2,7,6,5,4]
 ```
 
 **Example 2:**
 
+![](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/e39e8d4f-9946-4f99-ee3d-0d4df08d4d00/public)
+
 ```
-Input: lists = []
-Output: []
+Input: root = [3,2,1]
+
+Output: [3,1,2]
 ```
 
 **Example 3:**
 
 ```
-Input: lists = [[]]
+Input: root = []
+
 Output: []
 ```
 
 **Constraints:**
 
--   `k == lists.length`
--   `0 <= k <= 10^4`
--   `0 <= lists[i].length <= 500`
--   `10^4 <= lists[i][j] <= 10^4`
--   `lists[i]` is sorted in **ascending order**.
--   The sum of `lists[i].length` will not exceed `10^4`.
+-   `0 <= The number of nodes in the tree <= 100`.
+-   `-100 <= Node.val <= 100`
 
 ___
 
@@ -7327,33 +7529,34 @@ The time complexity of the recursive solution is O(n), where n is the number of 
 
 Q:: =============================================  
 
-##### Maximum Depth of Binary Tree
+##### Depth of Binary Tree
 
-Given the `root` of a binary tree, return _its maximum depth_.
+Given the `root` of a binary tree, return its **depth**.
 
-A binary tree's **maximum depth** is the number of nodes along the longest path from the root node down to the farthest leaf node.
+The **depth** of a binary tree is defined as the number of nodes along the longest path from the root node down to the farthest leaf node.
 
 **Example 1:**
 
-![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/4601cb74-8473-4e92-bf42-b0406178d900/public)
-
+![](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/5ea6da77-7e43-43e0-dd9d-e879ca0b1600/public)
 
 ```
-Input: root = [3,9,20,null,null,15,7]
+Input: root = [1,2,3,null,null,4]
+
 Output: 3
 ```
 
 **Example 2:**
 
 ```
-Input: root = [1,null,2]
-Output: 2
+Input: root = []
+
+Output: 0
 ```
 
 **Constraints:**
 
--   The number of nodes in the tree is in the range `[0, 10^4]`.
--   `100 <= Node.val <= 100`
+-   `0 <= The number of nodes in the tree <= 100`.
+-   `-100 <= Node.val <= 100`
 
 ___
 
@@ -7376,49 +7579,34 @@ A tree with a single node (which is also the root) has a maximum depth of 1. The
 
 Q:: =============================================  
 
-##### Maximum Depth of Binary Tree
+##### Depth of Binary Tree
 
-You are given an array of `k` linked-lists `lists`, each linked-list is sorted in ascending order.
+Given the `root` of a binary tree, return its **depth**.
 
-_Merge all the linked-lists into one sorted linked-list and return it._
+The **depth** of a binary tree is defined as the number of nodes along the longest path from the root node down to the farthest leaf node.
 
 **Example 1:**
 
+![](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/5ea6da77-7e43-43e0-dd9d-e879ca0b1600/public)
+
 ```
-Input: lists = [[1,4,5],[1,3,4],[2,6]]
-Output: [1,1,2,3,4,4,5,6]
-Explanation: The linked-lists are:
-[
-  1-&gt;4-&gt;5,
-  1-&gt;3-&gt;4,
-  2-&gt;6
-]
-merging them into one sorted list:
-1-&gt;1-&gt;2-&gt;3-&gt;4-&gt;4-&gt;5-&gt;6
+Input: root = [1,2,3,null,null,4]
+
+Output: 3
 ```
 
 **Example 2:**
 
 ```
-Input: lists = []
-Output: []
-```
+Input: root = []
 
-**Example 3:**
-
-```
-Input: lists = [[]]
-Output: []
+Output: 0
 ```
 
 **Constraints:**
 
--   `k == lists.length`
--   `0 <= k <= 10^4`
--   `0 <= lists[i].length <= 500`
--   `10^4 <= lists[i][j] <= 10^4`
--   `lists[i]` is sorted in **ascending order**.
--   The sum of `lists[i].length` will not exceed `10^4`.
+-   `0 <= The number of nodes in the tree <= 100`.
+-   `-100 <= Node.val <= 100`
 
 ___
 
@@ -7441,49 +7629,34 @@ Both DFS and BFS can be used to solve this problem. Both methods would work beca
 
 Q:: =============================================  
 
-##### Maximum Depth of Binary Tree
+##### Depth of Binary Tree
 
-You are given an array of `k` linked-lists `lists`, each linked-list is sorted in ascending order.
+Given the `root` of a binary tree, return its **depth**.
 
-_Merge all the linked-lists into one sorted linked-list and return it._
+The **depth** of a binary tree is defined as the number of nodes along the longest path from the root node down to the farthest leaf node.
 
 **Example 1:**
 
+![](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/5ea6da77-7e43-43e0-dd9d-e879ca0b1600/public)
+
 ```
-Input: lists = [[1,4,5],[1,3,4],[2,6]]
-Output: [1,1,2,3,4,4,5,6]
-Explanation: The linked-lists are:
-[
-  1-&gt;4-&gt;5,
-  1-&gt;3-&gt;4,
-  2-&gt;6
-]
-merging them into one sorted list:
-1-&gt;1-&gt;2-&gt;3-&gt;4-&gt;4-&gt;5-&gt;6
+Input: root = [1,2,3,null,null,4]
+
+Output: 3
 ```
 
 **Example 2:**
 
 ```
-Input: lists = []
-Output: []
-```
+Input: root = []
 
-**Example 3:**
-
-```
-Input: lists = [[]]
-Output: []
+Output: 0
 ```
 
 **Constraints:**
 
--   `k == lists.length`
--   `0 <= k <= 10^4`
--   `0 <= lists[i].length <= 500`
--   `10^4 <= lists[i][j] <= 10^4`
--   `lists[i]` is sorted in **ascending order**.
--   The sum of `lists[i].length` will not exceed `10^4`.
+-   `0 <= The number of nodes in the tree <= 100`.
+-   `-100 <= Node.val <= 100`
 
 ___
 
@@ -7504,49 +7677,34 @@ A good base case for this problem could be when we encounter a null node. When w
 
 Q:: =============================================  
 
-##### Maximum Depth of Binary Tree
+##### Depth of Binary Tree
 
-You are given an array of `k` linked-lists `lists`, each linked-list is sorted in ascending order.
+Given the `root` of a binary tree, return its **depth**.
 
-_Merge all the linked-lists into one sorted linked-list and return it._
+The **depth** of a binary tree is defined as the number of nodes along the longest path from the root node down to the farthest leaf node.
 
 **Example 1:**
 
+![](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/5ea6da77-7e43-43e0-dd9d-e879ca0b1600/public)
+
 ```
-Input: lists = [[1,4,5],[1,3,4],[2,6]]
-Output: [1,1,2,3,4,4,5,6]
-Explanation: The linked-lists are:
-[
-  1-&gt;4-&gt;5,
-  1-&gt;3-&gt;4,
-  2-&gt;6
-]
-merging them into one sorted list:
-1-&gt;1-&gt;2-&gt;3-&gt;4-&gt;4-&gt;5-&gt;6
+Input: root = [1,2,3,null,null,4]
+
+Output: 3
 ```
 
 **Example 2:**
 
 ```
-Input: lists = []
-Output: []
-```
+Input: root = []
 
-**Example 3:**
-
-```
-Input: lists = [[]]
-Output: []
+Output: 0
 ```
 
 **Constraints:**
 
--   `k == lists.length`
--   `0 <= k <= 10^4`
--   `0 <= lists[i].length <= 500`
--   `10^4 <= lists[i][j] <= 10^4`
--   `lists[i]` is sorted in **ascending order**.
--   The sum of `lists[i].length` will not exceed `10^4`.
+-   `0 <= The number of nodes in the tree <= 100`.
+-   `-100 <= Node.val <= 100`
 
 ___
 
@@ -7567,49 +7725,34 @@ The maximum depth of a binary tree is one more than the maximum of the depths of
 
 Q:: =============================================  
 
-##### Maximum Depth of Binary Tree
+##### Depth of Binary Tree
 
-You are given an array of `k` linked-lists `lists`, each linked-list is sorted in ascending order.
+Given the `root` of a binary tree, return its **depth**.
 
-_Merge all the linked-lists into one sorted linked-list and return it._
+The **depth** of a binary tree is defined as the number of nodes along the longest path from the root node down to the farthest leaf node.
 
 **Example 1:**
 
+![](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/5ea6da77-7e43-43e0-dd9d-e879ca0b1600/public)
+
 ```
-Input: lists = [[1,4,5],[1,3,4],[2,6]]
-Output: [1,1,2,3,4,4,5,6]
-Explanation: The linked-lists are:
-[
-  1-&gt;4-&gt;5,
-  1-&gt;3-&gt;4,
-  2-&gt;6
-]
-merging them into one sorted list:
-1-&gt;1-&gt;2-&gt;3-&gt;4-&gt;4-&gt;5-&gt;6
+Input: root = [1,2,3,null,null,4]
+
+Output: 3
 ```
 
 **Example 2:**
 
 ```
-Input: lists = []
-Output: []
-```
+Input: root = []
 
-**Example 3:**
-
-```
-Input: lists = [[]]
-Output: []
+Output: 0
 ```
 
 **Constraints:**
 
--   `k == lists.length`
--   `0 <= k <= 10^4`
--   `0 <= lists[i].length <= 500`
--   `10^4 <= lists[i][j] <= 10^4`
--   `lists[i]` is sorted in **ascending order**.
--   The sum of `lists[i].length` will not exceed `10^4`.
+-   `0 <= The number of nodes in the tree <= 100`.
+-   `-100 <= Node.val <= 100`
 
 ___
 
