@@ -89,4 +89,4 @@ Related:
 LIST
 where file.name = this.file.name
 ```
-QUESTION STATUS: Not safe to store
+QUESTION STATUS: Safe to store

@@ -222,6 +222,12 @@
 | [174](#id174) | [Rotate image you are given an n x n 2d](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%201%20-%20Rotate%20Image%20-%20Blind/174%20-%20Rotate%20image%20you%20are%20given%20an%20n%20x%20n%202d.md) | 18 | 1 |
 | [175](#id175) | [Rotate image you are given an n x n 2d](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%201%20-%20Rotate%20Image%20-%20Blind/175%20-%20Rotate%20image%20you%20are%20given%20an%20n%20x%20n%202d.md) | 18 | 1 |
 | [176](#id176) | [Rotate image you are given an n x n 2d](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%201%20-%20Rotate%20Image%20-%20Blind/176%20-%20Rotate%20image%20you%20are%20given%20an%20n%20x%20n%202d.md) | 18 | 1 |
+| **-** | **Math Geometry > Spiral Matrix** | **18** | **2** |
+| [177](#id177) | [Spiral matrix given an m x n matrix r](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%202%20-%20Spiral%20Matrix%20-%20Blind/177%20-%20Spiral%20matrix%20given%20an%20m%20x%20n%20matrix%20r.md) | 18 | 2 |
+| [178](#id178) | [Spiral matrix given an m x n matrix r](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%202%20-%20Spiral%20Matrix%20-%20Blind/178%20-%20Spiral%20matrix%20given%20an%20m%20x%20n%20matrix%20r.md) | 18 | 2 |
+| [179](#id179) | [Spiral matrix given an m x n matrix r](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%202%20-%20Spiral%20Matrix%20-%20Blind/179%20-%20Spiral%20matrix%20given%20an%20m%20x%20n%20matrix%20r.md) | 18 | 2 |
+| [180](#id180) | [Spiral matrix given an m x n matrix r](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%202%20-%20Spiral%20Matrix%20-%20Blind/180%20-%20Spiral%20matrix%20given%20an%20m%20x%20n%20matrix%20r.md) | 18 | 2 |
+| [181](#id181) | [Spiral matrix given an m x n matrix r](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%202%20-%20Spiral%20Matrix%20-%20Blind/181%20-%20Spiral%20matrix%20given%20an%20m%20x%20n%20matrix%20r.md) | 18 | 2 |
 
 ### Part I - Arrays & Hashing
 
@@ -10018,6 +10024,311 @@ A:: =============================================
 The time complexity of the rotation operation is O(n^2). This is because, for each layer of the matrix, we perform a constant amount of work for each element, and there are n^2 total elements. The space complexity is O(1) because we perform the rotation in-place without allocating any additional significant space. The only extra space we use is a couple of variables to keep track of the current position and temporarily hold an element during the rotation.
 
 #### Chapter 2 - Spiral Matrix - [Blind]
+
+Q:: =============================================  
+
+##### Spiral Matrix
+
+Given an `m x n` `matrix`, return _all elements of the_ `matrix` _in spiral order_.
+
+**Example 1:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/d23c7df9-a6dd-4b27-1b10-716af9df2c00/public)
+
+```
+Input: matrix = [[1,2,3],[4,5,6],[7,8,9]]
+Output: [1,2,3,6,9,8,7,4,5]
+```
+
+**Example 2:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/7a94bac6-b2a5-4487-77b0-8313eb6e0900/public)
+
+```
+Input: matrix = [[1,2,3,4],[5,6,7,8],[9,10,11,12]]
+Output: [1,2,3,4,8,12,11,10,9,5,6,7]
+```
+
+**Constraints:**
+
+-   `m == matrix.length`
+-   `n == matrix[i].length`
+-   `1 <= m, n <= 10`
+-   `100 <= matrix[i][j] <= 100`
+
+___
+
+What is the correct order of traversal to achieve a spiral order in a matrix?
+
+A) Top row from left to right, rightmost column from top to bottom, bottom row from right to left, leftmost column from bottom to top.
+
+B) Top row from right to left, rightmost column from bottom to top, bottom row from left to right, leftmost column from top to bottom.
+
+###### ID177
+
+A:: =============================================  
+**Answer**: A
+
+To achieve a spiral order in a matrix, we start by traversing the top row from left to right, then the rightmost column from top to bottom, then the bottom row from right to left, and finally the leftmost column from bottom to top. This completes one cycle of spiral traversal.
+
+Q:: =============================================  
+
+##### Spiral Matrix
+
+Given an `m x n` `matrix`, return _all elements of the_ `matrix` _in spiral order_.
+
+**Example 1:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/d23c7df9-a6dd-4b27-1b10-716af9df2c00/public)
+
+```
+Input: matrix = [[1,2,3],[4,5,6],[7,8,9]]
+Output: [1,2,3,6,9,8,7,4,5]
+```
+
+**Example 2:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/7a94bac6-b2a5-4487-77b0-8313eb6e0900/public)
+
+```
+Input: matrix = [[1,2,3,4],[5,6,7,8],[9,10,11,12]]
+Output: [1,2,3,4,8,12,11,10,9,5,6,7]
+```
+
+**Constraints:**
+
+-   `m == matrix.length`
+-   `n == matrix[i].length`
+-   `1 <= m, n <= 10`
+-   `100 <= matrix[i][j] <= 100`
+
+___
+
+After completing one cycle of spiral traversal in the matrix, what should be the next step?  
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/cb1d1f77-711b-4fa0-e81f-fd5dfc35b700/public)
+
+A) Repeat the same cycle on the remaining submatrix.
+
+B) Reverse the cycle on the remaining submatrix.
+
+C) Transpose the remaining submatrix and then repeat the same cycle.
+
+###### ID178
+
+A:: =============================================  
+**Answer**: A
+
+After completing one cycle of spiral traversal, the remaining submatrix will be smaller, but we should still traverse it in the same order: top row, rightmost column, bottom row, leftmost column.
+
+Q:: =============================================  
+
+##### Spiral Matrix
+
+Given an `m x n` `matrix`, return _all elements of the_ `matrix` _in spiral order_.
+
+**Example 1:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/d23c7df9-a6dd-4b27-1b10-716af9df2c00/public)
+
+```
+Input: matrix = [[1,2,3],[4,5,6],[7,8,9]]
+Output: [1,2,3,6,9,8,7,4,5]
+```
+
+**Example 2:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/7a94bac6-b2a5-4487-77b0-8313eb6e0900/public)
+
+```
+Input: matrix = [[1,2,3,4],[5,6,7,8],[9,10,11,12]]
+Output: [1,2,3,4,8,12,11,10,9,5,6,7]
+```
+
+**Constraints:**
+
+-   `m == matrix.length`
+-   `n == matrix[i].length`
+-   `1 <= m, n <= 10`
+-   `100 <= matrix[i][j] <= 100`
+
+___
+
+To traverse an `m x n` matrix in a spiral order, how many pointers do we need and what do they represent?
+
+A) 3 pointers - one for row, one for column, and one for diagonal traversal.
+
+B) 4 pointers - one for each of top, right, bottom, and left boundaries of the current submatrix.
+
+C) 5 pointers - one for each of top, right, bottom, left boundaries and one for the center of the matrix.
+
+###### ID179
+
+A:: =============================================  
+**Answer**: B
+
+To traverse a 2D matrix in a spiral order, we need 4 pointers to keep track of the boundaries of the current submatrix we are traversing. These boundaries are top, right, bottom, and left. As we traverse, we progressively move the boundaries inward.
+
+Q:: =============================================  
+
+##### Spiral Matrix
+
+Given an `m x n` `matrix`, return _all elements of the_ `matrix` _in spiral order_.
+
+**Example 1:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/d23c7df9-a6dd-4b27-1b10-716af9df2c00/public)
+
+```
+Input: matrix = [[1,2,3],[4,5,6],[7,8,9]]
+Output: [1,2,3,6,9,8,7,4,5]
+```
+
+**Example 2:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/7a94bac6-b2a5-4487-77b0-8313eb6e0900/public)
+
+```
+Input: matrix = [[1,2,3,4],[5,6,7,8],[9,10,11,12]]
+Output: [1,2,3,4,8,12,11,10,9,5,6,7]
+```
+
+**Constraints:**
+
+-   `m == matrix.length`
+-   `n == matrix[i].length`
+-   `1 <= m, n <= 10`
+-   `100 <= matrix[i][j] <= 100`
+
+___
+
+Given the Python code below for traversing a matrix in spiral order, what will be a potential issue when running this code on a non-square matrix? For example, consider what the output would be for `matrix = [[1, 2, 3]]`.
+
+```python
+class Solution:
+    def spiralOrder(self, matrix: List[List[int]]) -> List[int]:
+        res = []
+        left, right = 0, len(matrix[0])
+        top, bottom = 0, len(matrix)
+
+        # while pointers have not met
+        while left < right and top < bottom:
+            # get every val in the top row
+            for i in range(left, right):
+                res.append(matrix[top][i])
+            top += 1
+            # get every val in the right col
+            for i in range(top, bottom):
+                res.append(matrix[i][right - 1])
+            right -= 1
+
+            # get every val in the bottom row
+            for i in range(right - 1, left - 1, -1):
+                res.append(matrix[bottom - 1][i])
+            bottom -= 1
+            # get every val in the left col
+            for i in range(bottom - 1, top - 1, -1):
+                res.append(matrix[i][left])
+            left += 1
+
+        return res
+```
+
+A) The code will fail to traverse the entire matrix.
+
+B) The code will traverse the last submatrix multiple times.
+
+###### ID180
+
+A:: =============================================  
+**Answer**: B
+
+The problem with this code is that it does not consider the case where the last submatrix is not square. If the last remaining part of the matrix is not square, the code will traverse the last submatrix multiple times. This is because there's no check to stop the bottom row and left column from being traversed again after the right column has been traversed and reduced. In the above example, the output would be \[1, 2, 3, 2, 1\], instead of \[1, 2, 3\] which is the expected result.
+
+Q:: =============================================  
+
+##### Spiral Matrix
+
+Given an `m x n` `matrix`, return _all elements of the_ `matrix` _in spiral order_.
+
+**Example 1:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/d23c7df9-a6dd-4b27-1b10-716af9df2c00/public)
+
+```
+Input: matrix = [[1,2,3],[4,5,6],[7,8,9]]
+Output: [1,2,3,6,9,8,7,4,5]
+```
+
+**Example 2:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/7a94bac6-b2a5-4487-77b0-8313eb6e0900/public)
+
+```
+Input: matrix = [[1,2,3,4],[5,6,7,8],[9,10,11,12]]
+Output: [1,2,3,4,8,12,11,10,9,5,6,7]
+```
+
+**Constraints:**
+
+-   `m == matrix.length`
+-   `n == matrix[i].length`
+-   `1 <= m, n <= 10`
+-   `100 <= matrix[i][j] <= 100`
+
+___
+
+Consider the below code snippet. It returns the spiral order of elements in the given matrix without duplicating elements. What is its time and space complexity? Assume we include the output as additional space.
+
+```python
+class Solution:
+    def spiralOrder(self, matrix: List[List[int]]) -> List[int]:
+        res = []
+        left, right = 0, len(matrix[0])
+        top, bottom = 0, len(matrix)
+
+        # while pointers have not met
+        while left < right and top < bottom:
+            # get every val in the top row
+            for i in range(left, right):
+                res.append(matrix[top][i])
+            top += 1
+            # get every val in the right col
+            for i in range(top, bottom):
+                res.append(matrix[i][right - 1])
+            right -= 1
+
+            if not (left < right and top < bottom):
+                # Pointers have met, so the spiral is complete
+                break
+
+            # get every val in the bottom row
+            for i in range(right - 1, left - 1, -1):
+                res.append(matrix[bottom - 1][i])
+            bottom -= 1
+            # get every val in the left col
+            for i in range(bottom - 1, top - 1, -1):
+                res.append(matrix[i][left])
+            left += 1
+
+        return res
+```
+
+A) Time complexity: O(m\*n)  
+Space complexity: O(m\*n)
+
+B) Time complexity: O(m^2)  
+Space complexity: O(n^2)
+
+C) Time complexity: O(m+n)  
+Space complexity: O(m+n)
+
+###### ID181
+
+A:: =============================================  
+**Answer**: A
+
+The time complexity of this function is O(m\*n), where m is the number of rows and n is the number of columns in the input matrix. This is because each element is visited and processed exactly once. The space complexity is also O(m\*n), because in the worst case, if all elements are stored in the output list, it will contain m\*n elements.
+
 #### Chapter 3 - Set Matrix Zeroes - [Blind]
 #### Chapter 4 - Happy Number
 #### Chapter 5 - Plus One
