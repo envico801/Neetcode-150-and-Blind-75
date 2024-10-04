@@ -215,6 +215,13 @@
 | [169](#id169) | [House robber you are a professional robber](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XII%20-%201-D%20DP/Chapter%203%20-%20House%20Robber%20-%20Blind/169%20-%20House%20robber%20you%20are%20a%20professional%20robber.md) | 12 | 3 |
 | [170](#id170) | [House robber you are a professional robber](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XII%20-%201-D%20DP/Chapter%203%20-%20House%20Robber%20-%20Blind/170%20-%20House%20robber%20you%20are%20a%20professional%20robber.md) | 12 | 3 |
 | [171](#id171) | [House robber you are a professional robber](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XII%20-%201-D%20DP/Chapter%203%20-%20House%20Robber%20-%20Blind/171%20-%20House%20robber%20you%20are%20a%20professional%20robber.md) | 12 | 3 |
+| **-** | **Math Geometry** | **18** | **-** |
+| **-** | **Math Geometry > Rotate Image** | **18** | **1** |
+| [172](#id172) | [Rotate image you are given an n x n 2d](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%201%20-%20Rotate%20Image%20-%20Blind/172%20-%20Rotate%20image%20you%20are%20given%20an%20n%20x%20n%202d.md) | 18 | 1 |
+| [173](#id173) | [Rotate image you are given an n x n 2d](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%201%20-%20Rotate%20Image%20-%20Blind/173%20-%20Rotate%20image%20you%20are%20given%20an%20n%20x%20n%202d.md) | 18 | 1 |
+| [174](#id174) | [Rotate image you are given an n x n 2d](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%201%20-%20Rotate%20Image%20-%20Blind/174%20-%20Rotate%20image%20you%20are%20given%20an%20n%20x%20n%202d.md) | 18 | 1 |
+| [175](#id175) | [Rotate image you are given an n x n 2d](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%201%20-%20Rotate%20Image%20-%20Blind/175%20-%20Rotate%20image%20you%20are%20given%20an%20n%20x%20n%202d.md) | 18 | 1 |
+| [176](#id176) | [Rotate image you are given an n x n 2d](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%201%20-%20Rotate%20Image%20-%20Blind/176%20-%20Rotate%20image%20you%20are%20given%20an%20n%20x%20n%202d.md) | 18 | 1 |
 
 ### Part I - Arrays & Hashing
 
@@ -9728,6 +9735,288 @@ The time complexity of the dynamic programming solution is O(n), where n is the 
 ### Part XVIII - Math & Geometry
 
 #### Chapter 1 - Rotate Image - [Blind]
+
+Q:: =============================================  
+
+##### Rotate Image
+
+You are given an `n x n` 2D `matrix` representing an image, rotate the image by **90** degrees (clockwise).
+
+You have to rotate the image **[in-place](https://en.wikipedia.org/wiki/In-place_algorithm)**, which means you have to modify the input 2D matrix directly. **DO NOT** allocate another 2D matrix and do the rotation.
+
+**Example 1:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/0e39a867-7e9c-4189-2b4e-1f6335868600/public)
+
+```
+Input: matrix = [[1,2,3],[4,5,6],[7,8,9]]
+Output: [[7,4,1],[8,5,2],[9,6,3]]
+```
+
+**Example 2:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/a7e0dfba-646e-423e-2c4e-a6f0dfc2a500/public)
+
+```
+Input: matrix = [[5,1,9,11],[2,4,8,10],[13,3,6,7],[15,14,12,16]]
+Output: [[15,13,2,5],[14,3,4,1],[12,6,8,9],[16,7,10,11]]
+```
+
+**Constraints:**
+
+-   `n == matrix.length == matrix[i].length`
+-   `1 <= n <= 20`
+-   `1000 <= matrix[i][j] <= 1000`
+
+___
+
+Which approach is more suitable for rotating the matrix in-place (without allocating a new matrix)?
+
+A) Swapping elements along the diagonal.
+
+B) Creating a new matrix and copying elements into it.
+
+C) Rotating each layer of the matrix starting from the outside and moving inwards.
+
+###### ID172
+
+A:: =============================================  
+**Answer**: C
+
+Rotating each layer of the matrix starting from the outside and moving inwards is the most suitable way to rotate a matrix in-place. The other methods either don't result in a rotated matrix, or require additional space. There are other ways to rotate the matrix in-place, but this is the most intuitive and doesn't require math knowledge.
+
+Q:: =============================================  
+
+##### Rotate Image
+
+You are given an `n x n` 2D `matrix` representing an image, rotate the image by **90** degrees (clockwise).
+
+You have to rotate the image **[in-place](https://en.wikipedia.org/wiki/In-place_algorithm)**, which means you have to modify the input 2D matrix directly. **DO NOT** allocate another 2D matrix and do the rotation.
+
+**Example 1:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/0e39a867-7e9c-4189-2b4e-1f6335868600/public)
+
+```
+Input: matrix = [[1,2,3],[4,5,6],[7,8,9]]
+Output: [[7,4,1],[8,5,2],[9,6,3]]
+```
+
+**Example 2:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/a7e0dfba-646e-423e-2c4e-a6f0dfc2a500/public)
+
+```
+Input: matrix = [[5,1,9,11],[2,4,8,10],[13,3,6,7],[15,14,12,16]]
+Output: [[15,13,2,5],[14,3,4,1],[12,6,8,9],[16,7,10,11]]
+```
+
+**Constraints:**
+
+-   `n == matrix.length == matrix[i].length`
+-   `1 <= n <= 20`
+-   `1000 <= matrix[i][j] <= 1000`
+
+___
+
+Given an `n x n` square matrix, how many layers will we have to rotate?
+
+A) n layers
+
+B) n/2 layers
+
+C) 2n layers
+
+D) n^2 layers
+
+###### ID173
+
+A:: =============================================  
+**Answer**: B
+
+For an nxn matrix, we only need to rotate n/2 layers. This is because with each layer, we are actually rotating 4 sides (top, right, bottom, left) of the square matrix.
+
+Q:: =============================================  
+
+##### Rotate Image
+
+You are given an `n x n` 2D `matrix` representing an image, rotate the image by **90** degrees (clockwise).
+
+You have to rotate the image **[in-place](https://en.wikipedia.org/wiki/In-place_algorithm)**, which means you have to modify the input 2D matrix directly. **DO NOT** allocate another 2D matrix and do the rotation.
+
+**Example 1:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/0e39a867-7e9c-4189-2b4e-1f6335868600/public)
+
+```
+Input: matrix = [[1,2,3],[4,5,6],[7,8,9]]
+Output: [[7,4,1],[8,5,2],[9,6,3]]
+```
+
+**Example 2:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/a7e0dfba-646e-423e-2c4e-a6f0dfc2a500/public)
+
+```
+Input: matrix = [[5,1,9,11],[2,4,8,10],[13,3,6,7],[15,14,12,16]]
+Output: [[15,13,2,5],[14,3,4,1],[12,6,8,9],[16,7,10,11]]
+```
+
+**Constraints:**
+
+-   `n == matrix.length == matrix[i].length`
+-   `1 <= n <= 20`
+-   `1000 <= matrix[i][j] <= 1000`
+
+___
+
+If we consider a layer-by-layer rotation starting from the corners, which will be the next four elements to be rotated after the four corners?  
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/d01c9636-cfee-4f7c-3fbb-ddb051090300/public)
+
+A) 2nd element in first row, 2nd element in the first column, 2nd element in last row, 2nd element in last column
+
+B) 2nd element in first row, 2nd element in last column, second to last element in last row, second to last element in first column
+
+###### ID174
+
+A:: =============================================  
+**Answer**: B
+
+After the corners, we shift one place inward or towards the center on each side. So, the next four elements to rotate are the 2nd element in the first row, the 2nd element in the last column, the second to last element in the last row, and the second to last element in the first column.
+
+Q:: =============================================  
+
+##### Rotate Image
+
+You are given an `n x n` 2D `matrix` representing an image, rotate the image by **90** degrees (clockwise).
+
+You have to rotate the image **[in-place](https://en.wikipedia.org/wiki/In-place_algorithm)**, which means you have to modify the input 2D matrix directly. **DO NOT** allocate another 2D matrix and do the rotation.
+
+**Example 1:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/0e39a867-7e9c-4189-2b4e-1f6335868600/public)
+
+```
+Input: matrix = [[1,2,3],[4,5,6],[7,8,9]]
+Output: [[7,4,1],[8,5,2],[9,6,3]]
+```
+
+**Example 2:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/a7e0dfba-646e-423e-2c4e-a6f0dfc2a500/public)
+
+```
+Input: matrix = [[5,1,9,11],[2,4,8,10],[13,3,6,7],[15,14,12,16]]
+Output: [[15,13,2,5],[14,3,4,1],[12,6,8,9],[16,7,10,11]]
+```
+
+**Constraints:**
+
+-   `n == matrix.length == matrix[i].length`
+-   `1 <= n <= 20`
+-   `1000 <= matrix[i][j] <= 1000`
+
+___
+
+After we complete a layer, how should we update our pointers?
+
+A) Increment the left pointer and decrement the right pointer.
+
+B) Decrement both the left and right pointers.
+
+C) Increment both the left and right pointers.
+
+D) Decrement the left pointer and increment the right pointer.
+
+###### ID175
+
+A:: =============================================  
+**Answer**: A
+
+After we rotate a layer, we move inwards to the next layer. This involves incrementing the left pointer and decrementing the right pointer.
+
+Q:: =============================================  
+
+##### Rotate Image
+
+You are given an `n x n` 2D `matrix` representing an image, rotate the image by **90** degrees (clockwise).
+
+You have to rotate the image **[in-place](https://en.wikipedia.org/wiki/In-place_algorithm)**, which means you have to modify the input 2D matrix directly. **DO NOT** allocate another 2D matrix and do the rotation.
+
+**Example 1:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/0e39a867-7e9c-4189-2b4e-1f6335868600/public)
+
+```
+Input: matrix = [[1,2,3],[4,5,6],[7,8,9]]
+Output: [[7,4,1],[8,5,2],[9,6,3]]
+```
+
+**Example 2:**
+
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/a7e0dfba-646e-423e-2c4e-a6f0dfc2a500/public)
+
+```
+Input: matrix = [[5,1,9,11],[2,4,8,10],[13,3,6,7],[15,14,12,16]]
+Output: [[15,13,2,5],[14,3,4,1],[12,6,8,9],[16,7,10,11]]
+```
+
+**Constraints:**
+
+-   `n == matrix.length == matrix[i].length`
+-   `1 <= n <= 20`
+-   `1000 <= matrix[i][j] <= 1000`
+
+___
+
+Considering the method of rotating each layer of the matrix, what would be the time complexity and space complexity of this operation?
+
+```python
+class Solution:
+    def rotate(self, matrix: List[List[int]]) -> None:
+        """
+        Do not return anything, modify matrix in-place instead.
+        """
+        l, r = 0, len(matrix) - 1
+
+        while l < r:
+            for i in range(r - l):
+                top, bottom = l, r
+
+                # save the topleft
+                topLeft = matrix[top][l + i]
+
+                # move bottom left into top left
+                matrix[top][l + i] = matrix[bottom - i][l]
+
+                # move bottom right into bottom left
+                matrix[bottom - i][l] = matrix[bottom][r - i]
+
+                # move top right into bottom right
+                matrix[bottom][r - i] = matrix[top + i][r]
+
+                # move top left into top right
+                matrix[top + i][r] = topLeft
+            r -= 1
+            l += 1
+```
+
+A) Time complexity: O(1)  
+Space complexity: O(n)
+
+B) Time complexity: O(n)  
+Space complexity: O(1)
+
+C) Time complexity: O(n^2)  
+Space complexity: O(1)
+
+###### ID176
+
+A:: =============================================  
+**Answer**: C
+
+The time complexity of the rotation operation is O(n^2). This is because, for each layer of the matrix, we perform a constant amount of work for each element, and there are n^2 total elements. The space complexity is O(1) because we perform the rotation in-place without allocating any additional significant space. The only extra space we use is a couple of variables to keep track of the current position and temporarily hold an element during the rotation.
+
 #### Chapter 2 - Spiral Matrix - [Blind]
 #### Chapter 3 - Set Matrix Zeroes - [Blind]
 #### Chapter 4 - Happy Number
