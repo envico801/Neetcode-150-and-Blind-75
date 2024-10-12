@@ -34,22 +34,24 @@ Output: [[15,13,2,5],[14,3,4,1],[12,6,8,9],[16,7,10,11]]
 
 ---
 
-Which approach is more suitable for rotating the matrix in-place (without allocating a new matrix)?
+Given an `n x n` square matrix, how many layers will we have to rotate?
 
-A) Swapping elements along the diagonal.
+A) n layers
 
-B) Creating a new matrix and copying elements into it.
+B) n/2 layers
 
-C) Rotating each layer of the matrix starting from the outside and moving inwards.  
+C) 2n layers
+
+D) n^2 layers  
 
 ========== Answer ==========  
 
-**Answer**: C
+**Answer**: B
 
-Rotating each layer of the matrix starting from the outside and moving inwards is the most suitable way to rotate a matrix in-place. The other methods either don't result in a rotated matrix, or require additional space. There are other ways to rotate the matrix in-place, but this is the most intuitive and doesn't require math knowledge.
+For an nxn matrix, we only need to rotate n/2 layers. This is because with each layer, we are actually rotating 4 sides (top, right, bottom, left) of the square matrix.
 
 ========== Id ==========  
-183
+189
 
 ---
 
@@ -57,7 +59,7 @@ DECK INFO
 
 TARGET DECK: Data Structures and Algorithms::Leetcode::MNAB - Neetcode 150 and blind 75 - multi-author::Part XVIII - Math Geometry::Chapter 1 - Rotate Image - Blind
 
-FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-XVIII-Math-Geometry::#Chapter-1-Rotate-Image-Blind::#183-Rotate-image-you-are-given-an-n-x-n-2d
+FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-XVIII-Math-Geometry::#Chapter-1-Rotate-Image-Blind::#189-Rotate-image-you-are-given-an-n-x-n-2d
 
 Tags:
 

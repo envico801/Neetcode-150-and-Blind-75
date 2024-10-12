@@ -74,7 +74,7 @@ B) The code will traverse the last submatrix multiple times.
 The problem with this code is that it does not consider the case where the last submatrix is not square. If the last remaining part of the matrix is not square, the code will traverse the last submatrix multiple times. This is because there's no check to stop the bottom row and left column from being traversed again after the right column has been traversed and reduced. In the above example, the output would be \[1, 2, 3, 2, 1\], instead of \[1, 2, 3\] which is the expected result.
 
 ========== Id ==========  
-191
+196
 
 ---
 
@@ -82,7 +82,7 @@ DECK INFO
 
 TARGET DECK: Data Structures and Algorithms::Leetcode::MNAB - Neetcode 150 and blind 75 - multi-author::Part XVIII - Math Geometry::Chapter 2 - Spiral Matrix - Blind
 
-FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-XVIII-Math-Geometry::#Chapter-2-Spiral-Matrix-Blind::#191-Spiral-matrix-given-an-m-x-n-matrix-r
+FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-XVIII-Math-Geometry::#Chapter-2-Spiral-Matrix-Blind::#196-Spiral-matrix-given-an-m-x-n-matrix-r
 
 Tags:
 

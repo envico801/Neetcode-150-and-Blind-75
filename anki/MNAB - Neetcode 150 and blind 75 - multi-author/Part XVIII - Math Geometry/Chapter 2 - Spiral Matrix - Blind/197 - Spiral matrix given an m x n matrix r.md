@@ -85,7 +85,7 @@ Space complexity: O(m+n)
 The time complexity of this function is O(m\*n), where m is the number of rows and n is the number of columns in the input matrix. This is because each element is visited and processed exactly once. The space complexity is also O(m\*n), because in the worst case, if all elements are stored in the output list, it will contain m\*n elements.
 
 ========== Id ==========  
-192
+197
 
 ---
 
@@ -93,7 +93,7 @@ DECK INFO
 
 TARGET DECK: Data Structures and Algorithms::Leetcode::MNAB - Neetcode 150 and blind 75 - multi-author::Part XVIII - Math Geometry::Chapter 2 - Spiral Matrix - Blind
 
-FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-XVIII-Math-Geometry::#Chapter-2-Spiral-Matrix-Blind::#192-Spiral-matrix-given-an-m-x-n-matrix-r
+FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-XVIII-Math-Geometry::#Chapter-2-Spiral-Matrix-Blind::#197-Spiral-matrix-given-an-m-x-n-matrix-r
 
 Tags:
 

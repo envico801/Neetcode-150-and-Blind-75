@@ -34,24 +34,24 @@ Output: [[15,13,2,5],[14,3,4,1],[12,6,8,9],[16,7,10,11]]
 
 ---
 
-Given an `n x n` square matrix, how many layers will we have to rotate?
+After we complete a layer, how should we update our pointers?
 
-A) n layers
+A) Increment the left pointer and decrement the right pointer.
 
-B) n/2 layers
+B) Decrement both the left and right pointers.
 
-C) 2n layers
+C) Increment both the left and right pointers.
 
-D) n^2 layers  
+D) Decrement the left pointer and increment the right pointer.  
 
 ========== Answer ==========  
 
-**Answer**: B
+**Answer**: A
 
-For an nxn matrix, we only need to rotate n/2 layers. This is because with each layer, we are actually rotating 4 sides (top, right, bottom, left) of the square matrix.
+After we rotate a layer, we move inwards to the next layer. This involves incrementing the left pointer and decrementing the right pointer.
 
 ========== Id ==========  
-184
+191
 
 ---
 
@@ -59,7 +59,7 @@ DECK INFO
 
 TARGET DECK: Data Structures and Algorithms::Leetcode::MNAB - Neetcode 150 and blind 75 - multi-author::Part XVIII - Math Geometry::Chapter 1 - Rotate Image - Blind
 
-FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-XVIII-Math-Geometry::#Chapter-1-Rotate-Image-Blind::#184-Rotate-image-you-are-given-an-n-x-n-2d
+FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-XVIII-Math-Geometry::#Chapter-1-Rotate-Image-Blind::#191-Rotate-image-you-are-given-an-n-x-n-2d
 
 Tags:
 

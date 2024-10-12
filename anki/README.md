@@ -229,19 +229,25 @@
 | [180](#id180) | [Merge intervals given an array of interva](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XIII%20-%20Intervals/Chapter%202%20-%20Merge%20Intervals%20-%20Blind/180%20-%20Merge%20intervals%20given%20an%20array%20of%20interva.md) | 13 | 2 |
 | [181](#id181) | [Merge intervals given an array of interva](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XIII%20-%20Intervals/Chapter%202%20-%20Merge%20Intervals%20-%20Blind/181%20-%20Merge%20intervals%20given%20an%20array%20of%20interva.md) | 13 | 2 |
 | [182](#id182) | [Merge intervals given an array of interva](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XIII%20-%20Intervals/Chapter%202%20-%20Merge%20Intervals%20-%20Blind/182%20-%20Merge%20intervals%20given%20an%20array%20of%20interva.md) | 13 | 2 |
+| **-** | **Intervals > Non Overlapping Intervals** | **13** | **3** |
+| [183](#id183) | [Non overlapping intervals given an array o](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XIII%20-%20Intervals/Chapter%203%20-%20Non%20Overlapping%20Intervals%20-%20Blind/183%20-%20Non%20overlapping%20intervals%20given%20an%20array%20o.md) | 13 | 3 |
+| [184](#id184) | [Non overlapping intervals given an array o](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XIII%20-%20Intervals/Chapter%203%20-%20Non%20Overlapping%20Intervals%20-%20Blind/184%20-%20Non%20overlapping%20intervals%20given%20an%20array%20o.md) | 13 | 3 |
+| [185](#id185) | [Non overlapping intervals given an array o](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XIII%20-%20Intervals/Chapter%203%20-%20Non%20Overlapping%20Intervals%20-%20Blind/185%20-%20Non%20overlapping%20intervals%20given%20an%20array%20o.md) | 13 | 3 |
+| [186](#id186) | [Non overlapping intervals given an array o](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XIII%20-%20Intervals/Chapter%203%20-%20Non%20Overlapping%20Intervals%20-%20Blind/186%20-%20Non%20overlapping%20intervals%20given%20an%20array%20o.md) | 13 | 3 |
+| [187](#id187) | [Non overlapping intervals given an array o](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XIII%20-%20Intervals/Chapter%203%20-%20Non%20Overlapping%20Intervals%20-%20Blind/187%20-%20Non%20overlapping%20intervals%20given%20an%20array%20o.md) | 13 | 3 |
 | **-** | **Math Geometry** | **18** | **-** |
 | **-** | **Math Geometry > Rotate Image** | **18** | **1** |
-| [183](#id183) | [Rotate image you are given an n x n 2d](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%201%20-%20Rotate%20Image%20-%20Blind/183%20-%20Rotate%20image%20you%20are%20given%20an%20n%20x%20n%202d.md) | 18 | 1 |
-| [184](#id184) | [Rotate image you are given an n x n 2d](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%201%20-%20Rotate%20Image%20-%20Blind/184%20-%20Rotate%20image%20you%20are%20given%20an%20n%20x%20n%202d.md) | 18 | 1 |
-| [185](#id185) | [Rotate image you are given an n x n 2d](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%201%20-%20Rotate%20Image%20-%20Blind/185%20-%20Rotate%20image%20you%20are%20given%20an%20n%20x%20n%202d.md) | 18 | 1 |
-| [186](#id186) | [Rotate image you are given an n x n 2d](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%201%20-%20Rotate%20Image%20-%20Blind/186%20-%20Rotate%20image%20you%20are%20given%20an%20n%20x%20n%202d.md) | 18 | 1 |
-| [187](#id187) | [Rotate image you are given an n x n 2d](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%201%20-%20Rotate%20Image%20-%20Blind/187%20-%20Rotate%20image%20you%20are%20given%20an%20n%20x%20n%202d.md) | 18 | 1 |
+| [188](#id188) | [Rotate image you are given an n x n 2d](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%201%20-%20Rotate%20Image%20-%20Blind/188%20-%20Rotate%20image%20you%20are%20given%20an%20n%20x%20n%202d.md) | 18 | 1 |
+| [189](#id189) | [Rotate image you are given an n x n 2d](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%201%20-%20Rotate%20Image%20-%20Blind/189%20-%20Rotate%20image%20you%20are%20given%20an%20n%20x%20n%202d.md) | 18 | 1 |
+| [190](#id190) | [Rotate image you are given an n x n 2d](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%201%20-%20Rotate%20Image%20-%20Blind/190%20-%20Rotate%20image%20you%20are%20given%20an%20n%20x%20n%202d.md) | 18 | 1 |
+| [191](#id191) | [Rotate image you are given an n x n 2d](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%201%20-%20Rotate%20Image%20-%20Blind/191%20-%20Rotate%20image%20you%20are%20given%20an%20n%20x%20n%202d.md) | 18 | 1 |
+| [192](#id192) | [Rotate image you are given an n x n 2d](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%201%20-%20Rotate%20Image%20-%20Blind/192%20-%20Rotate%20image%20you%20are%20given%20an%20n%20x%20n%202d.md) | 18 | 1 |
 | **-** | **Math Geometry > Spiral Matrix** | **18** | **2** |
-| [188](#id188) | [Spiral matrix given an m x n matrix r](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%202%20-%20Spiral%20Matrix%20-%20Blind/188%20-%20Spiral%20matrix%20given%20an%20m%20x%20n%20matrix%20r.md) | 18 | 2 |
-| [189](#id189) | [Spiral matrix given an m x n matrix r](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%202%20-%20Spiral%20Matrix%20-%20Blind/189%20-%20Spiral%20matrix%20given%20an%20m%20x%20n%20matrix%20r.md) | 18 | 2 |
-| [190](#id190) | [Spiral matrix given an m x n matrix r](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%202%20-%20Spiral%20Matrix%20-%20Blind/190%20-%20Spiral%20matrix%20given%20an%20m%20x%20n%20matrix%20r.md) | 18 | 2 |
-| [191](#id191) | [Spiral matrix given an m x n matrix r](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%202%20-%20Spiral%20Matrix%20-%20Blind/191%20-%20Spiral%20matrix%20given%20an%20m%20x%20n%20matrix%20r.md) | 18 | 2 |
-| [192](#id192) | [Spiral matrix given an m x n matrix r](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%202%20-%20Spiral%20Matrix%20-%20Blind/192%20-%20Spiral%20matrix%20given%20an%20m%20x%20n%20matrix%20r.md) | 18 | 2 |
+| [193](#id193) | [Spiral matrix given an m x n matrix r](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%202%20-%20Spiral%20Matrix%20-%20Blind/193%20-%20Spiral%20matrix%20given%20an%20m%20x%20n%20matrix%20r.md) | 18 | 2 |
+| [194](#id194) | [Spiral matrix given an m x n matrix r](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%202%20-%20Spiral%20Matrix%20-%20Blind/194%20-%20Spiral%20matrix%20given%20an%20m%20x%20n%20matrix%20r.md) | 18 | 2 |
+| [195](#id195) | [Spiral matrix given an m x n matrix r](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%202%20-%20Spiral%20Matrix%20-%20Blind/195%20-%20Spiral%20matrix%20given%20an%20m%20x%20n%20matrix%20r.md) | 18 | 2 |
+| [196](#id196) | [Spiral matrix given an m x n matrix r](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%202%20-%20Spiral%20Matrix%20-%20Blind/196%20-%20Spiral%20matrix%20given%20an%20m%20x%20n%20matrix%20r.md) | 18 | 2 |
+| [197](#id197) | [Spiral matrix given an m x n matrix r](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%202%20-%20Spiral%20Matrix%20-%20Blind/197%20-%20Spiral%20matrix%20given%20an%20m%20x%20n%20matrix%20r.md) | 18 | 2 |
 
 ### Part I - Arrays & Hashing
 
@@ -10274,6 +10280,291 @@ A:: =============================================
 The overall time complexity of the solution is determined by the most time-consuming step. Sorting the intervals has a time complexity of O(n log n), while merging has a time complexity of O(n). Therefore, the overall time complexity is O(n log n). The space complexity is O(n) because in the worst-case scenario, if no intervals overlap, the output will be a list with the same length as the input. We also use some additional space for sorting the intervals, but this does not change the overall linear space complexity.
 
 #### Chapter 3 - Non Overlapping Intervals - [Blind]
+
+Q:: =============================================  
+
+##### Non Overlapping Intervals
+
+Given an array of intervals `intervals` where `intervals[i] = [starti, endi]`, return _the minimum number of intervals you need to remove to make the rest of the intervals non-overlapping_.
+
+**Example 1:**
+
+```
+Input: intervals = [[1,2],[2,3],[3,4],[1,3]]
+Output: 1
+Explanation: [1,3] can be removed and the rest of the intervals are non-overlapping.
+```
+
+**Example 2:**
+
+```
+Input: intervals = [[1,2],[1,2],[1,2]]
+Output: 2
+Explanation: You need to remove two [1,2] to make the rest of the intervals non-overlapping.
+```
+
+**Example 3:**
+
+```
+Input: intervals = [[1,2],[2,3]]
+Output: 0
+Explanation: You don't need to remove any of the intervals since they're already non-overlapping.
+```
+
+**Constraints:**
+
+-   `1 <= intervals.length <= 10^5`
+-   `intervals[i].length == 2`
+-   `5 * 10^4 <= starti < endi <= 5 * 10^4`
+
+___
+
+Are these two intervals overlapping? `[1,2]` and `[2,3]`
+
+A) Yes
+
+B) No
+
+C) Can't determine
+
+###### ID183
+
+A:: =============================================  
+**Answer**: B
+
+In the context of this problem the two intervals are not overlapping (See example 3). Yes, I think it's strange that LC changes the definition of 'overlapping' based on the problem, but example 3 tries to make this clear.
+
+Q:: =============================================  
+
+##### Non Overlapping Intervals
+
+Given an array of intervals `intervals` where `intervals[i] = [starti, endi]`, return _the minimum number of intervals you need to remove to make the rest of the intervals non-overlapping_.
+
+**Example 1:**
+
+```
+Input: intervals = [[1,2],[2,3],[3,4],[1,3]]
+Output: 1
+Explanation: [1,3] can be removed and the rest of the intervals are non-overlapping.
+```
+
+**Example 2:**
+
+```
+Input: intervals = [[1,2],[1,2],[1,2]]
+Output: 2
+Explanation: You need to remove two [1,2] to make the rest of the intervals non-overlapping.
+```
+
+**Example 3:**
+
+```
+Input: intervals = [[1,2],[2,3]]
+Output: 0
+Explanation: You don't need to remove any of the intervals since they're already non-overlapping.
+```
+
+**Constraints:**
+
+-   `1 <= intervals.length <= 10^5`
+-   `intervals[i].length == 2`
+-   `5 * 10^4 <= starti < endi <= 5 * 10^4`
+
+___
+
+Since overlapping intervals will be adjacent, which operation can simplify the process of finding overlaps?
+
+A) Sorting the intervals by the start times.
+
+B) Reversing the order of the intervals.
+
+C) Shuffling the intervals randomly.
+
+###### ID184
+
+A:: =============================================  
+**Answer**: A
+
+Sorting the intervals by their start times helps in aligning the intervals in increasing order. It simplifies the process of finding overlapping intervals because once the list is sorted, we can simply compare each interval with its next one to check for overlaps.
+
+Q:: =============================================  
+
+##### Non Overlapping Intervals
+
+Given an array of intervals `intervals` where `intervals[i] = [starti, endi]`, return _the minimum number of intervals you need to remove to make the rest of the intervals non-overlapping_.
+
+**Example 1:**
+
+```
+Input: intervals = [[1,2],[2,3],[3,4],[1,3]]
+Output: 1
+Explanation: [1,3] can be removed and the rest of the intervals are non-overlapping.
+```
+
+**Example 2:**
+
+```
+Input: intervals = [[1,2],[1,2],[1,2]]
+Output: 2
+Explanation: You need to remove two [1,2] to make the rest of the intervals non-overlapping.
+```
+
+**Example 3:**
+
+```
+Input: intervals = [[1,2],[2,3]]
+Output: 0
+Explanation: You don't need to remove any of the intervals since they're already non-overlapping.
+```
+
+**Constraints:**
+
+-   `1 <= intervals.length <= 10^5`
+-   `intervals[i].length == 2`
+-   `5 * 10^4 <= starti < endi <= 5 * 10^4`
+
+___
+
+As we iterate through the sorted intervals, how do we know if the current interval does _not_ overlap with the previous interval?  
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/4ba3ef8f-eb81-465b-3c7b-741329d31a00/public)
+
+A) If the end time of the current interval is less than the start time of the previous interval.
+
+B) If the start time of the current interval is greater than or equal to the end time of the previous interval.
+
+C) If the end time of the current interval is equal to the start time of the previous interval.
+
+###### ID185
+
+A:: =============================================  
+**Answer**: B
+
+If the start time of the current interval is greater than or equal to the end time of the previous interval, it means there is no overlap. The current interval starts only after the previous one ends.
+
+Q:: =============================================  
+
+##### Non Overlapping Intervals
+
+Given an array of intervals `intervals` where `intervals[i] = [starti, endi]`, return _the minimum number of intervals you need to remove to make the rest of the intervals non-overlapping_.
+
+**Example 1:**
+
+```
+Input: intervals = [[1,2],[2,3],[3,4],[1,3]]
+Output: 1
+Explanation: [1,3] can be removed and the rest of the intervals are non-overlapping.
+```
+
+**Example 2:**
+
+```
+Input: intervals = [[1,2],[1,2],[1,2]]
+Output: 2
+Explanation: You need to remove two [1,2] to make the rest of the intervals non-overlapping.
+```
+
+**Example 3:**
+
+```
+Input: intervals = [[1,2],[2,3]]
+Output: 0
+Explanation: You don't need to remove any of the intervals since they're already non-overlapping.
+```
+
+**Constraints:**
+
+-   `1 <= intervals.length <= 10^5`
+-   `intervals[i].length == 2`
+-   `5 * 10^4 <= starti < endi <= 5 * 10^4`
+
+___
+
+When two intervals overlap, which should we remove?  
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/daf9f6f4-c822-43cd-6d08-63db0a4a4b00/public)
+
+A) The interval with the earliest start time.
+
+B) The interval with the latest end time.
+
+C) The smallest interval.
+
+###### ID186
+
+A:: =============================================  
+**Answer**: B
+
+The optimal strategy is to always remove the interval with the latest end time among the overlapping intervals. This is because it leaves more room for the rest of the intervals to fit in without overlapping.
+
+Q:: =============================================  
+
+##### Non Overlapping Intervals
+
+Given an array of intervals `intervals` where `intervals[i] = [starti, endi]`, return _the minimum number of intervals you need to remove to make the rest of the intervals non-overlapping_.
+
+**Example 1:**
+
+```
+Input: intervals = [[1,2],[2,3],[3,4],[1,3]]
+Output: 1
+Explanation: [1,3] can be removed and the rest of the intervals are non-overlapping.
+```
+
+**Example 2:**
+
+```
+Input: intervals = [[1,2],[1,2],[1,2]]
+Output: 2
+Explanation: You need to remove two [1,2] to make the rest of the intervals non-overlapping.
+```
+
+**Example 3:**
+
+```
+Input: intervals = [[1,2],[2,3]]
+Output: 0
+Explanation: You don't need to remove any of the intervals since they're already non-overlapping.
+```
+
+**Constraints:**
+
+-   `1 <= intervals.length <= 10^5`
+-   `intervals[i].length == 2`
+-   `5 * 10^4 <= starti < endi <= 5 * 10^4`
+
+___
+
+To summarize, the below code will optimally solve this problem. What is the overall time and space complexity?
+
+```python
+class Solution:
+    def eraseOverlapIntervals(self, intervals: List[List[int]]) -> int:
+        intervals.sort()
+        res = 0
+        prevEnd = intervals[0][1]
+        for start, end in intervals[1:]:
+            if start >= prevEnd:
+                # Curr interval is to the right of prev
+                prevEnd = end
+            else:
+                # Intervals overlap, keep interval with smaller end
+                res += 1
+                prevEnd = min(end, prevEnd)
+        return res
+```
+
+A) Time complexity: O(n), Space complexity: O(n)
+
+B) Time complexity: O(n log n), Space complexity: O(n)
+
+C) Time complexity: O(n^2), Space complexity: O(1)
+
+###### ID187
+
+A:: =============================================  
+**Answer**: B
+
+The time complexity of the optimal solution is O(n log n) because you have to sort the intervals first, which takes O(n log n) time. Then, you iterate over the sorted intervals once, which takes O(n) time. The space complexity is O(n) because in the worst-case scenario, you store all n intervals in the input array. The additional space used for sorting does not change the overall linear space complexity.
+
 #### Chapter 4 - Meeting Rooms - [Blind]
 #### Chapter 5 - Meeting Rooms II - [Blind]
 #### Chapter 6 - Minimum Interval to Include Each Query
@@ -10368,7 +10659,7 @@ B) Creating a new matrix and copying elements into it.
 
 C) Rotating each layer of the matrix starting from the outside and moving inwards.
 
-###### ID183
+###### ID188
 
 A:: =============================================  
 **Answer**: C
@@ -10419,7 +10710,7 @@ C) 2n layers
 
 D) n^2 layers
 
-###### ID184
+###### ID189
 
 A:: =============================================  
 **Answer**: B
@@ -10467,7 +10758,7 @@ A) 2nd element in first row, 2nd element in the first column, 2nd element in las
 
 B) 2nd element in first row, 2nd element in last column, second to last element in last row, second to last element in first column
 
-###### ID185
+###### ID190
 
 A:: =============================================  
 **Answer**: B
@@ -10518,7 +10809,7 @@ C) Increment both the left and right pointers.
 
 D) Decrement the left pointer and increment the right pointer.
 
-###### ID186
+###### ID191
 
 A:: =============================================  
 **Answer**: A
@@ -10600,7 +10891,7 @@ Space complexity: O(1)
 C) Time complexity: O(n^2)  
 Space complexity: O(1)
 
-###### ID187
+###### ID192
 
 A:: =============================================  
 **Answer**: C
@@ -10648,7 +10939,7 @@ A) Top row from left to right, rightmost column from top to bottom, bottom row f
 
 B) Top row from right to left, rightmost column from bottom to top, bottom row from left to right, leftmost column from top to bottom.
 
-###### ID188
+###### ID193
 
 A:: =============================================  
 **Answer**: A
@@ -10697,7 +10988,7 @@ B) Reverse the cycle on the remaining submatrix.
 
 C) Transpose the remaining submatrix and then repeat the same cycle.
 
-###### ID189
+###### ID194
 
 A:: =============================================  
 **Answer**: A
@@ -10745,7 +11036,7 @@ B) 4 pointers - one for each of top, right, bottom, and left boundaries of the c
 
 C) 5 pointers - one for each of top, right, bottom, left boundaries and one for the center of the matrix.
 
-###### ID190
+###### ID195
 
 A:: =============================================  
 **Answer**: B
@@ -10821,7 +11112,7 @@ A) The code will fail to traverse the entire matrix.
 
 B) The code will traverse the last submatrix multiple times.
 
-###### ID191
+###### ID196
 
 A:: =============================================  
 **Answer**: B
@@ -10906,7 +11197,7 @@ Space complexity: O(n^2)
 C) Time complexity: O(m+n)  
 Space complexity: O(m+n)
 
-###### ID192
+###### ID197
 
 A:: =============================================  
 **Answer**: A
