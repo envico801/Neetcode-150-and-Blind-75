@@ -34,24 +34,22 @@ Output: [[15,13,2,5],[14,3,4,1],[12,6,8,9],[16,7,10,11]]
 
 ---
 
-Given an `n x n` square matrix, how many layers will we have to rotate?
+If we consider a layer-by-layer rotation starting from the corners, which will be the next four elements to be rotated after the four corners?
 
-A) n layers
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/d01c9636-cfee-4f7c-3fbb-ddb051090300/public)
 
-B) n/2 layers
+A) 2nd element in first row, 2nd element in the first column, 2nd element in last row, 2nd element in last column
 
-C) 2n layers
-
-D) n^2 layers  
+B) 2nd element in first row, 2nd element in last column, second to last element in last row, second to last element in first column  
 
 ========== Answer ==========  
 
 **Answer**: B
 
-For an nxn matrix, we only need to rotate n/2 layers. This is because with each layer, we are actually rotating 4 sides (top, right, bottom, left) of the square matrix.
+After the corners, we shift one place inward or towards the center on each side. So, the next four elements to rotate are the 2nd element in the first row, the 2nd element in the last column, the second to last element in the last row, and the second to last element in the first column.
 
 ========== Id ==========  
-193
+199
 
 ---
 
@@ -59,7 +57,7 @@ DECK INFO
 
 TARGET DECK: Data Structures and Algorithms::Leetcode::MNAB - Neetcode 150 and blind 75 - multi-author::Part XVIII - Math Geometry::Chapter 1 - Rotate Image - Blind
 
-FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-XVIII-Math-Geometry::#Chapter-1-Rotate-Image-Blind::#193-Rotate-image-you-are-given-an-n-x-n-2d
+FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-XVIII-Math-Geometry::#Chapter-1-Rotate-Image-Blind::#199-Rotate-image-you-are-given-an-n-x-n-2d
 
 Tags:
 

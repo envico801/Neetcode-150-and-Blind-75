@@ -49,7 +49,7 @@ C) Rotating each layer of the matrix starting from the outside and moving inward
 Rotating each layer of the matrix starting from the outside and moving inwards is the most suitable way to rotate a matrix in-place. The other methods either don't result in a rotated matrix, or require additional space. There are other ways to rotate the matrix in-place, but this is the most intuitive and doesn't require math knowledge.
 
 ========== Id ==========  
-192
+197
 
 ---
 
@@ -57,7 +57,7 @@ DECK INFO
 
 TARGET DECK: Data Structures and Algorithms::Leetcode::MNAB - Neetcode 150 and blind 75 - multi-author::Part XVIII - Math Geometry::Chapter 1 - Rotate Image - Blind
 
-FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-XVIII-Math-Geometry::#Chapter-1-Rotate-Image-Blind::#192-Rotate-image-you-are-given-an-n-x-n-2d
+FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-XVIII-Math-Geometry::#Chapter-1-Rotate-Image-Blind::#197-Rotate-image-you-are-given-an-n-x-n-2d
 
 Tags:
 

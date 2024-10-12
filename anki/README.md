@@ -240,19 +240,25 @@
 | [189](#id189) | [Meeting rooms given an array of meeting ti](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XIII%20-%20Intervals/Chapter%204%20-%20Meeting%20Rooms%20-%20Blind/189%20-%20Meeting%20rooms%20given%20an%20array%20of%20meeting%20ti.md) | 13 | 4 |
 | [190](#id190) | [Meeting rooms given an array of meeting ti](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XIII%20-%20Intervals/Chapter%204%20-%20Meeting%20Rooms%20-%20Blind/190%20-%20Meeting%20rooms%20given%20an%20array%20of%20meeting%20ti.md) | 13 | 4 |
 | [191](#id191) | [Meeting rooms given an array of meeting ti](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XIII%20-%20Intervals/Chapter%204%20-%20Meeting%20Rooms%20-%20Blind/191%20-%20Meeting%20rooms%20given%20an%20array%20of%20meeting%20ti.md) | 13 | 4 |
+| **-** | **Intervals > Meeting Rooms II** | **13** | **5** |
+| [192](#id192) | [Meeting rooms ii given an array of meeting](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XIII%20-%20Intervals/Chapter%205%20-%20Meeting%20Rooms%20II%20-%20Blind/192%20-%20Meeting%20rooms%20ii%20given%20an%20array%20of%20meeting.md) | 13 | 5 |
+| [193](#id193) | [Meeting rooms ii given an array of meeting](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XIII%20-%20Intervals/Chapter%205%20-%20Meeting%20Rooms%20II%20-%20Blind/193%20-%20Meeting%20rooms%20ii%20given%20an%20array%20of%20meeting.md) | 13 | 5 |
+| [194](#id194) | [Meeting rooms ii given an array of meeting](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XIII%20-%20Intervals/Chapter%205%20-%20Meeting%20Rooms%20II%20-%20Blind/194%20-%20Meeting%20rooms%20ii%20given%20an%20array%20of%20meeting.md) | 13 | 5 |
+| [195](#id195) | [Meeting rooms ii given an array of meeting](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XIII%20-%20Intervals/Chapter%205%20-%20Meeting%20Rooms%20II%20-%20Blind/195%20-%20Meeting%20rooms%20ii%20given%20an%20array%20of%20meeting.md) | 13 | 5 |
+| [196](#id196) | [Meeting rooms ii given an array of meeting](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XIII%20-%20Intervals/Chapter%205%20-%20Meeting%20Rooms%20II%20-%20Blind/196%20-%20Meeting%20rooms%20ii%20given%20an%20array%20of%20meeting.md) | 13 | 5 |
 | **-** | **Math Geometry** | **18** | **-** |
 | **-** | **Math Geometry > Rotate Image** | **18** | **1** |
-| [192](#id192) | [Rotate image you are given an n x n 2d](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%201%20-%20Rotate%20Image%20-%20Blind/192%20-%20Rotate%20image%20you%20are%20given%20an%20n%20x%20n%202d.md) | 18 | 1 |
-| [193](#id193) | [Rotate image you are given an n x n 2d](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%201%20-%20Rotate%20Image%20-%20Blind/193%20-%20Rotate%20image%20you%20are%20given%20an%20n%20x%20n%202d.md) | 18 | 1 |
-| [194](#id194) | [Rotate image you are given an n x n 2d](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%201%20-%20Rotate%20Image%20-%20Blind/194%20-%20Rotate%20image%20you%20are%20given%20an%20n%20x%20n%202d.md) | 18 | 1 |
-| [195](#id195) | [Rotate image you are given an n x n 2d](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%201%20-%20Rotate%20Image%20-%20Blind/195%20-%20Rotate%20image%20you%20are%20given%20an%20n%20x%20n%202d.md) | 18 | 1 |
-| [196](#id196) | [Rotate image you are given an n x n 2d](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%201%20-%20Rotate%20Image%20-%20Blind/196%20-%20Rotate%20image%20you%20are%20given%20an%20n%20x%20n%202d.md) | 18 | 1 |
+| [197](#id197) | [Rotate image you are given an n x n 2d](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%201%20-%20Rotate%20Image%20-%20Blind/197%20-%20Rotate%20image%20you%20are%20given%20an%20n%20x%20n%202d.md) | 18 | 1 |
+| [198](#id198) | [Rotate image you are given an n x n 2d](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%201%20-%20Rotate%20Image%20-%20Blind/198%20-%20Rotate%20image%20you%20are%20given%20an%20n%20x%20n%202d.md) | 18 | 1 |
+| [199](#id199) | [Rotate image you are given an n x n 2d](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%201%20-%20Rotate%20Image%20-%20Blind/199%20-%20Rotate%20image%20you%20are%20given%20an%20n%20x%20n%202d.md) | 18 | 1 |
+| [200](#id200) | [Rotate image you are given an n x n 2d](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%201%20-%20Rotate%20Image%20-%20Blind/200%20-%20Rotate%20image%20you%20are%20given%20an%20n%20x%20n%202d.md) | 18 | 1 |
+| [201](#id201) | [Rotate image you are given an n x n 2d](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%201%20-%20Rotate%20Image%20-%20Blind/201%20-%20Rotate%20image%20you%20are%20given%20an%20n%20x%20n%202d.md) | 18 | 1 |
 | **-** | **Math Geometry > Spiral Matrix** | **18** | **2** |
-| [197](#id197) | [Spiral matrix given an m x n matrix r](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%202%20-%20Spiral%20Matrix%20-%20Blind/197%20-%20Spiral%20matrix%20given%20an%20m%20x%20n%20matrix%20r.md) | 18 | 2 |
-| [198](#id198) | [Spiral matrix given an m x n matrix r](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%202%20-%20Spiral%20Matrix%20-%20Blind/198%20-%20Spiral%20matrix%20given%20an%20m%20x%20n%20matrix%20r.md) | 18 | 2 |
-| [199](#id199) | [Spiral matrix given an m x n matrix r](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%202%20-%20Spiral%20Matrix%20-%20Blind/199%20-%20Spiral%20matrix%20given%20an%20m%20x%20n%20matrix%20r.md) | 18 | 2 |
-| [200](#id200) | [Spiral matrix given an m x n matrix r](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%202%20-%20Spiral%20Matrix%20-%20Blind/200%20-%20Spiral%20matrix%20given%20an%20m%20x%20n%20matrix%20r.md) | 18 | 2 |
-| [201](#id201) | [Spiral matrix given an m x n matrix r](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%202%20-%20Spiral%20Matrix%20-%20Blind/201%20-%20Spiral%20matrix%20given%20an%20m%20x%20n%20matrix%20r.md) | 18 | 2 |
+| [202](#id202) | [Spiral matrix given an m x n matrix r](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%202%20-%20Spiral%20Matrix%20-%20Blind/202%20-%20Spiral%20matrix%20given%20an%20m%20x%20n%20matrix%20r.md) | 18 | 2 |
+| [203](#id203) | [Spiral matrix given an m x n matrix r](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%202%20-%20Spiral%20Matrix%20-%20Blind/203%20-%20Spiral%20matrix%20given%20an%20m%20x%20n%20matrix%20r.md) | 18 | 2 |
+| [204](#id204) | [Spiral matrix given an m x n matrix r](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%202%20-%20Spiral%20Matrix%20-%20Blind/204%20-%20Spiral%20matrix%20given%20an%20m%20x%20n%20matrix%20r.md) | 18 | 2 |
+| [205](#id205) | [Spiral matrix given an m x n matrix r](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%202%20-%20Spiral%20Matrix%20-%20Blind/205%20-%20Spiral%20matrix%20given%20an%20m%20x%20n%20matrix%20r.md) | 18 | 2 |
+| [206](#id206) | [Spiral matrix given an m x n matrix r](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%202%20-%20Spiral%20Matrix%20-%20Blind/206%20-%20Spiral%20matrix%20given%20an%20m%20x%20n%20matrix%20r.md) | 18 | 2 |
 
 ### Part I - Arrays & Hashing
 
@@ -10779,6 +10785,275 @@ A:: =============================================
 The overall time complexity of the solution is determined by the most time-consuming step. Sorting the intervals has a time complexity of O(n log n). After sorting, we iterate over the intervals once which has a time complexity of O(n). Therefore, the overall time complexity is O(n log n). The space complexity is O(1) because we do not use any additional data structures whose size depends on the input. Sorting the array in-place ensures that we do not use any extra space.
 
 #### Chapter 5 - Meeting Rooms II - [Blind]
+
+Q:: =============================================  
+
+##### Meeting Rooms II
+
+Given an array of meeting time intervals consisting of start and end times `[[s1,e1],[s2,e2],...] (si < ei)`, find the minimum number of conference rooms required.
+
+**Example1**
+
+```
+Input: intervals = [(0,30),(5,10),(15,20)]
+Output: 2
+Explanation:
+We need two meeting rooms
+room1: (0,30)
+room2: (5,10),(15,20)
+```
+
+**Example2**
+
+```
+Input: intervals = [(2,7)]
+Output: 1
+Explanation:
+Only need one meeting room
+```
+
+**Constraints:**
+
+-   `0 <= intervals.length <= 10^4`
+-   `intervals[i].length == 2`
+-   `0 <= intervals[i][0] < intervals[i][1] <= 10^6`
+
+___
+
+In the context of this problem, what’s an equivalent way of thinking about the minimum number of conference rooms needed?
+
+A) The total number of meetings
+
+B) The maximum number of overlapping intervals at any given point in time
+
+C) The minimum number of overlapping intervals at any given point in time
+
+###### ID192
+
+A:: =============================================  
+**Answer**: B
+
+The minimum number of meeting rooms is equivalent to finding the maximum number of overlapping intervals at any given point in time. This is because each overlapping interval would require a separate room.
+
+Q:: =============================================  
+
+##### Meeting Rooms II
+
+Given an array of meeting time intervals consisting of start and end times `[[s1,e1],[s2,e2],...] (si < ei)`, find the minimum number of conference rooms required.
+
+**Example1**
+
+```
+Input: intervals = [(0,30),(5,10),(15,20)]
+Output: 2
+Explanation:
+We need two meeting rooms
+room1: (0,30)
+room2: (5,10),(15,20)
+```
+
+**Example2**
+
+```
+Input: intervals = [(2,7)]
+Output: 1
+Explanation:
+Only need one meeting room
+```
+
+**Constraints:**
+
+-   `0 <= intervals.length <= 10^4`
+-   `intervals[i].length == 2`
+-   `0 <= intervals[i][0] < intervals[i][1] <= 10^6`
+
+___
+
+We can try to iterate through the intervals to count how many meetings are going on at any given point in time. What should be our first step?
+
+A) By sorting the start and end times in separate arrays
+
+B) By sorting the intervals by start time
+
+C) By sorting the intervals by length
+
+###### ID193
+
+A:: =============================================  
+**Answer**: A
+
+Sorting the start and end times separately allows us to efficiently track when meetings start and end. This makes it easy to count the number of meetings at any given time.
+
+Q:: =============================================  
+
+##### Meeting Rooms II
+
+Given an array of meeting time intervals consisting of start and end times `[[s1,e1],[s2,e2],...] (si < ei)`, find the minimum number of conference rooms required.
+
+**Example1**
+
+```
+Input: intervals = [(0,30),(5,10),(15,20)]
+Output: 2
+Explanation:
+We need two meeting rooms
+room1: (0,30)
+room2: (5,10),(15,20)
+```
+
+**Example2**
+
+```
+Input: intervals = [(2,7)]
+Output: 1
+Explanation:
+Only need one meeting room
+```
+
+**Constraints:**
+
+-   `0 <= intervals.length <= 10^4`
+-   `intervals[i].length == 2`
+-   `0 <= intervals[i][0] < intervals[i][1] <= 10^6`
+
+___
+
+As we iterate through these sorted arrays, `start` and `end`, how do we know if a new meeting has started?
+
+A) start\[s\] < end\[e\]
+
+B) start\[s\] == end\[e\]
+
+C) start\[s\] > end\[e\]
+
+###### ID194
+
+A:: =============================================  
+**Answer**: A
+
+If the start time of the next meeting (start\[s\]) is less than the end time of the current earliest ending meeting (end\[e\]), it indicates a new meeting has started before a current one has ended.
+
+Q:: =============================================  
+
+##### Meeting Rooms II
+
+Given an array of meeting time intervals consisting of start and end times `[[s1,e1],[s2,e2],...] (si < ei)`, find the minimum number of conference rooms required.
+
+**Example1**
+
+```
+Input: intervals = [(0,30),(5,10),(15,20)]
+Output: 2
+Explanation:
+We need two meeting rooms
+room1: (0,30)
+room2: (5,10),(15,20)
+```
+
+**Example2**
+
+```
+Input: intervals = [(2,7)]
+Output: 1
+Explanation:
+Only need one meeting room
+```
+
+**Constraints:**
+
+-   `0 <= intervals.length <= 10^4`
+-   `intervals[i].length == 2`
+-   `0 <= intervals[i][0] < intervals[i][1] <= 10^6`
+
+___
+
+As we iterate through these sorted arrays, `start` and `end`, how do we know if a meeting has ended?
+
+A) start\[s\] < end\[e\]
+
+B) start\[s\] == end\[e\]
+
+C) end\[e\] <= start\[s\]
+
+###### ID195
+
+A:: =============================================  
+**Answer**: C
+
+If the end time of the current earliest ending meeting (end\[e\]) is less than or equal to the start time of the next meeting (start\[s\]), it indicates that a current meeting has ended. We don’t necessarily know the start time of this meeting, but we can still keep track of the number of ongoing meetings which is our goal.
+
+Q:: =============================================  
+
+##### Meeting Rooms II
+
+Given an array of meeting time intervals consisting of start and end times `[[s1,e1],[s2,e2],...] (si < ei)`, find the minimum number of conference rooms required.
+
+**Example1**
+
+```
+Input: intervals = [(0,30),(5,10),(15,20)]
+Output: 2
+Explanation:
+We need two meeting rooms
+room1: (0,30)
+room2: (5,10),(15,20)
+```
+
+**Example2**
+
+```
+Input: intervals = [(2,7)]
+Output: 1
+Explanation:
+Only need one meeting room
+```
+
+**Constraints:**
+
+-   `0 <= intervals.length <= 10^4`
+-   `intervals[i].length == 2`
+-   `0 <= intervals[i][0] < intervals[i][1] <= 10^6`
+
+___
+
+To summarize, the below code will solve this problem optimally. What is the overall time and space complexity?
+
+```python
+class Solution:
+    def minMeetingRooms(self, intervals):
+        # Separate out the start and the end timings and sort them individually.
+        start = sorted([i[0] for i in intervals])
+        end = sorted(i[1] for i in intervals)
+
+        s = e = 0
+        used_rooms, res = 0, 0
+        while s < len(intervals):
+            if start[s] < end[e]:
+                # A new meeting is starting
+                used_rooms += 1
+                s += 1
+            else:
+                # A current meeting is ending
+                used_rooms -= 1
+                e += 1
+            res = max(res, used_rooms)
+
+        return res 
+```
+
+A) Time complexity: O(n), Space complexity: O(n)
+
+B) Time complexity: O(n log n), Space complexity: O(n)
+
+C) Time complexity: O(n^2), Space complexity: O(n)
+
+###### ID196
+
+A:: =============================================  
+**Answer**: B
+
+Sorting the start and end times has a time complexity of O(n log n). The subsequent iteration over the start times doesn't change the time complexity, so the overall time complexity remains O(n log n). The space complexity is O(n) because we store the start times and end times of all meetings separately.
+
 #### Chapter 6 - Minimum Interval to Include Each Query
 
 ### Part XIV - Greedy
@@ -10871,7 +11146,7 @@ B) Creating a new matrix and copying elements into it.
 
 C) Rotating each layer of the matrix starting from the outside and moving inwards.
 
-###### ID192
+###### ID197
 
 A:: =============================================  
 **Answer**: C
@@ -10922,7 +11197,7 @@ C) 2n layers
 
 D) n^2 layers
 
-###### ID193
+###### ID198
 
 A:: =============================================  
 **Answer**: B
@@ -10970,7 +11245,7 @@ A) 2nd element in first row, 2nd element in the first column, 2nd element in las
 
 B) 2nd element in first row, 2nd element in last column, second to last element in last row, second to last element in first column
 
-###### ID194
+###### ID199
 
 A:: =============================================  
 **Answer**: B
@@ -11021,7 +11296,7 @@ C) Increment both the left and right pointers.
 
 D) Decrement the left pointer and increment the right pointer.
 
-###### ID195
+###### ID200
 
 A:: =============================================  
 **Answer**: A
@@ -11103,7 +11378,7 @@ Space complexity: O(1)
 C) Time complexity: O(n^2)  
 Space complexity: O(1)
 
-###### ID196
+###### ID201
 
 A:: =============================================  
 **Answer**: C
@@ -11151,7 +11426,7 @@ A) Top row from left to right, rightmost column from top to bottom, bottom row f
 
 B) Top row from right to left, rightmost column from bottom to top, bottom row from left to right, leftmost column from top to bottom.
 
-###### ID197
+###### ID202
 
 A:: =============================================  
 **Answer**: A
@@ -11200,7 +11475,7 @@ B) Reverse the cycle on the remaining submatrix.
 
 C) Transpose the remaining submatrix and then repeat the same cycle.
 
-###### ID198
+###### ID203
 
 A:: =============================================  
 **Answer**: A
@@ -11248,7 +11523,7 @@ B) 4 pointers - one for each of top, right, bottom, and left boundaries of the c
 
 C) 5 pointers - one for each of top, right, bottom, left boundaries and one for the center of the matrix.
 
-###### ID199
+###### ID204
 
 A:: =============================================  
 **Answer**: B
@@ -11324,7 +11599,7 @@ A) The code will fail to traverse the entire matrix.
 
 B) The code will traverse the last submatrix multiple times.
 
-###### ID200
+###### ID205
 
 A:: =============================================  
 **Answer**: B
@@ -11409,7 +11684,7 @@ Space complexity: O(n^2)
 C) Time complexity: O(m+n)  
 Space complexity: O(m+n)
 
-###### ID201
+###### ID206
 
 A:: =============================================  
 **Answer**: A

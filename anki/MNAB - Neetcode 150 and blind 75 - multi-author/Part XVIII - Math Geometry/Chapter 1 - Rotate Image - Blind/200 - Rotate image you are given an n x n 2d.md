@@ -51,7 +51,7 @@ D) Decrement the left pointer and increment the right pointer.
 After we rotate a layer, we move inwards to the next layer. This involves incrementing the left pointer and decrementing the right pointer.
 
 ========== Id ==========  
-195
+200
 
 ---
 
@@ -59,7 +59,7 @@ DECK INFO
 
 TARGET DECK: Data Structures and Algorithms::Leetcode::MNAB - Neetcode 150 and blind 75 - multi-author::Part XVIII - Math Geometry::Chapter 1 - Rotate Image - Blind
 
-FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-XVIII-Math-Geometry::#Chapter-1-Rotate-Image-Blind::#195-Rotate-image-you-are-given-an-n-x-n-2d
+FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-XVIII-Math-Geometry::#Chapter-1-Rotate-Image-Blind::#200-Rotate-image-you-are-given-an-n-x-n-2d
 
 Tags:
 
