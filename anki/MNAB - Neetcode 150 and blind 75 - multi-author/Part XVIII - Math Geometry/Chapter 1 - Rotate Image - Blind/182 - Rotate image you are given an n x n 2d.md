@@ -79,7 +79,7 @@ Space complexity: O(1)
 The time complexity of the rotation operation is O(n^2). This is because, for each layer of the matrix, we perform a constant amount of work for each element, and there are n^2 total elements. The space complexity is O(1) because we perform the rotation in-place without allocating any additional significant space. The only extra space we use is a couple of variables to keep track of the current position and temporarily hold an element during the rotation.
 
 ========== Id ==========  
-176
+182
 
 ---
 
@@ -87,7 +87,7 @@ DECK INFO
 
 TARGET DECK: Data Structures and Algorithms::Leetcode::MNAB - Neetcode 150 and blind 75 - multi-author::Part XVIII - Math Geometry::Chapter 1 - Rotate Image - Blind
 
-FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-XVIII-Math-Geometry::#Chapter-1-Rotate-Image-Blind::#176-Rotate-image-you-are-given-an-n-x-n-2d
+FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-XVIII-Math-Geometry::#Chapter-1-Rotate-Image-Blind::#182-Rotate-image-you-are-given-an-n-x-n-2d
 
 Tags:
 

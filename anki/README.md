@@ -215,19 +215,27 @@
 | [169](#id169) | [House robber you are a professional robber](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XII%20-%201-D%20DP/Chapter%203%20-%20House%20Robber%20-%20Blind/169%20-%20House%20robber%20you%20are%20a%20professional%20robber.md) | 12 | 3 |
 | [170](#id170) | [House robber you are a professional robber](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XII%20-%201-D%20DP/Chapter%203%20-%20House%20Robber%20-%20Blind/170%20-%20House%20robber%20you%20are%20a%20professional%20robber.md) | 12 | 3 |
 | [171](#id171) | [House robber you are a professional robber](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XII%20-%201-D%20DP/Chapter%203%20-%20House%20Robber%20-%20Blind/171%20-%20House%20robber%20you%20are%20a%20professional%20robber.md) | 12 | 3 |
+| **-** | **Intervals** | **13** | **-** |
+| **-** | **Intervals > Insert Interval** | **13** | **1** |
+| [172](#id172) | [Insert interval you are given an array of](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XIII%20-%20Intervals/Chapter%201%20-%20Insert%20Interval%20-%20Blind/172%20-%20Insert%20interval%20you%20are%20given%20an%20array%20of.md) | 13 | 1 |
+| [173](#id173) | [Insert interval you are given an array of](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XIII%20-%20Intervals/Chapter%201%20-%20Insert%20Interval%20-%20Blind/173%20-%20Insert%20interval%20you%20are%20given%20an%20array%20of.md) | 13 | 1 |
+| [174](#id174) | [Insert interval you are given an array of](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XIII%20-%20Intervals/Chapter%201%20-%20Insert%20Interval%20-%20Blind/174%20-%20Insert%20interval%20you%20are%20given%20an%20array%20of.md) | 13 | 1 |
+| [175](#id175) | [Insert interval you are given an array of](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XIII%20-%20Intervals/Chapter%201%20-%20Insert%20Interval%20-%20Blind/175%20-%20Insert%20interval%20you%20are%20given%20an%20array%20of.md) | 13 | 1 |
+| [176](#id176) | [Insert interval you are given an array of](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XIII%20-%20Intervals/Chapter%201%20-%20Insert%20Interval%20-%20Blind/176%20-%20Insert%20interval%20you%20are%20given%20an%20array%20of.md) | 13 | 1 |
+| [177](#id177) | [Insert interval you are given an array of](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XIII%20-%20Intervals/Chapter%201%20-%20Insert%20Interval%20-%20Blind/177%20-%20Insert%20interval%20you%20are%20given%20an%20array%20of.md) | 13 | 1 |
 | **-** | **Math Geometry** | **18** | **-** |
 | **-** | **Math Geometry > Rotate Image** | **18** | **1** |
-| [172](#id172) | [Rotate image you are given an n x n 2d](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%201%20-%20Rotate%20Image%20-%20Blind/172%20-%20Rotate%20image%20you%20are%20given%20an%20n%20x%20n%202d.md) | 18 | 1 |
-| [173](#id173) | [Rotate image you are given an n x n 2d](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%201%20-%20Rotate%20Image%20-%20Blind/173%20-%20Rotate%20image%20you%20are%20given%20an%20n%20x%20n%202d.md) | 18 | 1 |
-| [174](#id174) | [Rotate image you are given an n x n 2d](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%201%20-%20Rotate%20Image%20-%20Blind/174%20-%20Rotate%20image%20you%20are%20given%20an%20n%20x%20n%202d.md) | 18 | 1 |
-| [175](#id175) | [Rotate image you are given an n x n 2d](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%201%20-%20Rotate%20Image%20-%20Blind/175%20-%20Rotate%20image%20you%20are%20given%20an%20n%20x%20n%202d.md) | 18 | 1 |
-| [176](#id176) | [Rotate image you are given an n x n 2d](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%201%20-%20Rotate%20Image%20-%20Blind/176%20-%20Rotate%20image%20you%20are%20given%20an%20n%20x%20n%202d.md) | 18 | 1 |
+| [178](#id178) | [Rotate image you are given an n x n 2d](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%201%20-%20Rotate%20Image%20-%20Blind/178%20-%20Rotate%20image%20you%20are%20given%20an%20n%20x%20n%202d.md) | 18 | 1 |
+| [179](#id179) | [Rotate image you are given an n x n 2d](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%201%20-%20Rotate%20Image%20-%20Blind/179%20-%20Rotate%20image%20you%20are%20given%20an%20n%20x%20n%202d.md) | 18 | 1 |
+| [180](#id180) | [Rotate image you are given an n x n 2d](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%201%20-%20Rotate%20Image%20-%20Blind/180%20-%20Rotate%20image%20you%20are%20given%20an%20n%20x%20n%202d.md) | 18 | 1 |
+| [181](#id181) | [Rotate image you are given an n x n 2d](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%201%20-%20Rotate%20Image%20-%20Blind/181%20-%20Rotate%20image%20you%20are%20given%20an%20n%20x%20n%202d.md) | 18 | 1 |
+| [182](#id182) | [Rotate image you are given an n x n 2d](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%201%20-%20Rotate%20Image%20-%20Blind/182%20-%20Rotate%20image%20you%20are%20given%20an%20n%20x%20n%202d.md) | 18 | 1 |
 | **-** | **Math Geometry > Spiral Matrix** | **18** | **2** |
-| [177](#id177) | [Spiral matrix given an m x n matrix r](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%202%20-%20Spiral%20Matrix%20-%20Blind/177%20-%20Spiral%20matrix%20given%20an%20m%20x%20n%20matrix%20r.md) | 18 | 2 |
-| [178](#id178) | [Spiral matrix given an m x n matrix r](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%202%20-%20Spiral%20Matrix%20-%20Blind/178%20-%20Spiral%20matrix%20given%20an%20m%20x%20n%20matrix%20r.md) | 18 | 2 |
-| [179](#id179) | [Spiral matrix given an m x n matrix r](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%202%20-%20Spiral%20Matrix%20-%20Blind/179%20-%20Spiral%20matrix%20given%20an%20m%20x%20n%20matrix%20r.md) | 18 | 2 |
-| [180](#id180) | [Spiral matrix given an m x n matrix r](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%202%20-%20Spiral%20Matrix%20-%20Blind/180%20-%20Spiral%20matrix%20given%20an%20m%20x%20n%20matrix%20r.md) | 18 | 2 |
-| [181](#id181) | [Spiral matrix given an m x n matrix r](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%202%20-%20Spiral%20Matrix%20-%20Blind/181%20-%20Spiral%20matrix%20given%20an%20m%20x%20n%20matrix%20r.md) | 18 | 2 |
+| [183](#id183) | [Spiral matrix given an m x n matrix r](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%202%20-%20Spiral%20Matrix%20-%20Blind/183%20-%20Spiral%20matrix%20given%20an%20m%20x%20n%20matrix%20r.md) | 18 | 2 |
+| [184](#id184) | [Spiral matrix given an m x n matrix r](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%202%20-%20Spiral%20Matrix%20-%20Blind/184%20-%20Spiral%20matrix%20given%20an%20m%20x%20n%20matrix%20r.md) | 18 | 2 |
+| [185](#id185) | [Spiral matrix given an m x n matrix r](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%202%20-%20Spiral%20Matrix%20-%20Blind/185%20-%20Spiral%20matrix%20given%20an%20m%20x%20n%20matrix%20r.md) | 18 | 2 |
+| [186](#id186) | [Spiral matrix given an m x n matrix r](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%202%20-%20Spiral%20Matrix%20-%20Blind/186%20-%20Spiral%20matrix%20given%20an%20m%20x%20n%20matrix%20r.md) | 18 | 2 |
+| [187](#id187) | [Spiral matrix given an m x n matrix r](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%202%20-%20Spiral%20Matrix%20-%20Blind/187%20-%20Spiral%20matrix%20given%20an%20m%20x%20n%20matrix%20r.md) | 18 | 2 |
 
 ### Part I - Arrays & Hashing
 
@@ -9688,6 +9696,335 @@ The time complexity of the dynamic programming solution is O(n), where n is the 
 ### Part XIII - Intervals
 
 #### Chapter 1 - Insert Interval - [Blind]
+
+Q:: =============================================  
+
+##### Insert Interval
+
+You are given an array of non-overlapping intervals `intervals` where `intervals[i] = [starti, endi]` represent the start and the end of the `ith` interval and `intervals` is sorted in ascending order by `starti`. You are also given an interval `newInterval = [start, end]` that represents the start and end of another interval.
+
+Insert `newInterval` into `intervals` such that `intervals` is still sorted in ascending order by `starti` and `intervals` still does not have any overlapping intervals (merge overlapping intervals if necessary).
+
+Return `intervals` _after the insertion_.
+
+**Example 1:**
+
+```
+Input: intervals = [[1,3],[6,9]], newInterval = [2,5]
+Output: [[1,5],[6,9]]
+```
+
+**Example 2:**
+
+```
+Input: intervals = [[1,2],[3,5],[6,7],[8,10],[12,16]], newInterval = [4,8]
+Output: [[1,2],[3,10],[12,16]]
+Explanation: Because the new interval [4,8] overlaps with [3,5],[6,7],[8,10].
+```
+
+**Constraints:**
+
+-   `0 <= intervals.length <= 10^4`
+-   `intervals[i].length == 2`
+-   `0 <= starti <= endi <= 10^5`
+-   `intervals` is sorted by `starti` in **ascending** order.
+-   `newInterval.length == 2`
+-   `0 <= start <= end <= 10^5`
+
+___
+
+Is it possible that the `newInterval` overlaps with more than one interval in the list?
+
+A) Yes
+
+B) No
+
+###### ID172
+
+A:: =============================================  
+**Answer**: A
+
+Yes, it's possible. The \`newInterval\` might overlap with multiple intervals in the list if its start time is earlier than the end of one interval and its end time is later than the start of another.
+
+Q:: =============================================  
+
+##### Insert Interval
+
+You are given an array of non-overlapping intervals `intervals` where `intervals[i] = [starti, endi]` represent the start and the end of the `ith` interval and `intervals` is sorted in ascending order by `starti`. You are also given an interval `newInterval = [start, end]` that represents the start and end of another interval.
+
+Insert `newInterval` into `intervals` such that `intervals` is still sorted in ascending order by `starti` and `intervals` still does not have any overlapping intervals (merge overlapping intervals if necessary).
+
+Return `intervals` _after the insertion_.
+
+**Example 1:**
+
+```
+Input: intervals = [[1,3],[6,9]], newInterval = [2,5]
+Output: [[1,5],[6,9]]
+```
+
+**Example 2:**
+
+```
+Input: intervals = [[1,2],[3,5],[6,7],[8,10],[12,16]], newInterval = [4,8]
+Output: [[1,2],[3,10],[12,16]]
+Explanation: Because the new interval [4,8] overlaps with [3,5],[6,7],[8,10].
+```
+
+**Constraints:**
+
+-   `0 <= intervals.length <= 10^4`
+-   `intervals[i].length == 2`
+-   `0 <= starti <= endi <= 10^5`
+-   `intervals` is sorted by `starti` in **ascending** order.
+-   `newInterval.length == 2`
+-   `0 <= start <= end <= 10^5`
+
+___
+
+As we iterate through the list of intervals, how do we know if the `newInterval` does not overlap with any of the intervals in the remaining portion of the list? (i.e. it does not overlap with the current interval or any subsequent intervals)  
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/1f41ea61-3124-453d-7545-b5d5168de700/public)
+
+A) If the end of newInterval is less than the start time of the current interval.
+
+B) If the start of newInterval is greater than the end time of the current interval.
+
+C) Both A and B
+
+D) None of the above
+
+###### ID173
+
+A:: =============================================  
+**Answer**: A
+
+If the end of newInterval is less than the start time of the current interval, newInterval does not overlap with the current interval or any subsequent intervals because the list is sorted in ascending order by start times.
+
+Q:: =============================================  
+
+##### Insert Interval
+
+You are given an array of non-overlapping intervals `intervals` where `intervals[i] = [starti, endi]` represent the start and the end of the `ith` interval and `intervals` is sorted in ascending order by `starti`. You are also given an interval `newInterval = [start, end]` that represents the start and end of another interval.
+
+Insert `newInterval` into `intervals` such that `intervals` is still sorted in ascending order by `starti` and `intervals` still does not have any overlapping intervals (merge overlapping intervals if necessary).
+
+Return `intervals` _after the insertion_.
+
+**Example 1:**
+
+```
+Input: intervals = [[1,3],[6,9]], newInterval = [2,5]
+Output: [[1,5],[6,9]]
+```
+
+**Example 2:**
+
+```
+Input: intervals = [[1,2],[3,5],[6,7],[8,10],[12,16]], newInterval = [4,8]
+Output: [[1,2],[3,10],[12,16]]
+Explanation: Because the new interval [4,8] overlaps with [3,5],[6,7],[8,10].
+```
+
+**Constraints:**
+
+-   `0 <= intervals.length <= 10^4`
+-   `intervals[i].length == 2`
+-   `0 <= starti <= endi <= 10^5`
+-   `intervals` is sorted by `starti` in **ascending** order.
+-   `newInterval.length == 2`
+-   `0 <= start <= end <= 10^5`
+
+___
+
+How do we know if the `newInterval` is entirely to the right of the current interval?
+
+A) If the start of newInterval is greater than the end of the current interval.
+
+B) If the end of newInterval is less than the start of the current interval.
+
+C) Both A and B
+
+D) None of the above
+
+###### ID174
+
+A:: =============================================  
+**Answer**: A
+
+If the start of newInterval is greater than the end of the current interval, newInterval is entirely to the right of the current interval.
+
+Q:: =============================================  
+
+##### Insert Interval
+
+You are given an array of non-overlapping intervals `intervals` where `intervals[i] = [starti, endi]` represent the start and the end of the `ith` interval and `intervals` is sorted in ascending order by `starti`. You are also given an interval `newInterval = [start, end]` that represents the start and end of another interval.
+
+Insert `newInterval` into `intervals` such that `intervals` is still sorted in ascending order by `starti` and `intervals` still does not have any overlapping intervals (merge overlapping intervals if necessary).
+
+Return `intervals` _after the insertion_.
+
+**Example 1:**
+
+```
+Input: intervals = [[1,3],[6,9]], newInterval = [2,5]
+Output: [[1,5],[6,9]]
+```
+
+**Example 2:**
+
+```
+Input: intervals = [[1,2],[3,5],[6,7],[8,10],[12,16]], newInterval = [4,8]
+Output: [[1,2],[3,10],[12,16]]
+Explanation: Because the new interval [4,8] overlaps with [3,5],[6,7],[8,10].
+```
+
+**Constraints:**
+
+-   `0 <= intervals.length <= 10^4`
+-   `intervals[i].length == 2`
+-   `0 <= starti <= endi <= 10^5`
+-   `intervals` is sorted by `starti` in **ascending** order.
+-   `newInterval.length == 2`
+-   `0 <= start <= end <= 10^5`
+
+___
+
+If the `newInterval` is not entirely to the left, nor entirely to the right of the current interval, does that guarantee it overlaps with the current interval?
+
+A) No
+
+B) Yes
+
+C) Cannot be determined
+
+###### ID175
+
+A:: =============================================  
+**Answer**: B
+
+By definition, the newInterval must be overlapping with the current interval. Otherwise, it would be on the left or on the right of the current interval. (Proof by contradiction).
+
+Q:: =============================================  
+
+##### Insert Interval
+
+You are given an array of non-overlapping intervals `intervals` where `intervals[i] = [starti, endi]` represent the start and the end of the `ith` interval and `intervals` is sorted in ascending order by `starti`. You are also given an interval `newInterval = [start, end]` that represents the start and end of another interval.
+
+Insert `newInterval` into `intervals` such that `intervals` is still sorted in ascending order by `starti` and `intervals` still does not have any overlapping intervals (merge overlapping intervals if necessary).
+
+Return `intervals` _after the insertion_.
+
+**Example 1:**
+
+```
+Input: intervals = [[1,3],[6,9]], newInterval = [2,5]
+Output: [[1,5],[6,9]]
+```
+
+**Example 2:**
+
+```
+Input: intervals = [[1,2],[3,5],[6,7],[8,10],[12,16]], newInterval = [4,8]
+Output: [[1,2],[3,10],[12,16]]
+Explanation: Because the new interval [4,8] overlaps with [3,5],[6,7],[8,10].
+```
+
+**Constraints:**
+
+-   `0 <= intervals.length <= 10^4`
+-   `intervals[i].length == 2`
+-   `0 <= starti <= endi <= 10^5`
+-   `intervals` is sorted by `starti` in **ascending** order.
+-   `newInterval.length == 2`
+-   `0 <= start <= end <= 10^5`
+
+___
+
+After merging two intervals, what should be the new interval that we attempt to merge with the remaining overlapping intervals?
+
+A) The original newInterval
+
+B) intervals\[i\] BEFORE it was merged with newInterval
+
+C) intervals\[i\] AFTER it was merged with newInterval
+
+###### ID176
+
+A:: =============================================  
+**Answer**: C
+
+After merging two intervals, the new interval to attempt merging with the remaining intervals should have the earliest start time and the latest end time among the merged intervals. This ensures that the new interval covers all the values in the merged intervals.
+
+Q:: =============================================  
+
+##### Insert Interval
+
+You are given an array of non-overlapping intervals `intervals` where `intervals[i] = [starti, endi]` represent the start and the end of the `ith` interval and `intervals` is sorted in ascending order by `starti`. You are also given an interval `newInterval = [start, end]` that represents the start and end of another interval.
+
+Insert `newInterval` into `intervals` such that `intervals` is still sorted in ascending order by `starti` and `intervals` still does not have any overlapping intervals (merge overlapping intervals if necessary).
+
+Return `intervals` _after the insertion_.
+
+**Example 1:**
+
+```
+Input: intervals = [[1,3],[6,9]], newInterval = [2,5]
+Output: [[1,5],[6,9]]
+```
+
+**Example 2:**
+
+```
+Input: intervals = [[1,2],[3,5],[6,7],[8,10],[12,16]], newInterval = [4,8]
+Output: [[1,2],[3,10],[12,16]]
+Explanation: Because the new interval [4,8] overlaps with [3,5],[6,7],[8,10].
+```
+
+**Constraints:**
+
+-   `0 <= intervals.length <= 10^4`
+-   `intervals[i].length == 2`
+-   `0 <= starti <= endi <= 10^5`
+-   `intervals` is sorted by `starti` in **ascending** order.
+-   `newInterval.length == 2`
+-   `0 <= start <= end <= 10^5`
+
+___
+
+To summarize, the below code will optimally solve this problem. What is the overall time complexity and the space complexity? Assume the output counts as additional space.
+
+```python
+class Solution:
+    def insert(self, intervals: List[List[int]], newInterval: List[int]) -> List[List[int]]:
+        res = []
+        for i in range(len(intervals)):
+            if newInterval[1] < intervals[i][0]:
+                # newInterval doesn't overlap with remaining list
+                res.append(newInterval)
+                return res + intervals[i:]
+            elif newInterval[0] > intervals[i][1]:
+                # newInterval is entirely to right of intervals[i]
+                res.append(intervals[i])
+            else:
+                # newInterval overlaps with current interval
+                newInterval = [min(newInterval[0], intervals[i][0]), max(newInterval[1], intervals[i][1])]
+        res.append(newInterval)
+        return res
+```
+
+A) Time complexity: O(1), Space complexity: O(n)
+
+B) Time complexity: O(n), Space complexity: O(1)
+
+C) Time complexity: O(n), Space complexity: O(n)
+
+###### ID177
+
+A:: =============================================  
+**Answer**: C
+
+The time complexity is O(n) because we may need to check each interval once, and the space complexity is O(n) because in the worst case, if \`newInterval\` doesn't overlap with any intervals, the output will be a list with the same length as the input plus one additional interval (\`newInterval\`). We also need some additional space to store the merged intervals during the process, but this does not change the overall linear space complexity.
+
 #### Chapter 2 - Merge Intervals - [Blind]
 #### Chapter 3 - Non Overlapping Intervals - [Blind]
 #### Chapter 4 - Meeting Rooms - [Blind]
@@ -9784,7 +10121,7 @@ B) Creating a new matrix and copying elements into it.
 
 C) Rotating each layer of the matrix starting from the outside and moving inwards.
 
-###### ID172
+###### ID178
 
 A:: =============================================  
 **Answer**: C
@@ -9835,7 +10172,7 @@ C) 2n layers
 
 D) n^2 layers
 
-###### ID173
+###### ID179
 
 A:: =============================================  
 **Answer**: B
@@ -9883,7 +10220,7 @@ A) 2nd element in first row, 2nd element in the first column, 2nd element in las
 
 B) 2nd element in first row, 2nd element in last column, second to last element in last row, second to last element in first column
 
-###### ID174
+###### ID180
 
 A:: =============================================  
 **Answer**: B
@@ -9934,7 +10271,7 @@ C) Increment both the left and right pointers.
 
 D) Decrement the left pointer and increment the right pointer.
 
-###### ID175
+###### ID181
 
 A:: =============================================  
 **Answer**: A
@@ -10016,7 +10353,7 @@ Space complexity: O(1)
 C) Time complexity: O(n^2)  
 Space complexity: O(1)
 
-###### ID176
+###### ID182
 
 A:: =============================================  
 **Answer**: C
@@ -10064,7 +10401,7 @@ A) Top row from left to right, rightmost column from top to bottom, bottom row f
 
 B) Top row from right to left, rightmost column from bottom to top, bottom row from left to right, leftmost column from top to bottom.
 
-###### ID177
+###### ID183
 
 A:: =============================================  
 **Answer**: A
@@ -10113,7 +10450,7 @@ B) Reverse the cycle on the remaining submatrix.
 
 C) Transpose the remaining submatrix and then repeat the same cycle.
 
-###### ID178
+###### ID184
 
 A:: =============================================  
 **Answer**: A
@@ -10161,7 +10498,7 @@ B) 4 pointers - one for each of top, right, bottom, and left boundaries of the c
 
 C) 5 pointers - one for each of top, right, bottom, left boundaries and one for the center of the matrix.
 
-###### ID179
+###### ID185
 
 A:: =============================================  
 **Answer**: B
@@ -10237,7 +10574,7 @@ A) The code will fail to traverse the entire matrix.
 
 B) The code will traverse the last submatrix multiple times.
 
-###### ID180
+###### ID186
 
 A:: =============================================  
 **Answer**: B
@@ -10322,7 +10659,7 @@ Space complexity: O(n^2)
 C) Time complexity: O(m+n)  
 Space complexity: O(m+n)
 
-###### ID181
+###### ID187
 
 A:: =============================================  
 **Answer**: A

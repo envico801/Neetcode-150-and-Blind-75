@@ -34,32 +34,30 @@ Output: [[15,13,2,5],[14,3,4,1],[12,6,8,9],[16,7,10,11]]
 
 ---
 
-After we complete a layer, how should we update our pointers?
+Which approach is more suitable for rotating the matrix in-place (without allocating a new matrix)?
 
-A) Increment the left pointer and decrement the right pointer.
+A) Swapping elements along the diagonal.
 
-B) Decrement both the left and right pointers.
+B) Creating a new matrix and copying elements into it.
 
-C) Increment both the left and right pointers.
-
-D) Decrement the left pointer and increment the right pointer.  
+C) Rotating each layer of the matrix starting from the outside and moving inwards.  
 
 ========== Answer ==========  
 
-**Answer**: A
+**Answer**: C
 
-After we rotate a layer, we move inwards to the next layer. This involves incrementing the left pointer and decrementing the right pointer.
+Rotating each layer of the matrix starting from the outside and moving inwards is the most suitable way to rotate a matrix in-place. The other methods either don't result in a rotated matrix, or require additional space. There are other ways to rotate the matrix in-place, but this is the most intuitive and doesn't require math knowledge.
 
 ========== Id ==========  
-175
+178
 
 ---
 
 DECK INFO
 
-TARGET DECK: Data Structures and Algorithms::Leetcode::MNAB - Neetcode 150 and blind 75 - multi-author::Part XVIII - Math Geometry::Chapter 1 - Rotate Image - Blind
+TARGET DECK: Data Structures and Algorithms::Leetcode::MNAB - Neetcode 150 and blind 75 - multi-author::Part XVIII - Math Geometry::Chapter 1 - Rotate Image
 
-FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-XVIII-Math-Geometry::#Chapter-1-Rotate-Image-Blind::#175-Rotate-image-you-are-given-an-n-x-n-2d
+FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-XVIII-Math-Geometry::#Chapter-1-Rotate-Image::#178-Rotate-image-you-are-given-an-n-x-n-2d
 
 Tags:
 

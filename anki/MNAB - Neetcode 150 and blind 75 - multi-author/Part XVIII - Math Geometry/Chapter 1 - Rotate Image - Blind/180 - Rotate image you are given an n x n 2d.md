@@ -49,7 +49,7 @@ B) 2nd element in first row, 2nd element in last column, second to last element 
 After the corners, we shift one place inward or towards the center on each side. So, the next four elements to rotate are the 2nd element in the first row, the 2nd element in the last column, the second to last element in the last row, and the second to last element in the first column.
 
 ========== Id ==========  
-174
+180
 
 ---
 
@@ -57,7 +57,7 @@ DECK INFO
 
 TARGET DECK: Data Structures and Algorithms::Leetcode::MNAB - Neetcode 150 and blind 75 - multi-author::Part XVIII - Math Geometry::Chapter 1 - Rotate Image - Blind
 
-FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-XVIII-Math-Geometry::#Chapter-1-Rotate-Image-Blind::#174-Rotate-image-you-are-given-an-n-x-n-2d
+FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-XVIII-Math-Geometry::#Chapter-1-Rotate-Image-Blind::#180-Rotate-image-you-are-given-an-n-x-n-2d
 
 Tags:
 
