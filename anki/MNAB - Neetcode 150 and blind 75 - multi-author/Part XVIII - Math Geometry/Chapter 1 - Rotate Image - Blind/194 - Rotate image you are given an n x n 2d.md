@@ -34,24 +34,22 @@ Output: [[15,13,2,5],[14,3,4,1],[12,6,8,9],[16,7,10,11]]
 
 ---
 
-After we complete a layer, how should we update our pointers?
+If we consider a layer-by-layer rotation starting from the corners, which will be the next four elements to be rotated after the four corners?
 
-A) Increment the left pointer and decrement the right pointer.
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/d01c9636-cfee-4f7c-3fbb-ddb051090300/public)
 
-B) Decrement both the left and right pointers.
+A) 2nd element in first row, 2nd element in the first column, 2nd element in last row, 2nd element in last column
 
-C) Increment both the left and right pointers.
-
-D) Decrement the left pointer and increment the right pointer.  
+B) 2nd element in first row, 2nd element in last column, second to last element in last row, second to last element in first column  
 
 ========== Answer ==========  
 
-**Answer**: A
+**Answer**: B
 
-After we rotate a layer, we move inwards to the next layer. This involves incrementing the left pointer and decrementing the right pointer.
+After the corners, we shift one place inward or towards the center on each side. So, the next four elements to rotate are the 2nd element in the first row, the 2nd element in the last column, the second to last element in the last row, and the second to last element in the first column.
 
 ========== Id ==========  
-191
+194
 
 ---
 
@@ -59,7 +57,7 @@ DECK INFO
 
 TARGET DECK: Data Structures and Algorithms::Leetcode::MNAB - Neetcode 150 and blind 75 - multi-author::Part XVIII - Math Geometry::Chapter 1 - Rotate Image - Blind
 
-FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-XVIII-Math-Geometry::#Chapter-1-Rotate-Image-Blind::#191-Rotate-image-you-are-given-an-n-x-n-2d
+FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-XVIII-Math-Geometry::#Chapter-1-Rotate-Image-Blind::#194-Rotate-image-you-are-given-an-n-x-n-2d
 
 Tags:
 

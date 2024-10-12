@@ -51,7 +51,7 @@ D) n^2 layers
 For an nxn matrix, we only need to rotate n/2 layers. This is because with each layer, we are actually rotating 4 sides (top, right, bottom, left) of the square matrix.
 
 ========== Id ==========  
-189
+193
 
 ---
 
@@ -59,7 +59,7 @@ DECK INFO
 
 TARGET DECK: Data Structures and Algorithms::Leetcode::MNAB - Neetcode 150 and blind 75 - multi-author::Part XVIII - Math Geometry::Chapter 1 - Rotate Image - Blind
 
-FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-XVIII-Math-Geometry::#Chapter-1-Rotate-Image-Blind::#189-Rotate-image-you-are-given-an-n-x-n-2d
+FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-XVIII-Math-Geometry::#Chapter-1-Rotate-Image-Blind::#193-Rotate-image-you-are-given-an-n-x-n-2d
 
 Tags:
 

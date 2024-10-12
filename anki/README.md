@@ -235,19 +235,24 @@
 | [185](#id185) | [Non overlapping intervals given an array o](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XIII%20-%20Intervals/Chapter%203%20-%20Non%20Overlapping%20Intervals%20-%20Blind/185%20-%20Non%20overlapping%20intervals%20given%20an%20array%20o.md) | 13 | 3 |
 | [186](#id186) | [Non overlapping intervals given an array o](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XIII%20-%20Intervals/Chapter%203%20-%20Non%20Overlapping%20Intervals%20-%20Blind/186%20-%20Non%20overlapping%20intervals%20given%20an%20array%20o.md) | 13 | 3 |
 | [187](#id187) | [Non overlapping intervals given an array o](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XIII%20-%20Intervals/Chapter%203%20-%20Non%20Overlapping%20Intervals%20-%20Blind/187%20-%20Non%20overlapping%20intervals%20given%20an%20array%20o.md) | 13 | 3 |
+| **-** | **Intervals > Meeting Rooms** | **13** | **4** |
+| [188](#id188) | [Meeting rooms given an array of meeting ti](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XIII%20-%20Intervals/Chapter%204%20-%20Meeting%20Rooms%20-%20Blind/188%20-%20Meeting%20rooms%20given%20an%20array%20of%20meeting%20ti.md) | 13 | 4 |
+| [189](#id189) | [Meeting rooms given an array of meeting ti](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XIII%20-%20Intervals/Chapter%204%20-%20Meeting%20Rooms%20-%20Blind/189%20-%20Meeting%20rooms%20given%20an%20array%20of%20meeting%20ti.md) | 13 | 4 |
+| [190](#id190) | [Meeting rooms given an array of meeting ti](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XIII%20-%20Intervals/Chapter%204%20-%20Meeting%20Rooms%20-%20Blind/190%20-%20Meeting%20rooms%20given%20an%20array%20of%20meeting%20ti.md) | 13 | 4 |
+| [191](#id191) | [Meeting rooms given an array of meeting ti](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XIII%20-%20Intervals/Chapter%204%20-%20Meeting%20Rooms%20-%20Blind/191%20-%20Meeting%20rooms%20given%20an%20array%20of%20meeting%20ti.md) | 13 | 4 |
 | **-** | **Math Geometry** | **18** | **-** |
 | **-** | **Math Geometry > Rotate Image** | **18** | **1** |
-| [188](#id188) | [Rotate image you are given an n x n 2d](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%201%20-%20Rotate%20Image%20-%20Blind/188%20-%20Rotate%20image%20you%20are%20given%20an%20n%20x%20n%202d.md) | 18 | 1 |
-| [189](#id189) | [Rotate image you are given an n x n 2d](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%201%20-%20Rotate%20Image%20-%20Blind/189%20-%20Rotate%20image%20you%20are%20given%20an%20n%20x%20n%202d.md) | 18 | 1 |
-| [190](#id190) | [Rotate image you are given an n x n 2d](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%201%20-%20Rotate%20Image%20-%20Blind/190%20-%20Rotate%20image%20you%20are%20given%20an%20n%20x%20n%202d.md) | 18 | 1 |
-| [191](#id191) | [Rotate image you are given an n x n 2d](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%201%20-%20Rotate%20Image%20-%20Blind/191%20-%20Rotate%20image%20you%20are%20given%20an%20n%20x%20n%202d.md) | 18 | 1 |
 | [192](#id192) | [Rotate image you are given an n x n 2d](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%201%20-%20Rotate%20Image%20-%20Blind/192%20-%20Rotate%20image%20you%20are%20given%20an%20n%20x%20n%202d.md) | 18 | 1 |
+| [193](#id193) | [Rotate image you are given an n x n 2d](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%201%20-%20Rotate%20Image%20-%20Blind/193%20-%20Rotate%20image%20you%20are%20given%20an%20n%20x%20n%202d.md) | 18 | 1 |
+| [194](#id194) | [Rotate image you are given an n x n 2d](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%201%20-%20Rotate%20Image%20-%20Blind/194%20-%20Rotate%20image%20you%20are%20given%20an%20n%20x%20n%202d.md) | 18 | 1 |
+| [195](#id195) | [Rotate image you are given an n x n 2d](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%201%20-%20Rotate%20Image%20-%20Blind/195%20-%20Rotate%20image%20you%20are%20given%20an%20n%20x%20n%202d.md) | 18 | 1 |
+| [196](#id196) | [Rotate image you are given an n x n 2d](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%201%20-%20Rotate%20Image%20-%20Blind/196%20-%20Rotate%20image%20you%20are%20given%20an%20n%20x%20n%202d.md) | 18 | 1 |
 | **-** | **Math Geometry > Spiral Matrix** | **18** | **2** |
-| [193](#id193) | [Spiral matrix given an m x n matrix r](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%202%20-%20Spiral%20Matrix%20-%20Blind/193%20-%20Spiral%20matrix%20given%20an%20m%20x%20n%20matrix%20r.md) | 18 | 2 |
-| [194](#id194) | [Spiral matrix given an m x n matrix r](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%202%20-%20Spiral%20Matrix%20-%20Blind/194%20-%20Spiral%20matrix%20given%20an%20m%20x%20n%20matrix%20r.md) | 18 | 2 |
-| [195](#id195) | [Spiral matrix given an m x n matrix r](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%202%20-%20Spiral%20Matrix%20-%20Blind/195%20-%20Spiral%20matrix%20given%20an%20m%20x%20n%20matrix%20r.md) | 18 | 2 |
-| [196](#id196) | [Spiral matrix given an m x n matrix r](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%202%20-%20Spiral%20Matrix%20-%20Blind/196%20-%20Spiral%20matrix%20given%20an%20m%20x%20n%20matrix%20r.md) | 18 | 2 |
 | [197](#id197) | [Spiral matrix given an m x n matrix r](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%202%20-%20Spiral%20Matrix%20-%20Blind/197%20-%20Spiral%20matrix%20given%20an%20m%20x%20n%20matrix%20r.md) | 18 | 2 |
+| [198](#id198) | [Spiral matrix given an m x n matrix r](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%202%20-%20Spiral%20Matrix%20-%20Blind/198%20-%20Spiral%20matrix%20given%20an%20m%20x%20n%20matrix%20r.md) | 18 | 2 |
+| [199](#id199) | [Spiral matrix given an m x n matrix r](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%202%20-%20Spiral%20Matrix%20-%20Blind/199%20-%20Spiral%20matrix%20given%20an%20m%20x%20n%20matrix%20r.md) | 18 | 2 |
+| [200](#id200) | [Spiral matrix given an m x n matrix r](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%202%20-%20Spiral%20Matrix%20-%20Blind/200%20-%20Spiral%20matrix%20given%20an%20m%20x%20n%20matrix%20r.md) | 18 | 2 |
+| [201](#id201) | [Spiral matrix given an m x n matrix r](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%202%20-%20Spiral%20Matrix%20-%20Blind/201%20-%20Spiral%20matrix%20given%20an%20m%20x%20n%20matrix%20r.md) | 18 | 2 |
 
 ### Part I - Arrays & Hashing
 
@@ -10566,6 +10571,213 @@ A:: =============================================
 The time complexity of the optimal solution is O(n log n) because you have to sort the intervals first, which takes O(n log n) time. Then, you iterate over the sorted intervals once, which takes O(n) time. The space complexity is O(n) because in the worst-case scenario, you store all n intervals in the input array. The additional space used for sorting does not change the overall linear space complexity.
 
 #### Chapter 4 - Meeting Rooms - [Blind]
+
+Q:: =============================================  
+
+##### Meeting Rooms
+
+Given an array of meeting time intervals consisting of start and end times `[[s1,e1],[s2,e2],...] (si < ei)`, determine if a person could attend all meetings.
+
+Note: `(0,8),(8,10)` is not a conflict at `8`
+
+**Example1**
+
+```
+Input: intervals = [(0,30),(5,10),(15,20)]
+Output: false
+Explanation:
+(0,30), (5,10) and (0,30),(15,20) will conflict
+```
+
+**Example2**
+
+```
+Input: intervals = [(5,8),(9,15)]
+Output: true
+Explanation:
+Two times will not conflict
+```
+
+**Constraints:**
+
+-   `0 <= intervals.length <= 10^4`
+-   `intervals[i].length == 2`
+-   `0 <= intervals[i][0] < intervals[i][1] <= 10^6`
+
+___
+
+Given an unsorted list of intervals, what is the first step we should take to determine if a person could attend all meetings?
+
+A) Sort by the start times of each interval
+
+B) Sort by the length of each interval
+
+###### ID188
+
+A:: =============================================  
+**Answer**: A
+
+Sorting the intervals by their start times will help us to check the conflicts easily. The intervals will be arranged in a way that their start times are in ascending order.
+
+Q:: =============================================  
+
+##### Meeting Rooms
+
+Given an array of meeting time intervals consisting of start and end times `[[s1,e1],[s2,e2],...] (si < ei)`, determine if a person could attend all meetings.
+
+Note: `(0,8),(8,10)` is not a conflict at `8`
+
+**Example1**
+
+```
+Input: intervals = [(0,30),(5,10),(15,20)]
+Output: false
+Explanation:
+(0,30), (5,10) and (0,30),(15,20) will conflict
+```
+
+**Example2**
+
+```
+Input: intervals = [(5,8),(9,15)]
+Output: true
+Explanation:
+Two times will not conflict
+```
+
+**Constraints:**
+
+-   `0 <= intervals.length <= 10^4`
+-   `intervals[i].length == 2`
+-   `0 <= intervals[i][0] < intervals[i][1] <= 10^6`
+
+___
+
+As we iterate through the sorted intervals, how do we know if an adjacent pair of intervals is overlapping?
+
+A) If start of the first interval < end of the second interval
+
+B) If end of the first interval ≥ start of the second interval
+
+C) If end of the first interval > start of the second interval
+
+###### ID189
+
+A:: =============================================  
+**Answer**: C
+
+If the intervals are sorted by their start times, then the end of the current interval being greater than the start of the next interval means they overlap and hence create a conflict in the meeting schedule. The reason ≥ doesn’t necessarily work is because a meeting could end as the next one begins, and it would be possible to attend both meetings.
+
+Q:: =============================================  
+
+##### Meeting Rooms
+
+Given an array of meeting time intervals consisting of start and end times `[[s1,e1],[s2,e2],...] (si < ei)`, determine if a person could attend all meetings.
+
+Note: `(0,8),(8,10)` is not a conflict at `8`
+
+**Example1**
+
+```
+Input: intervals = [(0,30),(5,10),(15,20)]
+Output: false
+Explanation:
+(0,30), (5,10) and (0,30),(15,20) will conflict
+```
+
+**Example2**
+
+```
+Input: intervals = [(5,8),(9,15)]
+Output: true
+Explanation:
+Two times will not conflict
+```
+
+**Constraints:**
+
+-   `0 <= intervals.length <= 10^4`
+-   `intervals[i].length == 2`
+-   `0 <= intervals[i][0] < intervals[i][1] <= 10^6`
+
+___
+
+What should you do when two intervals overlap?
+
+A) Combine both intervals and consider it as one.
+
+B) Do nothing, proceed to the next pair.
+
+C) Return false, indicating a conflict in the schedule.
+
+###### ID190
+
+A:: =============================================  
+**Answer**: C
+
+When two intervals overlap, it signifies a conflict in the meeting schedule. Since our aim is to check if a person could attend all meetings, once a conflict is found, we can return false.
+
+Q:: =============================================  
+
+##### Meeting Rooms
+
+Given an array of meeting time intervals consisting of start and end times `[[s1,e1],[s2,e2],...] (si < ei)`, determine if a person could attend all meetings.
+
+Note: `(0,8),(8,10)` is not a conflict at `8`
+
+**Example1**
+
+```
+Input: intervals = [(0,30),(5,10),(15,20)]
+Output: false
+Explanation:
+(0,30), (5,10) and (0,30),(15,20) will conflict
+```
+
+**Example2**
+
+```
+Input: intervals = [(5,8),(9,15)]
+Output: true
+Explanation:
+Two times will not conflict
+```
+
+**Constraints:**
+
+-   `0 <= intervals.length <= 10^4`
+-   `intervals[i].length == 2`
+-   `0 <= intervals[i][0] < intervals[i][1] <= 10^6`
+
+___
+
+What is the overall time and space complexity of the optimal solution for this problem?
+
+```python
+class Solution:
+    def canAttendMeetings(self, intervals: List[List[int]]) -> bool:
+        intervals.sort() # Sort by start times
+
+        for i in range(1, len(intervals)):
+            if intervals[i][0] < intervals[i-1][1]: # Check for overlap
+                return False # Conflict found
+
+        return True # No conflict found
+```
+
+A) Time complexity: O(n), Space complexity: O(n)
+
+B) Time complexity: O(n log n), Space complexity: O(n)
+
+C) Time complexity: O(n log n), Space complexity: O(1)
+
+###### ID191
+
+A:: =============================================  
+**Answer**: C
+
+The overall time complexity of the solution is determined by the most time-consuming step. Sorting the intervals has a time complexity of O(n log n). After sorting, we iterate over the intervals once which has a time complexity of O(n). Therefore, the overall time complexity is O(n log n). The space complexity is O(1) because we do not use any additional data structures whose size depends on the input. Sorting the array in-place ensures that we do not use any extra space.
+
 #### Chapter 5 - Meeting Rooms II - [Blind]
 #### Chapter 6 - Minimum Interval to Include Each Query
 
@@ -10659,7 +10871,7 @@ B) Creating a new matrix and copying elements into it.
 
 C) Rotating each layer of the matrix starting from the outside and moving inwards.
 
-###### ID188
+###### ID192
 
 A:: =============================================  
 **Answer**: C
@@ -10710,7 +10922,7 @@ C) 2n layers
 
 D) n^2 layers
 
-###### ID189
+###### ID193
 
 A:: =============================================  
 **Answer**: B
@@ -10758,7 +10970,7 @@ A) 2nd element in first row, 2nd element in the first column, 2nd element in las
 
 B) 2nd element in first row, 2nd element in last column, second to last element in last row, second to last element in first column
 
-###### ID190
+###### ID194
 
 A:: =============================================  
 **Answer**: B
@@ -10809,7 +11021,7 @@ C) Increment both the left and right pointers.
 
 D) Decrement the left pointer and increment the right pointer.
 
-###### ID191
+###### ID195
 
 A:: =============================================  
 **Answer**: A
@@ -10891,7 +11103,7 @@ Space complexity: O(1)
 C) Time complexity: O(n^2)  
 Space complexity: O(1)
 
-###### ID192
+###### ID196
 
 A:: =============================================  
 **Answer**: C
@@ -10939,7 +11151,7 @@ A) Top row from left to right, rightmost column from top to bottom, bottom row f
 
 B) Top row from right to left, rightmost column from bottom to top, bottom row from left to right, leftmost column from top to bottom.
 
-###### ID193
+###### ID197
 
 A:: =============================================  
 **Answer**: A
@@ -10988,7 +11200,7 @@ B) Reverse the cycle on the remaining submatrix.
 
 C) Transpose the remaining submatrix and then repeat the same cycle.
 
-###### ID194
+###### ID198
 
 A:: =============================================  
 **Answer**: A
@@ -11036,7 +11248,7 @@ B) 4 pointers - one for each of top, right, bottom, and left boundaries of the c
 
 C) 5 pointers - one for each of top, right, bottom, left boundaries and one for the center of the matrix.
 
-###### ID195
+###### ID199
 
 A:: =============================================  
 **Answer**: B
@@ -11112,7 +11324,7 @@ A) The code will fail to traverse the entire matrix.
 
 B) The code will traverse the last submatrix multiple times.
 
-###### ID196
+###### ID200
 
 A:: =============================================  
 **Answer**: B
@@ -11197,7 +11409,7 @@ Space complexity: O(n^2)
 C) Time complexity: O(m+n)  
 Space complexity: O(m+n)
 
-###### ID197
+###### ID201
 
 A:: =============================================  
 **Answer**: A

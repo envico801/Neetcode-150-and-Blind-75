@@ -34,24 +34,22 @@ Output: [1,2,3,4,8,12,11,10,9,5,6,7]
 
 ---
 
-After completing one cycle of spiral traversal in the matrix, what should be the next step?
+To traverse an `m x n` matrix in a spiral order, how many pointers do we need and what do they represent?
 
-![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/cb1d1f77-711b-4fa0-e81f-fd5dfc35b700/public)
+A) 3 pointers - one for row, one for column, and one for diagonal traversal.
 
-A) Repeat the same cycle on the remaining submatrix.
+B) 4 pointers - one for each of top, right, bottom, and left boundaries of the current submatrix.
 
-B) Reverse the cycle on the remaining submatrix.
-
-C) Transpose the remaining submatrix and then repeat the same cycle.  
+C) 5 pointers - one for each of top, right, bottom, left boundaries and one for the center of the matrix.  
 
 ========== Answer ==========  
 
-**Answer**: A
+**Answer**: B
 
-After completing one cycle of spiral traversal, the remaining submatrix will be smaller, but we should still traverse it in the same order: top row, rightmost column, bottom row, leftmost column.
+To traverse a 2D matrix in a spiral order, we need 4 pointers to keep track of the boundaries of the current submatrix we are traversing. These boundaries are top, right, bottom, and left. As we traverse, we progressively move the boundaries inward.
 
 ========== Id ==========  
-194
+199
 
 ---
 
@@ -59,7 +57,7 @@ DECK INFO
 
 TARGET DECK: Data Structures and Algorithms::Leetcode::MNAB - Neetcode 150 and blind 75 - multi-author::Part XVIII - Math Geometry::Chapter 2 - Spiral Matrix - Blind
 
-FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-XVIII-Math-Geometry::#Chapter-2-Spiral-Matrix-Blind::#194-Spiral-matrix-given-an-m-x-n-matrix-r
+FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-XVIII-Math-Geometry::#Chapter-2-Spiral-Matrix-Blind::#199-Spiral-matrix-given-an-m-x-n-matrix-r
 
 Tags:
 

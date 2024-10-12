@@ -34,49 +34,19 @@ Output: [[15,13,2,5],[14,3,4,1],[12,6,8,9],[16,7,10,11]]
 
 ---
 
-Considering the method of rotating each layer of the matrix, what would be the time complexity and space complexity of this operation?
+Which approach is more suitable for rotating the matrix in-place (without allocating a new matrix)?
 
-```python
-class Solution:
-    def rotate(self, matrix: List[List[int]]) -> None:
-        """
-        Do not return anything, modify matrix in-place instead.
-        """
-        l, r = 0, len(matrix) - 1
-        while l < r:
-            for i in range(r - l):
-                top, bottom = l, r
-                # save the topleft
-                topLeft = matrix[top][l + i]
-                # move bottom left into top left
-                matrix[top][l + i] = matrix[bottom - i][l]
-                # move bottom right into bottom left
-                matrix[bottom - i][l] = matrix[bottom][r - i]
-                # move top right into bottom right
-                matrix[bottom][r - i] = matrix[top + i][r]
-                # move top left into top right
-                matrix[top + i][r] = topLeft
-            r -= 1
-            l += 1
-```
+A) Swapping elements along the diagonal.
 
-A) Time complexity: O(1)
+B) Creating a new matrix and copying elements into it.
 
-Space complexity: O(n)
-
-B) Time complexity: O(n)
-
-Space complexity: O(1)
-
-C) Time complexity: O(n^2)
-
-Space complexity: O(1)  
+C) Rotating each layer of the matrix starting from the outside and moving inwards.  
 
 ========== Answer ==========  
 
 **Answer**: C
 
-The time complexity of the rotation operation is O(n^2). This is because, for each layer of the matrix, we perform a constant amount of work for each element, and there are n^2 total elements. The space complexity is O(1) because we perform the rotation in-place without allocating any additional significant space. The only extra space we use is a couple of variables to keep track of the current position and temporarily hold an element during the rotation.
+Rotating each layer of the matrix starting from the outside and moving inwards is the most suitable way to rotate a matrix in-place. The other methods either don't result in a rotated matrix, or require additional space. There are other ways to rotate the matrix in-place, but this is the most intuitive and doesn't require math knowledge.
 
 ========== Id ==========  
 192
