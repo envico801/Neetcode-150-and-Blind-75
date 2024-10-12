@@ -49,7 +49,7 @@ C) 5 pointers - one for each of top, right, bottom, left boundaries and one for 
 To traverse a 2D matrix in a spiral order, we need 4 pointers to keep track of the boundaries of the current submatrix we are traversing. These boundaries are top, right, bottom, and left. As we traverse, we progressively move the boundaries inward.
 
 ========== Id ==========  
-185
+190
 
 ---
 
@@ -57,7 +57,7 @@ DECK INFO
 
 TARGET DECK: Data Structures and Algorithms::Leetcode::MNAB - Neetcode 150 and blind 75 - multi-author::Part XVIII - Math Geometry::Chapter 2 - Spiral Matrix - Blind
 
-FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-XVIII-Math-Geometry::#Chapter-2-Spiral-Matrix-Blind::#185-Spiral-matrix-given-an-m-x-n-matrix-r
+FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-XVIII-Math-Geometry::#Chapter-2-Spiral-Matrix-Blind::#190-Spiral-matrix-given-an-m-x-n-matrix-r
 
 Tags:
 

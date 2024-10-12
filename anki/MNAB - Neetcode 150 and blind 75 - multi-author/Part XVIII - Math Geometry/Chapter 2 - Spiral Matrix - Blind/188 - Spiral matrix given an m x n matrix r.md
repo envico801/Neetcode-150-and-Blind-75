@@ -34,24 +34,20 @@ Output: [1,2,3,4,8,12,11,10,9,5,6,7]
 
 ---
 
-After completing one cycle of spiral traversal in the matrix, what should be the next step?
+What is the correct order of traversal to achieve a spiral order in a matrix?
 
-![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/cb1d1f77-711b-4fa0-e81f-fd5dfc35b700/public)
+A) Top row from left to right, rightmost column from top to bottom, bottom row from right to left, leftmost column from bottom to top.
 
-A) Repeat the same cycle on the remaining submatrix.
-
-B) Reverse the cycle on the remaining submatrix.
-
-C) Transpose the remaining submatrix and then repeat the same cycle.  
+B) Top row from right to left, rightmost column from bottom to top, bottom row from left to right, leftmost column from top to bottom.  
 
 ========== Answer ==========  
 
 **Answer**: A
 
-After completing one cycle of spiral traversal, the remaining submatrix will be smaller, but we should still traverse it in the same order: top row, rightmost column, bottom row, leftmost column.
+To achieve a spiral order in a matrix, we start by traversing the top row from left to right, then the rightmost column from top to bottom, then the bottom row from right to left, and finally the leftmost column from bottom to top. This completes one cycle of spiral traversal.
 
 ========== Id ==========  
-184
+188
 
 ---
 
@@ -59,7 +55,7 @@ DECK INFO
 
 TARGET DECK: Data Structures and Algorithms::Leetcode::MNAB - Neetcode 150 and blind 75 - multi-author::Part XVIII - Math Geometry::Chapter 2 - Spiral Matrix - Blind
 
-FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-XVIII-Math-Geometry::#Chapter-2-Spiral-Matrix-Blind::#184-Spiral-matrix-given-an-m-x-n-matrix-r
+FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-XVIII-Math-Geometry::#Chapter-2-Spiral-Matrix-Blind::#188-Spiral-matrix-given-an-m-x-n-matrix-r
 
 Tags:
 

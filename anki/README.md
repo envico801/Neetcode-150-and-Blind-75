@@ -223,19 +223,25 @@
 | [175](#id175) | [Insert interval you are given an array of](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XIII%20-%20Intervals/Chapter%201%20-%20Insert%20Interval%20-%20Blind/175%20-%20Insert%20interval%20you%20are%20given%20an%20array%20of.md) | 13 | 1 |
 | [176](#id176) | [Insert interval you are given an array of](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XIII%20-%20Intervals/Chapter%201%20-%20Insert%20Interval%20-%20Blind/176%20-%20Insert%20interval%20you%20are%20given%20an%20array%20of.md) | 13 | 1 |
 | [177](#id177) | [Insert interval you are given an array of](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XIII%20-%20Intervals/Chapter%201%20-%20Insert%20Interval%20-%20Blind/177%20-%20Insert%20interval%20you%20are%20given%20an%20array%20of.md) | 13 | 1 |
+| **-** | **Intervals > Merge Intervals** | **13** | **2** |
+| [178](#id178) | [Merge intervals given an array of interva](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XIII%20-%20Intervals/Chapter%202%20-%20Merge%20Intervals%20-%20Blind/178%20-%20Merge%20intervals%20given%20an%20array%20of%20interva.md) | 13 | 2 |
+| [179](#id179) | [Merge intervals given an array of interva](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XIII%20-%20Intervals/Chapter%202%20-%20Merge%20Intervals%20-%20Blind/179%20-%20Merge%20intervals%20given%20an%20array%20of%20interva.md) | 13 | 2 |
+| [180](#id180) | [Merge intervals given an array of interva](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XIII%20-%20Intervals/Chapter%202%20-%20Merge%20Intervals%20-%20Blind/180%20-%20Merge%20intervals%20given%20an%20array%20of%20interva.md) | 13 | 2 |
+| [181](#id181) | [Merge intervals given an array of interva](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XIII%20-%20Intervals/Chapter%202%20-%20Merge%20Intervals%20-%20Blind/181%20-%20Merge%20intervals%20given%20an%20array%20of%20interva.md) | 13 | 2 |
+| [182](#id182) | [Merge intervals given an array of interva](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XIII%20-%20Intervals/Chapter%202%20-%20Merge%20Intervals%20-%20Blind/182%20-%20Merge%20intervals%20given%20an%20array%20of%20interva.md) | 13 | 2 |
 | **-** | **Math Geometry** | **18** | **-** |
 | **-** | **Math Geometry > Rotate Image** | **18** | **1** |
-| [178](#id178) | [Rotate image you are given an n x n 2d](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%201%20-%20Rotate%20Image%20-%20Blind/178%20-%20Rotate%20image%20you%20are%20given%20an%20n%20x%20n%202d.md) | 18 | 1 |
-| [179](#id179) | [Rotate image you are given an n x n 2d](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%201%20-%20Rotate%20Image%20-%20Blind/179%20-%20Rotate%20image%20you%20are%20given%20an%20n%20x%20n%202d.md) | 18 | 1 |
-| [180](#id180) | [Rotate image you are given an n x n 2d](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%201%20-%20Rotate%20Image%20-%20Blind/180%20-%20Rotate%20image%20you%20are%20given%20an%20n%20x%20n%202d.md) | 18 | 1 |
-| [181](#id181) | [Rotate image you are given an n x n 2d](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%201%20-%20Rotate%20Image%20-%20Blind/181%20-%20Rotate%20image%20you%20are%20given%20an%20n%20x%20n%202d.md) | 18 | 1 |
-| [182](#id182) | [Rotate image you are given an n x n 2d](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%201%20-%20Rotate%20Image%20-%20Blind/182%20-%20Rotate%20image%20you%20are%20given%20an%20n%20x%20n%202d.md) | 18 | 1 |
+| [183](#id183) | [Rotate image you are given an n x n 2d](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%201%20-%20Rotate%20Image%20-%20Blind/183%20-%20Rotate%20image%20you%20are%20given%20an%20n%20x%20n%202d.md) | 18 | 1 |
+| [184](#id184) | [Rotate image you are given an n x n 2d](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%201%20-%20Rotate%20Image%20-%20Blind/184%20-%20Rotate%20image%20you%20are%20given%20an%20n%20x%20n%202d.md) | 18 | 1 |
+| [185](#id185) | [Rotate image you are given an n x n 2d](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%201%20-%20Rotate%20Image%20-%20Blind/185%20-%20Rotate%20image%20you%20are%20given%20an%20n%20x%20n%202d.md) | 18 | 1 |
+| [186](#id186) | [Rotate image you are given an n x n 2d](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%201%20-%20Rotate%20Image%20-%20Blind/186%20-%20Rotate%20image%20you%20are%20given%20an%20n%20x%20n%202d.md) | 18 | 1 |
+| [187](#id187) | [Rotate image you are given an n x n 2d](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%201%20-%20Rotate%20Image%20-%20Blind/187%20-%20Rotate%20image%20you%20are%20given%20an%20n%20x%20n%202d.md) | 18 | 1 |
 | **-** | **Math Geometry > Spiral Matrix** | **18** | **2** |
-| [183](#id183) | [Spiral matrix given an m x n matrix r](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%202%20-%20Spiral%20Matrix%20-%20Blind/183%20-%20Spiral%20matrix%20given%20an%20m%20x%20n%20matrix%20r.md) | 18 | 2 |
-| [184](#id184) | [Spiral matrix given an m x n matrix r](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%202%20-%20Spiral%20Matrix%20-%20Blind/184%20-%20Spiral%20matrix%20given%20an%20m%20x%20n%20matrix%20r.md) | 18 | 2 |
-| [185](#id185) | [Spiral matrix given an m x n matrix r](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%202%20-%20Spiral%20Matrix%20-%20Blind/185%20-%20Spiral%20matrix%20given%20an%20m%20x%20n%20matrix%20r.md) | 18 | 2 |
-| [186](#id186) | [Spiral matrix given an m x n matrix r](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%202%20-%20Spiral%20Matrix%20-%20Blind/186%20-%20Spiral%20matrix%20given%20an%20m%20x%20n%20matrix%20r.md) | 18 | 2 |
-| [187](#id187) | [Spiral matrix given an m x n matrix r](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%202%20-%20Spiral%20Matrix%20-%20Blind/187%20-%20Spiral%20matrix%20given%20an%20m%20x%20n%20matrix%20r.md) | 18 | 2 |
+| [188](#id188) | [Spiral matrix given an m x n matrix r](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%202%20-%20Spiral%20Matrix%20-%20Blind/188%20-%20Spiral%20matrix%20given%20an%20m%20x%20n%20matrix%20r.md) | 18 | 2 |
+| [189](#id189) | [Spiral matrix given an m x n matrix r](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%202%20-%20Spiral%20Matrix%20-%20Blind/189%20-%20Spiral%20matrix%20given%20an%20m%20x%20n%20matrix%20r.md) | 18 | 2 |
+| [190](#id190) | [Spiral matrix given an m x n matrix r](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%202%20-%20Spiral%20Matrix%20-%20Blind/190%20-%20Spiral%20matrix%20given%20an%20m%20x%20n%20matrix%20r.md) | 18 | 2 |
+| [191](#id191) | [Spiral matrix given an m x n matrix r](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%202%20-%20Spiral%20Matrix%20-%20Blind/191%20-%20Spiral%20matrix%20given%20an%20m%20x%20n%20matrix%20r.md) | 18 | 2 |
+| [192](#id192) | [Spiral matrix given an m x n matrix r](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%202%20-%20Spiral%20Matrix%20-%20Blind/192%20-%20Spiral%20matrix%20given%20an%20m%20x%20n%20matrix%20r.md) | 18 | 2 |
 
 ### Part I - Arrays & Hashing
 
@@ -10026,6 +10032,247 @@ A:: =============================================
 The time complexity is O(n) because we may need to check each interval once, and the space complexity is O(n) because in the worst case, if \`newInterval\` doesn't overlap with any intervals, the output will be a list with the same length as the input plus one additional interval (\`newInterval\`). We also need some additional space to store the merged intervals during the process, but this does not change the overall linear space complexity.
 
 #### Chapter 2 - Merge Intervals - [Blind]
+
+Q:: =============================================  
+
+##### Merge Intervals
+
+Given an array of `intervals` where `intervals[i] = [starti, endi]`, merge all overlapping intervals, and return _an array of the non-overlapping intervals that cover all the intervals in the input_.
+
+**Example 1:**
+
+```
+Input: intervals = [[1,3],[2,6],[8,10],[15,18]]
+Output: [[1,6],[8,10],[15,18]]
+Explanation: Since intervals [1,3] and [2,6] overlap, merge them into [1,6].
+```
+
+**Example 2:**
+
+```
+Input: intervals = [[1,4],[4,5]]
+Output: [[1,5]]
+Explanation: Intervals [1,4] and [4,5] are considered overlapping.
+```
+
+**Constraints:**
+
+-   `1 <= intervals.length <= 10^4`
+-   `intervals[i].length == 2`
+-   `0 <= starti <= endi <= 10^4`
+
+___
+
+Given an unsorted list of intervals, in what order should we arrange the intervals to simplify the process of merging overlaps?
+
+A) Sort by the start times of each interval
+
+B) Sort by the lengths of each interval
+
+C) The order doesn't matter
+
+###### ID178
+
+A:: =============================================  
+**Answer**: A
+
+Sorting the intervals by their start times helps simplify the process of detecting and merging overlaps. Any overlapping intervals will be adjacent to each other in the sorted list.
+
+Q:: =============================================  
+
+##### Merge Intervals
+
+Given an array of `intervals` where `intervals[i] = [starti, endi]`, merge all overlapping intervals, and return _an array of the non-overlapping intervals that cover all the intervals in the input_.
+
+**Example 1:**
+
+```
+Input: intervals = [[1,3],[2,6],[8,10],[15,18]]
+Output: [[1,6],[8,10],[15,18]]
+Explanation: Since intervals [1,3] and [2,6] overlap, merge them into [1,6].
+```
+
+**Example 2:**
+
+```
+Input: intervals = [[1,4],[4,5]]
+Output: [[1,5]]
+Explanation: Intervals [1,4] and [4,5] are considered overlapping.
+```
+
+**Constraints:**
+
+-   `1 <= intervals.length <= 10^4`
+-   `intervals[i].length == 2`
+-   `0 <= starti <= endi <= 10^4`
+
+___
+
+After sorting the intervals by start times, how can we determine if two intervals overlap?
+
+A) End of the first interval > Start of the second interval
+
+B) End of the first interval ≥ Start of the second interval
+
+###### ID179
+
+A:: =============================================  
+**Answer**: B
+
+If the intervals are sorted by their start times, then the end of the current interval being greater than or equal to the start of the next interval means they overlap.
+
+Q:: =============================================  
+
+##### Merge Intervals
+
+Given an array of `intervals` where `intervals[i] = [starti, endi]`, merge all overlapping intervals, and return _an array of the non-overlapping intervals that cover all the intervals in the input_.
+
+**Example 1:**
+
+```
+Input: intervals = [[1,3],[2,6],[8,10],[15,18]]
+Output: [[1,6],[8,10],[15,18]]
+Explanation: Since intervals [1,3] and [2,6] overlap, merge them into [1,6].
+```
+
+**Example 2:**
+
+```
+Input: intervals = [[1,4],[4,5]]
+Output: [[1,5]]
+Explanation: Intervals [1,4] and [4,5] are considered overlapping.
+```
+
+**Constraints:**
+
+-   `1 <= intervals.length <= 10^4`
+-   `intervals[i].length == 2`
+-   `0 <= starti <= endi <= 10^4`
+
+___
+
+What should you do when two intervals overlap?
+
+A) Discard one interval and keep the other.
+
+B) Merge the two intervals into a single interval.
+
+C) Split the intervals into smaller non-overlapping intervals.
+
+###### ID180
+
+A:: =============================================  
+**Answer**: B
+
+If two intervals overlap, they represent a continuous range of values and should be merged into a single interval.
+
+Q:: =============================================  
+
+##### Merge Intervals
+
+Given an array of `intervals` where `intervals[i] = [starti, endi]`, merge all overlapping intervals, and return _an array of the non-overlapping intervals that cover all the intervals in the input_.
+
+**Example 1:**
+
+```
+Input: intervals = [[1,3],[2,6],[8,10],[15,18]]
+Output: [[1,6],[8,10],[15,18]]
+Explanation: Since intervals [1,3] and [2,6] overlap, merge them into [1,6].
+```
+
+**Example 2:**
+
+```
+Input: intervals = [[1,4],[4,5]]
+Output: [[1,5]]
+Explanation: Intervals [1,4] and [4,5] are considered overlapping.
+```
+
+**Constraints:**
+
+-   `1 <= intervals.length <= 10^4`
+-   `intervals[i].length == 2`
+-   `0 <= starti <= endi <= 10^4`
+
+___
+
+_After_ sorting the intervals, what is the time complexity of the step where we _only_ merge overlapping intervals?
+
+A) O(n)
+
+B) O(n log n)
+
+C) O(n^2)
+
+###### ID181
+
+A:: =============================================  
+**Answer**: A
+
+Once the intervals are sorted, you can iterate over them once to merge overlapping intervals. Therefore, the time complexity of this step is O(n).
+
+Q:: =============================================  
+
+##### Merge Intervals
+
+Given an array of `intervals` where `intervals[i] = [starti, endi]`, merge all overlapping intervals, and return _an array of the non-overlapping intervals that cover all the intervals in the input_.
+
+**Example 1:**
+
+```
+Input: intervals = [[1,3],[2,6],[8,10],[15,18]]
+Output: [[1,6],[8,10],[15,18]]
+Explanation: Since intervals [1,3] and [2,6] overlap, merge them into [1,6].
+```
+
+**Example 2:**
+
+```
+Input: intervals = [[1,4],[4,5]]
+Output: [[1,5]]
+Explanation: Intervals [1,4] and [4,5] are considered overlapping.
+```
+
+**Constraints:**
+
+-   `1 <= intervals.length <= 10^4`
+-   `intervals[i].length == 2`
+-   `0 <= starti <= endi <= 10^4`
+
+___
+
+What is the overall time and space complexity of the optimal solution considering the sorting process and the merging process?
+
+```python
+class Solution:
+  def merge(self, intervals: List[List[int]]) -> List[List[int]]:
+    intervals.sort()
+    output = [intervals[0]]
+
+    for start, end in intervals[1:]:
+      prevEnd = output[-1][1]
+
+      if prevEnd >= start:
+        output[-1][1] = max(prevEnd, end) # merge
+      else:
+        output.append([start, end])
+
+    return output
+```
+
+A) Time complexity: O(n), Space complexity: O(n)
+
+B) Time complexity: O(n log n), Space complexity: O(n)
+
+C) Time complexity: O(n), Space complexity: O(1)
+
+###### ID182
+
+A:: =============================================  
+**Answer**: B
+
+The overall time complexity of the solution is determined by the most time-consuming step. Sorting the intervals has a time complexity of O(n log n), while merging has a time complexity of O(n). Therefore, the overall time complexity is O(n log n). The space complexity is O(n) because in the worst-case scenario, if no intervals overlap, the output will be a list with the same length as the input. We also use some additional space for sorting the intervals, but this does not change the overall linear space complexity.
+
 #### Chapter 3 - Non Overlapping Intervals - [Blind]
 #### Chapter 4 - Meeting Rooms - [Blind]
 #### Chapter 5 - Meeting Rooms II - [Blind]
@@ -10121,7 +10368,7 @@ B) Creating a new matrix and copying elements into it.
 
 C) Rotating each layer of the matrix starting from the outside and moving inwards.
 
-###### ID178
+###### ID183
 
 A:: =============================================  
 **Answer**: C
@@ -10172,7 +10419,7 @@ C) 2n layers
 
 D) n^2 layers
 
-###### ID179
+###### ID184
 
 A:: =============================================  
 **Answer**: B
@@ -10220,7 +10467,7 @@ A) 2nd element in first row, 2nd element in the first column, 2nd element in las
 
 B) 2nd element in first row, 2nd element in last column, second to last element in last row, second to last element in first column
 
-###### ID180
+###### ID185
 
 A:: =============================================  
 **Answer**: B
@@ -10271,7 +10518,7 @@ C) Increment both the left and right pointers.
 
 D) Decrement the left pointer and increment the right pointer.
 
-###### ID181
+###### ID186
 
 A:: =============================================  
 **Answer**: A
@@ -10353,7 +10600,7 @@ Space complexity: O(1)
 C) Time complexity: O(n^2)  
 Space complexity: O(1)
 
-###### ID182
+###### ID187
 
 A:: =============================================  
 **Answer**: C
@@ -10401,7 +10648,7 @@ A) Top row from left to right, rightmost column from top to bottom, bottom row f
 
 B) Top row from right to left, rightmost column from bottom to top, bottom row from left to right, leftmost column from top to bottom.
 
-###### ID183
+###### ID188
 
 A:: =============================================  
 **Answer**: A
@@ -10450,7 +10697,7 @@ B) Reverse the cycle on the remaining submatrix.
 
 C) Transpose the remaining submatrix and then repeat the same cycle.
 
-###### ID184
+###### ID189
 
 A:: =============================================  
 **Answer**: A
@@ -10498,7 +10745,7 @@ B) 4 pointers - one for each of top, right, bottom, and left boundaries of the c
 
 C) 5 pointers - one for each of top, right, bottom, left boundaries and one for the center of the matrix.
 
-###### ID185
+###### ID190
 
 A:: =============================================  
 **Answer**: B
@@ -10574,7 +10821,7 @@ A) The code will fail to traverse the entire matrix.
 
 B) The code will traverse the last submatrix multiple times.
 
-###### ID186
+###### ID191
 
 A:: =============================================  
 **Answer**: B
@@ -10659,7 +10906,7 @@ Space complexity: O(n^2)
 C) Time complexity: O(m+n)  
 Space complexity: O(m+n)
 
-###### ID187
+###### ID192
 
 A:: =============================================  
 **Answer**: A
