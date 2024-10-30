@@ -5533,7 +5533,7 @@ C) Binary Search
 A:: =============================================  
 **Answer**: B
 
-The Two Pointers with Sliding Window strategy allows us to scan through the string in linear time complexity while keeping track of the smallest valid substring. We maintain a sliding window that always satisfies the condition of containing all characters of \`t\`.
+The Two Pointers with Sliding Window strategy allows us to scan through the string in linear time complexity while keeping track of the smallest valid substring. We maintain a sliding window that always satisfies the condition of containing all characters of `t`.
 
 Q:: =============================================  
 
@@ -5590,7 +5590,7 @@ C) Remove the window and create a new one
 A:: =============================================  
 **Answer**: A
 
-If our current window does not contain all characters of \`t\`, it means we need to expand the window from the right in hope of including the missing characters.
+If our current window does not contain all characters of `t`, it means we need to expand the window from the right in hope of including the missing characters.
 
 Q:: =============================================  
 
@@ -5647,7 +5647,7 @@ C) Expand the window from the left
 A:: =============================================  
 **Answer**: B
 
-If our current window already contains all characters of \`t\`, we try to shrink the window from the left to find the smallest window that still satisfies the condition. If we can't shrink it without losing a necessary character, we move on to expanding it from the right again.
+If our current window already contains all characters of `t`, we try to shrink the window from the left to find the smallest window that still satisfies the condition. If we can't shrink it without losing a necessary character, we move on to expanding it from the right again.
 
 Q:: =============================================  
 
@@ -5693,18 +5693,18 @@ ___
 
 How can we determine if our current window contains all characters of `t` without iterating through the entire hashmap?
 
-A) By checking if the length of the window is greater than or equal to the length of \`t\`
+A) By checking if the length of the window is greater than or equal to the length of `t`
 
-B) By keeping track of two variables: the number of unique characters we have from \`t\` in our current window and the total unique characters needed from \`t\`
+B) By keeping track of two variables: the number of unique characters we have from `t` in our current window and the total unique characters needed from `t`
 
-C) By sorting the hashmap and comparing it with \`t\`
+C) By sorting the hashmap and comparing it with `t`
 
 ###### ID97
 
 A:: =============================================  
 **Answer**: B
 
-By maintaining two variables, \`have\` and \`need\`, we can efficiently check if our window contains all characters of \`t\`. \`need\` is the number of unique characters in \`t\`, and \`have\` is the number of unique characters in \`t\` that our window currently contains. Each time we add a character to our window that makes the count of that character match what's needed in \`t\`, we increment \`have\`. We know our window contains all characters of \`t\` when \`have\` equals \`need\`.
+By maintaining two variables, `have` and `need`, we can efficiently check if our window contains all characters of `t`. `need` is the number of unique characters in `t`, and `have` is the number of unique characters in `t` that our window currently contains. Each time we add a character to our window that makes the count of that character match what's needed in `t`, we increment `have`. We know our window contains all characters of `t` when `have` equals `need`.
 
 Q:: =============================================  
 
@@ -8275,7 +8275,7 @@ B) A function to compare two trees and check if they are identical
 A:: =============================================  
 **Answer**: B
 
-A helper function that compares two trees to check if they are identical can be useful. We can use it every time we find a node in \`root\` that is the same as the root of \`subRoot\`. We then compare the entire structure starting from this node with \`subRoot\` using this helper function.
+A helper function that compares two trees to check if they are identical can be useful. We can use it every time we find a node in `root` that is the same as the root of `subRoot`. We then compare the entire structure starting from this node with `subRoot` using this helper function.
 
 Q:: =============================================  
 
@@ -8637,7 +8637,7 @@ C) The LCA will be the other node that is not the current node.
 A:: =============================================  
 **Answer**: B
 
-Given the property of a BST and the definition of LCA, if the current node is either \*\*\`p\`\*\* or \*\*\`q\`\*\*, then this node will be the LCA. This is because a node can be a descendant of itself, and this node will be the lowest common node that has both \*\*\`p\`\*\* and \*\*\`q\`\*\* as descendants.
+Given the property of a BST and the definition of LCA, if the current node is either **`p`** or **`q`**, then this node will be the LCA. This is because a node can be a descendant of itself, and this node will be the lowest common node that has both **`p`** and **`q`** as descendants.
 
 Q:: =============================================  
 
@@ -9767,7 +9767,7 @@ B) No
 A:: =============================================  
 **Answer**: A
 
-Yes, it's possible. The \`newInterval\` might overlap with multiple intervals in the list if its start time is earlier than the end of one interval and its end time is later than the start of another.
+Yes, it's possible. The `newInterval` might overlap with multiple intervals in the list if its start time is earlier than the end of one interval and its end time is later than the start of another.
 
 Q:: =============================================  
 
@@ -10046,7 +10046,7 @@ C) Time complexity: O(n), Space complexity: O(n)
 A:: =============================================  
 **Answer**: C
 
-The time complexity is O(n) because we may need to check each interval once, and the space complexity is O(n) because in the worst case, if \`newInterval\` doesn't overlap with any intervals, the output will be a list with the same length as the input plus one additional interval (\`newInterval\`). We also need some additional space to store the merged intervals during the process, but this does not change the overall linear space complexity.
+The time complexity is O(n) because we may need to check each interval once, and the space complexity is O(n) because in the worst case, if `newInterval` doesn't overlap with any intervals, the output will be a list with the same length as the input plus one additional interval (`newInterval`). We also need some additional space to store the merged intervals during the process, but this does not change the overall linear space complexity.
 
 #### Chapter 2 - Merge Intervals - [Blind]
 
