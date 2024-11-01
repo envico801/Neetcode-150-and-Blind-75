@@ -38,44 +38,21 @@ Output: -1
 
 ---
 
-To summarize, the below code will solve this problem using an augmented binary search solution. What is the time and space complexity?
+Now consider a sorted array that has been rotated at an unknown index. What is the time complexity of the _simplest_ (but non-optimal) solution to find an element in this array?
 
-```python
-def search(self, nums: List[int], target: int) -> int:
-    left, right = 0, len(nums) - 1
-    while left <= right:
-        mid = (left + right) // 2
-        if nums[mid] >= nums[0] and target < nums[0]:
-            # We're in left sorted array
-            # But target is in right sorted array
-            left = mid + 1
-        elif nums[mid] < nums[0] and target >= nums[0]:
-            # We're in right sorted array
-            # But target is in left sorted array
-            right = mid - 1
-        # Otherwise: Normal binary search
-        elif target > nums[mid]:
-            left = mid + 1
-        elif target < nums[mid]:
-            right = mid - 1
-        else:
-            return mid
-        return -1
-```
+A) O(n)
 
-A) Time complexity: O(n), Space complexity: O(1)
+B) O(log n)
 
-B) Time complexity: O(log n), Space complexity: O(1)
+C) O(n^2)
 
-C) Time complexity: O(n log n), Space complexity: O(n)
-
-D) Time complexity: O(n^2), Space complexity: O(n)  
+D) O(1)  
 
 ========== Answer ==========  
 
-**Answer**: B
+**Answer**: A
 
-The binary search approach has a time complexity of O(log n) because in each step, you reduce the problem size by half. The space complexity is O(1) because you are not using any additional space that scales with the input size. You only need a constant amount of space to store the variables left, right, and mid.
+The simplest solution would be to perform a linear search, which has a time complexity of O(n).
 
 ========== Id ==========  
 80

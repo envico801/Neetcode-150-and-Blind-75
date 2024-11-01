@@ -17,21 +17,19 @@ Total amount you can rob = 1 + 3 = 4.
 
 ---
 
-What is the time complexity of the dynamic programming solution?
+What are the possible decisions to make when robbing houses along the street?
 
-A) O(n)
+A) Rob every house.
 
-B) O(n^2)
+B) Rob only the houses with the maximum amount of money.
 
-C) O(n^3)
-
-D) O(2^n)  
+C) Rob houses while skipping one or more houses to avoid adjacent houses.  
 
 ========== Answer ==========  
 
-**Answer**: A
+**Answer**: C
 
-The time complexity of the dynamic programming solution is O(n), where n is the number of houses. Each subproblem is solved only once and used for future computations, thus leading to a linear time complexity.
+The correct decision is to rob houses while skipping one or more houses to avoid adjacent houses. Since the problem statement mentions that adjacent houses cannot be robbed on the same night, the strategy should involve skipping one or more houses.
 
 ========== Id ==========  
 177
