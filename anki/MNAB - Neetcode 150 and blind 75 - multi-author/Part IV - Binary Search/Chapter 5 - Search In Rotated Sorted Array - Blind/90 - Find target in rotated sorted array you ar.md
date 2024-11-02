@@ -38,24 +38,24 @@ Output: -1
 
 ---
 
-Suppose we have a normal sorted integer array. What is normally the optimal time complexity to find an element in it?
+As we search the rotated sorted array, how can we use the current middle element to determine which half of the array we are currently inside?
 
-A) O(n)
+A) Compare the middle element with nums\[0\].
 
-B) O(log n)
+B) Compare the middle element with nums\[length - 1\].
 
-C) O(n^2)
+C) Compare the middle element with nums\[mid - 1\].
 
-D) O(1)  
+D) Either A or B.  
 
 ========== Answer ==========  
 
-**Answer**: B
+**Answer**: D
 
-For a sorted array, binary search can be applied to find an element. The time complexity of binary search is O(log n).
+We can determine which half of the array we are currently inside by comparing the middle element with the first element (nums\[0\]) or the last element (nums\[length - 1\]). If the middle element is greater than or equal to nums\[0\], we are in the left portion of the array; otherwise, we are in the right sorted portion. Alternatively, if the middle element is less than or equal to nums\[length - 1\] we are in the right sorted portion, otherwise we are in the left portion.
 
 ========== Id ==========  
-87
+90
 
 ---
 
@@ -63,7 +63,7 @@ DECK INFO
 
 TARGET DECK: Data Structures and Algorithms::Leetcode::MNAB - Neetcode 150 and blind 75 - multi-author::Part IV - Binary Search::Chapter 5 - Search In Rotated Sorted Array - Blind
 
-FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-IV-Binary-Search::#Chapter-5-Search-In-Rotated-Sorted-Array-Blind::#87-Find-target-in-rotated-sorted-array-you-ar
+FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-IV-Binary-Search::#Chapter-5-Search-In-Rotated-Sorted-Array-Blind::#90-Find-target-in-rotated-sorted-array-you-ar
 
 Tags:
 
