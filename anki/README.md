@@ -1209,7 +1209,7 @@ The hashmap solution has a time complexity of O(n) because you need to iterate t
 
 Q:: =============================================  
 
-##### Group Anagrams
+##### Anagram Groups
 
 Given an array of strings `strs`, group all _anagrams_ together into sublists. You may return the output in **any order**.
 
@@ -1266,7 +1266,7 @@ The brute force approach would compare every pair of strings (O(n^2)) and for ea
 
 Q:: =============================================  
 
-##### Group Anagrams
+##### Anagram Groups
 
 Given an array of strings `strs`, group all _anagrams_ together into sublists. You may return the output in **any order**.
 
@@ -1323,7 +1323,7 @@ A HashMap can be used to optimize the approach for grouping anagrams. We can use
 
 Q:: =============================================  
 
-##### Group Anagrams
+##### Anagram Groups
 
 Given an array of strings `strs`, group all _anagrams_ together into sublists. You may return the output in **any order**.
 
@@ -1380,7 +1380,7 @@ The optimal solution using a HashMap has a time complexity of O(n \* k \* log k)
 
 Q:: =============================================  
 
-##### Group Anagrams
+##### Anagram Groups
 
 Given an array of strings `strs`, group all _anagrams_ together into sublists. You may return the output in **any order**.
 
@@ -1437,7 +1437,7 @@ The space complexity of the optimal solution using a HashMap is O(n \* k), where
 
 Q:: =============================================  
 
-##### Group Anagrams
+##### Anagram Groups
 
 Given an array of strings `strs`, group all _anagrams_ together into sublists. You may return the output in **any order**.
 
@@ -1494,7 +1494,7 @@ Using the original string as is would not be a valid way to generate a key for t
 
 Q:: =============================================  
 
-##### Group Anagrams
+##### Anagram Groups
 
 Given an array of strings `strs`, group all _anagrams_ together into sublists. You may return the output in **any order**.
 
@@ -1553,7 +1553,9 @@ Given that the strings are made up of lowercase English letters and the maximum 
 
 Q:: =============================================  
 
-##### Given an integer array `nums` and an integer `k`, return the `k` most frequent elements within the array.
+##### Top K Elements in List
+
+Given an integer array `nums` and an integer `k`, return the `k` most frequent elements within the array.
 
 The test cases are generated such that the answer is always **unique**.
 
@@ -1602,7 +1604,9 @@ Counting the frequency of each element using a hashmap is the crucial first step
 
 Q:: =============================================  
 
-##### Given an integer array `nums` and an integer `k`, return the `k` most frequent elements within the array.
+##### Top K Elements in List
+
+Given an integer array `nums` and an integer `k`, return the `k` most frequent elements within the array.
 
 The test cases are generated such that the answer is always **unique**.
 
@@ -1651,7 +1655,9 @@ Using a hashmap to count frequencies requires one pass through the array, access
 
 Q:: =============================================  
 
-##### Given an integer array `nums` and an integer `k`, return the `k` most frequent elements within the array.
+##### Top K Elements in List
+
+Given an integer array `nums` and an integer `k`, return the `k` most frequent elements within the array.
 
 The test cases are generated such that the answer is always **unique**.
 
@@ -1700,7 +1706,9 @@ A Priority Queue (Heap) is ideal because we can maintain the k most frequent ele
 
 Q:: =============================================  
 
-##### Given an integer array `nums` and an integer `k`, return the `k` most frequent elements within the array.
+##### Top K Elements in List
+
+Given an integer array `nums` and an integer `k`, return the `k` most frequent elements within the array.
 
 The test cases are generated such that the answer is always **unique**.
 
@@ -1752,7 +1760,9 @@ Therefore, O(n) dominates O(k), making the total space complexity O(n).
 
 Q:: =============================================  
 
-##### Given an integer array `nums` and an integer `k`, return the `k` most frequent elements within the array.
+##### Top K Elements in List
+
+Given an integer array `nums` and an integer `k`, return the `k` most frequent elements within the array.
 
 The test cases are generated such that the answer is always **unique**.
 
@@ -1804,7 +1814,9 @@ The dominant term is O(n log k), which becomes the final time complexity.
 
 Q:: =============================================  
 
-##### Given an integer array `nums` and an integer `k`, return the `k` most frequent elements within the array.
+##### Top K Elements in List
+
+Given an integer array `nums` and an integer `k`, return the `k` most frequent elements within the array.
 
 The test cases are generated such that the answer is always **unique**.
 
@@ -2066,7 +2078,9 @@ The overall time complexity of the solution is determined by the number of chara
 
 Q:: =============================================  
 
-##### Given an integer array `nums`, return an array `output` where `output[i]` is the product of all the elements of `nums` except `nums[i]`.
+##### Products of Array Discluding Self
+
+Given an integer array `nums`, return an array `output` where `output[i]` is the product of all the elements of `nums` except `nums[i]`.
 
 Each product is **guaranteed** to fit in a **32-bit** integer.
 
@@ -2114,7 +2128,9 @@ A naive approach using nested loops would result in O(n^2) time complexity, whic
 
 Q:: =============================================  
 
-##### Given an integer array `nums`, return an array `output` where `output[i]` is the product of all the elements of `nums` except `nums[i]`.
+##### Products of Array Discluding Self
+
+Given an integer array `nums`, return an array `output` where `output[i]` is the product of all the elements of `nums` except `nums[i]`.
 
 Each product is **guaranteed** to fit in a **32-bit** integer.
 
@@ -2165,7 +2181,9 @@ This allows calculating the product of all elements except the current one in O(
 
 Q:: =============================================  
 
-##### Given an integer array `nums`, return an array `output` where `output[i]` is the product of all the elements of `nums` except `nums[i]`.
+##### Products of Array Discluding Self
+
+Given an integer array `nums`, return an array `output` where `output[i]` is the product of all the elements of `nums` except `nums[i]`.
 
 Each product is **guaranteed** to fit in a **32-bit** integer.
 
@@ -2217,7 +2235,9 @@ Total time complexity is O(n), and space complexity is O(n) to store the output 
 
 Q:: =============================================  
 
-##### Given an integer array `nums`, return an array `output` where `output[i]` is the product of all the elements of `nums` except `nums[i]`.
+##### Products of Array Discluding Self
+
+Given an integer array `nums`, return an array `output` where `output[i]` is the product of all the elements of `nums` except `nums[i]`.
 
 Each product is **guaranteed** to fit in a **32-bit** integer.
 
@@ -2268,7 +2288,9 @@ The two-pass approach naturally handles this scenario without additional complex
 
 Q:: =============================================  
 
-##### Given an integer array `nums`, return an array `output` where `output[i]` is the product of all the elements of `nums` except `nums[i]`.
+##### Products of Array Discluding Self
+
+Given an integer array `nums`, return an array `output` where `output[i]` is the product of all the elements of `nums` except `nums[i]`.
 
 Each product is **guaranteed** to fit in a **32-bit** integer.
 
@@ -2320,7 +2342,9 @@ In the worst case, with multiple elements multiplied, the maximum could approach
 
 Q:: =============================================  
 
-##### Given an integer array `nums`, return an array `output` where `output[i]` is the product of all the elements of `nums` except `nums[i]`.
+##### Products of Array Discluding Self
+
+Given an integer array `nums`, return an array `output` where `output[i]` is the product of all the elements of `nums` except `nums[i]`.
 
 Each product is **guaranteed** to fit in a **32-bit** integer.
 
@@ -2372,7 +2396,9 @@ The restriction on division is meant to:
 
 Q:: =============================================  
 
-##### Given an integer array `nums`, return an array `output` where `output[i]` is the product of all the elements of `nums` except `nums[i]`.
+##### Products of Array Discluding Self
+
+Given an integer array `nums`, return an array `output` where `output[i]` is the product of all the elements of `nums` except `nums[i]`.
 
 Each product is **guaranteed** to fit in a **32-bit** integer.
 
@@ -2426,7 +2452,9 @@ An array is the most efficient data structure for this solution because:
 
 Q:: =============================================  
 
-##### You are given a a `9 x 9` Sudoku board `board`. A Sudoku board is valid if the following rules are followed:
+##### Valid Sudoku
+
+You are given a a `9 x 9` Sudoku board `board`. A Sudoku board is valid if the following rules are followed:
 
 1.  Each row must contain the digits `1-9` without duplicates.
 2.  Each column must contain the digits `1-9` without duplicates.
@@ -2505,7 +2533,9 @@ A HashSet is ideal because:
 
 Q:: =============================================  
 
-##### You are given a a `9 x 9` Sudoku board `board`. A Sudoku board is valid if the following rules are followed:
+##### Valid Sudoku
+
+You are given a a `9 x 9` Sudoku board `board`. A Sudoku board is valid if the following rules are followed:
 
 1.  Each row must contain the digits `1-9` without duplicates.
 2.  Each column must contain the digits `1-9` without duplicates.
@@ -2583,7 +2613,9 @@ The time complexity is O(n) where n is the width of the board (9 in this case) b
 
 Q:: =============================================  
 
-##### You are given a a `9 x 9` Sudoku board `board`. A Sudoku board is valid if the following rules are followed:
+##### Valid Sudoku
+
+You are given a a `9 x 9` Sudoku board `board`. A Sudoku board is valid if the following rules are followed:
 
 1.  Each row must contain the digits `1-9` without duplicates.
 2.  Each column must contain the digits `1-9` without duplicates.
@@ -2662,7 +2694,9 @@ Using modulo and division operations is most efficient because:
 
 Q:: =============================================  
 
-##### You are given a a `9 x 9` Sudoku board `board`. A Sudoku board is valid if the following rules are followed:
+##### Valid Sudoku
+
+You are given a a `9 x 9` Sudoku board `board`. A Sudoku board is valid if the following rules are followed:
 
 1.  Each row must contain the digits `1-9` without duplicates.
 2.  Each column must contain the digits `1-9` without duplicates.
@@ -2741,7 +2775,9 @@ The total time complexity is O(n^2) because:
 
 Q:: =============================================  
 
-##### You are given a a `9 x 9` Sudoku board `board`. A Sudoku board is valid if the following rules are followed:
+##### Valid Sudoku
+
+You are given a a `9 x 9` Sudoku board `board`. A Sudoku board is valid if the following rules are followed:
 
 1.  Each row must contain the digits `1-9` without duplicates.
 2.  Each column must contain the digits `1-9` without duplicates.
@@ -2820,7 +2856,9 @@ The space complexity is O(1) because:
 
 Q:: =============================================  
 
-##### You are given a a `9 x 9` Sudoku board `board`. A Sudoku board is valid if the following rules are followed:
+##### Valid Sudoku
+
+You are given a a `9 x 9` Sudoku board `board`. A Sudoku board is valid if the following rules are followed:
 
 1.  Each row must contain the digits `1-9` without duplicates.
 2.  Each column must contain the digits `1-9` without duplicates.
@@ -2899,7 +2937,9 @@ Using three HashSets and checking all in one pass is optimal because:
 
 Q:: =============================================  
 
-##### You are given a a `9 x 9` Sudoku board `board`. A Sudoku board is valid if the following rules are followed:
+##### Valid Sudoku
+
+You are given a a `9 x 9` Sudoku board `board`. A Sudoku board is valid if the following rules are followed:
 
 1.  Each row must contain the digits `1-9` without duplicates.
 2.  Each column must contain the digits `1-9` without duplicates.
@@ -2978,7 +3018,9 @@ Empty cells should be skipped during validation because:
 
 Q:: =============================================  
 
-##### You are given a a `9 x 9` Sudoku board `board`. A Sudoku board is valid if the following rules are followed:
+##### Valid Sudoku
+
+You are given a a `9 x 9` Sudoku board `board`. A Sudoku board is valid if the following rules are followed:
 
 1.  Each row must contain the digits `1-9` without duplicates.
 2.  Each column must contain the digits `1-9` without duplicates.
