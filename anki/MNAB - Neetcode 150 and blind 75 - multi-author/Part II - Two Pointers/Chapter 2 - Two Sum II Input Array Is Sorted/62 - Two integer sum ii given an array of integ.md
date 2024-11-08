@@ -1,0 +1,80 @@
+========== Question ==========  
+
+### Two Integer Sum II
+
+Given an array of integers `numbers` that is sorted in **non-decreasing order**.
+
+Return the indices (**1-indexed**) of two numbers, `[index1, index2]`, such that they add up to a given target number `target` and `index1 < index2`. Note that `index1` and `index2` cannot be equal, therefore you may not use the same element twice.
+
+There will always be **exactly one valid solution**.
+
+Your solution must use `O(1)` additional space.
+
+**Example 1:**
+
+```
+Input: numbers = [1,2,3,4], target = 3
+Output: [1,2]
+```
+
+Explanation:
+
+The sum of 1 and 2 is 3. Since we are assuming a 1-indexed array, `index1` = 1, `index2` = 2. We return `[1, 2]`.
+
+**Constraints:**
+
+-   `2 <= numbers.length <= 1000`
+
+-   `-1000 <= numbers[i] <= 1000`
+
+-   `-1000 <= target <= 1000`
+
+---
+
+Why is the two-pointer technique particularly effective for this problem compared to other approaches?
+
+A) Because it's always faster than any other solution
+
+B) Because the array is sorted and we need O(1) space
+
+C) Because we need to find exactly two numbers
+
+D) Because we need to handle negative numbers  
+
+========== Answer ==========  
+
+**Answer**: B
+
+The two-pointer technique is ideal because:
+
+1. The array being sorted allows us to make intelligent decisions about which pointer to move
+
+2. It requires only O(1) additional space as specified in requirements
+
+3. It achieves O(n) time complexity
+
+4. We can systematically explore all possible pairs without using extra space
+
+========== Id ==========  
+62
+
+---
+
+DECK INFO
+
+TARGET DECK: Data Structures and Algorithms::Leetcode::MNAB - Neetcode 150 and blind 75 - multi-author::Part II - Two Pointers::Chapter 2 - Two Sum II Input Array Is Sorted
+
+FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-II-Two-Pointers::#Chapter-2-Two-Sum-II-Input-Array-Is-Sorted::#62-Two-integer-sum-ii-given-an-array-of-integ
+
+Tags:
+
+Reference:
+
+Related:
+
+```dataview
+LIST
+where file.name = this.file.name
+```
+
+QUESTION STATUS: Safe to store

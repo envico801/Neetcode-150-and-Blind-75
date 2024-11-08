@@ -38,7 +38,7 @@ Output: -1
 
 ---
 
-Suppose we have a normal sorted integer array. What is normally the optimal time complexity to find an element in it?
+Now consider a sorted array that has been rotated at an unknown index. What is the time complexity of the _simplest_ (but non-optimal) solution to find an element in this array?
 
 A) O(n)
 
@@ -50,12 +50,12 @@ D) O(1)
 
 ========== Answer ==========  
 
-**Answer**: B
+**Answer**: A
 
-For a sorted array, binary search can be applied to find an element. The time complexity of binary search is O(log n).
+The simplest solution would be to perform a linear search, which has a time complexity of O(n).
 
 ========== Id ==========  
-95
+96
 
 ---
 
@@ -63,7 +63,7 @@ DECK INFO
 
 TARGET DECK: Data Structures and Algorithms::Leetcode::MNAB - Neetcode 150 and blind 75 - multi-author::Part IV - Binary Search::Chapter 5 - Search In Rotated Sorted Array - Blind
 
-FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-IV-Binary-Search::#Chapter-5-Search-In-Rotated-Sorted-Array-Blind::#95-Find-target-in-rotated-sorted-array-you-ar
+FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-IV-Binary-Search::#Chapter-5-Search-In-Rotated-Sorted-Array-Blind::#96-Find-target-in-rotated-sorted-array-you-ar
 
 Tags:
 

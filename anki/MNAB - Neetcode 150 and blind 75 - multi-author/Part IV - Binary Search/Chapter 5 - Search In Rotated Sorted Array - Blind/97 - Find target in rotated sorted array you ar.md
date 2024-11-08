@@ -38,24 +38,24 @@ Output: -1
 
 ---
 
-Suppose we have a normal sorted integer array. What is normally the optimal time complexity to find an element in it?
+In a typical binary search, what is the first element we check to see if it's equal to the target?
 
-A) O(n)
+A) The first element in the array
 
-B) O(log n)
+B) The last element in the array
 
-C) O(n^2)
+C) The middle element in the array
 
-D) O(1)  
+D) The element at a random position in the array  
 
 ========== Answer ==========  
 
-**Answer**: B
+**Answer**: C
 
-For a sorted array, binary search can be applied to find an element. The time complexity of binary search is O(log n).
+In a binary search, we first check the middle element of the array. If the target is equal to it, we're done. If the target is greater, we know our target must be in the right portion of the array, and if it's less, the target must be in the left portion.
 
 ========== Id ==========  
-95
+97
 
 ---
 
@@ -63,7 +63,7 @@ DECK INFO
 
 TARGET DECK: Data Structures and Algorithms::Leetcode::MNAB - Neetcode 150 and blind 75 - multi-author::Part IV - Binary Search::Chapter 5 - Search In Rotated Sorted Array - Blind
 
-FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-IV-Binary-Search::#Chapter-5-Search-In-Rotated-Sorted-Array-Blind::#95-Find-target-in-rotated-sorted-array-you-ar
+FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-IV-Binary-Search::#Chapter-5-Search-In-Rotated-Sorted-Array-Blind::#97-Find-target-in-rotated-sorted-array-you-ar
 
 Tags:
 
