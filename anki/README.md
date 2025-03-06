@@ -12893,6 +12893,422 @@ Sorting the start and end times has a time complexity of O(n log n). The subsequ
 #### Chapter 4 - Reverse Bits - [Blind]
 #### Chapter 5 - Missing Number - [Blind]
 #### Chapter 6 - Sum of Two Integers - [Blind]
+
+Q:: =============================================  
+
+##### Sum of Two Integers
+
+<details><summary><b>📄 Description</b></summary><br>
+
+Given two integers `a` and `b`, return the sum of the two integers without using the `+` and `-` operators.
+
+**Example 1:**
+
+```
+Input: a = 1, b = 1
+
+Output: 2
+```
+
+**Example 2:**
+
+```
+Input: a = 4, b = 7
+
+Output: 11
+```
+
+**Constraints:**
+
+-   `-1000 <= a, b <= 1000`
+
+</details>
+
+___
+
+What bitwise operation can be used to add two numbers without carrying?
+
+A) Bitwise AND (&)
+
+B) Bitwise OR (|)
+
+C) Bitwise XOR (^)
+
+D) Bitwise NOT (~)
+
+A:: =============================================  
+**Answer**: C
+
+Bitwise XOR (^) adds two numbers without carrying, as it returns 1 only when exactly one bit is 1 (which mimics addition without carrying). For example, 1 ^ 1 = 0 and 1 ^ 0 = 0 ^ 1 = 1, which is the same behavior as addition without carrying.
+Q:: =============================================  
+
+##### Sum of Two Integers
+
+<details><summary><b>📄 Description</b></summary><br>
+
+Given two integers `a` and `b`, return the sum of the two integers without using the `+` and `-` operators.
+
+**Example 1:**
+
+```
+Input: a = 1, b = 1
+
+Output: 2
+```
+
+**Example 2:**
+
+```
+Input: a = 4, b = 7
+
+Output: 11
+```
+
+**Constraints:**
+
+-   `-1000 <= a, b <= 1000`
+
+</details>
+
+___
+
+What bitwise operation can be used to find the carry bits when adding two integers?
+
+A) Bitwise AND (&)
+
+B) Bitwise OR (|)
+
+C) Bitwise XOR (^)
+
+D) Bitwise NOT (~)
+
+A:: =============================================  
+**Answer**: A
+
+Bitwise AND (&) identifies positions where both bits are 1, which is exactly where a carry will be generated in binary addition. For example, 1 & 1 = 1 (carry generated) and 1 & 0 = 0 & 1 = 0 & 0 = 0 (no carry).
+Q:: =============================================  
+
+##### Sum of Two Integers
+
+<details><summary><b>📄 Description</b></summary><br>
+
+Given two integers `a` and `b`, return the sum of the two integers without using the `+` and `-` operators.
+
+**Example 1:**
+
+```
+Input: a = 1, b = 1
+
+Output: 2
+```
+
+**Example 2:**
+
+```
+Input: a = 4, b = 7
+
+Output: 11
+```
+
+**Constraints:**
+
+-   `-1000 <= a, b <= 1000`
+
+</details>
+
+___
+
+In the iterative approach to solve the "Sum of Two Integers" problem, when do we stop the loop?
+
+A) When the result becomes 0
+
+B) When the carry becomes 0
+
+C) After a fixed number of iterations
+
+D) When both a and b become 0
+
+A:: =============================================  
+**Answer**: B
+
+The iterative approach continues until there are no more carries to propagate. Once the carry becomes 0, it means that all bits have been properly added and no further additions are needed.
+Q:: =============================================  
+
+##### Sum of Two Integers
+
+<details><summary><b>📄 Description</b></summary><br>
+
+Given two integers `a` and `b`, return the sum of the two integers without using the `+` and `-` operators.
+
+**Example 1:**
+
+```
+Input: a = 1, b = 1
+
+Output: 2
+```
+
+**Example 2:**
+
+```
+Input: a = 4, b = 7
+
+Output: 11
+```
+
+**Constraints:**
+
+-   `-1000 <= a, b <= 1000`
+
+</details>
+
+___
+
+What is the time complexity of adding two integers using bitwise operations?
+
+A) O(1)
+
+B) O(log n)
+
+C) O(n)
+
+D) O(n^2)
+
+A:: =============================================  
+**Answer**: B
+
+The time complexity is O(log n) where n is the maximum of the absolute values of a and b. This is because we need to process each bit position, and the number of bits required to represent an integer n is log₂(n).
+Q:: =============================================  
+
+##### Sum of Two Integers
+
+<details><summary><b>📄 Description</b></summary><br>
+
+Given two integers `a` and `b`, return the sum of the two integers without using the `+` and `-` operators.
+
+**Example 1:**
+
+```
+Input: a = 1, b = 1
+
+Output: 2
+```
+
+**Example 2:**
+
+```
+Input: a = 4, b = 7
+
+Output: 11
+```
+
+**Constraints:**
+
+-   `-1000 <= a, b <= 1000`
+
+</details>
+
+___
+
+What will be the result of 5 ^ 3?
+
+A) 2
+
+B) 6
+
+C) 7
+
+D) 8
+
+A:: =============================================  
+**Answer**: B
+
+In binary: 5 is 101 and 3 is 011. XORing these gives: 101 ^ 011 = 110, which is 6 in decimal. This is the result of adding without carrying.
+Q:: =============================================  
+
+##### Sum of Two Integers
+
+<details><summary><b>📄 Description</b></summary><br>
+
+Given two integers `a` and `b`, return the sum of the two integers without using the `+` and `-` operators.
+
+**Example 1:**
+
+```
+Input: a = 1, b = 1
+
+Output: 2
+```
+
+**Example 2:**
+
+```
+Input: a = 4, b = 7
+
+Output: 11
+```
+
+**Constraints:**
+
+-   `-1000 <= a, b <= 1000`
+
+</details>
+
+___
+
+How do we handle negative numbers in this problem?
+
+A) By using two's complement representation
+
+B) By converting them to positive first
+
+C) By treating the sign bit separately
+
+D) The problem constraints don't allow negative numbers
+
+A:: =============================================  
+**Answer**: A
+
+We rely on the two's complement representation that most programming languages use for integers. The bitwise operations automatically work with the two's complement representation, handling negative numbers correctly.
+Q:: =============================================  
+
+##### Sum of Two Integers
+
+<details><summary><b>📄 Description</b></summary><br>
+
+Given two integers `a` and `b`, return the sum of the two integers without using the `+` and `-` operators.
+
+**Example 1:**
+
+```
+Input: a = 1, b = 1
+
+Output: 2
+```
+
+**Example 2:**
+
+```
+Input: a = 4, b = 7
+
+Output: 11
+```
+
+**Constraints:**
+
+-   `-1000 <= a, b <= 1000`
+
+</details>
+
+___
+
+What's the key insight to solving this problem?
+
+A) Understanding that addition can be decomposed into XOR and carry operations
+
+B) Recognizing that subtraction is easier than addition with bitwise operations
+
+C) Using multiplication instead of addition
+
+D) Converting integers to strings
+
+A:: =============================================  
+**Answer**: A
+
+The key insight is understanding that binary addition can be broken down into two steps: 1) XORing the bits (addition without carry) and 2) handling the carries separately. By iteratively applying these two steps, we can compute the sum without using + or -.
+Q:: =============================================  
+
+##### Sum of Two Integers
+
+<details><summary><b>📄 Description</b></summary><br>
+
+Given two integers `a` and `b`, return the sum of the two integers without using the `+` and `-` operators.
+
+**Example 1:**
+
+```
+Input: a = 1, b = 1
+
+Output: 2
+```
+
+**Example 2:**
+
+```
+Input: a = 4, b = 7
+
+Output: 11
+```
+
+**Constraints:**
+
+-   `-1000 <= a, b <= 1000`
+
+</details>
+
+___
+
+If a = 5 and b = 3, what will be the value of the first XOR operation (a ^ b)?
+
+A) 2
+
+B) 6
+
+C) 7
+
+D) 8
+
+A:: =============================================  
+**Answer**: B
+
+In binary: 5 is 101 and 3 is 011. XORing these gives: 101 ^ 011 = 110, which is 6 in decimal. This represents the sum without considering carries.
+Q:: =============================================  
+
+##### Sum of Two Integers
+
+<details><summary><b>📄 Description</b></summary><br>
+
+Given two integers `a` and `b`, return the sum of the two integers without using the `+` and `-` operators.
+
+**Example 1:**
+
+```
+Input: a = 1, b = 1
+
+Output: 2
+```
+
+**Example 2:**
+
+```
+Input: a = 4, b = 7
+
+Output: 11
+```
+
+**Constraints:**
+
+-   `-1000 <= a, b <= 1000`
+
+</details>
+
+___
+
+If a = 5 and b = 3, what will be the value of the first carry operation ((a & b) << 1)?
+
+A) 1
+
+B) 2
+
+C) 4
+
+D) 8
+
+A:: =============================================  
+**Answer**: B
+
+In binary: 5 is 101 and 3 is 011. ANDing gives: 101 & 011 = 001. Left shifting by 1: 001 << 1 = 010, which is 2 in decimal. This represents the carries shifted to their correct positions.
+
 #### Chapter 7 - Reverse Integer
 
 ### Part XVIII - Math & Geometry
