@@ -54,24 +54,24 @@ Output: [
 
 ---
 
-If a cell matrix[i][j] is zero, what action must be taken in the O(1) space approach?
+Which of these steps is NOT part of the O(1) space solution?
 
-A) Set matrix[i][0] and matrix[0][j] to zero immediately
+A) Check if the first row and column need to be zeroed
 
-B) Set matrix[i][0] and matrix[0][j] to a special marker value
+B) Use the first row and column as markers for other cells
 
-C) Set matrix[i][0] and matrix[0][j] to zero, but only after processing all cells
+C) Create temporary arrays to store which rows and columns contain zeros
 
-D) Set the entire row i and column j to zero immediately  
+D) Process the matrix except the first row and column, then handle those separately  
 
 ========== Answer ==========  
 
-**Answer**: A
+**Answer**: C
 
-In the O(1) space approach, when we find a zero at matrix[i][j], we set matrix[i][0] and matrix[0][j] to zero as markers indicating that row i and column j need to be zeroed. However, we don't zero the entire row and column immediately, as that would interfere with our marking process.
+Creating temporary arrays would require O(m+n) extra space, which violates the O(1) space constraint. The O(1) solution instead uses the first row and column of the matrix itself as markers, avoiding any additional data structures.
 
 ========== Id ==========  
-244
+251
 
 ---
 
@@ -79,7 +79,7 @@ DECK INFO
 
 TARGET DECK: Data Structures and Algorithms::Leetcode::MNAB - Neetcode 150 and blind 75 - multi-author::Part XVIII - Math Geometry::Chapter 3 - Set Matrix Zeroes - Blind
 
-FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-XVIII-Math-Geometry::#Chapter-3-Set-Matrix-Zeroes-Blind::#244-Set-matrix-zeroes-details-summary-b
+FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-XVIII-Math-Geometry::#Chapter-3-Set-Matrix-Zeroes-Blind::#251-Set-matrix-zeroes-details-summary-b
 
 Tags:
 

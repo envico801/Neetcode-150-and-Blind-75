@@ -54,24 +54,24 @@ Output: [
 
 ---
 
-When trying to use O(1) extra space, which of the following is a valid approach?
+If we use two separate arrays to track which rows and columns need to be zeroed, what would be the space complexity?
 
-A) Use recursive algorithms
+A) O(1)
 
-B) Use the first row and first column of the matrix itself as markers
+B) O(m)
 
-C) Sort each row and column first
+C) O(n)
 
-D) Convert the matrix to a graph structure  
+D) O(m + n)  
 
 ========== Answer ==========  
 
-**Answer**: B
+**Answer**: D
 
-The optimal approach for O(1) space is to use the first row and first column of the matrix itself to mark which rows and columns should be zeroed. This clever technique avoids using additional data structures while still tracking all necessary information.
+We would need one array of size m to track which rows contain zeros and another array of size n to track which columns contain zeros. This gives us a total space complexity of O(m + n).
 
 ========== Id ==========  
-239
+246
 
 ---
 
@@ -79,7 +79,7 @@ DECK INFO
 
 TARGET DECK: Data Structures and Algorithms::Leetcode::MNAB - Neetcode 150 and blind 75 - multi-author::Part XVIII - Math Geometry::Chapter 3 - Set Matrix Zeroes - Blind
 
-FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-XVIII-Math-Geometry::#Chapter-3-Set-Matrix-Zeroes-Blind::#239-Set-matrix-zeroes-details-summary-b
+FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-XVIII-Math-Geometry::#Chapter-3-Set-Matrix-Zeroes-Blind::#246-Set-matrix-zeroes-details-summary-b
 
 Tags:
 

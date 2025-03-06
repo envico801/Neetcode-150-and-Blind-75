@@ -54,24 +54,24 @@ Output: [
 
 ---
 
-If we use two separate arrays to track which rows and columns need to be zeroed, what would be the space complexity?
+What is the time complexity of the optimal solution with O(1) space?
 
-A) O(1)
+A) O(m \* n)
 
-B) O(m)
+B) O(m + n)
 
-C) O(n)
+C) O(m \* n \* (m + n))
 
-D) O(m + n)  
+D) O(log(m \* n))  
 
 ========== Answer ==========  
 
-**Answer**: D
+**Answer**: A
 
-We would need one array of size m to track which rows contain zeros and another array of size n to track which columns contain zeros. This gives us a total space complexity of O(m + n).
+The optimal O(1) space solution still requires scanning the entire matrix twice: once to mark rows and columns that need to be zeroed (using the first row and column as markers), and once to actually perform the zeroing operation. Both passes are O(m\*n), so the overall time complexity is O(m\*n).
 
 ========== Id ==========  
-237
+250
 
 ---
 
@@ -79,7 +79,7 @@ DECK INFO
 
 TARGET DECK: Data Structures and Algorithms::Leetcode::MNAB - Neetcode 150 and blind 75 - multi-author::Part XVIII - Math Geometry::Chapter 3 - Set Matrix Zeroes - Blind
 
-FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-XVIII-Math-Geometry::#Chapter-3-Set-Matrix-Zeroes-Blind::#237-Set-matrix-zeroes-details-summary-b
+FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-XVIII-Math-Geometry::#Chapter-3-Set-Matrix-Zeroes-Blind::#250-Set-matrix-zeroes-details-summary-b
 
 Tags:
 

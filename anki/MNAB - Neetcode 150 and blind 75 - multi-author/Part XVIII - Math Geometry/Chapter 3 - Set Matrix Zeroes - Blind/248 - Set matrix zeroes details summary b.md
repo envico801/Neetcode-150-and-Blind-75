@@ -54,24 +54,24 @@ Output: [
 
 ---
 
-What is the time complexity of the optimal solution with O(1) space?
+When trying to use O(1) extra space, which of the following is a valid approach?
 
-A) O(m \* n)
+A) Use recursive algorithms
 
-B) O(m + n)
+B) Use the first row and first column of the matrix itself as markers
 
-C) O(m \* n \* (m + n))
+C) Sort each row and column first
 
-D) O(log(m \* n))  
+D) Convert the matrix to a graph structure  
 
 ========== Answer ==========  
 
-**Answer**: A
+**Answer**: B
 
-The optimal O(1) space solution still requires scanning the entire matrix twice: once to mark rows and columns that need to be zeroed (using the first row and column as markers), and once to actually perform the zeroing operation. Both passes are O(m\*n), so the overall time complexity is O(m\*n).
+The optimal approach for O(1) space is to use the first row and first column of the matrix itself to mark which rows and columns should be zeroed. This clever technique avoids using additional data structures while still tracking all necessary information.
 
 ========== Id ==========  
-241
+248
 
 ---
 
@@ -79,7 +79,7 @@ DECK INFO
 
 TARGET DECK: Data Structures and Algorithms::Leetcode::MNAB - Neetcode 150 and blind 75 - multi-author::Part XVIII - Math Geometry::Chapter 3 - Set Matrix Zeroes - Blind
 
-FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-XVIII-Math-Geometry::#Chapter-3-Set-Matrix-Zeroes-Blind::#241-Set-matrix-zeroes-details-summary-b
+FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-XVIII-Math-Geometry::#Chapter-3-Set-Matrix-Zeroes-Blind::#248-Set-matrix-zeroes-details-summary-b
 
 Tags:
 

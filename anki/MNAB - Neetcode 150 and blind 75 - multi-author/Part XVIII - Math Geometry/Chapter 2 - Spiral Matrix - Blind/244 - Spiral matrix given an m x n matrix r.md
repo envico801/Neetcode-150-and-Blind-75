@@ -34,7 +34,7 @@ Output: [1,2,3,4,8,12,11,10,9,5,6,7]
 
 ---
 
-Given the Python code below for traversing a matrix in spiral order, what will be a potential issue when running this code on a non-square matrix? For example, consider what the output would be for `matrix = [[1, 2, 3]]`.
+Consider the below code snippet. It returns the spiral order of elements in the given matrix without duplicating elements. What is its time and space complexity? Assume we include the output as additional space.
 
 ```python
 class Solution:
@@ -54,6 +54,10 @@ class Solution:
                 res.append(matrix[i][right - 1])
             right -= 1
 
+            if not (left < right and top < bottom):
+                # Pointers have met, so the spiral is complete
+                break
+
             # get every val in the bottom row
             for i in range(right - 1, left - 1, -1):
                 res.append(matrix[bottom - 1][i])
@@ -66,18 +70,26 @@ class Solution:
         return res
 ```
 
-A) The code will fail to traverse the entire matrix.
+A) Time complexity: O(m\*n)
 
-B) The code will traverse the last submatrix multiple times.  
+Space complexity: O(m\*n)
+
+B) Time complexity: O(m^2)
+
+Space complexity: O(n^2)
+
+C) Time complexity: O(m+n)
+
+Space complexity: O(m+n)  
 
 ========== Answer ==========  
 
-**Answer**: B
+**Answer**: A
 
-The problem with this code is that it does not consider the case where the last submatrix is not square. If the last remaining part of the matrix is not square, the code will traverse the last submatrix multiple times. This is because there's no check to stop the bottom row and left column from being traversed again after the right column has been traversed and reduced. In the above example, the output would be \[1, 2, 3, 2, 1\], instead of \[1, 2, 3\] which is the expected result.
+The time complexity of this function is O(m\*n), where m is the number of rows and n is the number of columns in the input matrix. This is because each element is visited and processed exactly once. The space complexity is also O(m\*n), because in the worst case, if all elements are stored in the output list, it will contain m\*n elements.
 
 ========== Id ==========  
-234
+244
 
 ---
 
@@ -85,7 +97,7 @@ DECK INFO
 
 TARGET DECK: Data Structures and Algorithms::Leetcode::MNAB - Neetcode 150 and blind 75 - multi-author::Part XVIII - Math Geometry::Chapter 2 - Spiral Matrix - Blind
 
-FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-XVIII-Math-Geometry::#Chapter-2-Spiral-Matrix-Blind::#234-Spiral-matrix-given-an-m-x-n-matrix-r
+FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-XVIII-Math-Geometry::#Chapter-2-Spiral-Matrix-Blind::#244-Spiral-matrix-given-an-m-x-n-matrix-r
 
 Tags:
 

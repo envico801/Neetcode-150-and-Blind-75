@@ -54,24 +54,24 @@ Output: [
 
 ---
 
-Which of these steps is NOT part of the O(1) space solution?
+If you use the first row and column as markers, what special case must you handle?
 
-A) Check if the first row and column need to be zeroed
+A) Negative numbers in the matrix
 
-B) Use the first row and column as markers for other cells
+B) Whether the first row and column themselves contain zeros
 
-C) Create temporary arrays to store which rows and columns contain zeros
+C) Matrices with only one row or column
 
-D) Process the matrix except the first row and column, then handle those separately  
+D) All of the above  
 
 ========== Answer ==========  
 
-**Answer**: C
+**Answer**: B
 
-Creating temporary arrays would require O(m+n) extra space, which violates the O(1) space constraint. The O(1) solution instead uses the first row and column of the matrix itself as markers, avoiding any additional data structures.
+When using the first row and column as markers, we need to separately track whether the first row and column themselves originally contained zeros. Otherwise, we won't know if they should be zeroed at the end because they're also being used as markers for other rows and columns.
 
 ========== Id ==========  
-242
+249
 
 ---
 
@@ -79,7 +79,7 @@ DECK INFO
 
 TARGET DECK: Data Structures and Algorithms::Leetcode::MNAB - Neetcode 150 and blind 75 - multi-author::Part XVIII - Math Geometry::Chapter 3 - Set Matrix Zeroes - Blind
 
-FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-XVIII-Math-Geometry::#Chapter-3-Set-Matrix-Zeroes-Blind::#242-Set-matrix-zeroes-details-summary-b
+FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-XVIII-Math-Geometry::#Chapter-3-Set-Matrix-Zeroes-Blind::#249-Set-matrix-zeroes-details-summary-b
 
 Tags:
 

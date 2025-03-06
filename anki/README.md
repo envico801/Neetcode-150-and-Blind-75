@@ -279,30 +279,41 @@
 | [223](#id223) | [Meeting rooms ii given an array of meeting](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XIII%20-%20Intervals/Chapter%205%20-%20Meeting%20Rooms%20II%20-%20Blind/223%20-%20Meeting%20rooms%20ii%20given%20an%20array%20of%20meeting.md) | 13 | 5 |
 | [224](#id224) | [Meeting rooms ii given an array of meeting](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XIII%20-%20Intervals/Chapter%205%20-%20Meeting%20Rooms%20II%20-%20Blind/224%20-%20Meeting%20rooms%20ii%20given%20an%20array%20of%20meeting.md) | 13 | 5 |
 | [225](#id225) | [Meeting rooms ii given an array of meeting](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XIII%20-%20Intervals/Chapter%205%20-%20Meeting%20Rooms%20II%20-%20Blind/225%20-%20Meeting%20rooms%20ii%20given%20an%20array%20of%20meeting.md) | 13 | 5 |
+| **-** | **Bit Manipulation** | **17** | **-** |
+| **-** | **Bit Manipulation > Sum of Two Integers** | **17** | **6** |
+| [226](#id226) | [Sum of two integers details summary b](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVII%20-%20Bit%20Manipulation/Chapter%206%20-%20Sum%20of%20Two%20Integers%20-%20Blind/226%20-%20Sum%20of%20two%20integers%20details%20summary%20b.md) | 17 | 6 |
+| [227](#id227) | [Sum of two integers details summary b](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVII%20-%20Bit%20Manipulation/Chapter%206%20-%20Sum%20of%20Two%20Integers%20-%20Blind/227%20-%20Sum%20of%20two%20integers%20details%20summary%20b.md) | 17 | 6 |
+| [228](#id228) | [Sum of two integers details summary b](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVII%20-%20Bit%20Manipulation/Chapter%206%20-%20Sum%20of%20Two%20Integers%20-%20Blind/228%20-%20Sum%20of%20two%20integers%20details%20summary%20b.md) | 17 | 6 |
+| [229](#id229) | [Sum of two integers details summary b](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVII%20-%20Bit%20Manipulation/Chapter%206%20-%20Sum%20of%20Two%20Integers%20-%20Blind/229%20-%20Sum%20of%20two%20integers%20details%20summary%20b.md) | 17 | 6 |
+| [230](#id230) | [Sum of two integers details summary b](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVII%20-%20Bit%20Manipulation/Chapter%206%20-%20Sum%20of%20Two%20Integers%20-%20Blind/230%20-%20Sum%20of%20two%20integers%20details%20summary%20b.md) | 17 | 6 |
+| [231](#id231) | [Sum of two integers details summary b](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVII%20-%20Bit%20Manipulation/Chapter%206%20-%20Sum%20of%20Two%20Integers%20-%20Blind/231%20-%20Sum%20of%20two%20integers%20details%20summary%20b.md) | 17 | 6 |
+| [232](#id232) | [Sum of two integers details summary b](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVII%20-%20Bit%20Manipulation/Chapter%206%20-%20Sum%20of%20Two%20Integers%20-%20Blind/232%20-%20Sum%20of%20two%20integers%20details%20summary%20b.md) | 17 | 6 |
+| [233](#id233) | [Sum of two integers details summary b](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVII%20-%20Bit%20Manipulation/Chapter%206%20-%20Sum%20of%20Two%20Integers%20-%20Blind/233%20-%20Sum%20of%20two%20integers%20details%20summary%20b.md) | 17 | 6 |
+| [234](#id234) | [Sum of two integers details summary b](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVII%20-%20Bit%20Manipulation/Chapter%206%20-%20Sum%20of%20Two%20Integers%20-%20Blind/234%20-%20Sum%20of%20two%20integers%20details%20summary%20b.md) | 17 | 6 |
 | **-** | **Math Geometry** | **18** | **-** |
 | **-** | **Math Geometry > Rotate Image** | **18** | **1** |
-| [226](#id226) | [Rotate image you are given an n x n 2d](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%201%20-%20Rotate%20Image%20-%20Blind/226%20-%20Rotate%20image%20you%20are%20given%20an%20n%20x%20n%202d.md) | 18 | 1 |
-| [227](#id227) | [Rotate image you are given an n x n 2d](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%201%20-%20Rotate%20Image%20-%20Blind/227%20-%20Rotate%20image%20you%20are%20given%20an%20n%20x%20n%202d.md) | 18 | 1 |
-| [228](#id228) | [Rotate image you are given an n x n 2d](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%201%20-%20Rotate%20Image%20-%20Blind/228%20-%20Rotate%20image%20you%20are%20given%20an%20n%20x%20n%202d.md) | 18 | 1 |
-| [229](#id229) | [Rotate image you are given an n x n 2d](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%201%20-%20Rotate%20Image%20-%20Blind/229%20-%20Rotate%20image%20you%20are%20given%20an%20n%20x%20n%202d.md) | 18 | 1 |
-| [230](#id230) | [Rotate image you are given an n x n 2d](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%201%20-%20Rotate%20Image%20-%20Blind/230%20-%20Rotate%20image%20you%20are%20given%20an%20n%20x%20n%202d.md) | 18 | 1 |
+| [235](#id235) | [Rotate image you are given an n x n 2d](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%201%20-%20Rotate%20Image%20-%20Blind/235%20-%20Rotate%20image%20you%20are%20given%20an%20n%20x%20n%202d.md) | 18 | 1 |
+| [236](#id236) | [Rotate image you are given an n x n 2d](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%201%20-%20Rotate%20Image%20-%20Blind/236%20-%20Rotate%20image%20you%20are%20given%20an%20n%20x%20n%202d.md) | 18 | 1 |
+| [237](#id237) | [Rotate image you are given an n x n 2d](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%201%20-%20Rotate%20Image%20-%20Blind/237%20-%20Rotate%20image%20you%20are%20given%20an%20n%20x%20n%202d.md) | 18 | 1 |
+| [238](#id238) | [Rotate image you are given an n x n 2d](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%201%20-%20Rotate%20Image%20-%20Blind/238%20-%20Rotate%20image%20you%20are%20given%20an%20n%20x%20n%202d.md) | 18 | 1 |
+| [239](#id239) | [Rotate image you are given an n x n 2d](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%201%20-%20Rotate%20Image%20-%20Blind/239%20-%20Rotate%20image%20you%20are%20given%20an%20n%20x%20n%202d.md) | 18 | 1 |
 | **-** | **Math Geometry > Spiral Matrix** | **18** | **2** |
-| [231](#id231) | [Spiral matrix given an m x n matrix r](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%202%20-%20Spiral%20Matrix%20-%20Blind/231%20-%20Spiral%20matrix%20given%20an%20m%20x%20n%20matrix%20r.md) | 18 | 2 |
-| [232](#id232) | [Spiral matrix given an m x n matrix r](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%202%20-%20Spiral%20Matrix%20-%20Blind/232%20-%20Spiral%20matrix%20given%20an%20m%20x%20n%20matrix%20r.md) | 18 | 2 |
-| [233](#id233) | [Spiral matrix given an m x n matrix r](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%202%20-%20Spiral%20Matrix%20-%20Blind/233%20-%20Spiral%20matrix%20given%20an%20m%20x%20n%20matrix%20r.md) | 18 | 2 |
-| [234](#id234) | [Spiral matrix given an m x n matrix r](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%202%20-%20Spiral%20Matrix%20-%20Blind/234%20-%20Spiral%20matrix%20given%20an%20m%20x%20n%20matrix%20r.md) | 18 | 2 |
-| [235](#id235) | [Spiral matrix given an m x n matrix r](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%202%20-%20Spiral%20Matrix%20-%20Blind/235%20-%20Spiral%20matrix%20given%20an%20m%20x%20n%20matrix%20r.md) | 18 | 2 |
+| [240](#id240) | [Spiral matrix given an m x n matrix r](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%202%20-%20Spiral%20Matrix%20-%20Blind/240%20-%20Spiral%20matrix%20given%20an%20m%20x%20n%20matrix%20r.md) | 18 | 2 |
+| [241](#id241) | [Spiral matrix given an m x n matrix r](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%202%20-%20Spiral%20Matrix%20-%20Blind/241%20-%20Spiral%20matrix%20given%20an%20m%20x%20n%20matrix%20r.md) | 18 | 2 |
+| [242](#id242) | [Spiral matrix given an m x n matrix r](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%202%20-%20Spiral%20Matrix%20-%20Blind/242%20-%20Spiral%20matrix%20given%20an%20m%20x%20n%20matrix%20r.md) | 18 | 2 |
+| [243](#id243) | [Spiral matrix given an m x n matrix r](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%202%20-%20Spiral%20Matrix%20-%20Blind/243%20-%20Spiral%20matrix%20given%20an%20m%20x%20n%20matrix%20r.md) | 18 | 2 |
+| [244](#id244) | [Spiral matrix given an m x n matrix r](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%202%20-%20Spiral%20Matrix%20-%20Blind/244%20-%20Spiral%20matrix%20given%20an%20m%20x%20n%20matrix%20r.md) | 18 | 2 |
 | **-** | **Math Geometry > Set Matrix Zeroes** | **18** | **3** |
-| [236](#id236) | [Set matrix zeroes details summary b](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%203%20-%20Set%20Matrix%20Zeroes%20-%20Blind/236%20-%20Set%20matrix%20zeroes%20details%20summary%20b.md) | 18 | 3 |
-| [237](#id237) | [Set matrix zeroes details summary b](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%203%20-%20Set%20Matrix%20Zeroes%20-%20Blind/237%20-%20Set%20matrix%20zeroes%20details%20summary%20b.md) | 18 | 3 |
-| [238](#id238) | [Set matrix zeroes details summary b](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%203%20-%20Set%20Matrix%20Zeroes%20-%20Blind/238%20-%20Set%20matrix%20zeroes%20details%20summary%20b.md) | 18 | 3 |
-| [239](#id239) | [Set matrix zeroes details summary b](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%203%20-%20Set%20Matrix%20Zeroes%20-%20Blind/239%20-%20Set%20matrix%20zeroes%20details%20summary%20b.md) | 18 | 3 |
-| [240](#id240) | [Set matrix zeroes details summary b](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%203%20-%20Set%20Matrix%20Zeroes%20-%20Blind/240%20-%20Set%20matrix%20zeroes%20details%20summary%20b.md) | 18 | 3 |
-| [241](#id241) | [Set matrix zeroes details summary b](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%203%20-%20Set%20Matrix%20Zeroes%20-%20Blind/241%20-%20Set%20matrix%20zeroes%20details%20summary%20b.md) | 18 | 3 |
-| [242](#id242) | [Set matrix zeroes details summary b](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%203%20-%20Set%20Matrix%20Zeroes%20-%20Blind/242%20-%20Set%20matrix%20zeroes%20details%20summary%20b.md) | 18 | 3 |
-| [243](#id243) | [Set matrix zeroes details summary b](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%203%20-%20Set%20Matrix%20Zeroes%20-%20Blind/243%20-%20Set%20matrix%20zeroes%20details%20summary%20b.md) | 18 | 3 |
-| [244](#id244) | [Set matrix zeroes details summary b](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%203%20-%20Set%20Matrix%20Zeroes%20-%20Blind/244%20-%20Set%20matrix%20zeroes%20details%20summary%20b.md) | 18 | 3 |
 | [245](#id245) | [Set matrix zeroes details summary b](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%203%20-%20Set%20Matrix%20Zeroes%20-%20Blind/245%20-%20Set%20matrix%20zeroes%20details%20summary%20b.md) | 18 | 3 |
+| [246](#id246) | [Set matrix zeroes details summary b](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%203%20-%20Set%20Matrix%20Zeroes%20-%20Blind/246%20-%20Set%20matrix%20zeroes%20details%20summary%20b.md) | 18 | 3 |
+| [247](#id247) | [Set matrix zeroes details summary b](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%203%20-%20Set%20Matrix%20Zeroes%20-%20Blind/247%20-%20Set%20matrix%20zeroes%20details%20summary%20b.md) | 18 | 3 |
+| [248](#id248) | [Set matrix zeroes details summary b](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%203%20-%20Set%20Matrix%20Zeroes%20-%20Blind/248%20-%20Set%20matrix%20zeroes%20details%20summary%20b.md) | 18 | 3 |
+| [249](#id249) | [Set matrix zeroes details summary b](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%203%20-%20Set%20Matrix%20Zeroes%20-%20Blind/249%20-%20Set%20matrix%20zeroes%20details%20summary%20b.md) | 18 | 3 |
+| [250](#id250) | [Set matrix zeroes details summary b](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%203%20-%20Set%20Matrix%20Zeroes%20-%20Blind/250%20-%20Set%20matrix%20zeroes%20details%20summary%20b.md) | 18 | 3 |
+| [251](#id251) | [Set matrix zeroes details summary b](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%203%20-%20Set%20Matrix%20Zeroes%20-%20Blind/251%20-%20Set%20matrix%20zeroes%20details%20summary%20b.md) | 18 | 3 |
+| [252](#id252) | [Set matrix zeroes details summary b](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%203%20-%20Set%20Matrix%20Zeroes%20-%20Blind/252%20-%20Set%20matrix%20zeroes%20details%20summary%20b.md) | 18 | 3 |
+| [253](#id253) | [Set matrix zeroes details summary b](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%203%20-%20Set%20Matrix%20Zeroes%20-%20Blind/253%20-%20Set%20matrix%20zeroes%20details%20summary%20b.md) | 18 | 3 |
+| [254](#id254) | [Set matrix zeroes details summary b](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%203%20-%20Set%20Matrix%20Zeroes%20-%20Blind/254%20-%20Set%20matrix%20zeroes%20details%20summary%20b.md) | 18 | 3 |
 
 ### Part I - Arrays & Hashing
 
@@ -12936,10 +12947,13 @@ C) Bitwise XOR (^)
 
 D) Bitwise NOT (~)
 
+###### ID226
+
 A:: =============================================  
 **Answer**: C
 
 Bitwise XOR (^) adds two numbers without carrying, as it returns 1 only when exactly one bit is 1 (which mimics addition without carrying). For example, 1 ^ 1 = 0 and 1 ^ 0 = 0 ^ 1 = 1, which is the same behavior as addition without carrying.
+
 Q:: =============================================  
 
 ##### Sum of Two Integers
@@ -12982,10 +12996,13 @@ C) Bitwise XOR (^)
 
 D) Bitwise NOT (~)
 
+###### ID227
+
 A:: =============================================  
 **Answer**: A
 
 Bitwise AND (&) identifies positions where both bits are 1, which is exactly where a carry will be generated in binary addition. For example, 1 & 1 = 1 (carry generated) and 1 & 0 = 0 & 1 = 0 & 0 = 0 (no carry).
+
 Q:: =============================================  
 
 ##### Sum of Two Integers
@@ -13028,10 +13045,13 @@ C) After a fixed number of iterations
 
 D) When both a and b become 0
 
+###### ID228
+
 A:: =============================================  
 **Answer**: B
 
 The iterative approach continues until there are no more carries to propagate. Once the carry becomes 0, it means that all bits have been properly added and no further additions are needed.
+
 Q:: =============================================  
 
 ##### Sum of Two Integers
@@ -13074,10 +13094,13 @@ C) O(n)
 
 D) O(n^2)
 
+###### ID229
+
 A:: =============================================  
 **Answer**: B
 
 The time complexity is O(log n) where n is the maximum of the absolute values of a and b. This is because we need to process each bit position, and the number of bits required to represent an integer n is log₂(n).
+
 Q:: =============================================  
 
 ##### Sum of Two Integers
@@ -13120,10 +13143,13 @@ C) 7
 
 D) 8
 
+###### ID230
+
 A:: =============================================  
 **Answer**: B
 
 In binary: 5 is 101 and 3 is 011. XORing these gives: 101 ^ 011 = 110, which is 6 in decimal. This is the result of adding without carrying.
+
 Q:: =============================================  
 
 ##### Sum of Two Integers
@@ -13166,10 +13192,13 @@ C) By treating the sign bit separately
 
 D) The problem constraints don't allow negative numbers
 
+###### ID231
+
 A:: =============================================  
 **Answer**: A
 
 We rely on the two's complement representation that most programming languages use for integers. The bitwise operations automatically work with the two's complement representation, handling negative numbers correctly.
+
 Q:: =============================================  
 
 ##### Sum of Two Integers
@@ -13212,10 +13241,13 @@ C) Using multiplication instead of addition
 
 D) Converting integers to strings
 
+###### ID232
+
 A:: =============================================  
 **Answer**: A
 
 The key insight is understanding that binary addition can be broken down into two steps: 1) XORing the bits (addition without carry) and 2) handling the carries separately. By iteratively applying these two steps, we can compute the sum without using + or -.
+
 Q:: =============================================  
 
 ##### Sum of Two Integers
@@ -13258,10 +13290,13 @@ C) 7
 
 D) 8
 
+###### ID233
+
 A:: =============================================  
 **Answer**: B
 
 In binary: 5 is 101 and 3 is 011. XORing these gives: 101 ^ 011 = 110, which is 6 in decimal. This represents the sum without considering carries.
+
 Q:: =============================================  
 
 ##### Sum of Two Integers
@@ -13303,6 +13338,8 @@ B) 2
 C) 4
 
 D) 8
+
+###### ID234
 
 A:: =============================================  
 **Answer**: B
@@ -13357,7 +13394,7 @@ B) Creating a new matrix and copying elements into it.
 
 C) Rotating each layer of the matrix starting from the outside and moving inwards.
 
-###### ID226
+###### ID235
 
 A:: =============================================  
 **Answer**: C
@@ -13408,7 +13445,7 @@ C) 2n layers
 
 D) n^2 layers
 
-###### ID227
+###### ID236
 
 A:: =============================================  
 **Answer**: B
@@ -13456,7 +13493,7 @@ A) 2nd element in first row, 2nd element in the first column, 2nd element in las
 
 B) 2nd element in first row, 2nd element in last column, second to last element in last row, second to last element in first column
 
-###### ID228
+###### ID237
 
 A:: =============================================  
 **Answer**: B
@@ -13507,7 +13544,7 @@ C) Increment both the left and right pointers.
 
 D) Decrement the left pointer and increment the right pointer.
 
-###### ID229
+###### ID238
 
 A:: =============================================  
 **Answer**: A
@@ -13589,7 +13626,7 @@ Space complexity: O(1)
 C) Time complexity: O(n^2)  
 Space complexity: O(1)
 
-###### ID230
+###### ID239
 
 A:: =============================================  
 **Answer**: C
@@ -13637,7 +13674,7 @@ A) Top row from left to right, rightmost column from top to bottom, bottom row f
 
 B) Top row from right to left, rightmost column from bottom to top, bottom row from left to right, leftmost column from top to bottom.
 
-###### ID231
+###### ID240
 
 A:: =============================================  
 **Answer**: A
@@ -13686,7 +13723,7 @@ B) Reverse the cycle on the remaining submatrix.
 
 C) Transpose the remaining submatrix and then repeat the same cycle.
 
-###### ID232
+###### ID241
 
 A:: =============================================  
 **Answer**: A
@@ -13734,7 +13771,7 @@ B) 4 pointers - one for each of top, right, bottom, and left boundaries of the c
 
 C) 5 pointers - one for each of top, right, bottom, left boundaries and one for the center of the matrix.
 
-###### ID233
+###### ID242
 
 A:: =============================================  
 **Answer**: B
@@ -13810,7 +13847,7 @@ A) The code will fail to traverse the entire matrix.
 
 B) The code will traverse the last submatrix multiple times.
 
-###### ID234
+###### ID243
 
 A:: =============================================  
 **Answer**: B
@@ -13895,7 +13932,7 @@ Space complexity: O(n^2)
 C) Time complexity: O(m+n)  
 Space complexity: O(m+n)
 
-###### ID235
+###### ID244
 
 A:: =============================================  
 **Answer**: A
@@ -13969,7 +14006,7 @@ C) O(m \* n \* (m + n))
 
 D) O((m \* n)^2)
 
-###### ID236
+###### ID245
 
 A:: =============================================  
 **Answer**: C
@@ -14041,7 +14078,7 @@ C) O(n)
 
 D) O(m + n)
 
-###### ID237
+###### ID246
 
 A:: =============================================  
 **Answer**: D
@@ -14113,7 +14150,7 @@ C) The potential size of the matrix (up to 100x100)
 
 D) The need for O(1) time complexity
 
-###### ID238
+###### ID247
 
 A:: =============================================  
 **Answer**: A
@@ -14185,7 +14222,7 @@ C) Sort each row and column first
 
 D) Convert the matrix to a graph structure
 
-###### ID239
+###### ID248
 
 A:: =============================================  
 **Answer**: B
@@ -14257,7 +14294,7 @@ C) Matrices with only one row or column
 
 D) All of the above
 
-###### ID240
+###### ID249
 
 A:: =============================================  
 **Answer**: B
@@ -14329,7 +14366,7 @@ C) O(m \* n \* (m + n))
 
 D) O(log(m \* n))
 
-###### ID241
+###### ID250
 
 A:: =============================================  
 **Answer**: A
@@ -14401,7 +14438,7 @@ C) Create temporary arrays to store which rows and columns contain zeros
 
 D) Process the matrix except the first row and column, then handle those separately
 
-###### ID242
+###### ID251
 
 A:: =============================================  
 **Answer**: C
@@ -14473,7 +14510,7 @@ C) The entire matrix would be zeroed incorrectly
 
 D) The algorithm would enter an infinite loop
 
-###### ID243
+###### ID252
 
 A:: =============================================  
 **Answer**: C
@@ -14545,7 +14582,7 @@ C) Set matrix[i][0] and matrix[0][j] to zero, but only after processing all cell
 
 D) Set the entire row i and column j to zero immediately
 
-###### ID244
+###### ID253
 
 A:: =============================================  
 **Answer**: A
@@ -14617,7 +14654,7 @@ C) Using the matrix itself as the auxiliary space
 
 D) Converting the problem to a graph traversal problem
 
-###### ID245
+###### ID254
 
 A:: =============================================  
 **Answer**: C

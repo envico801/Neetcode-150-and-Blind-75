@@ -54,24 +54,24 @@ Output: [
 
 ---
 
-What is the time complexity of the brute force approach where you first mark all rows and columns to be zeroed in a separate data structure, then modify the matrix?
+What is the main insight for achieving the O(1) space solution?
 
-A) O(m + n)
+A) Using recursion instead of iteration
 
-B) O(m \* n)
+B) Using binary search to find zeros
 
-C) O(m \* n \* (m + n))
+C) Using the matrix itself as the auxiliary space
 
-D) O((m \* n)^2)  
+D) Converting the problem to a graph traversal problem  
 
 ========== Answer ==========  
 
 **Answer**: C
 
-The brute force approach requires first scanning the entire matrix once to identify zero positions (O(m\*n)), and then for each zero found, we need to set the entire row and column to zero (O(m+n) for each zero). In the worst case, we might need to process many zeros, leading to a time complexity of O(m\*n\*(m+n)).
+The key insight for the O(1) space solution is to use the matrix itself as auxiliary space - specifically using the first row and column as markers for which other rows and columns should be zeroed. This eliminates the need for additional data structures while still keeping track of all necessary information.
 
 ========== Id ==========  
-236
+254
 
 ---
 
@@ -79,7 +79,7 @@ DECK INFO
 
 TARGET DECK: Data Structures and Algorithms::Leetcode::MNAB - Neetcode 150 and blind 75 - multi-author::Part XVIII - Math Geometry::Chapter 3 - Set Matrix Zeroes - Blind
 
-FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-XVIII-Math-Geometry::#Chapter-3-Set-Matrix-Zeroes-Blind::#236-Set-matrix-zeroes-details-summary-b
+FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-XVIII-Math-Geometry::#Chapter-3-Set-Matrix-Zeroes-Blind::#254-Set-matrix-zeroes-details-summary-b
 
 Tags:
 

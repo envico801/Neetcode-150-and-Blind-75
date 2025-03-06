@@ -47,7 +47,7 @@ B) Top row from right to left, rightmost column from bottom to top, bottom row f
 To achieve a spiral order in a matrix, we start by traversing the top row from left to right, then the rightmost column from top to bottom, then the bottom row from right to left, and finally the leftmost column from bottom to top. This completes one cycle of spiral traversal.
 
 ========== Id ==========  
-231
+240
 
 ---
 
@@ -55,7 +55,7 @@ DECK INFO
 
 TARGET DECK: Data Structures and Algorithms::Leetcode::MNAB - Neetcode 150 and blind 75 - multi-author::Part XVIII - Math Geometry::Chapter 2 - Spiral Matrix - Blind
 
-FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-XVIII-Math-Geometry::#Chapter-2-Spiral-Matrix-Blind::#231-Spiral-matrix-given-an-m-x-n-matrix-r
+FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-XVIII-Math-Geometry::#Chapter-2-Spiral-Matrix-Blind::#240-Spiral-matrix-given-an-m-x-n-matrix-r
 
 Tags:
 

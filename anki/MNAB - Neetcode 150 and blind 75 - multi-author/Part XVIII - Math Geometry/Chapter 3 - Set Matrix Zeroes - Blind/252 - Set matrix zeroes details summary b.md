@@ -54,24 +54,24 @@ Output: [
 
 ---
 
-What constraint makes this problem challenging?
+What would happen if we don't separately track whether the first row/column originally contained zeros?
 
-A) The requirement to update the matrix in-place
+A) The algorithm would still work correctly
 
-B) The large range of possible values in the matrix
+B) Some rows or columns might not be properly zeroed
 
-C) The potential size of the matrix (up to 100x100)
+C) The entire matrix would be zeroed incorrectly
 
-D) The need for O(1) time complexity  
+D) The algorithm would enter an infinite loop  
 
 ========== Answer ==========  
 
-**Answer**: A
+**Answer**: C
 
-The main challenge is that we need to update the matrix in-place, and the follow-up asks for an O(1) space solution. This constraint makes it tricky because we need a way to mark which rows and columns should be zeroed without using additional space.
+If we don't separately track whether the first row/column originally contained zeros, we would incorrectly zero out rows and columns based on our markers. Since we're using the first row and column as markers, they might be set to zero during the marking phase even if they didn't originally contain zeros, leading to incorrect zeroing of the entire matrix.
 
 ========== Id ==========  
-238
+252
 
 ---
 
@@ -79,7 +79,7 @@ DECK INFO
 
 TARGET DECK: Data Structures and Algorithms::Leetcode::MNAB - Neetcode 150 and blind 75 - multi-author::Part XVIII - Math Geometry::Chapter 3 - Set Matrix Zeroes - Blind
 
-FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-XVIII-Math-Geometry::#Chapter-3-Set-Matrix-Zeroes-Blind::#238-Set-matrix-zeroes-details-summary-b
+FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-XVIII-Math-Geometry::#Chapter-3-Set-Matrix-Zeroes-Blind::#252-Set-matrix-zeroes-details-summary-b
 
 Tags:
 

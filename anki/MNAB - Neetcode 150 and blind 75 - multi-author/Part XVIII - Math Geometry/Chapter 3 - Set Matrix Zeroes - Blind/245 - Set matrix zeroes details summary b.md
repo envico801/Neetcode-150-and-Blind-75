@@ -54,21 +54,21 @@ Output: [
 
 ---
 
-What is the main insight for achieving the O(1) space solution?
+What is the time complexity of the brute force approach where you first mark all rows and columns to be zeroed in a separate data structure, then modify the matrix?
 
-A) Using recursion instead of iteration
+A) O(m + n)
 
-B) Using binary search to find zeros
+B) O(m \* n)
 
-C) Using the matrix itself as the auxiliary space
+C) O(m \* n \* (m + n))
 
-D) Converting the problem to a graph traversal problem  
+D) O((m \* n)^2)  
 
 ========== Answer ==========  
 
 **Answer**: C
 
-The key insight for the O(1) space solution is to use the matrix itself as auxiliary space - specifically using the first row and column as markers for which other rows and columns should be zeroed. This eliminates the need for additional data structures while still keeping track of all necessary information.
+The brute force approach requires first scanning the entire matrix once to identify zero positions (O(m\*n)), and then for each zero found, we need to set the entire row and column to zero (O(m+n) for each zero). In the worst case, we might need to process many zeros, leading to a time complexity of O(m\*n\*(m+n)).
 
 ========== Id ==========  
 245

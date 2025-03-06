@@ -54,24 +54,24 @@ Output: [
 
 ---
 
-If you use the first row and column as markers, what special case must you handle?
+What constraint makes this problem challenging?
 
-A) Negative numbers in the matrix
+A) The requirement to update the matrix in-place
 
-B) Whether the first row and column themselves contain zeros
+B) The large range of possible values in the matrix
 
-C) Matrices with only one row or column
+C) The potential size of the matrix (up to 100x100)
 
-D) All of the above  
+D) The need for O(1) time complexity  
 
 ========== Answer ==========  
 
-**Answer**: B
+**Answer**: A
 
-When using the first row and column as markers, we need to separately track whether the first row and column themselves originally contained zeros. Otherwise, we won't know if they should be zeroed at the end because they're also being used as markers for other rows and columns.
+The main challenge is that we need to update the matrix in-place, and the follow-up asks for an O(1) space solution. This constraint makes it tricky because we need a way to mark which rows and columns should be zeroed without using additional space.
 
 ========== Id ==========  
-240
+247
 
 ---
 
@@ -79,7 +79,7 @@ DECK INFO
 
 TARGET DECK: Data Structures and Algorithms::Leetcode::MNAB - Neetcode 150 and blind 75 - multi-author::Part XVIII - Math Geometry::Chapter 3 - Set Matrix Zeroes - Blind
 
-FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-XVIII-Math-Geometry::#Chapter-3-Set-Matrix-Zeroes-Blind::#240-Set-matrix-zeroes-details-summary-b
+FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-XVIII-Math-Geometry::#Chapter-3-Set-Matrix-Zeroes-Blind::#247-Set-matrix-zeroes-details-summary-b
 
 Tags:
 

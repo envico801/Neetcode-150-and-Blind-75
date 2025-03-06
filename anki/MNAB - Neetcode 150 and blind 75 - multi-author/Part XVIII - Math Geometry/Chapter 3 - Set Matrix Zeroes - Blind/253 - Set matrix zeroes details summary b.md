@@ -54,24 +54,24 @@ Output: [
 
 ---
 
-What would happen if we don't separately track whether the first row/column originally contained zeros?
+If a cell matrix[i][j] is zero, what action must be taken in the O(1) space approach?
 
-A) The algorithm would still work correctly
+A) Set matrix[i][0] and matrix[0][j] to zero immediately
 
-B) Some rows or columns might not be properly zeroed
+B) Set matrix[i][0] and matrix[0][j] to a special marker value
 
-C) The entire matrix would be zeroed incorrectly
+C) Set matrix[i][0] and matrix[0][j] to zero, but only after processing all cells
 
-D) The algorithm would enter an infinite loop  
+D) Set the entire row i and column j to zero immediately  
 
 ========== Answer ==========  
 
-**Answer**: C
+**Answer**: A
 
-If we don't separately track whether the first row/column originally contained zeros, we would incorrectly zero out rows and columns based on our markers. Since we're using the first row and column as markers, they might be set to zero during the marking phase even if they didn't originally contain zeros, leading to incorrect zeroing of the entire matrix.
+In the O(1) space approach, when we find a zero at matrix[i][j], we set matrix[i][0] and matrix[0][j] to zero as markers indicating that row i and column j need to be zeroed. However, we don't zero the entire row and column immediately, as that would interfere with our marking process.
 
 ========== Id ==========  
-243
+253
 
 ---
 
@@ -79,7 +79,7 @@ DECK INFO
 
 TARGET DECK: Data Structures and Algorithms::Leetcode::MNAB - Neetcode 150 and blind 75 - multi-author::Part XVIII - Math Geometry::Chapter 3 - Set Matrix Zeroes - Blind
 
-FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-XVIII-Math-Geometry::#Chapter-3-Set-Matrix-Zeroes-Blind::#243-Set-matrix-zeroes-details-summary-b
+FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-XVIII-Math-Geometry::#Chapter-3-Set-Matrix-Zeroes-Blind::#253-Set-matrix-zeroes-details-summary-b
 
 Tags:
 

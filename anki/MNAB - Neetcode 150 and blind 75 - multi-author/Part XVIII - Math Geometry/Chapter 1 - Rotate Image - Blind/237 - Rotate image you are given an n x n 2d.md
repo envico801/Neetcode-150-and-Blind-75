@@ -34,22 +34,22 @@ Output: [[15,13,2,5],[14,3,4,1],[12,6,8,9],[16,7,10,11]]
 
 ---
 
-Which approach is more suitable for rotating the matrix in-place (without allocating a new matrix)?
+If we consider a layer-by-layer rotation starting from the corners, which will be the next four elements to be rotated after the four corners?
 
-A) Swapping elements along the diagonal.
+![image](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/d01c9636-cfee-4f7c-3fbb-ddb051090300/public)
 
-B) Creating a new matrix and copying elements into it.
+A) 2nd element in first row, 2nd element in the first column, 2nd element in last row, 2nd element in last column
 
-C) Rotating each layer of the matrix starting from the outside and moving inwards.  
+B) 2nd element in first row, 2nd element in last column, second to last element in last row, second to last element in first column  
 
 ========== Answer ==========  
 
-**Answer**: C
+**Answer**: B
 
-Rotating each layer of the matrix starting from the outside and moving inwards is the most suitable way to rotate a matrix in-place. The other methods either don't result in a rotated matrix, or require additional space. There are other ways to rotate the matrix in-place, but this is the most intuitive and doesn't require math knowledge.
+After the corners, we shift one place inward or towards the center on each side. So, the next four elements to rotate are the 2nd element in the first row, the 2nd element in the last column, the second to last element in the last row, and the second to last element in the first column.
 
 ========== Id ==========  
-226
+237
 
 ---
 
@@ -57,7 +57,7 @@ DECK INFO
 
 TARGET DECK: Data Structures and Algorithms::Leetcode::MNAB - Neetcode 150 and blind 75 - multi-author::Part XVIII - Math Geometry::Chapter 1 - Rotate Image - Blind
 
-FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-XVIII-Math-Geometry::#Chapter-1-Rotate-Image-Blind::#226-Rotate-image-you-are-given-an-n-x-n-2d
+FILE TAGS: #DSA::#Leetcode::#MNAB-Neetcode-150-and-blind-75-multi-author::#Part-XVIII-Math-Geometry::#Chapter-1-Rotate-Image-Blind::#237-Rotate-image-you-are-given-an-n-x-n-2d
 
 Tags:
 
