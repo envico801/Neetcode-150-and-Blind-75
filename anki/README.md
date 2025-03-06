@@ -13476,6 +13476,717 @@ A:: =============================================
 The time complexity of this function is O(m\*n), where m is the number of rows and n is the number of columns in the input matrix. This is because each element is visited and processed exactly once. The space complexity is also O(m\*n), because in the worst case, if all elements are stored in the output list, it will contain m\*n elements.
 
 #### Chapter 3 - Set Matrix Zeroes - [Blind]
+
+Q:: =============================================  
+
+##### Set Matrix Zeroes
+
+<details><summary><b>📄 Description</b></summary><br>
+
+Given an `m x n` matrix of integers `matrix`, if an element is `0`, set its entire row and column to `0`'s.
+
+You must update the matrix _in-place_.
+
+**Follow up:** Could you solve it using `O(1)` space?
+
+**Example 1:**
+
+![](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/49ffd14e-b32b-4ed8-e0d0-9378e5eb9b00/public)
+
+```
+Input: matrix = [
+  [0,1],
+  [1,0]
+]
+
+Output: [
+  [0,0],
+  [0,0]
+]
+```
+
+**Example 2:**
+
+![](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/04d99cc8-e453-464d-888c-58d0a95daf00/public)
+
+```
+Input: matrix = [
+  [1,2,3],
+  [4,0,5],
+  [6,7,8]
+]
+
+Output: [
+  [1,0,3],
+  [0,0,0],
+  [6,0,8]
+]
+```
+
+**Constraints:**
+
+-   `1 <= matrix.length, matrix[0].length <= 100`
+-   `-2^31 <= matrix[i][j] <= (2^31) - 1`
+
+</details>
+
+___
+
+What is the time complexity of the brute force approach where you first mark all rows and columns to be zeroed in a separate data structure, then modify the matrix?
+
+A) O(m + n)
+
+B) O(m \* n)
+
+C) O(m \* n \* (m + n))
+
+D) O((m \* n)^2)
+
+A:: =============================================  
+
+**Answer**: C
+
+The brute force approach requires first scanning the entire matrix once to identify zero positions (O(m\*n)), and then for each zero found, we need to set the entire row and column to zero (O(m+n) for each zero). In the worst case, we might need to process many zeros, leading to a time complexity of O(m\*n\*(m+n)).
+
+Q:: =============================================  
+
+##### Set Matrix Zeroes
+
+<details><summary><b>📄 Description</b></summary><br>
+
+Given an `m x n` matrix of integers `matrix`, if an element is `0`, set its entire row and column to `0`'s.
+
+You must update the matrix _in-place_.
+
+**Follow up:** Could you solve it using `O(1)` space?
+
+**Example 1:**
+
+![](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/49ffd14e-b32b-4ed8-e0d0-9378e5eb9b00/public)
+
+```
+Input: matrix = [
+  [0,1],
+  [1,0]
+]
+
+Output: [
+  [0,0],
+  [0,0]
+]
+```
+
+**Example 2:**
+
+![](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/04d99cc8-e453-464d-888c-58d0a95daf00/public)
+
+```
+Input: matrix = [
+  [1,2,3],
+  [4,0,5],
+  [6,7,8]
+]
+
+Output: [
+  [1,0,3],
+  [0,0,0],
+  [6,0,8]
+]
+```
+
+**Constraints:**
+
+-   `1 <= matrix.length, matrix[0].length <= 100`
+-   `-2^31 <= matrix[i][j] <= (2^31) - 1`
+
+</details>
+
+___
+
+If we use two separate arrays to track which rows and columns need to be zeroed, what would be the space complexity?
+
+A) O(1)
+
+B) O(m)
+
+C) O(n)
+
+D) O(m + n)
+
+A:: =============================================  
+
+**Answer**: D
+
+We would need one array of size m to track which rows contain zeros and another array of size n to track which columns contain zeros. This gives us a total space complexity of O(m + n).
+
+Q:: =============================================  
+
+##### Set Matrix Zeroes
+
+<details><summary><b>📄 Description</b></summary><br>
+
+Given an `m x n` matrix of integers `matrix`, if an element is `0`, set its entire row and column to `0`'s.
+
+You must update the matrix _in-place_.
+
+**Follow up:** Could you solve it using `O(1)` space?
+
+**Example 1:**
+
+![](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/49ffd14e-b32b-4ed8-e0d0-9378e5eb9b00/public)
+
+```
+Input: matrix = [
+  [0,1],
+  [1,0]
+]
+
+Output: [
+  [0,0],
+  [0,0]
+]
+```
+
+**Example 2:**
+
+![](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/04d99cc8-e453-464d-888c-58d0a95daf00/public)
+
+```
+Input: matrix = [
+  [1,2,3],
+  [4,0,5],
+  [6,7,8]
+]
+
+Output: [
+  [1,0,3],
+  [0,0,0],
+  [6,0,8]
+]
+```
+
+**Constraints:**
+
+-   `1 <= matrix.length, matrix[0].length <= 100`
+-   `-2^31 <= matrix[i][j] <= (2^31) - 1`
+
+</details>
+
+___
+
+What constraint makes this problem challenging?
+
+A) The requirement to update the matrix in-place
+
+B) The large range of possible values in the matrix
+
+C) The potential size of the matrix (up to 100x100)
+
+D) The need for O(1) time complexity
+
+A:: =============================================  
+
+**Answer**: A
+
+The main challenge is that we need to update the matrix in-place, and the follow-up asks for an O(1) space solution. This constraint makes it tricky because we need a way to mark which rows and columns should be zeroed without using additional space.
+
+Q:: =============================================  
+
+##### Set Matrix Zeroes
+
+<details><summary><b>📄 Description</b></summary><br>
+
+Given an `m x n` matrix of integers `matrix`, if an element is `0`, set its entire row and column to `0`'s.
+
+You must update the matrix _in-place_.
+
+**Follow up:** Could you solve it using `O(1)` space?
+
+**Example 1:**
+
+![](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/49ffd14e-b32b-4ed8-e0d0-9378e5eb9b00/public)
+
+```
+Input: matrix = [
+  [0,1],
+  [1,0]
+]
+
+Output: [
+  [0,0],
+  [0,0]
+]
+```
+
+**Example 2:**
+
+![](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/04d99cc8-e453-464d-888c-58d0a95daf00/public)
+
+```
+Input: matrix = [
+  [1,2,3],
+  [4,0,5],
+  [6,7,8]
+]
+
+Output: [
+  [1,0,3],
+  [0,0,0],
+  [6,0,8]
+]
+```
+
+**Constraints:**
+
+-   `1 <= matrix.length, matrix[0].length <= 100`
+-   `-2^31 <= matrix[i][j] <= (2^31) - 1`
+
+</details>
+
+___
+
+When trying to use O(1) extra space, which of the following is a valid approach?
+
+A) Use recursive algorithms
+
+B) Use the first row and first column of the matrix itself as markers
+
+C) Sort each row and column first
+
+D) Convert the matrix to a graph structure
+
+A:: =============================================  
+
+**Answer**: B
+
+The optimal approach for O(1) space is to use the first row and first column of the matrix itself to mark which rows and columns should be zeroed. This clever technique avoids using additional data structures while still tracking all necessary information.
+
+Q:: =============================================  
+
+##### Set Matrix Zeroes
+
+<details><summary><b>📄 Description</b></summary><br>
+
+Given an `m x n` matrix of integers `matrix`, if an element is `0`, set its entire row and column to `0`'s.
+
+You must update the matrix _in-place_.
+
+**Follow up:** Could you solve it using `O(1)` space?
+
+**Example 1:**
+
+![](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/49ffd14e-b32b-4ed8-e0d0-9378e5eb9b00/public)
+
+```
+Input: matrix = [
+  [0,1],
+  [1,0]
+]
+
+Output: [
+  [0,0],
+  [0,0]
+]
+```
+
+**Example 2:**
+
+![](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/04d99cc8-e453-464d-888c-58d0a95daf00/public)
+
+```
+Input: matrix = [
+  [1,2,3],
+  [4,0,5],
+  [6,7,8]
+]
+
+Output: [
+  [1,0,3],
+  [0,0,0],
+  [6,0,8]
+]
+```
+
+**Constraints:**
+
+-   `1 <= matrix.length, matrix[0].length <= 100`
+-   `-2^31 <= matrix[i][j] <= (2^31) - 1`
+
+</details>
+
+___
+
+If you use the first row and column as markers, what special case must you handle?
+
+A) Negative numbers in the matrix
+
+B) Whether the first row and column themselves contain zeros
+
+C) Matrices with only one row or column
+
+D) All of the above
+
+A:: =============================================  
+
+**Answer**: B
+
+When using the first row and column as markers, we need to separately track whether the first row and column themselves originally contained zeros. Otherwise, we won't know if they should be zeroed at the end because they're also being used as markers for other rows and columns.
+
+Q:: =============================================  
+
+##### Set Matrix Zeroes
+
+<details><summary><b>📄 Description</b></summary><br>
+
+Given an `m x n` matrix of integers `matrix`, if an element is `0`, set its entire row and column to `0`'s.
+
+You must update the matrix _in-place_.
+
+**Follow up:** Could you solve it using `O(1)` space?
+
+**Example 1:**
+
+![](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/49ffd14e-b32b-4ed8-e0d0-9378e5eb9b00/public)
+
+```
+Input: matrix = [
+  [0,1],
+  [1,0]
+]
+
+Output: [
+  [0,0],
+  [0,0]
+]
+```
+
+**Example 2:**
+
+![](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/04d99cc8-e453-464d-888c-58d0a95daf00/public)
+
+```
+Input: matrix = [
+  [1,2,3],
+  [4,0,5],
+  [6,7,8]
+]
+
+Output: [
+  [1,0,3],
+  [0,0,0],
+  [6,0,8]
+]
+```
+
+**Constraints:**
+
+-   `1 <= matrix.length, matrix[0].length <= 100`
+-   `-2^31 <= matrix[i][j] <= (2^31) - 1`
+
+</details>
+
+___
+
+What is the time complexity of the optimal solution with O(1) space?
+
+A) O(m \* n)
+
+B) O(m + n)
+
+C) O(m \* n \* (m + n))
+
+D) O(log(m \* n))
+
+A:: =============================================  
+
+**Answer**: A
+
+The optimal O(1) space solution still requires scanning the entire matrix twice: once to mark rows and columns that need to be zeroed (using the first row and column as markers), and once to actually perform the zeroing operation. Both passes are O(m\*n), so the overall time complexity is O(m\*n).
+
+Q:: =============================================  
+
+##### Set Matrix Zeroes
+
+<details><summary><b>📄 Description</b></summary><br>
+
+Given an `m x n` matrix of integers `matrix`, if an element is `0`, set its entire row and column to `0`'s.
+
+You must update the matrix _in-place_.
+
+**Follow up:** Could you solve it using `O(1)` space?
+
+**Example 1:**
+
+![](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/49ffd14e-b32b-4ed8-e0d0-9378e5eb9b00/public)
+
+```
+Input: matrix = [
+  [0,1],
+  [1,0]
+]
+
+Output: [
+  [0,0],
+  [0,0]
+]
+```
+
+**Example 2:**
+
+![](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/04d99cc8-e453-464d-888c-58d0a95daf00/public)
+
+```
+Input: matrix = [
+  [1,2,3],
+  [4,0,5],
+  [6,7,8]
+]
+
+Output: [
+  [1,0,3],
+  [0,0,0],
+  [6,0,8]
+]
+```
+
+**Constraints:**
+
+-   `1 <= matrix.length, matrix[0].length <= 100`
+-   `-2^31 <= matrix[i][j] <= (2^31) - 1`
+
+</details>
+
+___
+
+Which of these steps is NOT part of the O(1) space solution?
+
+A) Check if the first row and column need to be zeroed
+
+B) Use the first row and column as markers for other cells
+
+C) Create temporary arrays to store which rows and columns contain zeros
+
+D) Process the matrix except the first row and column, then handle those separately
+
+A:: =============================================  
+
+**Answer**: C
+
+Creating temporary arrays would require O(m+n) extra space, which violates the O(1) space constraint. The O(1) solution instead uses the first row and column of the matrix itself as markers, avoiding any additional data structures.
+
+Q:: =============================================  
+
+##### Set Matrix Zeroes
+
+<details><summary><b>📄 Description</b></summary><br>
+
+Given an `m x n` matrix of integers `matrix`, if an element is `0`, set its entire row and column to `0`'s.
+
+You must update the matrix _in-place_.
+
+**Follow up:** Could you solve it using `O(1)` space?
+
+**Example 1:**
+
+![](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/49ffd14e-b32b-4ed8-e0d0-9378e5eb9b00/public)
+
+```
+Input: matrix = [
+  [0,1],
+  [1,0]
+]
+
+Output: [
+  [0,0],
+  [0,0]
+]
+```
+
+**Example 2:**
+
+![](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/04d99cc8-e453-464d-888c-58d0a95daf00/public)
+
+```
+Input: matrix = [
+  [1,2,3],
+  [4,0,5],
+  [6,7,8]
+]
+
+Output: [
+  [1,0,3],
+  [0,0,0],
+  [6,0,8]
+]
+```
+
+**Constraints:**
+
+-   `1 <= matrix.length, matrix[0].length <= 100`
+-   `-2^31 <= matrix[i][j] <= (2^31) - 1`
+
+</details>
+
+___
+
+What would happen if we don't separately track whether the first row/column originally contained zeros?
+
+A) The algorithm would still work correctly
+
+B) Some rows or columns might not be properly zeroed
+
+C) The entire matrix would be zeroed incorrectly
+
+D) The algorithm would enter an infinite loop
+
+A:: =============================================  
+
+**Answer**: C
+
+If we don't separately track whether the first row/column originally contained zeros, we would incorrectly zero out rows and columns based on our markers. Since we're using the first row and column as markers, they might be set to zero during the marking phase even if they didn't originally contain zeros, leading to incorrect zeroing of the entire matrix.
+
+Q:: =============================================  
+
+##### Set Matrix Zeroes
+
+<details><summary><b>📄 Description</b></summary><br>
+
+Given an `m x n` matrix of integers `matrix`, if an element is `0`, set its entire row and column to `0`'s.
+
+You must update the matrix _in-place_.
+
+**Follow up:** Could you solve it using `O(1)` space?
+
+**Example 1:**
+
+![](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/49ffd14e-b32b-4ed8-e0d0-9378e5eb9b00/public)
+
+```
+Input: matrix = [
+  [0,1],
+  [1,0]
+]
+
+Output: [
+  [0,0],
+  [0,0]
+]
+```
+
+**Example 2:**
+
+![](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/04d99cc8-e453-464d-888c-58d0a95daf00/public)
+
+```
+Input: matrix = [
+  [1,2,3],
+  [4,0,5],
+  [6,7,8]
+]
+
+Output: [
+  [1,0,3],
+  [0,0,0],
+  [6,0,8]
+]
+```
+
+**Constraints:**
+
+-   `1 <= matrix.length, matrix[0].length <= 100`
+-   `-2^31 <= matrix[i][j] <= (2^31) - 1`
+
+</details>
+
+___
+
+If a cell matrix[i][j] is zero, what action must be taken in the O(1) space approach?
+
+A) Set matrix[i][0] and matrix[0][j] to zero immediately
+
+B) Set matrix[i][0] and matrix[0][j] to a special marker value
+
+C) Set matrix[i][0] and matrix[0][j] to zero, but only after processing all cells
+
+D) Set the entire row i and column j to zero immediately
+
+A:: =============================================  
+
+**Answer**: A
+
+In the O(1) space approach, when we find a zero at matrix[i][j], we set matrix[i][0] and matrix[0][j] to zero as markers indicating that row i and column j need to be zeroed. However, we don't zero the entire row and column immediately, as that would interfere with our marking process.
+
+Q:: =============================================  
+
+##### Set Matrix Zeroes
+
+<details><summary><b>📄 Description</b></summary><br>
+
+Given an `m x n` matrix of integers `matrix`, if an element is `0`, set its entire row and column to `0`'s.
+
+You must update the matrix _in-place_.
+
+**Follow up:** Could you solve it using `O(1)` space?
+
+**Example 1:**
+
+![](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/49ffd14e-b32b-4ed8-e0d0-9378e5eb9b00/public)
+
+```
+Input: matrix = [
+  [0,1],
+  [1,0]
+]
+
+Output: [
+  [0,0],
+  [0,0]
+]
+```
+
+**Example 2:**
+
+![](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/04d99cc8-e453-464d-888c-58d0a95daf00/public)
+
+```
+Input: matrix = [
+  [1,2,3],
+  [4,0,5],
+  [6,7,8]
+]
+
+Output: [
+  [1,0,3],
+  [0,0,0],
+  [6,0,8]
+]
+```
+
+**Constraints:**
+
+-   `1 <= matrix.length, matrix[0].length <= 100`
+-   `-2^31 <= matrix[i][j] <= (2^31) - 1`
+
+</details>
+
+___
+
+What is the main insight for achieving the O(1) space solution?
+
+A) Using recursion instead of iteration
+
+B) Using binary search to find zeros
+
+C) Using the matrix itself as the auxiliary space
+
+D) Converting the problem to a graph traversal problem
+
+A:: =============================================  
+
+**Answer**: C
+
+The key insight for the O(1) space solution is to use the matrix itself as auxiliary space - specifically using the first row and column as markers for which other rows and columns should be zeroed. This eliminates the need for additional data structures while still keeping track of all necessary information.
+
 #### Chapter 4 - Happy Number
 #### Chapter 5 - Plus One
 #### Chapter 6 - Pow(x, n)
