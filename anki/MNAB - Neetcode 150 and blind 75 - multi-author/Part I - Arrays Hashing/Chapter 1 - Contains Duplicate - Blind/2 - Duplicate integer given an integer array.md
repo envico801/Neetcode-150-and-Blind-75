@@ -8,6 +8,7 @@ Given an integer array `nums`, return `true` if any value appears **more than on
 
 ```
 Input: nums = [1, 2, 3, 3]
+
 Output: true
 ```
 
@@ -15,6 +16,7 @@ Output: true
 
 ```
 Input: nums = [1, 2, 3, 4]
+
 Output: false
 ```
 

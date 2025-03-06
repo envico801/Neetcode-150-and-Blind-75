@@ -18,6 +18,7 @@ A solution that runs in `O(n)` time is trivial, can you write an algorithm that 
 
 ```
 Input: nums = [3,4,5,6,1,2], target = 1
+
 Output: 4
 ```
 
@@ -25,6 +26,7 @@ Output: 4
 
 ```
 Input: nums = [3,5,6,0,1,2], target = 4
+
 Output: -1
 ```
 
@@ -43,8 +45,10 @@ To summarize, the below code will solve this problem using an augmented binary s
 ```python
 def search(self, nums: List[int], target: int) -> int:
     left, right = 0, len(nums) - 1
+
     while left <= right:
         mid = (left + right) // 2
+
         if nums[mid] >= nums[0] and target < nums[0]:
             # We're in left sorted array
             # But target is in right sorted array
@@ -60,6 +64,7 @@ def search(self, nums: List[int], target: int) -> int:
             right = mid - 1
         else:
             return mid
+
         return -1
 ```
 

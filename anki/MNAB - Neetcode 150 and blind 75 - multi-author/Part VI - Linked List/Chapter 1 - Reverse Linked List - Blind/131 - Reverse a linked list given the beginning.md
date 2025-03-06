@@ -8,6 +8,7 @@ Given the beginning of a singly linked list `head`, reverse the list, and return
 
 ```
 Input: head = [0,1,2,3]
+
 Output: [3,2,1,0]
 ```
 
@@ -15,6 +16,7 @@ Output: [3,2,1,0]
 
 ```
 Input: head = []
+
 Output: []
 ```
 
@@ -34,9 +36,11 @@ What is the time and space complexity of the optimal approach?
 #     def __init__(self, x):
 #         self.val = x
 #         self.next = None
+
 class Solution:
     def reverseList(self, head: ListNode) -> ListNode:
         prev, curr = None, head
+
         while curr:
             temp = curr.next
             curr.next = prev

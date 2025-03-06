@@ -42,6 +42,7 @@ class Solution:
         # Separate out the start and the end timings and sort them individually.
         start = sorted([i[0] for i in intervals])
         end = sorted(i[1] for i in intervals)
+
         s = e = 0
         used_rooms, res = 0, 0
         while s < len(intervals):
@@ -54,6 +55,7 @@ class Solution:
                 used_rooms -= 1
                 e += 1
             res = max(res, used_rooms)
+
         return res
 ```
 

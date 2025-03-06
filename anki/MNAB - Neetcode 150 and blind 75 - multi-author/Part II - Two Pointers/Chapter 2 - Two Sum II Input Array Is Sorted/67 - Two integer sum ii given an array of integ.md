@@ -14,6 +14,7 @@ Your solution must use `O(1)` additional space.
 
 ```
 Input: numbers = [1,2,3,4], target = 3
+
 Output: [1,2]
 ```
 

@@ -292,6 +292,17 @@
 | [233](#id233) | [Spiral matrix given an m x n matrix r](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%202%20-%20Spiral%20Matrix%20-%20Blind/233%20-%20Spiral%20matrix%20given%20an%20m%20x%20n%20matrix%20r.md) | 18 | 2 |
 | [234](#id234) | [Spiral matrix given an m x n matrix r](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%202%20-%20Spiral%20Matrix%20-%20Blind/234%20-%20Spiral%20matrix%20given%20an%20m%20x%20n%20matrix%20r.md) | 18 | 2 |
 | [235](#id235) | [Spiral matrix given an m x n matrix r](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%202%20-%20Spiral%20Matrix%20-%20Blind/235%20-%20Spiral%20matrix%20given%20an%20m%20x%20n%20matrix%20r.md) | 18 | 2 |
+| **-** | **Math Geometry > Set Matrix Zeroes** | **18** | **3** |
+| [236](#id236) | [Set matrix zeroes details summary b](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%203%20-%20Set%20Matrix%20Zeroes%20-%20Blind/236%20-%20Set%20matrix%20zeroes%20details%20summary%20b.md) | 18 | 3 |
+| [237](#id237) | [Set matrix zeroes details summary b](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%203%20-%20Set%20Matrix%20Zeroes%20-%20Blind/237%20-%20Set%20matrix%20zeroes%20details%20summary%20b.md) | 18 | 3 |
+| [238](#id238) | [Set matrix zeroes details summary b](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%203%20-%20Set%20Matrix%20Zeroes%20-%20Blind/238%20-%20Set%20matrix%20zeroes%20details%20summary%20b.md) | 18 | 3 |
+| [239](#id239) | [Set matrix zeroes details summary b](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%203%20-%20Set%20Matrix%20Zeroes%20-%20Blind/239%20-%20Set%20matrix%20zeroes%20details%20summary%20b.md) | 18 | 3 |
+| [240](#id240) | [Set matrix zeroes details summary b](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%203%20-%20Set%20Matrix%20Zeroes%20-%20Blind/240%20-%20Set%20matrix%20zeroes%20details%20summary%20b.md) | 18 | 3 |
+| [241](#id241) | [Set matrix zeroes details summary b](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%203%20-%20Set%20Matrix%20Zeroes%20-%20Blind/241%20-%20Set%20matrix%20zeroes%20details%20summary%20b.md) | 18 | 3 |
+| [242](#id242) | [Set matrix zeroes details summary b](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%203%20-%20Set%20Matrix%20Zeroes%20-%20Blind/242%20-%20Set%20matrix%20zeroes%20details%20summary%20b.md) | 18 | 3 |
+| [243](#id243) | [Set matrix zeroes details summary b](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%203%20-%20Set%20Matrix%20Zeroes%20-%20Blind/243%20-%20Set%20matrix%20zeroes%20details%20summary%20b.md) | 18 | 3 |
+| [244](#id244) | [Set matrix zeroes details summary b](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%203%20-%20Set%20Matrix%20Zeroes%20-%20Blind/244%20-%20Set%20matrix%20zeroes%20details%20summary%20b.md) | 18 | 3 |
+| [245](#id245) | [Set matrix zeroes details summary b](./MNAB%20-%20Neetcode%20150%20and%20blind%2075%20-%20multi-author/Part%20XVIII%20-%20Math%20Geometry/Chapter%203%20-%20Set%20Matrix%20Zeroes%20-%20Blind/245%20-%20Set%20matrix%20zeroes%20details%20summary%20b.md) | 18 | 3 |
 
 ### Part I - Arrays & Hashing
 
@@ -13542,8 +13553,9 @@ C) O(m \* n \* (m + n))
 
 D) O((m \* n)^2)
 
-A:: =============================================  
+###### ID236
 
+A:: =============================================  
 **Answer**: C
 
 The brute force approach requires first scanning the entire matrix once to identify zero positions (O(m\*n)), and then for each zero found, we need to set the entire row and column to zero (O(m+n) for each zero). In the worst case, we might need to process many zeros, leading to a time complexity of O(m\*n\*(m+n)).
@@ -13613,8 +13625,9 @@ C) O(n)
 
 D) O(m + n)
 
-A:: =============================================  
+###### ID237
 
+A:: =============================================  
 **Answer**: D
 
 We would need one array of size m to track which rows contain zeros and another array of size n to track which columns contain zeros. This gives us a total space complexity of O(m + n).
@@ -13684,8 +13697,9 @@ C) The potential size of the matrix (up to 100x100)
 
 D) The need for O(1) time complexity
 
-A:: =============================================  
+###### ID238
 
+A:: =============================================  
 **Answer**: A
 
 The main challenge is that we need to update the matrix in-place, and the follow-up asks for an O(1) space solution. This constraint makes it tricky because we need a way to mark which rows and columns should be zeroed without using additional space.
@@ -13755,8 +13769,9 @@ C) Sort each row and column first
 
 D) Convert the matrix to a graph structure
 
-A:: =============================================  
+###### ID239
 
+A:: =============================================  
 **Answer**: B
 
 The optimal approach for O(1) space is to use the first row and first column of the matrix itself to mark which rows and columns should be zeroed. This clever technique avoids using additional data structures while still tracking all necessary information.
@@ -13826,8 +13841,9 @@ C) Matrices with only one row or column
 
 D) All of the above
 
-A:: =============================================  
+###### ID240
 
+A:: =============================================  
 **Answer**: B
 
 When using the first row and column as markers, we need to separately track whether the first row and column themselves originally contained zeros. Otherwise, we won't know if they should be zeroed at the end because they're also being used as markers for other rows and columns.
@@ -13897,8 +13913,9 @@ C) O(m \* n \* (m + n))
 
 D) O(log(m \* n))
 
-A:: =============================================  
+###### ID241
 
+A:: =============================================  
 **Answer**: A
 
 The optimal O(1) space solution still requires scanning the entire matrix twice: once to mark rows and columns that need to be zeroed (using the first row and column as markers), and once to actually perform the zeroing operation. Both passes are O(m\*n), so the overall time complexity is O(m\*n).
@@ -13968,8 +13985,9 @@ C) Create temporary arrays to store which rows and columns contain zeros
 
 D) Process the matrix except the first row and column, then handle those separately
 
-A:: =============================================  
+###### ID242
 
+A:: =============================================  
 **Answer**: C
 
 Creating temporary arrays would require O(m+n) extra space, which violates the O(1) space constraint. The O(1) solution instead uses the first row and column of the matrix itself as markers, avoiding any additional data structures.
@@ -14039,8 +14057,9 @@ C) The entire matrix would be zeroed incorrectly
 
 D) The algorithm would enter an infinite loop
 
-A:: =============================================  
+###### ID243
 
+A:: =============================================  
 **Answer**: C
 
 If we don't separately track whether the first row/column originally contained zeros, we would incorrectly zero out rows and columns based on our markers. Since we're using the first row and column as markers, they might be set to zero during the marking phase even if they didn't originally contain zeros, leading to incorrect zeroing of the entire matrix.
@@ -14110,8 +14129,9 @@ C) Set matrix[i][0] and matrix[0][j] to zero, but only after processing all cell
 
 D) Set the entire row i and column j to zero immediately
 
-A:: =============================================  
+###### ID244
 
+A:: =============================================  
 **Answer**: A
 
 In the O(1) space approach, when we find a zero at matrix[i][j], we set matrix[i][0] and matrix[0][j] to zero as markers indicating that row i and column j need to be zeroed. However, we don't zero the entire row and column immediately, as that would interfere with our marking process.
@@ -14181,8 +14201,9 @@ C) Using the matrix itself as the auxiliary space
 
 D) Converting the problem to a graph traversal problem
 
-A:: =============================================  
+###### ID245
 
+A:: =============================================  
 **Answer**: C
 
 The key insight for the O(1) space solution is to use the matrix itself as auxiliary space - specifically using the first row and column as markers for which other rows and columns should be zeroed. This eliminates the need for additional data structures while still keeping track of all necessary information.

@@ -10,6 +10,7 @@ A **substring** is a contiguous sequence of characters within a string.
 
 ```
 Input: s = "zxyzxyz"
+
 Output: 3
 ```
 
@@ -19,6 +20,7 @@ Explanation: The string "xyz" is the longest without duplicate characters.
 
 ```
 Input: s = "xxxx"
+
 Output: 1
 ```
 
@@ -37,6 +39,7 @@ class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
         char_set = set()
         l, max_len = 0, 0
+
         for r in range(len(s)):
             while s[r] in char_set:
                 # Repeating char detected, shrink window

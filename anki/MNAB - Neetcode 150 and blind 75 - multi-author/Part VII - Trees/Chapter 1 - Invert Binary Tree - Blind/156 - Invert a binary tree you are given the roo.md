@@ -10,6 +10,7 @@ You are given the root of a binary tree `root`. Invert the binary tree and retur
 
 ```
 Input: root = [1,2,3,4,5,6,7]
+
 Output: [1,3,2,7,6,5,4]
 ```
 
@@ -19,6 +20,7 @@ Output: [1,3,2,7,6,5,4]
 
 ```
 Input: root = [3,2,1]
+
 Output: [3,1,2]
 ```
 
@@ -26,6 +28,7 @@ Output: [3,1,2]
 
 ```
 Input: root = []
+
 Output: []
 ```
 

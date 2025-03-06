@@ -10,6 +10,7 @@ The output should _not_ contain any duplicate triplets. You may return the outpu
 
 ```
 Input: nums = [-1,0,1,2,-1,-4]
+
 Output: [[-1,-1,2],[-1,0,1]]
 ```
 
@@ -27,6 +28,7 @@ The distinct triplets are `[-1,0,1]` and `[-1,-1,2]`.
 
 ```
 Input: nums = [0,1,1]
+
 Output: []
 ```
 
@@ -36,6 +38,7 @@ Explanation: The only possible triplet does not sum up to 0.
 
 ```
 Input: nums = [0,0,0]
+
 Output: [[0,0,0]]
 ```
 

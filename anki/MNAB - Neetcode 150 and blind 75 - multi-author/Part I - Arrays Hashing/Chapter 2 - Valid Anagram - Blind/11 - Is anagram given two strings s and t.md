@@ -10,6 +10,7 @@ An **anagram** is a string that contains the exact same characters as another st
 
 ```
 Input: s = "racecar", t = "carrace"
+
 Output: true
 ```
 
@@ -17,6 +18,7 @@ Output: true
 
 ```
 Input: s = "jar", t = "jam"
+
 Output: false
 ```
 

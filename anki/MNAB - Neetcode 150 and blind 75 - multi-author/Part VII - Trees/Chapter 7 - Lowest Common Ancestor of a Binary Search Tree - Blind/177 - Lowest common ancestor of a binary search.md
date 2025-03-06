@@ -53,6 +53,7 @@ Given the below Python function to solve the problem, what are the time and spac
 class Solution:
     def lowestCommonAncestor(self, root: 'TreeNode', p: 'TreeNode', q: 'TreeNode') -> 'TreeNode':
         cur = root
+
         while cur:
             if p.val > cur.val and q.val > cur.val:
                 cur = cur.right

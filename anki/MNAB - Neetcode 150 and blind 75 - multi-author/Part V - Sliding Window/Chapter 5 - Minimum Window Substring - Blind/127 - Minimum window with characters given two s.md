@@ -10,6 +10,7 @@ You may assume that the correct output is always unique.
 
 ```
 Input: s = "OUZODYXAZV", t = "XYZ"
+
 Output: "YXAZ"
 ```
 
@@ -19,6 +20,7 @@ Explanation: `"YXAZ"` is the shortest substring that includes `"X"`, `"Y"`, and 
 
 ```
 Input: s = "xyz", t = "xyz"
+
 Output: "xyz"
 ```
 
@@ -26,6 +28,7 @@ Output: "xyz"
 
 ```
 Input: s = "x", t = "xy"
+
 Output: ""
 ```
 
@@ -45,17 +48,21 @@ Given that the input strings only consist of lowercase or uppercase English char
 class Solution:
     def minWindow(self, s: str, t: str) -> str:
         if t == '': return ''
+
         countT, window = {}, {}
         for c in t:
             countT[c] = 1 + countT.get(c, 0)
+
         have, need = 0, len(countT)
         res, resLen = [-1, -1], float('infinity')
         l = 0
         for r in range(len(s)):
             c = s[r]
             window[c] = 1 + window.get(c, 0)
+
             if c in countT and window[c] == countT[c]:
                 have += 1
+
             while have == need:
                 if (r - l + 1) < resLen:
                     res = [l, r]

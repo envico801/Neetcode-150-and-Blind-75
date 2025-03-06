@@ -8,6 +8,7 @@ Given the beginning of a singly linked list `head`, reverse the list, and return
 
 ```
 Input: head = [0,1,2,3]
+
 Output: [3,2,1,0]
 ```
 
@@ -15,6 +16,7 @@ Output: [3,2,1,0]
 
 ```
 Input: head = []
+
 Output: []
 ```
 

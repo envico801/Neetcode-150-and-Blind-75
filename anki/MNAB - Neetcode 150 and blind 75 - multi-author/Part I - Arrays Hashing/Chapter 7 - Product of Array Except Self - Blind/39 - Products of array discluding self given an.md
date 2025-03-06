@@ -12,6 +12,7 @@ Follow-up: Could you solve it in `O(n)` time without using the division operatio
 
 ```
 Input: nums = [1,2,4,6]
+
 Output: [48,24,12,8]
 ```
 
@@ -19,6 +20,7 @@ Output: [48,24,12,8]
 
 ```
 Input: nums = [-1,0,1,2,3]
+
 Output: [0,-6,0,0,0]
 ```
 

@@ -14,6 +14,7 @@ The new list should be made up of nodes from `list1` and `list2`.
 
 ```
 Input: list1 = [1,2,4], list2 = [1,3,5]
+
 Output: [1,1,2,3,4,5]
 ```
 
@@ -21,6 +22,7 @@ Output: [1,1,2,3,4,5]
 
 ```
 Input: list1 = [], list2 = [1,2]
+
 Output: [1,2]
 ```
 
@@ -28,6 +30,7 @@ Output: [1,2]
 
 ```
 Input: list1 = [], list2 = []
+
 Output: []
 ```
 
@@ -46,6 +49,7 @@ class Solution:
     def mergeTwoLists(self, l1: ListNode, l2: ListNode) -> ListNode:
         dummy = ListNode(0)
         current = dummy
+
         while l1 and l2:
             if l1.val <= l2.val:
                 current.next = l1
@@ -54,6 +58,7 @@ class Solution:
                 current.next = l2
                 l2 = l2.next
             current = current.next
+
         current.next = l1 if l1 is not None else l2
         return dummy.next
 ```

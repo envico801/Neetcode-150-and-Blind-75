@@ -40,9 +40,11 @@ What is the overall time and space complexity of the optimal solution for this p
 class Solution:
     def canAttendMeetings(self, intervals: List[List[int]]) -> bool:
         intervals.sort() # Sort by start times
+
         for i in range(1, len(intervals)):
             if intervals[i][0] < intervals[i-1][1]: # Check for overlap
                 return False # Conflict found
+
         return True # No conflict found
 ```
 

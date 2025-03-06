@@ -18,6 +18,7 @@ A solution that runs in `O(n)` time is trivial, can you write an algorithm that 
 
 ```
 Input: nums = [3,4,5,6,1,2]
+
 Output: 1
 ```
 
@@ -25,6 +26,7 @@ Output: 1
 
 ```
 Input: nums = [4,5,0,1,2,3]
+
 Output: 0
 ```
 
@@ -32,6 +34,7 @@ Output: 0
 
 ```
 Input: nums = [4,5,6,7]
+
 Output: 4
 ```
 
@@ -49,9 +52,11 @@ To summarize, the below code will solve this problem using an augmented binary s
 def findMin(self, nums: List[int]) -> int:
     res = nums[0]
     l, r = 0, len(nums) - 1
+
     while l <= r:
         if nums[l] < nums[r]:
             return min(res, nums[l])
+
         m = (l + r) // 2
         res = min(res, nums[m])
         if nums[m] >= nums[l]:

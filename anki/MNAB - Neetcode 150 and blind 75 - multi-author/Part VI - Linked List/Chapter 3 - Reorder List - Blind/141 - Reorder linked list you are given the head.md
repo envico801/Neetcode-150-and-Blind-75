@@ -22,6 +22,7 @@ You may not modify the values in the list's nodes, but instead you must reorder 
 
 ```
 Input: head = [2,4,6,8]
+
 Output: [2,8,4,6]
 ```
 
@@ -29,6 +30,7 @@ Output: [2,8,4,6]
 
 ```
 Input: head = [2,4,6,8,10]
+
 Output: [2,10,4,8,6]
 ```
 
@@ -48,6 +50,7 @@ Consider the following code for reordering a linked list. What is its time compl
 #     def __init__(self, x):
 #         self.val = x
 #         self.next = None
+
 class Solution:
     def reorderList(self, head: ListNode) -> None:
         # find middle
@@ -55,6 +58,7 @@ class Solution:
         while fast and fast.next:
             slow = slow.next
             fast = fast.next.next
+
         # reverse second half
         second = slow.next
         prev = slow.next = None
@@ -63,6 +67,7 @@ class Solution:
             second.next = prev
             prev = second
             second = tmp
+
         # merge two halves
         first, second = head, prev
         while second:

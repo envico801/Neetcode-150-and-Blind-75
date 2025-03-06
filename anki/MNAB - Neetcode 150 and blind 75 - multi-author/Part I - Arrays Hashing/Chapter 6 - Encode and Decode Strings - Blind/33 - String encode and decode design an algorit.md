@@ -10,6 +10,7 @@ Please implement `encode` and `decode`
 
 ```
 Input: ["neet","code","love","you"]
+
 Output:["neet","code","love","you"]
 ```
 
@@ -17,6 +18,7 @@ Output:["neet","code","love","you"]
 
 ```
 Input: ["we","say",":","yes"]
+
 Output: ["we","say",":","yes"]
 ```
 

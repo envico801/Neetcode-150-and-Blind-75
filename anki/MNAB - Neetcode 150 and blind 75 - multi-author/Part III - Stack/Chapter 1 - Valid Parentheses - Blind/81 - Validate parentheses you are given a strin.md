@@ -18,6 +18,7 @@ Return `true` if `s` is a valid string, and `false` otherwise.
 
 ```
 Input: s = "[]"
+
 Output: true
 ```
 
@@ -25,6 +26,7 @@ Output: true
 
 ```
 Input: s = "([{}])"
+
 Output: true
 ```
 
@@ -32,6 +34,7 @@ Output: true
 
 ```
 Input: s = "[(])"
+
 Output: false
 ```
 

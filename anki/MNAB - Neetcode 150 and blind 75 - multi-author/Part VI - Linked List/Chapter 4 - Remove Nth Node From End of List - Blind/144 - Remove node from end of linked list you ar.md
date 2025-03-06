@@ -10,6 +10,7 @@ Remove the `nth` node from the end of the list and return the beginning of the l
 
 ```
 Input: head = [1,2,3,4], n = 2
+
 Output: [1,2,4]
 ```
 
@@ -17,6 +18,7 @@ Output: [1,2,4]
 
 ```
 Input: head = [5], n = 1
+
 Output: []
 ```
 
@@ -24,6 +26,7 @@ Output: []
 
 ```
 Input: head = [1,2], n = 2
+
 Output: [2]
 ```
 
